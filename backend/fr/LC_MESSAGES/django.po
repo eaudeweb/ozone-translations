@@ -20,7 +20,7 @@ msgstr ""
 
 #: ozone/core/api/views.py:301
 msgid "Non custom blends cannot be modified."
-msgstr "XXXXXXXXXXXXXXXXXXXXXXXXXXXX."
+msgstr ""
 
 #: ozone/core/api/views.py:427
 msgid "Invalid request: request body should contain 'transition' key."
