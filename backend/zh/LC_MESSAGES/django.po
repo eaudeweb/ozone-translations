@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 16:11+0300\n"
+"POT-Creation-Date: 2019-01-09 20:33+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: config/settings/base.py:331
+msgid "Arabic"
+msgstr ""
+
+#: config/settings/base.py:332
+msgid "English"
+msgstr ""
+
+#: config/settings/base.py:333
+msgid "Spanish"
+msgstr ""
+
+#: config/settings/base.py:334
+msgid "French"
+msgstr ""
+
+#: config/settings/base.py:335
+msgid "Russian"
+msgstr ""
+
+#: config/settings/base.py:336
+msgid "Chinese"
+msgstr ""
+
 #: ozone/core/api/views.py:301
 msgid "Non custom blends cannot be modified."
 msgstr ""
 
-#: ozone/core/api/views.py:427
+#: ozone/core/api/views.py:426
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
