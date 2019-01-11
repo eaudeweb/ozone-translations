@@ -1,6 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-01-11 12:25+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -10,18 +12,101 @@ msgstr ""
 "Generated-By: easygettext\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: src/views/lookupTables/ControlledSubstances.vue:59
+msgid "Annex"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:92
+msgid "Article 5 party"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:120
+msgid "Beijing Amendment"
+msgstr ""
+
 #: src/views/lookupTables/Blends.vue:35
+#: src/views/lookupTables/ControlledSubstances.vue:24
 msgid "Clear"
 msgstr "Clear"
 
-#: src/views/lookupTables/Blends.vue:13
+#: src/views/lookupTables/Blends.vue:111 src/views/lookupTables/Blends.vue:22
 msgid "Components"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:7
+#: src/views/lookupTables/Parties.vue:112
+msgid "Copenhagen Amendment"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:88
+msgid "EU Member"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:67
+#: src/views/lookupTables/ControlledSubstances.vue:18
+msgid "Formula"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:61
+#: src/views/lookupTables/ControlledSubstances.vue:8
+msgid "Group"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:96
+msgid "HAT"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:124
+msgid "Kigali Amendment"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:108
+msgid "London Amendment"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:73
+msgid "MaxODP"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:71
+msgid "MinODP"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:116
+msgid "Montreal Amendment"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:104
+msgid "Montreal Protocol"
+msgstr ""
+
+#: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:124
+#: src/views/lookupTables/ControlledSubstances.vue:63
+#: src/views/lookupTables/Parties.vue:83 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/ControlledSubstances.vue:13
+#: src/views/lookupTables/Parties.vue:8
 msgid "Name"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:69
+msgid "Number of Isomers"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:65
+msgid "ODP"
+msgstr ""
+
+#: src/views/lookupTables/Blends.vue:109 src/views/lookupTables/Blends.vue:8
+msgid "Other Names"
+msgstr ""
+
+#: src/views/lookupTables/Blends.vue:127
+msgid "Percentage"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:26
 msgid "Sort"
 msgstr "Sort"
+
+#: src/views/lookupTables/Parties.vue:100
+msgid "Vienna Convention"
+msgstr ""
