@@ -265,3 +265,4 @@ fabric.properties
 .idea/httpRequests
 
 frontend/translations.json
+frontend/locale/*/LC_MESSAGES/app.po~
