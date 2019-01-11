@@ -1,24 +1,16 @@
 msgid ""
 msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: easygettext\n"
 "Project-Id-Version: \n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: easygettext\n"
 
 #: src/views/lookupTables/Blends.vue:35
 msgid "Clear"
-msgstr ""
-
-#: src/views/lookupTables/Blends.vue:13
-msgid "Components"
-msgstr ""
-
-#: src/views/lookupTables/Blends.vue:7
-msgid "Name"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:26
