@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-11 12:25+0000\n"
+"POT-Creation-Date: 2019-01-12 14:24+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -11,6 +11,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: src/views/Dashboard.vue:231 src/views/Dashboard.vue:254
+msgid "Actions"
+msgstr ""
+
+#: src/views/Dashboard.vue:96
+msgid "All submissions (%{totalRows} records)"
+msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:59
 msgid "Annex"
@@ -24,6 +32,7 @@ msgstr ""
 msgid "Beijing Amendment"
 msgstr ""
 
+#: src/views/Dashboard.vue:54 src/views/Dashboard.vue:119
 #: src/views/lookupTables/Blends.vue:35
 #: src/views/lookupTables/ControlledSubstances.vue:24
 msgid "Clear"
@@ -33,17 +42,69 @@ msgstr ""
 msgid "Components"
 msgstr ""
 
+#: src/views/Dashboard.vue:74
+msgid "Continue"
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:112
 msgid "Copenhagen Amendment"
+msgstr ""
+
+#: src/views/Dashboard.vue:23
+msgid "Create"
+msgstr ""
+
+#: src/views/Dashboard.vue:8
+msgid "Create a submission by specifying the obligation, the reporting period and the party name. All fields are mandatory."
+msgstr ""
+
+#: src/views/pages/Register.vue:38
+msgid "Create Account"
+msgstr ""
+
+#: src/views/Dashboard.vue:6
+msgid "Create submission"
+msgstr ""
+
+#: src/views/pages/Register.vue:9
+msgid "Create your account"
+msgstr ""
+
+#: src/views/Dashboard.vue:31
+msgid "Data entry submissions (%{totalRows} records)"
+msgstr ""
+
+#: src/views/FormNotFound.vue:3
+msgid "Data form for this obligation is not available yet"
+msgstr ""
+
+#: src/views/Dashboard.vue:171
+msgid "Delete"
+msgstr ""
+
+#: src/views/Dashboard.vue:486
+msgid "Deleting the submission is ireversible. Are you sure ?"
+msgstr ""
+
+#: src/views/Dashboard.vue:139
+msgid "Edit"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:88
 msgid "EU Member"
 msgstr ""
 
+#: src/views/pages/Register.vue:44
+msgid "facebook"
+msgstr ""
+
 #: src/views/lookupTables/ControlledSubstances.vue:67
 #: src/views/lookupTables/ControlledSubstances.vue:18
 msgid "Formula"
+msgstr ""
+
+#: src/views/FormNotFound.vue:6
+msgid "Go back to dashboard"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:61
@@ -55,8 +116,16 @@ msgstr ""
 msgid "HAT"
 msgstr ""
 
+#: src/views/pages/Page500.vue:7
+msgid "Houston, we have a problem!"
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:124
 msgid "Kigali Amendment"
+msgstr ""
+
+#: src/views/Dashboard.vue:229 src/views/Dashboard.vue:251
+msgid "Last modified"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:108
@@ -87,26 +156,116 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
+#: src/views/Dashboard.vue:458
+msgid "New version created"
+msgstr ""
+
 #: src/views/lookupTables/ControlledSubstances.vue:69
 msgid "Number of Isomers"
+msgstr ""
+
+#: src/views/Dashboard.vue:214 src/views/Dashboard.vue:239
+#: src/views/Dashboard.vue:11 src/views/Dashboard.vue:39
+#: src/views/Dashboard.vue:106
+msgid "Obligation"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:65
 msgid "ODP"
 msgstr ""
 
+#: src/views/pages/Page404.vue:7
+msgid "Oops! You're lost."
+msgstr ""
+
 #: src/views/lookupTables/Blends.vue:109 src/views/lookupTables/Blends.vue:8
 msgid "Other Names"
+msgstr ""
+
+#: src/views/Dashboard.vue:220 src/views/Dashboard.vue:245
+#: src/views/Dashboard.vue:20 src/views/Dashboard.vue:44
+#: src/views/Dashboard.vue:109
+msgid "Party"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:127
 msgid "Percentage"
 msgstr ""
 
+#: src/views/Dashboard.vue:217 src/views/Dashboard.vue:242
+#: src/views/Dashboard.vue:15
+msgid "Period"
+msgstr ""
+
+#: src/views/pages/Register.vue:8
+msgid "Register"
+msgstr ""
+
+#: src/views/Dashboard.vue:152
+msgid "Revise"
+msgstr ""
+
+#: src/views/pages/Page404.vue:18 src/views/pages/Page500.vue:18
+#: src/views/Dashboard.vue:36 src/views/Dashboard.vue:103
+msgid "Search"
+msgstr ""
+
+#: src/views/Dashboard.vue:97
+msgid "Show all versions"
+msgstr ""
+
 #: src/views/lookupTables/Blends.vue:26
 msgid "Sort"
 msgstr ""
 
+#: src/views/Dashboard.vue:226
+msgid "State"
+msgstr ""
+
+#: src/views/pages/Page500.vue:8
+msgid "The page you are looking for is temporarily unavailable."
+msgstr ""
+
+#: src/views/pages/Page404.vue:8
+msgid "The page you are looking for was not found."
+msgstr ""
+
+#: src/views/pages/Register.vue:47
+msgid "twitter"
+msgstr ""
+
+#: src/views/Dashboard.vue:223 src/views/Dashboard.vue:248
+msgid "Version"
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:100
 msgid "Vienna Convention"
+msgstr ""
+
+#: src/views/Dashboard.vue:142
+msgid "View"
+msgstr ""
+
+#: src/views/Dashboard.vue:84 src/views/Dashboard.vue:183
+msgid "Per page"
+msgstr ""
+
+#: src/views/pages/Page404.vue:17 src/views/pages/Page500.vue:17
+msgid "What are you looking for?"
+msgstr ""
+
+#: src/views/pages/Register.vue:15
+msgid "Username"
+msgstr ""
+
+#: src/views/pages/Register.vue:22
+msgid "Email"
+msgstr ""
+
+#: src/views/pages/Register.vue:29
+msgid "Password"
+msgstr ""
+
+#: src/views/pages/Register.vue:36
+msgid "Repeat password"
 msgstr ""
