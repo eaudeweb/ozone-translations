@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-14 15:59+0300\n"
+"POT-Creation-Date: 2019-01-14 16:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,8 +101,8 @@ msgstr ""
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:502 ozone/core/serializers.py:403
-#: ozone/core/serializers.py:408
+#: ozone/core/models/reporting.py:502 ozone/core/serializers.py:405
+#: ozone/core/serializers.py:410
 msgid "User is not allowed to change this remark"
 msgstr ""
 
@@ -132,7 +132,7 @@ msgid ""
 "combination."
 msgstr ""
 
-#: ozone/core/models/substance.py:263 ozone/core/models/substance.py:266
+#: ozone/core/models/substance.py:278 ozone/core/models/substance.py:281
 msgid "Substance or component name must be set."
 msgstr ""
 
