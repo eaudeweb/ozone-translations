@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-14 08:27+0000\n"
+"POT-Creation-Date: 2019-01-14 13:05+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -19,6 +19,10 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
+#: src/components/hat/FormTemplate.vue:242
+msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
+msgstr ""
+
 #: src/views/lookupTables/ControlledSubstances.vue:59
 msgid "Annex"
 msgstr ""
@@ -31,10 +35,27 @@ msgstr ""
 msgid "Beijing Amendment"
 msgstr ""
 
+#: src/components/hat/FormTemplate.vue:106
+msgid "Blends"
+msgstr ""
+
+#: src/components/hat/FormTemplate.vue:248
+msgid "Change substance"
+msgstr ""
+
 #: src/views/Dashboard.vue:54 src/views/Dashboard.vue:119
 #: src/views/lookupTables/Blends.vue:35
 #: src/views/lookupTables/ControlledSubstances.vue:24
 msgid "Clear"
+msgstr ""
+
+#: src/components/hat/FormTemplate.vue:289
+#: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:93
+msgid "Close"
+msgstr ""
+
+#: src/components/hat/FormTemplate.vue:210
+msgid "Comments"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:111 src/views/lookupTables/Blends.vue:22
@@ -77,15 +98,23 @@ msgstr ""
 msgid "Data form for this obligation is not available yet"
 msgstr ""
 
-#: src/views/Dashboard.vue:171
+#: src/components/hat/FormTemplate.vue:85
+#: src/components/hat/FormTemplate.vue:147 src/views/Dashboard.vue:171
 msgid "Delete"
 msgstr ""
 
-#: src/views/Dashboard.vue:486
+#: src/components/hat/TabsManager.vue:85
+#: src/components/letter/TabsManager.vue:97
+msgid "Delete Submission"
+msgstr ""
+
+#: src/components/hat/TabsManager.vue:183
+#: src/components/letter/TabsManager.vue:188 src/views/Dashboard.vue:486
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
-#: src/views/Dashboard.vue:139
+#: src/components/hat/FormTemplate.vue:79
+#: src/components/hat/FormTemplate.vue:141 src/views/Dashboard.vue:139
 msgid "Edit"
 msgstr ""
 
@@ -95,6 +124,18 @@ msgstr ""
 
 #: src/views/pages/Register.vue:44
 msgid "facebook"
+msgstr ""
+
+#: src/components/letter/TabsManager.vue:63
+msgid "Form is curently being saved"
+msgstr ""
+
+#: src/components/letter/TabsManager.vue:66
+msgid "Form save failed. Please check the validation"
+msgstr ""
+
+#: src/components/letter/TabsManager.vue:69
+msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:67
@@ -125,6 +166,10 @@ msgstr ""
 
 #: src/views/Dashboard.vue:229 src/views/Dashboard.vue:251
 msgid "Last modified"
+msgstr ""
+
+#: src/components/letter/TabsManager.vue:59
+msgid "Legend:"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:108
@@ -200,6 +245,11 @@ msgstr ""
 msgid "Period"
 msgstr ""
 
+#: src/components/hat/TabsManager.vue:175
+#: src/components/letter/TabsManager.vue:180
+msgid "Please save before submitting"
+msgstr ""
+
 #: src/views/pages/Register.vue:8
 msgid "Register"
 msgstr ""
@@ -209,7 +259,9 @@ msgid "Revise"
 msgstr ""
 
 #: src/views/pages/Page404.vue:18 src/views/pages/Page500.vue:18
-#: src/views/Dashboard.vue:36 src/views/Dashboard.vue:103
+#: src/components/hat/FormTemplate.vue:45
+#: src/components/hat/FormTemplate.vue:109 src/views/Dashboard.vue:36
+#: src/views/Dashboard.vue:103
 msgid "Search"
 msgstr ""
 
@@ -225,12 +277,45 @@ msgstr ""
 msgid "State"
 msgstr ""
 
+#: src/components/hat/TabsManager.vue:40
+#: src/components/letter/TabsManager.vue:44
+#: src/components/hat/TabsManager.vue:38
+#: src/components/letter/TabsManager.vue:42
+msgid "Submission Info"
+msgstr ""
+
+#: src/components/hat/TabsManager.vue:72
+#: src/components/letter/TabsManager.vue:20
+#: src/components/letter/TabsManager.vue:84
+msgid "Submit"
+msgstr ""
+
+#: src/components/hat/FormTemplate.vue:42
+msgid "Substances"
+msgstr ""
+
+#: src/components/letter/TabsManager.vue:72
+msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
+msgstr ""
+
 #: src/views/pages/Page500.vue:8
 msgid "The page you are looking for is temporarily unavailable."
 msgstr ""
 
 #: src/views/pages/Page404.vue:8
 msgid "The page you are looking for was not found."
+msgstr ""
+
+#: src/components/hat/FormTemplate.vue:244
+msgid "The values are saved automatically in the table, as you type."
+msgstr ""
+
+#: src/components/letter/services/tableRowConstructorService.js:309
+msgid "Total quantity imported for all uses is required"
+msgstr ""
+
+#: src/components/letter/services/tableRowConstructorService.js:313
+msgid "Total quantity imported for all uses must be >= to the sum of individual components"
 msgstr ""
 
 #: src/views/pages/Register.vue:47
@@ -241,12 +326,31 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
+#: src/components/hat/TabsManager.vue:82
+#: src/components/letter/TabsManager.vue:94
+msgid "Versions"
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:100
 msgid "Vienna Convention"
 msgstr ""
 
 #: src/views/Dashboard.vue:142
 msgid "View"
+msgstr ""
+
+#: src/components/hat/TabsManager.vue:166
+#: src/components/letter/TabsManager.vue:171
+msgid "You cannot submit and empty form"
+msgstr ""
+
+#: src/components/hat/TabsManager.vue:54
+#: src/components/letter/TabsManager.vue:51
+msgid "Attachments"
+msgstr ""
+
+#: src/components/hat/FormTemplate.vue:257
+msgid "Select substance"
 msgstr ""
 
 #: src/views/Dashboard.vue:84 src/views/Dashboard.vue:183
