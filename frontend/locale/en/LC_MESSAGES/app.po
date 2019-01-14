@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-12 14:24+0000\n"
+"POT-Creation-Date: 2019-01-14 08:27+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -176,6 +176,10 @@ msgstr ""
 
 #: src/views/pages/Page404.vue:7
 msgid "Oops! You're lost."
+msgstr ""
+
+#: src/App.vue:12
+msgid "ORS (Ozone online reporting system)"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:109 src/views/lookupTables/Blends.vue:8
