@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-14 13:05+0000\n"
+"POT-Creation-Date: 2019-01-14 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -11,16 +11,64 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
 
+#: src/components/common/form-components/AddBlend.vue:220
+msgid "A blend with this name already exists!"
+msgstr ""
+
+#: src/components/common/Header.vue:6
+msgid "Account"
+msgstr ""
+
 #: src/views/Dashboard.vue:231 src/views/Dashboard.vue:254
 msgid "Actions"
+msgstr ""
+
+#: src/components/common/form-components/Add.vue:13
+#: src/components/common/form-components/AddBlend.vue:60
+#: src/components/common/form-components/CloneField.vue:6
+msgid "Add %{length} rows"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:67
+#: src/components/common/form-components/AddBlend.vue:72
+msgid "Add custom blend"
+msgstr ""
+
+#: src/components/art7/EmissionsTemplate.vue:79
+msgid "Add facility"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:68
+msgid "Add new blend"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:4
+msgid "Add predefined blends"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:116
+msgid "Add row"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:77
+msgid "Add substance"
+msgstr ""
+
+#: src/components/common/form-components/Add.vue:3
+msgid "Add substances"
 msgstr ""
 
 #: src/views/Dashboard.vue:96
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
+#: src/components/art7/FormTemplate.vue:456
 #: src/components/hat/FormTemplate.vue:242
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:163
+msgid "Ammount generated and caputred for all uses (3a) must be greater or equal to (3b) + (3c)"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:59
@@ -31,35 +79,78 @@ msgstr ""
 msgid "Article 5 party"
 msgstr ""
 
+#: src/components/art7/services/tableRowConstructorService.js:587
+msgid "At least one field from (4), (5), (6), (7) is required"
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:120
 msgid "Beijing Amendment"
 msgstr ""
 
+#: src/components/common/mixins/FormTemplateMixin.vue:150
+msgid "Blend"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:303
+msgid "Blend created"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:305
+#: src/components/common/form-components/DefaultAside.vue:12
+#: src/components/common/mixins/FormTemplateMixin.vue:267
 #: src/components/hat/FormTemplate.vue:106
+#: src/components/common/mixins/FormTemplateMixin.vue:268
 msgid "Blends"
 msgstr ""
 
+#: src/components/art7/TabsManager.vue:185
+msgid "Can't find instructions for current form"
+msgstr ""
+
+#: src/components/common/form-components/Add.vue:15
+#: src/components/common/form-components/AddBlend.vue:119
+msgid "Cancel"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:462
 #: src/components/hat/FormTemplate.vue:248
 msgid "Change substance"
 msgstr ""
 
-#: src/views/Dashboard.vue:54 src/views/Dashboard.vue:119
-#: src/views/lookupTables/Blends.vue:35
+#: src/components/common/SubmissionHistory.vue:7 src/views/Dashboard.vue:54
+#: src/views/Dashboard.vue:119 src/views/lookupTables/Blends.vue:35
 #: src/views/lookupTables/ControlledSubstances.vue:24
 msgid "Clear"
 msgstr ""
 
+#: src/components/art7/services/tableRowConstructorService.js:22
+msgid "Click to edit"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:542
+#: src/components/art7/TabsManager.vue:25
+#: src/components/art7/TabsManager.vue:101
 #: src/components/hat/FormTemplate.vue:289
 #: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:93
 msgid "Close"
 msgstr ""
 
+#: src/components/art7/services/tableRowConstructorService.js:462
+msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
+msgstr ""
+
+#: src/components/art7/EmissionsTemplate.vue:83
+#: src/components/art7/FormTemplate.vue:428
 #: src/components/hat/FormTemplate.vue:210
 msgid "Comments"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:111 src/views/lookupTables/Blends.vue:22
 msgid "Components"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:45
+msgid "Composition of"
 msgstr ""
 
 #: src/views/Dashboard.vue:74
@@ -90,6 +181,10 @@ msgstr ""
 msgid "Create your account"
 msgstr ""
 
+#: src/components/common/SubmissionHistory.vue:64
+msgid "Current State"
+msgstr ""
+
 #: src/views/Dashboard.vue:31
 msgid "Data entry submissions (%{totalRows} records)"
 msgstr ""
@@ -98,24 +193,52 @@ msgstr ""
 msgid "Data form for this obligation is not available yet"
 msgstr ""
 
+#: src/components/art7/Save.vue:15
+msgid "Data was not saved"
+msgstr ""
+
+#: src/components/common/SubmissionHistory.vue:61
+msgid "Date"
+msgstr ""
+
+#: src/components/common/Attachments.vue:28
 #: src/components/hat/FormTemplate.vue:85
 #: src/components/hat/FormTemplate.vue:147 src/views/Dashboard.vue:171
 msgid "Delete"
 msgstr ""
 
+#: src/components/common/Attachments.vue:12
+msgid "Delete all"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:92
 #: src/components/hat/TabsManager.vue:85
 #: src/components/letter/TabsManager.vue:97
 msgid "Delete Submission"
 msgstr ""
 
+#: src/components/art7/TabsManager.vue:215
 #: src/components/hat/TabsManager.vue:183
 #: src/components/letter/TabsManager.vue:188 src/views/Dashboard.vue:486
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
+#: src/components/common/mixins/DataManagerMixin.vue:23
+#: src/components/common/mixins/DataManagerMixin.vue:24
+msgid "Do you really want to leave? you have unsaved changes!"
+msgstr ""
+
 #: src/components/hat/FormTemplate.vue:79
 #: src/components/hat/FormTemplate.vue:141 src/views/Dashboard.vue:139
 msgid "Edit"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:452
+msgid "Edit %{name} blend"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:451
+msgid "Edit %{name} substance"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:88
@@ -126,14 +249,45 @@ msgstr ""
 msgid "facebook"
 msgstr ""
 
+#: src/components/common/form-components/Add.vue:4
+msgid "Filter annex groups in order to select one or more substances. A row for each substance will be added in substances table. Substances can be deleted using table controls."
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:5
+msgid "Filter by blend types in order to select one or more blends. A row for each blend will be added in blends table. Blends can be deleted using table controls."
+msgstr ""
+
+#: src/components/common/SubmissionInfo.vue:44
+msgid "Flags"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:473
+msgid "For annex E, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + QPS"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:479
+msgid "For annex F, total production (3) should be >= feedstock (4) + exempted, critical, other (5)"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:485
+msgid "For annex F2, total production (3) should be >= feedstock (4a) + destruction (4b) + exempted, critical, other (5)"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:467
+msgid "For annexes A-C, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + Article 5 countries (7)"
+msgstr ""
+
+#: src/components/common/form-components/DefaultAside.vue:28
 #: src/components/letter/TabsManager.vue:63
 msgid "Form is curently being saved"
 msgstr ""
 
+#: src/components/common/form-components/DefaultAside.vue:31
 #: src/components/letter/TabsManager.vue:66
 msgid "Form save failed. Please check the validation"
 msgstr ""
 
+#: src/components/common/form-components/DefaultAside.vue:34
 #: src/components/letter/TabsManager.vue:69
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
@@ -160,16 +314,26 @@ msgstr ""
 msgid "Houston, we have a problem!"
 msgstr ""
 
+#: src/components/common/form-components/AddBlend.vue:73
+msgid "If a non-standard blend not listed above please indicate the blend name and the percentage by weight of each constituent controlled substance of the blend. Please pay attention to the percentage values before adding a new blend. For mistakes please contact secretariat to delete the blend."
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:124
 msgid "Kigali Amendment"
 msgstr ""
 
-#: src/views/Dashboard.vue:229 src/views/Dashboard.vue:251
+#: src/components/common/SubmissionHistory.vue:73 src/views/Dashboard.vue:229
+#: src/views/Dashboard.vue:251
 msgid "Last modified"
 msgstr ""
 
+#: src/components/common/form-components/DefaultAside.vue:24
 #: src/components/letter/TabsManager.vue:59
 msgid "Legend:"
+msgstr ""
+
+#: src/components/common/Header.vue:8
+msgid "Logout"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:108
@@ -245,20 +409,82 @@ msgstr ""
 msgid "Period"
 msgstr ""
 
+#: src/components/art7/services/tableRowConstructorService.js:146
+msgid "Please complete the \"Amount of generated emissions (6)\" field"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:142
+msgid "Please complete the \"Facility name or identifier (1)\" field"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:528
+msgid "Please complete the \"Quantity destroyed (3)\" field"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:207
 #: src/components/hat/TabsManager.vue:175
 #: src/components/letter/TabsManager.vue:180
 msgid "Please save before submitting"
+msgstr ""
+
+#: src/components/common/mixins/FormTemplateMixin.vue:39
+#: src/components/common/mixins/FormTemplateMixin.vue:40
+msgid "Please use the form on the right sidebar to add blends"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:573
+#: src/components/common/mixins/FormTemplateMixin.vue:25
+#: src/components/common/mixins/FormTemplateMixin.vue:26
+msgid "Please use the form on the right sidebar to add substances"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:170
+msgid "Polyols quantity"
+msgstr ""
+
+#: src/components/common/SubmissionHistory.vue:67
+msgid "Provisional"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:152
+#: src/components/art7/FormTemplate.vue:271
+msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:288
+msgid "Quantity of Polyols"
 msgstr ""
 
 #: src/views/pages/Register.vue:8
 msgid "Register"
 msgstr ""
 
+#: src/components/common/Header.vue:7
+msgid "Reset password"
+msgstr ""
+
 #: src/views/Dashboard.vue:152
 msgid "Revise"
 msgstr ""
 
+#: src/components/common/mixins/SaveMixin.vue:4
+msgid "Save and continue"
+msgstr ""
+
+#: src/components/common/mixins/SaveMixin.vue:53
+msgid "Save failed  because of validation problems. Please check the"
+msgstr ""
+
+#: src/components/common/mixins/SaveMixin.vue:122
+#: src/components/common/mixins/SaveMixin.vue:137
+msgid "Save failed for"
+msgstr ""
+
 #: src/views/pages/Page404.vue:18 src/views/pages/Page500.vue:18
+#: src/components/art7/FormTemplate.vue:64
+#: src/components/art7/FormTemplate.vue:189
+#: src/components/art7/FormTemplate.vue:308
+#: src/components/common/SubmissionHistory.vue:5
 #: src/components/hat/FormTemplate.vue:45
 #: src/components/hat/FormTemplate.vue:109 src/views/Dashboard.vue:36
 #: src/views/Dashboard.vue:103
@@ -277,23 +503,43 @@ msgstr ""
 msgid "State"
 msgstr ""
 
+#: src/components/art7/Save.vue:41 src/components/art7/Save.vue:42
+msgid "Submission cannot be saved before completing the questionnaire"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:36
+#: src/components/common/SubmissionInfo.vue:19
 #: src/components/hat/TabsManager.vue:40
 #: src/components/letter/TabsManager.vue:44
+#: src/components/art7/TabsManager.vue:34
 #: src/components/hat/TabsManager.vue:38
 #: src/components/letter/TabsManager.vue:42
 msgid "Submission Info"
 msgstr ""
 
+#: src/components/art7/TabsManager.vue:79
 #: src/components/hat/TabsManager.vue:72
 #: src/components/letter/TabsManager.vue:20
 #: src/components/letter/TabsManager.vue:84
 msgid "Submit"
 msgstr ""
 
+#: src/components/art7/FormTemplate.vue:61
+#: src/components/common/form-components/DefaultAside.vue:6
 #: src/components/hat/FormTemplate.vue:42
+#: src/components/common/form-components/Add.vue:9
 msgid "Substances"
 msgstr ""
 
+#: src/components/art7/FormTemplate.vue:186
+msgid "Substances - group FII"
+msgstr ""
+
+#: src/components/common/form-components/CloneField.vue:99
+msgid "The fields for these countries were not added because they already exist"
+msgstr ""
+
+#: src/components/common/form-components/DefaultAside.vue:37
 #: src/components/letter/TabsManager.vue:72
 msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
 msgstr ""
@@ -306,14 +552,34 @@ msgstr ""
 msgid "The page you are looking for was not found."
 msgstr ""
 
+#: src/components/art7/FormTemplate.vue:458
 #: src/components/hat/FormTemplate.vue:244
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
+#: src/components/common/mixins/FormTemplateMixin.vue:177
+#: src/components/common/mixins/FormTemplateMixin.vue:178
+msgid "There are no records to show"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:178
+msgid "Total amount generated (2) must be equal to its components (3a, 4, 5, 6)"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:198
+msgid "Total amount generated (2) must be greater or equal to its components (3a, 4, 5, 6)"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:156
+msgid "Total amount generated (2) must be higher than the sum of \"Amount generated and captured(3)\", \"Amount used for feedstock without prior capture(4)\", \"Amount destroyed without prior capture(5)\""
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:337
 #: src/components/letter/services/tableRowConstructorService.js:309
 msgid "Total quantity imported for all uses is required"
 msgstr ""
 
+#: src/components/art7/services/tableRowConstructorService.js:341
 #: src/components/letter/services/tableRowConstructorService.js:313
 msgid "Total quantity imported for all uses must be >= to the sum of individual components"
 msgstr ""
@@ -322,10 +588,27 @@ msgstr ""
 msgid "twitter"
 msgstr ""
 
+#: src/components/common/mixins/FormTemplateMixin.vue:154
+msgid "Type"
+msgstr ""
+
+#: src/components/common/SubmissionHistory.vue:58
+msgid "User"
+msgstr ""
+
+#: src/components/common/SubmissionHistory.vue:70
+msgid "Valid"
+msgstr ""
+
+#: src/components/common/form-components/DefaultAside.vue:18
+msgid "Validation"
+msgstr ""
+
 #: src/views/Dashboard.vue:223 src/views/Dashboard.vue:248
 msgid "Version"
 msgstr ""
 
+#: src/components/art7/TabsManager.vue:89
 #: src/components/hat/TabsManager.vue:82
 #: src/components/letter/TabsManager.vue:94
 msgid "Versions"
@@ -339,9 +622,22 @@ msgstr ""
 msgid "View"
 msgstr ""
 
+#: src/components/art7/TabsManager.vue:198
 #: src/components/hat/TabsManager.vue:166
 #: src/components/letter/TabsManager.vue:171
 msgid "You cannot submit and empty form"
+msgstr ""
+
+#: src/components/art7/Save.vue:7
+msgid "You have unsaved data in that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
+msgstr ""
+
+#: src/components/common/form-components/Add.vue:6
+msgid "Annex groups"
+msgstr ""
+
+#: src/components/common/SubmissionHistory.vue:6
+msgid "Type to Search"
 msgstr ""
 
 #: src/components/hat/TabsManager.vue:54
@@ -349,8 +645,21 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
+#: src/components/art7/FormTemplate.vue:472
 #: src/components/hat/FormTemplate.vue:257
 msgid "Select substance"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:43
+msgid "Questionaire"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:494
+msgid "Countries"
+msgstr ""
+
+#: src/components/art7/EmissionsTemplate.vue:27
+msgid "Search all columns"
 msgstr ""
 
 #: src/views/Dashboard.vue:84 src/views/Dashboard.vue:183
