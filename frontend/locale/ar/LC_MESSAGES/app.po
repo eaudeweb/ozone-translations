@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-15 14:15+0000\n"
+"POT-Creation-Date: 2019-01-15 16:29+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -15,7 +15,7 @@ msgstr ""
 msgid "{{labels[comment_field]}}"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:220
+#: src/components/common/form-components/AddBlend.vue:221
 msgid "A blend with this name already exists!"
 msgstr ""
 
@@ -75,6 +75,22 @@ msgstr ""
 msgid "Ammount generated and caputred for all uses (3a) must be greater or equal to (3b) + (3c)"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:127
+msgid "Amount [generated] (tonnes)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:129
+msgid "Amount destroyed"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:130
+msgid "Amount of emissions"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:128
+msgid "Amount used for feedstock"
+msgstr ""
+
 #: src/views/lookupTables/ControlledSubstances.vue:59
 msgid "Annex"
 msgstr ""
@@ -119,6 +135,10 @@ msgstr ""
 msgid "Annex group F"
 msgstr ""
 
+#: src/store/actions.js:32
+msgid "Another submission already exists in Data Entry stage."
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:92
 msgid "Article 5 party"
 msgstr ""
@@ -135,11 +155,15 @@ msgstr ""
 msgid "Beijing Amendment"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:8
+#: src/components/art7/dataDefinitions/labels.js:41
+#: src/components/art7/dataDefinitions/labels.js:107
+#: src/components/art7/dataDefinitions/labels.js:120
 #: src/components/common/mixins/FormTemplateMixin.vue:150
 msgid "Blend"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:303
+#: src/components/common/form-components/AddBlend.vue:307
 msgid "Blend created"
 msgstr ""
 
@@ -151,7 +175,7 @@ msgstr ""
 msgid "Blends"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:185
+#: src/components/art7/TabsManager.vue:186
 msgid "Can't find instructions for current form"
 msgstr ""
 
@@ -197,6 +221,24 @@ msgstr ""
 msgid "Comments"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:37
+#: src/components/art7/dataDefinitions/labels.js:70
+#: src/components/art7/dataDefinitions/labels.js:98
+#: src/components/art7/dataDefinitions/labels.js:108
+#: src/components/art7/dataDefinitions/labels.js:122
+#: src/components/art7/dataDefinitions/labels.js:133
+msgid "Comments (Party)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:36
+#: src/components/art7/dataDefinitions/labels.js:71
+#: src/components/art7/dataDefinitions/labels.js:99
+#: src/components/art7/dataDefinitions/labels.js:109
+#: src/components/art7/dataDefinitions/labels.js:123
+#: src/components/art7/dataDefinitions/labels.js:134
+msgid "Comments (Secretariat)"
+msgstr ""
+
 #: src/views/lookupTables/Blends.vue:111 src/views/lookupTables/Blends.vue:22
 msgid "Components"
 msgstr ""
@@ -221,6 +263,10 @@ msgstr ""
 msgid "Country"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:46
+msgid "Country of destination of exports"
+msgstr ""
+
 #: src/views/Dashboard.vue:23
 msgid "Create"
 msgstr ""
@@ -241,6 +287,15 @@ msgstr ""
 msgid "Create your account"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:18
+#: src/components/art7/dataDefinitions/labels.js:19
+#: src/components/art7/dataDefinitions/labels.js:54
+#: src/components/art7/dataDefinitions/labels.js:55
+#: src/components/art7/dataDefinitions/labels.js:77
+#: src/components/art7/dataDefinitions/labels.js:78
+msgid "Critical use"
+msgstr ""
+
 #: src/components/common/SubmissionHistory.vue:64
 msgid "Current State"
 msgstr ""
@@ -253,7 +308,7 @@ msgstr ""
 msgid "Data form for this obligation is not available yet"
 msgstr ""
 
-#: src/components/art7/Save.vue:15
+#: src/components/art7/Save.vue:16
 msgid "Data was not saved"
 msgstr ""
 
@@ -264,6 +319,13 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:23
 msgid "Date of submission"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:32
+#: src/components/art7/dataDefinitions/labels.js:51
+#: src/components/art7/dataDefinitions/labels.js:66
+#: src/components/art7/dataDefinitions/labels.js:96
+msgid "Decision"
 msgstr ""
 
 #: src/components/common/Attachments.vue:28
@@ -282,9 +344,9 @@ msgstr ""
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:215
-#: src/components/hat/TabsManager.vue:183
-#: src/components/letter/TabsManager.vue:188 src/views/Dashboard.vue:486
+#: src/components/art7/TabsManager.vue:218
+#: src/components/hat/TabsManager.vue:185
+#: src/components/letter/TabsManager.vue:190 src/views/Dashboard.vue:491
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
@@ -314,12 +376,45 @@ msgstr ""
 msgid "Edit %{name} substance"
 msgstr ""
 
+#: src/components/letter/services/tableRowConstructorService.js:131
+msgid "error 1 test"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:16
+#: src/components/art7/dataDefinitions/labels.js:17
+#: src/components/art7/dataDefinitions/labels.js:52
+#: src/components/art7/dataDefinitions/labels.js:53
+#: src/components/art7/dataDefinitions/labels.js:79
+#: src/components/art7/dataDefinitions/labels.js:80
+msgid "Essential use, other than L&A"
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:88
 msgid "EU Member"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:11
+msgid "Exporting party for quantities reported as imports"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:121
+msgid "Exporting party for quantities reported as imports or country of destination of exports"
+msgstr ""
+
 #: src/views/pages/Register.vue:44
 msgid "facebook"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:126
+msgid "Facility name or identifier"
+msgstr ""
+
+#: src/store/actions.js:52
+msgid "Failed to create submission"
+msgstr ""
+
+#: src/store/actions.js:208
+msgid "Failed to delete submission"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:20
@@ -382,6 +477,8 @@ msgstr ""
 msgid "Go back to dashboard"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:9
+#: src/components/art7/dataDefinitions/labels.js:43
 #: src/views/lookupTables/ControlledSubstances.vue:61
 #: src/views/lookupTables/ControlledSubstances.vue:8
 msgid "Group"
@@ -394,6 +491,15 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:26
 #: src/views/lookupTables/Parties.vue:96
 msgid "HAT"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:20
+#: src/components/art7/dataDefinitions/labels.js:21
+#: src/components/art7/dataDefinitions/labels.js:56
+#: src/components/art7/dataDefinitions/labels.js:57
+#: src/components/art7/dataDefinitions/labels.js:81
+#: src/components/art7/dataDefinitions/labels.js:82
+msgid "High ambient temperature"
 msgstr ""
 
 #: src/views/pages/Page500.vue:7
@@ -410,6 +516,15 @@ msgstr ""
 
 #: src/views/lookupTables/Parties.vue:124
 msgid "Kigali Amendment"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:24
+#: src/components/art7/dataDefinitions/labels.js:25
+#: src/components/art7/dataDefinitions/labels.js:60
+#: src/components/art7/dataDefinitions/labels.js:61
+#: src/components/art7/dataDefinitions/labels.js:85
+#: src/components/art7/dataDefinitions/labels.js:86
+msgid "Laboratory and analytical"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:73 src/views/Dashboard.vue:229
@@ -458,7 +573,7 @@ msgstr ""
 msgid "Name of reporting officer"
 msgstr ""
 
-#: src/views/Dashboard.vue:458
+#: src/views/Dashboard.vue:462
 msgid "New version created"
 msgstr ""
 
@@ -492,6 +607,15 @@ msgstr ""
 msgid "Other Names"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:28
+#: src/components/art7/dataDefinitions/labels.js:29
+#: src/components/art7/dataDefinitions/labels.js:64
+#: src/components/art7/dataDefinitions/labels.js:65
+#: src/components/art7/dataDefinitions/labels.js:89
+#: src/components/art7/dataDefinitions/labels.js:90
+msgid "Other/unspecified"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/views/Dashboard.vue:220 src/views/Dashboard.vue:245
 #: src/views/Dashboard.vue:20 src/views/Dashboard.vue:44
@@ -499,6 +623,11 @@ msgstr ""
 msgid "Party"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:10
+#: src/components/art7/dataDefinitions/labels.js:42
+#: src/components/art7/dataDefinitions/labels.js:76
+#: src/components/art7/dataDefinitions/labels.js:104
+#: src/components/art7/dataDefinitions/labels.js:114
 #: src/views/lookupTables/Blends.vue:127
 msgid "Percentage"
 msgstr ""
@@ -524,9 +653,9 @@ msgstr ""
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:207
-#: src/components/hat/TabsManager.vue:175
-#: src/components/letter/TabsManager.vue:180
+#: src/components/art7/TabsManager.vue:210
+#: src/components/hat/TabsManager.vue:177
+#: src/components/letter/TabsManager.vue:182
 msgid "Please save before submitting"
 msgstr ""
 
@@ -541,6 +670,13 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:30
+#: src/components/art7/dataDefinitions/labels.js:31
+#: src/components/art7/dataDefinitions/labels.js:44
+#: src/components/art7/dataDefinitions/labels.js:45
+msgid "Polyols"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:170
 msgid "Polyols quantity"
 msgstr ""
@@ -553,9 +689,56 @@ msgstr ""
 msgid "Process"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:22
+#: src/components/art7/dataDefinitions/labels.js:23
+#: src/components/art7/dataDefinitions/labels.js:58
+#: src/components/art7/dataDefinitions/labels.js:59
+#: src/components/art7/dataDefinitions/labels.js:83
+#: src/components/art7/dataDefinitions/labels.js:84
+msgid "Process agent uses"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:95
+msgid "Production for exempted essential, critical or other uses within your country"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:92
+msgid "Production for feedstock uses within your country"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:93
+msgid "Production for supply to article 5 countries in accordance with articles 2a 2h and 5"
+msgstr ""
+
 #: src/components/common/SubmissionHistory.vue:67
 #: src/components/common/dataDefinitions/labels.js:31
 msgid "Provisional"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:33
+#: src/components/art7/dataDefinitions/labels.js:67
+#: src/components/art7/dataDefinitions/labels.js:97
+msgid "Quantity"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:105
+msgid "Quantity destroyed"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:117
+msgid "Quantity of exports to non-parties (new)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:118
+msgid "Quantity of exports to non-parties (recovered)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:115
+msgid "Quantity of imports from non-parties (new)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:116
+msgid "Quantity of imports from non-parties (recovered)"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:152
@@ -563,8 +746,30 @@ msgstr ""
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:50
+msgid "Quantity of new substance exported for exempted essential, critical, high-ambient-temperature or other uses"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:15
+msgid "Quantity of new substance imported for exempted essential, critical, high-ambient-temperature or other uses"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:14
+#: src/components/art7/dataDefinitions/labels.js:49
+msgid "Quantity of new substances imported as feedstock"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:288
 msgid "Quantity of Polyols"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:26
+#: src/components/art7/dataDefinitions/labels.js:27
+#: src/components/art7/dataDefinitions/labels.js:62
+#: src/components/art7/dataDefinitions/labels.js:63
+#: src/components/art7/dataDefinitions/labels.js:87
+#: src/components/art7/dataDefinitions/labels.js:88
+msgid "Quarantine and pre-shipment applications"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:6
@@ -579,6 +784,24 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:11
 #: src/components/common/dataDefinitions/labels.js:12
 msgid "Reinstate"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:35
+#: src/components/art7/dataDefinitions/labels.js:69
+#: src/components/art7/dataDefinitions/labels.js:74
+#: src/components/art7/dataDefinitions/labels.js:102
+#: src/components/art7/dataDefinitions/labels.js:112
+#: src/components/art7/dataDefinitions/labels.js:131
+msgid "Remarks (Party)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:34
+#: src/components/art7/dataDefinitions/labels.js:68
+#: src/components/art7/dataDefinitions/labels.js:75
+#: src/components/art7/dataDefinitions/labels.js:103
+#: src/components/art7/dataDefinitions/labels.js:113
+#: src/components/art7/dataDefinitions/labels.js:132
+msgid "Remarks (Secretariat)"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:19
@@ -597,12 +820,12 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:53
+#: src/components/common/mixins/SaveMixin.vue:54
 msgid "Save failed  because of validation problems. Please check the"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:122
-#: src/components/common/mixins/SaveMixin.vue:137
+#: src/components/common/mixins/SaveMixin.vue:125
+#: src/components/common/mixins/SaveMixin.vue:141
 msgid "Save failed for"
 msgstr ""
 
@@ -637,8 +860,16 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#: src/components/art7/Save.vue:41 src/components/art7/Save.vue:42
+#: src/components/art7/Save.vue:43 src/components/art7/Save.vue:44
 msgid "Submission cannot be saved before completing the questionnaire"
+msgstr ""
+
+#: src/store/actions.js:43
+msgid "Submission Created"
+msgstr ""
+
+#: src/store/actions.js:201
+msgid "Submission deleted"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:36
@@ -651,6 +882,10 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
+#: src/store/actions.js:183
+msgid "Submission state updated"
+msgstr ""
+
 #: src/components/art7/TabsManager.vue:79
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/hat/TabsManager.vue:72
@@ -659,7 +894,15 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:119
+msgid "Substance"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:61
+#: src/components/art7/dataDefinitions/labels.js:7
+#: src/components/art7/dataDefinitions/labels.js:40
+#: src/components/art7/dataDefinitions/labels.js:94
+#: src/components/art7/dataDefinitions/labels.js:106
 #: src/components/common/form-components/DefaultAside.vue:6
 #: src/components/hat/FormTemplate.vue:42
 #: src/components/common/form-components/Add.vue:9
@@ -674,7 +917,7 @@ msgstr ""
 msgid "Superseded"
 msgstr ""
 
-#: src/components/common/form-components/CloneField.vue:99
+#: src/components/common/form-components/CloneField.vue:101
 msgid "The fields for these countries were not added because they already exist"
 msgstr ""
 
@@ -713,6 +956,20 @@ msgstr ""
 msgid "Total amount generated (2) must be higher than the sum of \"Amount generated and captured(3)\", \"Amount used for feedstock without prior capture(4)\", \"Amount destroyed without prior capture(5)\""
 msgstr ""
 
+#: src/components/art7/dataDefinitions/labels.js:91
+msgid "Total production for all uses"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:12
+#: src/components/art7/dataDefinitions/labels.js:47
+msgid "Total quantity imported for all uses (new)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:13
+#: src/components/art7/dataDefinitions/labels.js:48
+msgid "Total quantity imported for all uses (recovered and reclaimed)"
+msgstr ""
+
 #: src/components/art7/services/tableRowConstructorService.js:337
 #: src/components/letter/services/tableRowConstructorService.js:309
 msgid "Total quantity imported for all uses is required"
@@ -729,6 +986,10 @@ msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:154
 msgid "Type"
+msgstr ""
+
+#: src/store/actions.js:189
+msgid "Unable to change the state of this submission"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:58
@@ -766,9 +1027,9 @@ msgstr ""
 msgid "View"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:198
-#: src/components/hat/TabsManager.vue:166
-#: src/components/letter/TabsManager.vue:171
+#: src/components/art7/TabsManager.vue:200
+#: src/components/hat/TabsManager.vue:167
+#: src/components/letter/TabsManager.vue:172
 msgid "You cannot submit and empty form"
 msgstr ""
 
