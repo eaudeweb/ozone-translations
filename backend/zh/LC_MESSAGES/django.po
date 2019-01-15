@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-14 20:34+0300\n"
+"POT-Creation-Date: 2019-01-15 07:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,8 +100,8 @@ msgstr ""
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:523 ozone/core/serializers.py:405
-#: ozone/core/serializers.py:410
+#: ozone/core/models/reporting.py:523 ozone/core/serializers.py:408
+#: ozone/core/serializers.py:413
 msgid "User is not allowed to change this remark"
 msgstr ""
 
