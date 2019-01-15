@@ -3,14 +3,17 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-15 12:04+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-01-15 12:12+0000\n"
+"Last-Translator: secretariat <secretariat@example.com>\n"
+"Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/"
+"frontend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: src/components/art7/FormTemplate.vue:509
 msgid "{{labels[`decision_${order}`]}}"
@@ -50,7 +53,7 @@ msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:220
 msgid "A blend with this name already exists!"
-msgstr ""
+msgstr "Un mélange avec ce nom existe déjà!"
 
 #: src/components/common/Header.vue:6
 msgid "Account"
