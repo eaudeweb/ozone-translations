@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-14 17:38+0000\n"
+"POT-Creation-Date: 2019-01-15 12:04+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -11,6 +11,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/components/art7/FormTemplate.vue:509
+msgid "{{labels[`decision_${order}`]}}"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:534
+#: src/components/hat/FormTemplate.vue:279
+msgid "{{labels[comment_field]}}"
+msgstr ""
+
+#: src/components/art7/EmissionsTemplate.vue:89
+#: src/components/art7/FormTemplate.vue:435
+msgid "{{labels[comment_key]}}"
+msgstr ""
+
+#: src/components/hat/FormTemplate.vue:216
+msgid "{{labels[comment.name]}}"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:403
+#: src/components/hat/FormTemplate.vue:184
+msgid "{{labels[header]}}"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:480
+#: src/components/common/SubmissionInfo.vue:24
+#: src/components/hat/FormTemplate.vue:263
+msgid "{{labels[order]}}"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:86
+#: src/components/hat/TabsManager.vue:21 src/components/hat/TabsManager.vue:79
+#: src/components/letter/TabsManager.vue:27
+#: src/components/letter/TabsManager.vue:91 src/views/Dashboard.vue:162
+msgid "{{labels[transition]}}"
+msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:220
 msgid "A blend with this name already exists!"
@@ -63,8 +99,8 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:456
-#: src/components/hat/FormTemplate.vue:242
+#: src/components/art7/FormTemplate.vue:458
+#: src/components/hat/FormTemplate.vue:241
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
 
@@ -113,8 +149,8 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:462
-#: src/components/hat/FormTemplate.vue:248
+#: src/components/art7/FormTemplate.vue:464
+#: src/components/hat/FormTemplate.vue:247
 msgid "Change substance"
 msgstr ""
 
@@ -128,10 +164,10 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:542
+#: src/components/art7/FormTemplate.vue:544
 #: src/components/art7/TabsManager.vue:25
 #: src/components/art7/TabsManager.vue:101
-#: src/components/hat/FormTemplate.vue:289
+#: src/components/hat/FormTemplate.vue:287
 #: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:93
 msgid "Close"
 msgstr ""
@@ -234,11 +270,11 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:452
+#: src/components/art7/FormTemplate.vue:454
 msgid "Edit %{name} blend"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:451
+#: src/components/art7/FormTemplate.vue:453
 msgid "Edit %{name} substance"
 msgstr ""
 
@@ -321,6 +357,11 @@ msgstr ""
 
 #: src/views/lookupTables/Parties.vue:124
 msgid "Kigali Amendment"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:19
+#: src/components/letter/services/tableRowConstructorService.js:17
+msgid "labels"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:73 src/views/Dashboard.vue:229
@@ -433,7 +474,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:573
+#: src/components/art7/FormTemplate.vue:575
 #: src/components/common/mixins/FormTemplateMixin.vue:25
 #: src/components/common/mixins/FormTemplateMixin.vue:26
 msgid "Please use the form on the right sidebar to add substances"
@@ -553,8 +594,8 @@ msgstr ""
 msgid "The page you are looking for was not found."
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:458
-#: src/components/hat/FormTemplate.vue:244
+#: src/components/art7/FormTemplate.vue:460
+#: src/components/hat/FormTemplate.vue:243
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
@@ -646,8 +687,8 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:472
-#: src/components/hat/FormTemplate.vue:257
+#: src/components/art7/FormTemplate.vue:474
+#: src/components/hat/FormTemplate.vue:256
 msgid "Select substance"
 msgstr ""
 
@@ -655,8 +696,16 @@ msgstr ""
 msgid "Questionaire"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:494
+#: src/components/art7/FormTemplate.vue:496
 msgid "Countries"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:513
+msgid "quantity"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:521
+msgid "decision"
 msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:27
