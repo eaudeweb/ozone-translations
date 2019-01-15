@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-15 12:04+0000\n"
-"PO-Revision-Date: 2019-01-15 12:12+0000\n"
+"PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
-"Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
+"Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/"
+"frontend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -52,7 +53,7 @@ msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:220
 msgid "A blend with this name already exists!"
-msgstr "Un mélange avec ce nom existe déjà!"
+msgstr "Un melange avec ce nom existe déjà!"
 
 #: src/components/common/Header.vue:6
 msgid "Account"
@@ -105,6 +106,8 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:241
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
+"Oll the quantity values should be expressed in metric tonnes ( not ODP "
+"tonnes)."
 
 #: src/components/art7/services/tableRowConstructorService.js:163
 msgid "Ammount generated and caputred for all uses (3a) must be greater or equal to (3b) + (3c)"
