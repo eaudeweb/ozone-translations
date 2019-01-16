@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-16 12:53+0000\n"
+"POT-Creation-Date: 2019-01-16 14:56+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -160,6 +160,11 @@ msgstr ""
 msgid "Annex A, B, C, E and F substances"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:36
+#: src/components/hat/dataDefinitions/form.js:141
+msgid "Annex F substances for exempted subsectors"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:36
 msgid "Annex group A1"
 msgstr ""
@@ -200,6 +205,11 @@ msgstr ""
 msgid "Annex group F"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:53
+#: src/components/hat/dataDefinitions/form.js:156
+msgid "Annex/group"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:77
 #: src/components/art7/dataDefinitions/form.js:80
 #: src/components/art7/dataDefinitions/form.js:204
@@ -213,6 +223,10 @@ msgstr ""
 
 #: src/store/actions.js:32
 msgid "Another submission already exists in Data Entry stage."
+msgstr ""
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:41
+msgid "API"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:129
@@ -230,6 +244,13 @@ msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:587
 msgid "At least one field from (4), (5), (6), (7) is required"
+msgstr ""
+
+#: src/components/common/dataDefinitions/tabAttachments.js:5
+#: src/components/common/dataDefinitions/tabAttachments.js:6
+#: src/components/hat/TabsManager.vue:54
+#: src/components/letter/TabsManager.vue:51
+msgid "Attachments"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:120
@@ -350,6 +371,10 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:35
 msgid "Confirmed blanks"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:36
+msgid "Consumption (imports)"
 msgstr ""
 
 #: src/views/Dashboard.vue:74
@@ -491,27 +516,27 @@ msgstr ""
 msgid "Destruction"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:29
+#: src/components/art7/dataDefinitions/questionnaireFields.js:30
 msgid "Did your country destroy any ODSs in the reporting year?"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:13
+#: src/components/art7/dataDefinitions/questionnaireFields.js:14
 msgid "Did your country export or re-export CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:45
+#: src/components/art7/dataDefinitions/questionnaireFields.js:46
 msgid "Did your country generate the substance HFC23 in the reporting year from any facility that produces (manufactures) Annex C Group I or Annex F substances?"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:5
+#: src/components/art7/dataDefinitions/questionnaireFields.js:6
 msgid "Did your country import CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:37
+#: src/components/art7/dataDefinitions/questionnaireFields.js:38
 msgid "Did your country import from or export or re-export to non-Parties in the reporting year?"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:21
+#: src/components/art7/dataDefinitions/questionnaireFields.js:22
 msgid "Did your country produce CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
 msgstr ""
 
@@ -541,6 +566,11 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:455
 msgid "Edit %{name} substance"
+msgstr ""
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:38
+#: src/views/pages/Register.vue:22
+msgid "Email"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:702
@@ -643,6 +673,11 @@ msgstr ""
 msgid "Fill in this form only if your country imported or exported CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane or methyl bromide to non parties"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:37
+#: src/components/hat/dataDefinitions/form.js:142
+msgid "Fill in this form only if your country is listed in appendix II to decision XXVIII/2, has formally notified the Secretariat of its intention to use the high-ambient-temperature exemption, and produced HFCs for its own use in the subsectors contained in appendix I to decision XXVIII/2"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:328
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
 msgstr ""
@@ -661,6 +696,9 @@ msgid "Finalize"
 msgstr ""
 
 #: src/components/common/SubmissionInfo.vue:44
+#: src/components/common/dataDefinitions/tabFlags.js:9
+#: src/components/common/dataDefinitions/tabFlags.js:10
+#: src/components/common/dataDefinitions/tabFlags.js:12
 msgid "Flags"
 msgstr ""
 
@@ -688,8 +726,32 @@ msgstr ""
 msgid "For Destruction"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:187
+msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector. Should the column space be insufficient, further information can be provided in the “comments” box above."
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:727
 msgid "For feedstock use in your country"
+msgstr ""
+
+#: src/components/letter/dataDefinitions/form.js:26
+msgid "FOR TESTING ONLY Default Selected Option"
+msgstr ""
+
+#: src/components/letter/dataDefinitions/form.js:24
+msgid "FOR TESTING ONLY Please select some item"
+msgstr ""
+
+#: src/components/letter/dataDefinitions/form.js:27
+msgid "FOR TESTING ONLY This is another option"
+msgstr ""
+
+#: src/components/letter/dataDefinitions/form.js:25
+msgid "FOR TESTING ONLY This is First option"
+msgstr ""
+
+#: src/components/letter/dataDefinitions/form.js:28
+msgid "FOR TESTING ONLY This one is disabled"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:28
@@ -768,25 +830,29 @@ msgstr ""
 msgid "If a non-standard blend not listed above please indicate the blend name and the percentage by weight of each constituent controlled substance of the blend. Please pay attention to the percentage values before adding a new blend. For mistakes please contact secretariat to delete the blend."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:10
+#: src/components/art7/dataDefinitions/questionnaireFields.js:11
 msgid "If No, ignore data form 1 and go to question 1.2. If Yes, please complete data form 1. Please read Instruction I of the document carefully before filling in the form."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:18
+#: src/components/art7/dataDefinitions/questionnaireFields.js:19
 msgid "If No, ignore data form 2 and go to question 1.3. If Yes, please complete data form 2. Please read Instruction II of the document carefully before filling in the form."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:26
+#: src/components/art7/dataDefinitions/questionnaireFields.js:27
 msgid "If No, ignore data form 3 and go to question 1.4. If Yes, please complete data form 3. Please read Instruction III of the document carefully before filling in the form."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:34
+#: src/components/art7/dataDefinitions/questionnaireFields.js:35
 msgid "If No, ignore data form 4 and go to question 1.5. If Yes, please complete data form 4. Please read Instruction IV of the document carefully before filling in the form."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:42
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:50
+#: src/components/art7/dataDefinitions/questionnaireFields.js:43
+#: src/components/art7/dataDefinitions/questionnaireFields.js:51
 msgid "If No, ignore data form 5. If Yes, please complete data form 5. Please read Instruction V of the document carefully, and, particularly, the definition of non-Parties before filling in the form."
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:35
+msgid "Imports"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:204
@@ -799,6 +865,11 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:204
 msgid "in metric tonnes ( not ODP tonnes)"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:36
+#: src/components/hat/dataDefinitions/form.js:141
+msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:77
@@ -860,6 +931,10 @@ msgstr ""
 msgid "Last modified"
 msgstr ""
 
+#: src/components/common/dataDefinitions/tabSubInfo.js:39
+msgid "Legacy"
+msgstr ""
+
 #: src/components/common/form-components/DefaultAside.vue:24
 #: src/components/letter/TabsManager.vue:59
 msgid "Legend:"
@@ -915,11 +990,35 @@ msgstr ""
 msgid "New imports"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:73
+msgid "New imports for use in ducted commercial packaged (self-contained) air conditioners"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:65
+msgid "New imports for use in multi-split air conditioners"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:69
+msgid "New imports for use in split ducted air conditioners"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:172
+msgid "New production for use in ducted commercial packaged (self-contained) air conditioners"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:164
+msgid "New production for use in multi-split air conditioners"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:168
+msgid "New production for use in split ducted air conditioners"
+msgstr ""
+
 #: src/views/Dashboard.vue:462
 msgid "New version created"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:2
+#: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "No"
 msgstr ""
 
@@ -939,6 +1038,10 @@ msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:65
 msgid "ODP"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:89
+msgid "Only bulk gases for servicing of exempted equipment should be reported here, not gases imported inside pre-charged equipment."
 msgstr ""
 
 #: src/views/pages/Page404.vue:7
@@ -976,11 +1079,21 @@ msgstr ""
 msgid "Other/Unspecified"
 msgstr ""
 
+#: src/components/common/dataDefinitions/tabSubInfo.js:40
+msgid "Paper"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:4
+#: src/components/common/dataDefinitions/tabSubInfo.js:14
 #: src/views/Dashboard.vue:220 src/views/Dashboard.vue:245
 #: src/views/Dashboard.vue:20 src/views/Dashboard.vue:44
 #: src/views/Dashboard.vue:109
 msgid "Party"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:98
+#: src/components/hat/dataDefinitions/form.js:196
+msgid "Party Comments"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:10
@@ -1077,7 +1190,12 @@ msgstr ""
 msgid "Process agent uses"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:140
+msgid "Production"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:327
+#: src/components/hat/dataDefinitions/form.js:141
 msgid "PRODUCTION"
 msgstr ""
 
@@ -1214,6 +1332,14 @@ msgstr ""
 msgid "Quantity of New Substances Imported as Feedstock"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:87
+msgid "Quantity of new substances imported for approved subsectors to which the high-ambient-temperature exemption applies"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:185
+msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:289
 msgid "Quantity of Polyols"
 msgstr ""
@@ -1328,17 +1454,23 @@ msgstr ""
 msgid "Reporting channel"
 msgstr ""
 
+#: src/components/common/dataDefinitions/tabSubInfo.js:22
+msgid "Reporting Period"
+msgstr ""
+
 #: src/components/common/Header.vue:7
 msgid "Reset password"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:48
+#: src/components/common/dataDefinitions/tabSubInfo.js:8
 msgid "Respondents are requested to read the Introduction in section 2, the General Instructions in section 4 and the Definitions in section 5 carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:38
 #: src/components/art7/dataDefinitions/form.js:51
 #: src/components/art7/dataDefinitions/form.js:76
+#: src/components/hat/dataDefinitions/form.js:20
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
 
@@ -1374,6 +1506,11 @@ msgstr ""
 msgid "Secretariat"
 msgstr ""
 
+#: src/components/hat/dataDefinitions/form.js:104
+#: src/components/hat/dataDefinitions/form.js:202
+msgid "Secretariat Comments"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:589
 #: src/components/art7/dataDefinitions/form.js:653
 #: src/components/art7/dataDefinitions/form.js:658
@@ -1399,6 +1536,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:535
 #: src/components/art7/dataDefinitions/form.js:635
 #: src/components/art7/dataDefinitions/form.js:755
+#: src/components/hat/dataDefinitions/form.js:77
+#: src/components/hat/dataDefinitions/form.js:176
 msgid "Status"
 msgstr ""
 
@@ -1420,6 +1559,8 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:36
 #: src/components/common/SubmissionInfo.vue:19
+#: src/components/common/dataDefinitions/tabSubInfo.js:9
+#: src/components/common/dataDefinitions/tabSubInfo.js:10
 #: src/components/hat/TabsManager.vue:40
 #: src/components/letter/TabsManager.vue:44
 #: src/components/art7/TabsManager.vue:34
@@ -1447,6 +1588,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:519
 #: src/components/art7/dataDefinitions/form.js:603
 #: src/components/art7/dataDefinitions/labels.js:119
+#: src/components/hat/dataDefinitions/form.js:59
+#: src/components/hat/dataDefinitions/form.js:160
 #: src/components/letter/dataDefinitions/labels.js:104
 msgid "Substance"
 msgstr ""
@@ -1616,7 +1759,11 @@ msgstr ""
 msgid "View"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/questionnaire_fields.js:2
+#: src/components/common/dataDefinitions/tabSubInfo.js:37
+msgid "Web form"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "Yes"
 msgstr ""
 
@@ -1636,11 +1783,6 @@ msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:6
 msgid "Type to Search"
-msgstr ""
-
-#: src/components/hat/TabsManager.vue:54
-#: src/components/letter/TabsManager.vue:51
-msgid "Attachments"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:476
@@ -1670,10 +1812,6 @@ msgstr ""
 
 #: src/views/pages/Register.vue:15
 msgid "Username"
-msgstr ""
-
-#: src/views/pages/Register.vue:22
-msgid "Email"
 msgstr ""
 
 #: src/views/pages/Register.vue:29
