@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-16 15:22+0000\n"
+"POT-Creation-Date: 2019-01-16 18:05+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 msgid "A blend with this name already exists!"
 msgstr "Un melange avec ce nom existe déjà!"
 
-#: src/components/common/Header.vue:6
+#: src/components/common/Header.vue:15
 msgid "Account"
 msgstr ""
 
@@ -237,7 +237,7 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:92
+#: src/views/lookupTables/Parties.vue:96
 msgid "Article 5 party"
 msgstr ""
 
@@ -256,7 +256,7 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:120
+#: src/views/lookupTables/Parties.vue:124
 msgid "Beijing Amendment"
 msgstr ""
 
@@ -384,7 +384,7 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:112
+#: src/views/lookupTables/Parties.vue:116
 msgid "Copenhagen Amendment"
 msgstr ""
 
@@ -598,7 +598,7 @@ msgstr ""
 msgid "Essential use, other than L&A"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:88
+#: src/views/lookupTables/Parties.vue:92
 msgid "EU Member"
 msgstr ""
 
@@ -801,7 +801,7 @@ msgid "Has blanks"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:26
-#: src/views/lookupTables/Parties.vue:96
+#: src/views/lookupTables/Parties.vue:100
 msgid "HAT"
 msgstr ""
 
@@ -911,7 +911,7 @@ msgstr ""
 msgid "invalid"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:124
+#: src/views/lookupTables/Parties.vue:128
 msgid "Kigali Amendment"
 msgstr ""
 
@@ -947,11 +947,11 @@ msgstr ""
 msgid "Legend:"
 msgstr ""
 
-#: src/components/common/Header.vue:8
+#: src/components/common/Header.vue:17
 msgid "Logout"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:108
+#: src/views/lookupTables/Parties.vue:112
 msgid "London Amendment"
 msgstr ""
 
@@ -963,17 +963,17 @@ msgstr ""
 msgid "MinODP"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:116
+#: src/views/lookupTables/Parties.vue:120
 msgid "Montreal Amendment"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:104
+#: src/views/lookupTables/Parties.vue:108
 msgid "Montreal Protocol"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:124
 #: src/views/lookupTables/ControlledSubstances.vue:63
-#: src/views/lookupTables/Parties.vue:83 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/Parties.vue:87 src/views/lookupTables/Blends.vue:8
 #: src/views/lookupTables/ControlledSubstances.vue:13
 #: src/views/lookupTables/Parties.vue:8
 msgid "Name"
@@ -1465,7 +1465,7 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/components/common/Header.vue:7
+#: src/components/common/Header.vue:16
 msgid "Reset password"
 msgstr ""
 
@@ -1754,7 +1754,7 @@ msgstr ""
 msgid "Versions"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:100
+#: src/views/lookupTables/Parties.vue:104
 msgid "Vienna Convention"
 msgstr ""
 
