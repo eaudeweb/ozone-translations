@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-16 18:05+0000\n"
+"POT-Creation-Date: 2019-01-17 15:00+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -11,10 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: src/components/hat/FormTemplate.vue:279
-msgid "{{labels[comment_field]}}"
-msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:222
 msgid "A blend with this name already exists!"
@@ -149,7 +145,7 @@ msgstr ""
 msgid "Amout generated and captured"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:59
+#: src/views/lookupTables/ControlledSubstances.vue:60
 msgid "Annex"
 msgstr ""
 
@@ -235,7 +231,7 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:96
+#: src/views/lookupTables/Parties.vue:95
 msgid "Article 5 party"
 msgstr ""
 
@@ -254,7 +250,7 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:124
+#: src/views/lookupTables/Parties.vue:123
 msgid "Beijing Amendment"
 msgstr ""
 
@@ -330,7 +326,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:25
 #: src/components/art7/TabsManager.vue:104
 #: src/components/hat/FormTemplate.vue:287
-#: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:96
+#: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:95
 msgid "Close"
 msgstr ""
 
@@ -382,7 +378,7 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:116
+#: src/views/lookupTables/Parties.vue:115
 msgid "Copenhagen Amendment"
 msgstr ""
 
@@ -502,7 +498,7 @@ msgid "Delete Submission"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:221
-#: src/components/hat/TabsManager.vue:188
+#: src/components/hat/TabsManager.vue:187
 #: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:491
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
@@ -596,7 +592,7 @@ msgstr ""
 msgid "Essential use, other than L&A"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:92
+#: src/views/lookupTables/Parties.vue:91
 msgid "EU Member"
 msgstr ""
 
@@ -769,7 +765,7 @@ msgstr ""
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:67
+#: src/views/lookupTables/ControlledSubstances.vue:68
 #: src/views/lookupTables/ControlledSubstances.vue:18
 msgid "Formula"
 msgstr ""
@@ -789,7 +785,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
-#: src/views/lookupTables/ControlledSubstances.vue:61
+#: src/views/lookupTables/ControlledSubstances.vue:62
 #: src/views/lookupTables/ControlledSubstances.vue:8
 msgid "Group"
 msgstr ""
@@ -799,7 +795,7 @@ msgid "Has blanks"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:26
-#: src/views/lookupTables/Parties.vue:100
+#: src/views/lookupTables/Parties.vue:99
 msgid "HAT"
 msgstr ""
 
@@ -907,7 +903,7 @@ msgstr ""
 msgid "invalid"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:128
+#: src/views/lookupTables/Parties.vue:127
 msgid "Kigali Amendment"
 msgstr ""
 
@@ -947,29 +943,29 @@ msgstr ""
 msgid "Logout"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:112
+#: src/views/lookupTables/Parties.vue:111
 msgid "London Amendment"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:73
+#: src/views/lookupTables/ControlledSubstances.vue:74
 msgid "MaxODP"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:71
+#: src/views/lookupTables/ControlledSubstances.vue:72
 msgid "MinODP"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:120
+#: src/views/lookupTables/Parties.vue:119
 msgid "Montreal Amendment"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:108
+#: src/views/lookupTables/Parties.vue:107
 msgid "Montreal Protocol"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:124
-#: src/views/lookupTables/ControlledSubstances.vue:63
-#: src/views/lookupTables/Parties.vue:87 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:126
+#: src/views/lookupTables/ControlledSubstances.vue:64
+#: src/views/lookupTables/Parties.vue:86 src/views/lookupTables/Blends.vue:8
 #: src/views/lookupTables/ControlledSubstances.vue:13
 #: src/views/lookupTables/Parties.vue:8
 msgid "Name"
@@ -1029,7 +1025,7 @@ msgstr ""
 msgid "Nonparty"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:69
+#: src/views/lookupTables/ControlledSubstances.vue:70
 msgid "Number of Isomers"
 msgstr ""
 
@@ -1039,7 +1035,7 @@ msgstr ""
 msgid "Obligation"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:65
+#: src/views/lookupTables/ControlledSubstances.vue:66
 msgid "ODP"
 msgstr ""
 
@@ -1111,7 +1107,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:65
 #: src/components/letter/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:99
-#: src/views/lookupTables/Blends.vue:127
+#: src/views/lookupTables/Blends.vue:129
 msgid "Percentage"
 msgstr ""
 
@@ -1138,7 +1134,7 @@ msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:213
-#: src/components/hat/TabsManager.vue:180
+#: src/components/hat/TabsManager.vue:179
 #: src/components/letter/TabsManager.vue:185
 msgid "Please save before submitting"
 msgstr ""
@@ -1750,7 +1746,7 @@ msgstr ""
 msgid "Versions"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:104
+#: src/views/lookupTables/Parties.vue:103
 msgid "Vienna Convention"
 msgstr ""
 
@@ -1767,7 +1763,7 @@ msgid "Yes"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:203
-#: src/components/hat/TabsManager.vue:170
+#: src/components/hat/TabsManager.vue:169
 #: src/components/letter/TabsManager.vue:175
 msgid "You cannot submit and empty form"
 msgstr ""
@@ -1781,7 +1777,7 @@ msgid "Annex groups"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:99
-#: src/components/hat/TabsManager.vue:92
+#: src/components/hat/TabsManager.vue:91
 #: src/components/letter/TabsManager.vue:104
 msgid "Submission versions"
 msgstr ""

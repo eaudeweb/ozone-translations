@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-16 18:05+0000\n"
+"POT-Creation-Date: 2019-01-17 15:00+0000\n"
 "PO-Revision-Date: 2019-01-17 09:58+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -13,10 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
-
-#: src/components/hat/FormTemplate.vue:279
-msgid "{{labels[comment_field]}}"
-msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:222
 msgid "A blend with this name already exists!"
@@ -151,7 +147,7 @@ msgstr "фиктивный текст"
 msgid "Amout generated and captured"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:59
+#: src/views/lookupTables/ControlledSubstances.vue:60
 msgid "Annex"
 msgstr "фиктивный текст"
 
@@ -237,7 +233,7 @@ msgstr "фиктивный текст"
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:96
+#: src/views/lookupTables/Parties.vue:95
 msgid "Article 5 party"
 msgstr "фиктивный текст"
 
@@ -256,7 +252,7 @@ msgstr "фиктивный текст"
 msgid "Attachments"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:124
+#: src/views/lookupTables/Parties.vue:123
 msgid "Beijing Amendment"
 msgstr "фиктивный текст"
 
@@ -332,7 +328,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:25
 #: src/components/art7/TabsManager.vue:104
 #: src/components/hat/FormTemplate.vue:287
-#: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:96
+#: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:95
 msgid "Close"
 msgstr "фиктивный текст"
 
@@ -384,7 +380,7 @@ msgstr "фиктивный текст"
 msgid "Continue"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:116
+#: src/views/lookupTables/Parties.vue:115
 msgid "Copenhagen Amendment"
 msgstr "фиктивный текст"
 
@@ -504,7 +500,7 @@ msgid "Delete Submission"
 msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:221
-#: src/components/hat/TabsManager.vue:188
+#: src/components/hat/TabsManager.vue:187
 #: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:491
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr "фиктивный текст"
@@ -598,7 +594,7 @@ msgstr "фиктивный текст"
 msgid "Essential use, other than L&A"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:92
+#: src/views/lookupTables/Parties.vue:91
 msgid "EU Member"
 msgstr "фиктивный текст"
 
@@ -771,7 +767,7 @@ msgstr "фиктивный текст"
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:67
+#: src/views/lookupTables/ControlledSubstances.vue:68
 #: src/views/lookupTables/ControlledSubstances.vue:18
 msgid "Formula"
 msgstr "фиктивный текст"
@@ -791,7 +787,7 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
-#: src/views/lookupTables/ControlledSubstances.vue:61
+#: src/views/lookupTables/ControlledSubstances.vue:62
 #: src/views/lookupTables/ControlledSubstances.vue:8
 msgid "Group"
 msgstr "фиктивный текст"
@@ -801,7 +797,7 @@ msgid "Has blanks"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:26
-#: src/views/lookupTables/Parties.vue:100
+#: src/views/lookupTables/Parties.vue:99
 msgid "HAT"
 msgstr "фиктивный текст"
 
@@ -909,7 +905,7 @@ msgstr "фиктивный текст"
 msgid "invalid"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:128
+#: src/views/lookupTables/Parties.vue:127
 msgid "Kigali Amendment"
 msgstr "фиктивный текст"
 
@@ -949,29 +945,29 @@ msgstr "фиктивный текст"
 msgid "Logout"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:112
+#: src/views/lookupTables/Parties.vue:111
 msgid "London Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:73
+#: src/views/lookupTables/ControlledSubstances.vue:74
 msgid "MaxODP"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:71
+#: src/views/lookupTables/ControlledSubstances.vue:72
 msgid "MinODP"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:120
+#: src/views/lookupTables/Parties.vue:119
 msgid "Montreal Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:108
+#: src/views/lookupTables/Parties.vue:107
 msgid "Montreal Protocol"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:124
-#: src/views/lookupTables/ControlledSubstances.vue:63
-#: src/views/lookupTables/Parties.vue:87 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:126
+#: src/views/lookupTables/ControlledSubstances.vue:64
+#: src/views/lookupTables/Parties.vue:86 src/views/lookupTables/Blends.vue:8
 #: src/views/lookupTables/ControlledSubstances.vue:13
 #: src/views/lookupTables/Parties.vue:8
 msgid "Name"
@@ -1031,7 +1027,7 @@ msgstr "фиктивный текст"
 msgid "Nonparty"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:69
+#: src/views/lookupTables/ControlledSubstances.vue:70
 msgid "Number of Isomers"
 msgstr "фиктивный текст"
 
@@ -1041,7 +1037,7 @@ msgstr "фиктивный текст"
 msgid "Obligation"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:65
+#: src/views/lookupTables/ControlledSubstances.vue:66
 msgid "ODP"
 msgstr "фиктивный текст"
 
@@ -1113,7 +1109,7 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:65
 #: src/components/letter/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:99
-#: src/views/lookupTables/Blends.vue:127
+#: src/views/lookupTables/Blends.vue:129
 msgid "Percentage"
 msgstr "фиктивный текст"
 
@@ -1140,7 +1136,7 @@ msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:213
-#: src/components/hat/TabsManager.vue:180
+#: src/components/hat/TabsManager.vue:179
 #: src/components/letter/TabsManager.vue:185
 msgid "Please save before submitting"
 msgstr "фиктивный текст"
@@ -1752,7 +1748,7 @@ msgstr "фиктивный текст"
 msgid "Versions"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:104
+#: src/views/lookupTables/Parties.vue:103
 msgid "Vienna Convention"
 msgstr "фиктивный текст"
 
@@ -1769,7 +1765,7 @@ msgid "Yes"
 msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:203
-#: src/components/hat/TabsManager.vue:170
+#: src/components/hat/TabsManager.vue:169
 #: src/components/letter/TabsManager.vue:175
 msgid "You cannot submit and empty form"
 msgstr "фиктивный текст"
@@ -1783,7 +1779,7 @@ msgid "Annex groups"
 msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:99
-#: src/components/hat/TabsManager.vue:92
+#: src/components/hat/TabsManager.vue:91
 #: src/components/letter/TabsManager.vue:104
 msgid "Submission versions"
 msgstr "фиктивный текст"
