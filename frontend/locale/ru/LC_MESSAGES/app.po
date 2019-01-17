@@ -3,14 +3,18 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-16 18:05+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-01-17 09:58+0000\n"
+"Last-Translator: secretariat <secretariat@example.com>\n"
+"Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
+"frontend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: src/components/hat/FormTemplate.vue:279
 msgid "{{labels[comment_field]}}"
@@ -18,198 +22,198 @@ msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:222
 msgid "A blend with this name already exists!"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/Header.vue:15
 msgid "Account"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:231 src/views/Dashboard.vue:254
 msgid "Actions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:13
 #: src/components/common/form-components/AddBlend.vue:61
 #: src/components/common/form-components/CloneField.vue:6
 msgid "Add %{length} rows"
-msgstr ""
+msgstr "фиктивный %{length} текст"
 
 #: src/components/common/form-components/AddBlend.vue:68
 #: src/components/common/form-components/AddBlend.vue:73
 msgid "Add custom blend"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:79
 msgid "Add facility"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:69
 msgid "Add new blend"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:4
 msgid "Add predefined blends"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:117
 msgid "Add row"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:78
 msgid "Add substance"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:3
 msgid "Add substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:142
 msgid "Against each substance exported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:278
 msgid "Against each substance imported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:389
 #: src/components/art7/dataDefinitions/form.js:420
 msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:96
 msgid "All submissions (%{totalRows} records)"
-msgstr ""
+msgstr "фиктивный (%{totalRows} текст)"
 
 #: src/components/art7/FormTemplate.vue:460
 #: src/components/hat/FormTemplate.vue:241
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:163
 msgid "Ammount generated and caputred for all uses (3a) must be greater or equal to (3b) + (3c)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:127
 msgid "Amount [generated] (tonnes)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:110
 msgid "Amount [Generated] (tonnes)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:774
 msgid "Amount converted to other substances in the facility. The sum of these amounts is not to be reported under data form 3"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:129
 msgid "Amount destroyed"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:112
 msgid "Amount Destroyed"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:778
 msgid "Amount destroyed in the facility"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:739
 msgid "Amount destroyed without prior capture"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:130
 msgid "Amount of emissions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:113
 msgid "Amount of Emissions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:743
 msgid "Amount of generated emissions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:128
 msgid "Amount used for feedstock"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:111
 msgid "Amount Used for Feedstock"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:735
 msgid "Amount used for feedstock without prior capture"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:414
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:768
 msgid "Amout generated and captured"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/ControlledSubstances.vue:59
 msgid "Annex"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:588
 msgid "Annex A, B, C and E substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:327
 msgid "Annex A, B, C, E and F substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:36
 #: src/components/hat/dataDefinitions/form.js:141
 msgid "Annex F substances for exempted subsectors"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:36
 msgid "Annex group A1"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:37
 msgid "Annex group A2"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:38
 msgid "Annex group B1"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:39
 msgid "Annex group B2"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:40
 msgid "Annex group B3"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:41
 msgid "Annex group C1"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:42
 msgid "Annex group C2"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:43
 msgid "Annex group C3"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:44
 msgid "Annex group E"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:45
 msgid "Annex group F"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:53
 #: src/components/hat/dataDefinitions/form.js:156
 msgid "Annex/group"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:77
 #: src/components/art7/dataDefinitions/form.js:80
@@ -220,47 +224,47 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:592
 #: src/components/art7/dataDefinitions/form.js:707
 msgid "Annexes A, B, C and E substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/store/actions.js:32
 msgid "Another submission already exists in Data Entry stage."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:41
 msgid "API"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:129
 #: src/components/art7/dataDefinitions/form.js:265
 msgid "Applicable to all substances, including those contained in mixtures and blends."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:96
 msgid "Article 5 party"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:25
 msgid "Article 7"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:587
 msgid "At least one field from (4), (5), (6), (7) is required"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabAttachments.js:5
 #: src/components/common/dataDefinitions/tabAttachments.js:6
 #: src/components/hat/TabsManager.vue:54
 #: src/components/letter/TabsManager.vue:51
 msgid "Attachments"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:124
 msgid "Beijing Amendment"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:94
 msgid "blend"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:8
 #: src/components/art7/dataDefinitions/labels.js:41
@@ -272,11 +276,11 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:34
 #: src/components/letter/dataDefinitions/labels.js:105
 msgid "Blend"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:308
 msgid "Blend created"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:306
 #: src/components/common/form-components/DefaultAside.vue:12
@@ -284,47 +288,47 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:106
 #: src/components/common/mixins/FormTemplateMixin.vue:268
 msgid "Blends"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:189
 msgid "Can't find instructions for current form"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:15
 #: src/components/common/form-components/AddBlend.vue:120
 msgid "Cancel"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:437
 msgid "Captured for all uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:445
 msgid "Captured for destruction"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:441
 msgid "Captured for feedstock uses within your country"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:466
 #: src/components/hat/FormTemplate.vue:247
 msgid "Change substance"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:32
 msgid "Checked blanks"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:54 src/views/Dashboard.vue:119
 #: src/views/lookupTables/Blends.vue:35
 #: src/views/lookupTables/ControlledSubstances.vue:24
 msgid "Clear"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:22
 msgid "Click to edit"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:546
 #: src/components/art7/TabsManager.vue:25
@@ -332,17 +336,17 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:287
 #: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:96
 msgid "Close"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:462
 msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:83
 #: src/components/art7/FormTemplate.vue:430
 #: src/components/hat/FormTemplate.vue:210
 msgid "Comments"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:37
 #: src/components/art7/dataDefinitions/labels.js:70
@@ -351,7 +355,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:122
 #: src/components/art7/dataDefinitions/labels.js:133
 msgid "Comments (Party)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:36
 #: src/components/art7/dataDefinitions/labels.js:71
@@ -360,65 +364,65 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:123
 #: src/components/art7/dataDefinitions/labels.js:134
 msgid "Comments (Secretariat)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:111 src/views/lookupTables/Blends.vue:22
 msgid "Components"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:45
 msgid "Composition of"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:35
 msgid "Confirmed blanks"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:36
 msgid "Consumption (imports)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:74
 msgid "Continue"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:116
 msgid "Copenhagen Amendment"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/letter/dataDefinitions/labels.js:130
 msgid "Country"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:92
 #: src/components/art7/dataDefinitions/labels.js:46
 msgid "Country of destination of exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:37
 msgid "Country of Destination of Exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:23
 msgid "Create"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:8
 msgid "Create a submission by specifying the obligation, the reporting period and the party name. All fields are mandatory."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:38
 msgid "Create Account"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:6
 msgid "Create submission"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:9
 msgid "Create your account"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:18
 #: src/components/art7/dataDefinitions/labels.js:19
@@ -433,36 +437,36 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:66
 #: src/components/letter/dataDefinitions/labels.js:67
 msgid "Critical use"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:38
 msgid "Current State"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:31
 msgid "Data entry submissions (%{totalRows} records)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/FormNotFound.vue:3
 msgid "Data form for this obligation is not available yet"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:703
 msgid "DATA ON QUANTITY OF EMISSIONS OF HFC 23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/Save.vue:16
 msgid "Data was not saved"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:22
 #: src/components/letter/dataDefinitions/labels.js:134
 msgid "Date"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:23
 msgid "Date of submission"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:32
 #: src/components/art7/dataDefinitions/labels.js:51
@@ -473,113 +477,113 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:57
 #: src/components/letter/dataDefinitions/labels.js:85
 msgid "Decision"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:360
 #: src/components/art7/dataDefinitions/form.js:453
 msgid "Decision / type of use"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:112
 #: src/components/art7/dataDefinitions/form.js:248
 msgid "Decision / type of use or remark"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/Attachments.vue:28
 #: src/components/hat/FormTemplate.vue:85
 #: src/components/hat/FormTemplate.vue:147 src/views/Dashboard.vue:171
 msgid "Delete"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/Attachments.vue:12
 msgid "Delete all"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:92
 #: src/components/hat/TabsManager.vue:85
 #: src/components/letter/TabsManager.vue:97
 msgid "Delete Submission"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:221
 #: src/components/hat/TabsManager.vue:188
 #: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:491
 msgid "Deleting the submission is ireversible. Are you sure ?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:14
 #: src/components/letter/dataDefinitions/labels.js:127
 msgid "Designation"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:504
 msgid "Destruction"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:30
 msgid "Did your country destroy any ODSs in the reporting year?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:14
 msgid "Did your country export or re-export CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:46
 msgid "Did your country generate the substance HFC23 in the reporting year from any facility that produces (manufactures) Annex C Group I or Annex F substances?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:6
 msgid "Did your country import CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:38
 msgid "Did your country import from or export or re-export to non-Parties in the reporting year?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:22
 msgid "Did your country produce CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:137
 #: src/components/art7/dataDefinitions/form.js:273
 msgid "Do not deduct from total production in column 3 of data form 3 (data on production)."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/mixins/DataManagerMixin.vue:23
 #: src/components/common/mixins/DataManagerMixin.vue:24
 msgid "Do you really want to leave? you have unsaved changes!"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:21
 #: src/components/letter/dataDefinitions/labels.js:133
 msgid "E-mail"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/FormTemplate.vue:79
 #: src/components/hat/FormTemplate.vue:141 src/views/Dashboard.vue:139
 msgid "Edit"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:456
 msgid "Edit %{name} blend"
-msgstr ""
+msgstr "фиктивный %{name} текст"
 
 #: src/components/art7/FormTemplate.vue:455
 msgid "Edit %{name} substance"
-msgstr ""
+msgstr "фиктивный %{name} текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:38
 #: src/views/pages/Register.vue:22
 msgid "Email"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:702
 msgid "Emissions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/services/tableRowConstructorService.js:131
 msgid "error 1 test"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:16
 #: src/components/art7/dataDefinitions/labels.js:17
@@ -594,72 +598,72 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:68
 #: src/components/letter/dataDefinitions/labels.js:69
 msgid "Essential use, other than L&A"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:92
 msgid "EU Member"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:229
 #: src/components/art7/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:8
 msgid "Exporting party for quantities reported as imports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:607
 msgid "Exporting party for quantities reported as imports <br> <b>OR</b> <br> Country of destination of exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:121
 msgid "Exporting party for quantities reported as imports or country of destination of exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:106
 msgid "Exporting party for quantities reported as imports OR Country of destination of exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:75
 msgid "Exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:77
 msgid "EXPORTS"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:44
 msgid "facebook"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:715
 #: src/components/art7/dataDefinitions/labels.js:126
 #: src/components/letter/dataDefinitions/labels.js:109
 msgid "Facility name or identifier"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/store/actions.js:52
 msgid "Failed to create submission"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/store/actions.js:208
 msgid "Failed to delete submission"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:20
 #: src/components/letter/dataDefinitions/labels.js:132
 msgid "Fax"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:506
 msgid "Fill in this form only if your country destroyed CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:705
 msgid "Fill in this form only if your country generated HFC 23 from any facility that produced (manufactured) Annex C Group I or Annex F substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:205
 msgid "Fill in this form only if your country imported CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:74
 #: src/components/art7/dataDefinitions/form.js:202
@@ -667,116 +671,116 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:503
 #: src/components/art7/dataDefinitions/form.js:586
 msgid "Fill in this form only if your country imported CFCs, HCFCs, HBFCs, halons, methyl chloroform, carbon tetrachloride, bromochloromethane, or methyl bromide"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:590
 msgid "Fill in this form only if your country imported or exported CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane or methyl bromide to non parties"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:37
 #: src/components/hat/dataDefinitions/form.js:142
 msgid "Fill in this form only if your country is listed in appendix II to decision XXVIII/2, has formally notified the Secretariat of its intention to use the high-ambient-temperature exemption, and produced HFCs for its own use in the subsectors contained in appendix I to decision XXVIII/2"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:328
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:4
 msgid "Filter annex groups in order to select one or more substances. A row for each substance will be added in substances table. Substances can be deleted using table controls."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:5
 msgid "Filter by blend types in order to select one or more blends. A row for each blend will be added in blends table. Blends can be deleted using table controls."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:121
 msgid "Finalize"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionInfo.vue:44
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
 msgid "Flags"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:723
 msgid "For all uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:473
 msgid "For annex E, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + QPS"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:479
 msgid "For annex F, total production (3) should be >= feedstock (4) + exempted, critical, other (5)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:485
 msgid "For annex F2, total production (3) should be >= feedstock (4a) + destruction (4b) + exempted, critical, other (5)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:467
 msgid "For annexes A-C, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + Article 5 countries (7)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:731
 msgid "For Destruction"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:187
 msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector. Should the column space be insufficient, further information can be provided in the “comments” box above."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:727
 msgid "For feedstock use in your country"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/form.js:26
 msgid "FOR TESTING ONLY Default Selected Option"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/form.js:24
 msgid "FOR TESTING ONLY Please select some item"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/form.js:27
 msgid "FOR TESTING ONLY This is another option"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/form.js:25
 msgid "FOR TESTING ONLY This is First option"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/form.js:28
 msgid "FOR TESTING ONLY This one is disabled"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:28
 #: src/components/letter/TabsManager.vue:63
 msgid "Form is curently being saved"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:31
 #: src/components/letter/TabsManager.vue:66
 msgid "Form save failed. Please check the validation"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:34
 #: src/components/letter/TabsManager.vue:69
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/ControlledSubstances.vue:67
 #: src/views/lookupTables/ControlledSubstances.vue:18
 msgid "Formula"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/FormNotFound.vue:6
 msgid "Go back to dashboard"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:84
 #: src/components/art7/dataDefinitions/form.js:221
@@ -792,20 +796,20 @@ msgstr ""
 #: src/views/lookupTables/ControlledSubstances.vue:61
 #: src/views/lookupTables/ControlledSubstances.vue:8
 msgid "Group"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:33
 msgid "Has blanks"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:26
 #: src/views/lookupTables/Parties.vue:100
 msgid "HAT"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:410
 msgid "HFC-23 generation that is captured, whether for destruction, feedstock or any other use, shall be reported in this form."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:20
 #: src/components/art7/dataDefinitions/labels.js:21
@@ -820,57 +824,57 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:70
 #: src/components/letter/dataDefinitions/labels.js:71
 msgid "High ambient temperature"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Page500.vue:7
 msgid "Houston, we have a problem!"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:74
 msgid "If a non-standard blend not listed above please indicate the blend name and the percentage by weight of each constituent controlled substance of the blend. Please pay attention to the percentage values before adding a new blend. For mistakes please contact secretariat to delete the blend."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:11
 msgid "If No, ignore data form 1 and go to question 1.2. If Yes, please complete data form 1. Please read Instruction I of the document carefully before filling in the form."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:19
 msgid "If No, ignore data form 2 and go to question 1.3. If Yes, please complete data form 2. Please read Instruction II of the document carefully before filling in the form."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:27
 msgid "If No, ignore data form 3 and go to question 1.4. If Yes, please complete data form 3. Please read Instruction III of the document carefully before filling in the form."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:35
 msgid "If No, ignore data form 4 and go to question 1.5. If Yes, please complete data form 4. Please read Instruction IV of the document carefully before filling in the form."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:43
 #: src/components/art7/dataDefinitions/questionnaireFields.js:51
 msgid "If No, ignore data form 5. If Yes, please complete data form 5. Please read Instruction V of the document carefully, and, particularly, the definition of non-Parties before filling in the form."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:35
 msgid "Imports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:204
 msgid "IMPORTS"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:588
 msgid "IMPORTS FROM AND/OR EXPORTS TO NON PARTIES"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:204
 msgid "in metric tonnes ( not ODP tonnes)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:36
 #: src/components/hat/dataDefinitions/form.js:141
 msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:77
 #: src/components/art7/dataDefinitions/form.js:79
@@ -880,36 +884,36 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:591
 #: src/components/art7/dataDefinitions/form.js:706
 msgid "in metric tonnes (not ODP tonnes)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:703
 msgid "In metric tons, not ODP or CO2-equivalent tonnes."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:327
 #: src/components/art7/dataDefinitions/form.js:588
 msgid "in tonnes (not ODP or GWP tonnes)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:505
 msgid "in tonnes (not ODP or GWP tonnes)<br>Annex A, B, C, E and F substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:78
 msgid "Includes re exports. Ref. decisions IV/14 and XVII/16, paragraph 4."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:704
 msgid "Information in columns 2 to 5 is excluded from the reporting requirements under Article 7 of the Protocol and is provided on a voluntary basis"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:28
 msgid "invalid"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:128
 msgid "Kigali Amendment"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:24
 #: src/components/art7/dataDefinitions/labels.js:25
@@ -924,48 +928,48 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:74
 #: src/components/letter/dataDefinitions/labels.js:75
 msgid "Laboratory and analytical"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:229 src/views/Dashboard.vue:251
 msgid "Last modified"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:35
 msgid "Last Modified"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:39
 msgid "Legacy"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:24
 #: src/components/letter/TabsManager.vue:59
 msgid "Legend:"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/Header.vue:17
 msgid "Logout"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:112
 msgid "London Amendment"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/ControlledSubstances.vue:73
 msgid "MaxODP"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/ControlledSubstances.vue:71
 msgid "MinODP"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:120
 msgid "Montreal Amendment"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:108
 msgid "Montreal Protocol"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:124
 #: src/views/lookupTables/ControlledSubstances.vue:63
@@ -973,96 +977,96 @@ msgstr ""
 #: src/views/lookupTables/ControlledSubstances.vue:13
 #: src/views/lookupTables/Parties.vue:8
 msgid "Name"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/letter/dataDefinitions/labels.js:126
 msgid "Name of reporting officer"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:96
 #: src/components/art7/dataDefinitions/form.js:232
 msgid "New"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:619
 msgid "New exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:611
 msgid "New imports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:73
 msgid "New imports for use in ducted commercial packaged (self-contained) air conditioners"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:65
 msgid "New imports for use in multi-split air conditioners"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:69
 msgid "New imports for use in split ducted air conditioners"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:172
 msgid "New production for use in ducted commercial packaged (self-contained) air conditioners"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:164
 msgid "New production for use in multi-split air conditioners"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:168
 msgid "New production for use in split ducted air conditioners"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:462
 msgid "New version created"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "No"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:587
 msgid "Nonparty"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/ControlledSubstances.vue:69
 msgid "Number of Isomers"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:214 src/views/Dashboard.vue:239
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:39
 #: src/views/Dashboard.vue:106
 msgid "Obligation"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/ControlledSubstances.vue:65
 msgid "ODP"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:89
 msgid "Only bulk gases for servicing of exempted equipment should be reported here, not gases imported inside pre-charged equipment."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Page404.vue:7
 msgid "Oops! You're lost."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:15
 #: src/components/letter/dataDefinitions/labels.js:128
 msgid "Organization"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/App.vue:12
 msgid "ORS (Ozone online reporting system)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:109 src/views/lookupTables/Blends.vue:8
 msgid "Other Names"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:28
 #: src/components/art7/dataDefinitions/labels.js:29
@@ -1071,7 +1075,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:89
 #: src/components/art7/dataDefinitions/labels.js:90
 msgid "Other/unspecified"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:25
 #: src/components/letter/dataDefinitions/labels.js:26
@@ -1080,11 +1084,11 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:78
 #: src/components/letter/dataDefinitions/labels.js:79
 msgid "Other/Unspecified"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:40
 msgid "Paper"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
@@ -1092,12 +1096,12 @@ msgstr ""
 #: src/views/Dashboard.vue:20 src/views/Dashboard.vue:44
 #: src/views/Dashboard.vue:109
 msgid "Party"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:98
 #: src/components/hat/dataDefinitions/form.js:196
 msgid "Party Comments"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:10
 #: src/components/art7/dataDefinitions/labels.js:42
@@ -1113,70 +1117,70 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:99
 #: src/views/lookupTables/Blends.vue:127
 msgid "Percentage"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:217 src/views/Dashboard.vue:242
 #: src/views/Dashboard.vue:15
 msgid "Period"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/letter/dataDefinitions/labels.js:131
 msgid "Phone"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:146
 msgid "Please complete the \"Amount of generated emissions (6)\" field"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:142
 msgid "Please complete the \"Facility name or identifier (1)\" field"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:528
 msgid "Please complete the \"Quantity destroyed (3)\" field"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:213
 #: src/components/hat/TabsManager.vue:180
 #: src/components/letter/TabsManager.vue:185
 msgid "Please save before submitting"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/mixins/FormTemplateMixin.vue:39
 #: src/components/common/mixins/FormTemplateMixin.vue:40
 msgid "Please use the form on the right sidebar to add blends"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:577
 #: src/components/common/mixins/FormTemplateMixin.vue:25
 #: src/components/common/mixins/FormTemplateMixin.vue:26
 msgid "Please use the form on the right sidebar to add substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:30
 #: src/components/art7/dataDefinitions/labels.js:31
 #: src/components/art7/dataDefinitions/labels.js:44
 #: src/components/art7/dataDefinitions/labels.js:45
 msgid "Polyols"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:171
 msgid "Polyols quantity"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:16
 msgid "Postal adddress"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:129
 msgid "Postal Adddress"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:7
 #: src/components/letter/dataDefinitions/labels.js:120
 msgid "Process"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:22
 #: src/components/art7/dataDefinitions/labels.js:23
@@ -1191,67 +1195,67 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:72
 #: src/components/letter/dataDefinitions/labels.js:73
 msgid "Process agent uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:140
 msgid "Production"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:327
 #: src/components/hat/dataDefinitions/form.js:141
 msgid "PRODUCTION"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:387
 #: src/components/art7/dataDefinitions/form.js:418
 #: src/components/art7/dataDefinitions/labels.js:95
 #: src/components/letter/dataDefinitions/labels.js:84
 msgid "Production for exempted essential, critical or other uses within your country"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:352
 #: src/components/art7/dataDefinitions/labels.js:92
 #: src/components/letter/dataDefinitions/labels.js:81
 msgid "Production for feedstock uses within your country"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:93
 msgid "Production for supply to article 5 countries in accordance with articles 2a 2h and 5"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:364
 #: src/components/letter/dataDefinitions/labels.js:82
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/labels.js:13
 msgid "Proprietatea 1 for testing"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/labels.js:14
 msgid "Proprietatea 2 for testing"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/labels.js:15
 msgid "Proprietatea 3 for testing"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/labels.js:22
 msgid "Proprietatea1 for testing"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/labels.js:23
 msgid "Proprietatea2 for testing"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/labels.js:24
 msgid "Proprietatea3 for testing"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:41
 #: src/components/common/dataDefinitions/labels.js:31
 msgid "Provisional"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:108
 #: src/components/art7/dataDefinitions/form.js:244
@@ -1264,92 +1268,92 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:58
 #: src/components/letter/dataDefinitions/labels.js:86
 msgid "Quantity"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:523
 #: src/components/art7/dataDefinitions/labels.js:105
 #: src/components/letter/dataDefinitions/labels.js:92
 msgid "Quantity destroyed"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:656
 msgid "Quantity of exports to non-parties"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:117
 #: src/components/letter/dataDefinitions/labels.js:102
 msgid "Quantity of exports to non-parties (new)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:118
 #: src/components/letter/dataDefinitions/labels.js:103
 msgid "Quantity of exports to non-parties (recovered)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:651
 msgid "Quantity of imports from non-parties"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:115
 #: src/components/letter/dataDefinitions/labels.js:100
 msgid "Quantity of imports from non-parties (new)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:116
 #: src/components/letter/dataDefinitions/labels.js:101
 msgid "Quantity of imports from non-parties (recovered)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:153
 #: src/components/art7/FormTemplate.vue:272
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:140
 #: src/components/art7/dataDefinitions/labels.js:50
 msgid "Quantity of new substance exported for exempted essential, critical, high-ambient-temperature or other uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:41
 msgid "Quantity of new substance Exported for exempted essential, critical, high-ambient-temperature or other uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:276
 #: src/components/art7/dataDefinitions/labels.js:15
 #: src/components/letter/dataDefinitions/labels.js:12
 msgid "Quantity of new substance imported for exempted essential, critical, high-ambient-temperature or other uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:104
 msgid "Quantity of new substances exported as feedstock"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:241
 #: src/components/art7/dataDefinitions/labels.js:14
 #: src/components/art7/dataDefinitions/labels.js:49
 msgid "Quantity of new substances imported as feedstock"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:40
 msgid "Quantity of New Substances Imported as Feedstock"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:87
 msgid "Quantity of new substances imported for approved subsectors to which the high-ambient-temperature exemption applies"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:185
 msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:289
 msgid "Quantity of Polyols"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:505
 msgid "QUANTITY OF SUBSTANCES DESTROYED"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:26
 #: src/components/art7/dataDefinitions/labels.js:27
@@ -1364,39 +1368,39 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:76
 #: src/components/letter/dataDefinitions/labels.js:77
 msgid "Quarantine and pre-shipment applications"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:49
 #: src/components/art7/dataDefinitions/form.js:50
 msgid "Questionnaire"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:119
 msgid "Recall"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:100
 #: src/components/art7/dataDefinitions/form.js:236
 msgid "Recovered and reclaimed"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:623
 msgid "Recovered and reclaimed exports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:615
 msgid "Recovered and reclaimed imports"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:765
 #: src/components/art7/dataDefinitions/form.js:769
 msgid "Refers to the total amount whether captured or not. The sum of these amounts is not to be reported under data form 3"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:8
 msgid "Register"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:10
 #: src/components/common/dataDefinitions/labels.js:11
@@ -1405,13 +1409,13 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:124
 #: src/components/letter/dataDefinitions/labels.js:125
 msgid "Reinstate"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:527
 #: src/components/art7/dataDefinitions/form.js:627
 #: src/components/art7/dataDefinitions/form.js:747
 msgid "Remarks (party)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:35
 #: src/components/art7/dataDefinitions/labels.js:69
@@ -1428,12 +1432,12 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:98
 #: src/components/letter/dataDefinitions/labels.js:115
 msgid "Remarks (Party)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:531
 #: src/components/art7/dataDefinitions/form.js:751
 msgid "Remarks (secretariat)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:631
 #: src/components/art7/dataDefinitions/labels.js:34
@@ -1451,48 +1455,48 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:97
 #: src/components/letter/dataDefinitions/labels.js:114
 msgid "Remarks (Secretariat)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:19
 msgid "Reporting channel"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:22
 msgid "Reporting Period"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/Header.vue:16
 msgid "Reset password"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:48
 #: src/components/common/dataDefinitions/tabSubInfo.js:8
 msgid "Respondents are requested to read the Introduction in section 2, the General Instructions in section 4 and the Definitions in section 5 carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:38
 #: src/components/art7/dataDefinitions/form.js:51
 #: src/components/art7/dataDefinitions/form.js:76
 #: src/components/hat/dataDefinitions/form.js:20
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:152
 msgid "Revise"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/mixins/SaveMixin.vue:5
 msgid "Save and continue"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/mixins/SaveMixin.vue:55
 msgid "Save failed  because of validation problems. Please check the"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/mixins/SaveMixin.vue:126
 #: src/components/common/mixins/SaveMixin.vue:142
 msgid "Save failed for"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Page404.vue:18 src/views/pages/Page500.vue:18
 #: src/components/art7/FormTemplate.vue:64
@@ -1502,34 +1506,34 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:109 src/views/Dashboard.vue:36
 #: src/views/Dashboard.vue:103
 msgid "Search"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:5
 msgid "Secretariat"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:104
 #: src/components/hat/dataDefinitions/form.js:202
 msgid "Secretariat Comments"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:589
 #: src/components/art7/dataDefinitions/form.js:653
 #: src/components/art7/dataDefinitions/form.js:658
 msgid "See definition of “non parties” in Instruction V."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:97
 msgid "Show all versions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:26
 msgid "Sort"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:226
 msgid "State"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:116
 #: src/components/art7/dataDefinitions/form.js:252
@@ -1541,23 +1545,23 @@ msgstr ""
 #: src/components/hat/dataDefinitions/form.js:77
 #: src/components/hat/dataDefinitions/form.js:176
 msgid "Status"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:24
 msgid "Subject"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/Save.vue:43 src/components/art7/Save.vue:44
 msgid "Submission cannot be saved before completing the questionnaire"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/store/actions.js:43
 msgid "Submission Created"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/store/actions.js:201
 msgid "Submission deleted"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:36
 #: src/components/common/SubmissionInfo.vue:19
@@ -1569,11 +1573,11 @@ msgstr ""
 #: src/components/hat/TabsManager.vue:38
 #: src/components/letter/TabsManager.vue:42
 msgid "Submission Info"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/store/actions.js:183
 msgid "Submission state updated"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:79
 #: src/components/common/dataDefinitions/labels.js:9
@@ -1582,7 +1586,7 @@ msgstr ""
 #: src/components/letter/TabsManager.vue:84
 #: src/components/letter/dataDefinitions/labels.js:122
 msgid "Submit"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:225
 #: src/components/art7/dataDefinitions/form.js:344
@@ -1594,7 +1598,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/form.js:160
 #: src/components/letter/dataDefinitions/labels.js:104
 msgid "Substance"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:61
 #: src/components/art7/dataDefinitions/form.js:88
@@ -1612,213 +1616,213 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:93
 #: src/components/common/form-components/Add.vue:9
 msgid "Substances"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:187
 msgid "Substances - group FII"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:30
 msgid "Superseded"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/CloneField.vue:101
 msgid "The fields for these countries were not added because they already exist"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:37
 #: src/components/letter/TabsManager.vue:72
 msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Page500.vue:8
 msgid "The page you are looking for is temporarily unavailable."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Page404.vue:8
 msgid "The page you are looking for was not found."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:462
 #: src/components/hat/FormTemplate.vue:243
 msgid "The values are saved automatically in the table, as you type."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/mixins/FormTemplateMixin.vue:177
 #: src/components/common/mixins/FormTemplateMixin.vue:178
 msgid "There are no records to show"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:166
 #: src/components/art7/dataDefinitions/form.js:289
 msgid "Tonne = Metric ton."
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:719
 msgid "Total amount generated"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:178
 msgid "Total amount generated (2) must be equal to its components (3a, 4, 5, 6)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:198
 msgid "Total amount generated (2) must be greater or equal to its components (3a, 4, 5, 6)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:156
 msgid "Total amount generated (2) must be higher than the sum of \"Amount generated and captured(3)\", \"Amount used for feedstock without prior capture(4)\", \"Amount destroyed without prior capture(5)\""
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:348
 #: src/components/art7/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:80
 msgid "Total production for all uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:132
 msgid "Total Quantity Exported for All Uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:268
 msgid "Total Quantity Imported for All Uses"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:12
 #: src/components/art7/dataDefinitions/labels.js:47
 msgid "Total quantity imported for all uses (new)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:38
 msgid "Total Quantity Imported for All Uses (new)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:13
 #: src/components/art7/dataDefinitions/labels.js:48
 msgid "Total quantity imported for all uses (recovered and reclaimed)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/letter/dataDefinitions/labels.js:10
 #: src/components/letter/dataDefinitions/labels.js:39
 msgid "Total Quantity Imported for All Uses (recovered and reclaimed)"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:337
 #: src/components/letter/services/tableRowConstructorService.js:309
 msgid "Total quantity imported for all uses is required"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:341
 #: src/components/letter/services/tableRowConstructorService.js:313
 msgid "Total quantity imported for all uses must be >= to the sum of individual components"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:47
 msgid "twitter"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/mixins/FormTemplateMixin.vue:154
 msgid "Type"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/store/actions.js:189
 msgid "Unable to change the state of this submission"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:27
 msgid "valid"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:44
 #: src/components/common/dataDefinitions/labels.js:34
 msgid "Valid"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:18
 msgid "Validation"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:32 src/views/Dashboard.vue:223
 #: src/views/Dashboard.vue:248
 msgid "Version"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:89
 #: src/components/hat/TabsManager.vue:82
 #: src/components/letter/TabsManager.vue:94
 msgid "Versions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:104
 msgid "Vienna Convention"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:142
 msgid "View"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:37
 msgid "Web form"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "Yes"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:203
 #: src/components/hat/TabsManager.vue:170
 #: src/components/letter/TabsManager.vue:175
 msgid "You cannot submit and empty form"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/Save.vue:7
 msgid "You have unsaved data in that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:6
 msgid "Annex groups"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:99
 #: src/components/hat/TabsManager.vue:92
 #: src/components/letter/TabsManager.vue:104
 msgid "Submission versions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:476
 #: src/components/hat/FormTemplate.vue:256
 msgid "Select substance"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:43
 msgid "Questionaire"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:498
 msgid "Countries"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:27
 msgid "Search all columns"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:84 src/views/Dashboard.vue:183
 msgid "Per page"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Page404.vue:17 src/views/pages/Page500.vue:17
 msgid "What are you looking for?"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:15
 msgid "Username"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:29
 msgid "Password"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/pages/Register.vue:36
 msgid "Repeat password"
-msgstr ""
+msgstr "фиктивный текст"
