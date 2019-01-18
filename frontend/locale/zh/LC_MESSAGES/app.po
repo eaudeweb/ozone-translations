@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 15:10+0000\n"
+"POT-Creation-Date: 2019-01-18 15:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
 
-#: src/components/common/form-components/AddBlend.vue:222
+#: src/components/common/form-components/AddBlend.vue:219
 msgid "A blend with this name already exists!"
 msgstr ""
 
@@ -24,13 +24,13 @@ msgid "Actions"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:13
-#: src/components/common/form-components/AddBlend.vue:61
-#: src/components/common/form-components/CloneField.vue:6
+#: src/components/common/form-components/AddBlend.vue:58
+#: src/components/common/form-components/CloneField.vue:16
 msgid "Add %{length} rows"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:68
-#: src/components/common/form-components/AddBlend.vue:73
+#: src/components/common/form-components/AddBlend.vue:65
+#: src/components/common/form-components/AddBlend.vue:70
 msgid "Add custom blend"
 msgstr ""
 
@@ -38,7 +38,7 @@ msgstr ""
 msgid "Add facility"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:69
+#: src/components/common/form-components/AddBlend.vue:66
 msgid "Add new blend"
 msgstr ""
 
@@ -46,11 +46,11 @@ msgstr ""
 msgid "Add predefined blends"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:117
+#: src/components/common/form-components/AddBlend.vue:114
 msgid "Add row"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:78
+#: src/components/common/form-components/AddBlend.vue:75
 msgid "Add substance"
 msgstr ""
 
@@ -269,7 +269,7 @@ msgstr ""
 msgid "Blend"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:308
+#: src/components/common/form-components/AddBlend.vue:305
 msgid "Blend created"
 msgstr ""
 
@@ -287,7 +287,7 @@ msgid "Can't find instructions for current form"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:15
-#: src/components/common/form-components/AddBlend.vue:120
+#: src/components/common/form-components/AddBlend.vue:117
 msgid "Cancel"
 msgstr ""
 
@@ -362,7 +362,7 @@ msgstr ""
 msgid "Components"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:45
+#: src/components/common/form-components/AddBlend.vue:42
 msgid "Composition of"
 msgstr ""
 
@@ -831,7 +831,7 @@ msgstr ""
 msgid "Houston, we have a problem!"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:74
+#: src/components/common/form-components/AddBlend.vue:71
 msgid "If a non-standard blend not listed above please indicate the blend name and the percentage by weight of each constituent controlled substance of the blend. Please pay attention to the percentage values before adding a new blend. For mistakes please contact secretariat to delete the blend."
 msgstr ""
 
@@ -1164,7 +1164,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:795
+#: src/components/art7/FormTemplate.vue:798
 #: src/components/common/mixins/FormTemplateMixin.vue:97
 #: src/components/common/mixins/FormTemplateMixin.vue:98
 msgid "Please use the form on the right sidebar to add substances"
@@ -1638,7 +1638,7 @@ msgstr ""
 msgid "Superseded"
 msgstr ""
 
-#: src/components/common/form-components/CloneField.vue:101
+#: src/components/common/form-components/CloneField.vue:111
 msgid "The fields for these countries were not added because they already exist"
 msgstr ""
 
@@ -1795,6 +1795,19 @@ msgstr ""
 msgid "You have unsaved data in that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr ""
 
+#: src/components/art7/FormTemplate.vue:500
+#: src/components/common/form-components/CloneField.vue:13
+msgid "Countries"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:96
+msgid "Press enter to use a new substance"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:97
+msgid "Controlled or new substance"
+msgstr ""
+
 #: src/components/common/form-components/Add.vue:6
 msgid "Annex groups"
 msgstr ""
@@ -1808,10 +1821,6 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:478
 #: src/components/hat/FormTemplate.vue:256
 msgid "Select substance"
-msgstr ""
-
-#: src/components/art7/FormTemplate.vue:500
-msgid "Countries"
 msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:27

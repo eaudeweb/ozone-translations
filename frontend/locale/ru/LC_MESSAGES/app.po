@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 15:10+0000\n"
+"POT-Creation-Date: 2019-01-18 15:46+0000\n"
 "PO-Revision-Date: 2019-01-18 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
 
-#: src/components/common/form-components/AddBlend.vue:222
+#: src/components/common/form-components/AddBlend.vue:219
 msgid "A blend with this name already exists!"
 msgstr "фиктивный текст"
 
@@ -27,13 +27,13 @@ msgid "Actions"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:13
-#: src/components/common/form-components/AddBlend.vue:61
-#: src/components/common/form-components/CloneField.vue:6
+#: src/components/common/form-components/AddBlend.vue:58
+#: src/components/common/form-components/CloneField.vue:16
 msgid "Add %{length} rows"
 msgstr "фиктивный %{length} текст"
 
-#: src/components/common/form-components/AddBlend.vue:68
-#: src/components/common/form-components/AddBlend.vue:73
+#: src/components/common/form-components/AddBlend.vue:65
+#: src/components/common/form-components/AddBlend.vue:70
 msgid "Add custom blend"
 msgstr "фиктивный текст"
 
@@ -41,7 +41,7 @@ msgstr "фиктивный текст"
 msgid "Add facility"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:69
+#: src/components/common/form-components/AddBlend.vue:66
 msgid "Add new blend"
 msgstr "фиктивный текст"
 
@@ -49,11 +49,11 @@ msgstr "фиктивный текст"
 msgid "Add predefined blends"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:117
+#: src/components/common/form-components/AddBlend.vue:114
 msgid "Add row"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:78
+#: src/components/common/form-components/AddBlend.vue:75
 msgid "Add substance"
 msgstr "фиктивный текст"
 
@@ -272,7 +272,7 @@ msgstr "фиктивный текст"
 msgid "Blend"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:308
+#: src/components/common/form-components/AddBlend.vue:305
 msgid "Blend created"
 msgstr "фиктивный текст"
 
@@ -290,7 +290,7 @@ msgid "Can't find instructions for current form"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:15
-#: src/components/common/form-components/AddBlend.vue:120
+#: src/components/common/form-components/AddBlend.vue:117
 msgid "Cancel"
 msgstr "фиктивный текст"
 
@@ -365,7 +365,7 @@ msgstr "фиктивный текст"
 msgid "Components"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:45
+#: src/components/common/form-components/AddBlend.vue:42
 msgid "Composition of"
 msgstr "фиктивный текст"
 
@@ -835,7 +835,7 @@ msgstr "фиктивный текст"
 msgid "Houston, we have a problem!"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:74
+#: src/components/common/form-components/AddBlend.vue:71
 msgid "If a non-standard blend not listed above please indicate the blend name and the percentage by weight of each constituent controlled substance of the blend. Please pay attention to the percentage values before adding a new blend. For mistakes please contact secretariat to delete the blend."
 msgstr "фиктивный текст"
 
@@ -1169,7 +1169,7 @@ msgstr "фиктивный текст"
 msgid "Please use the form on the right sidebar to add blends"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:795
+#: src/components/art7/FormTemplate.vue:798
 #: src/components/common/mixins/FormTemplateMixin.vue:97
 #: src/components/common/mixins/FormTemplateMixin.vue:98
 msgid "Please use the form on the right sidebar to add substances"
@@ -1643,7 +1643,7 @@ msgstr "фиктивный текст"
 msgid "Superseded"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/CloneField.vue:101
+#: src/components/common/form-components/CloneField.vue:111
 msgid "The fields for these countries were not added because they already exist"
 msgstr "фиктивный текст"
 
@@ -1800,6 +1800,20 @@ msgstr "фиктивный текст"
 msgid "You have unsaved data in that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr "фиктивный текст"
 
+#: src/components/art7/FormTemplate.vue:500
+#: src/components/common/form-components/CloneField.vue:13
+msgid "Countries"
+msgstr "фиктивный текст"
+
+#: src/components/common/form-components/AddBlend.vue:96
+msgid "Press enter to use a new substance"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:97
+#, fuzzy
+msgid "Controlled or new substance"
+msgstr "фиктивный текст"
+
 #: src/components/common/form-components/Add.vue:6
 msgid "Annex groups"
 msgstr "фиктивный текст"
@@ -1813,10 +1827,6 @@ msgstr "фиктивный текст"
 #: src/components/art7/FormTemplate.vue:478
 #: src/components/hat/FormTemplate.vue:256
 msgid "Select substance"
-msgstr "фиктивный текст"
-
-#: src/components/art7/FormTemplate.vue:500
-msgid "Countries"
 msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:27
