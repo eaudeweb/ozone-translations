@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 14:35+0000\n"
+"POT-Creation-Date: 2019-01-18 14:51+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -283,7 +283,7 @@ msgstr ""
 msgid "Blends"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:195
+#: src/components/art7/TabsManager.vue:193
 msgid "Can't find instructions for current form"
 msgstr ""
 
@@ -325,7 +325,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:548
 #: src/components/art7/TabsManager.vue:25
-#: src/components/art7/TabsManager.vue:104
+#: src/components/art7/TabsManager.vue:102
 #: src/components/hat/FormTemplate.vue:287
 #: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:95
 msgid "Close"
@@ -440,7 +440,7 @@ msgstr ""
 msgid "Current State"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:182
+#: src/components/art7/TabsManager.vue:180
 #: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:448
 msgid "Dashboard"
 msgstr ""
@@ -501,13 +501,13 @@ msgstr ""
 msgid "Delete all"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:92
+#: src/components/art7/TabsManager.vue:90
 #: src/components/hat/TabsManager.vue:85
 #: src/components/letter/TabsManager.vue:97
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:227
+#: src/components/art7/TabsManager.vue:225
 #: src/components/hat/TabsManager.vue:189
 #: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:498
 msgid "Deleting the submission is ireversible. Are you sure ?"
@@ -1154,7 +1154,7 @@ msgstr ""
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:219
+#: src/components/art7/TabsManager.vue:217
 #: src/components/hat/TabsManager.vue:181
 #: src/components/letter/TabsManager.vue:185
 msgid "Please save before submitting"
@@ -1577,13 +1577,12 @@ msgstr ""
 msgid "Submission deleted"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:148
+#: src/components/art7/TabsManager.vue:146
 #: src/components/common/SubmissionInfo.vue:19
 #: src/components/common/dataDefinitions/tabSubInfo.js:9
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
 #: src/components/hat/TabsManager.vue:40
 #: src/components/letter/TabsManager.vue:44
-#: src/components/art7/TabsManager.vue:34
 #: src/components/hat/TabsManager.vue:38
 #: src/components/letter/TabsManager.vue:42
 msgid "Submission Info"
@@ -1593,7 +1592,7 @@ msgstr ""
 msgid "Submission state updated"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:79
+#: src/components/art7/TabsManager.vue:77
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/hat/TabsManager.vue:72
 #: src/components/letter/TabsManager.vue:20
@@ -1759,7 +1758,7 @@ msgstr ""
 msgid "Validation"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:182
+#: src/components/art7/TabsManager.vue:180
 msgid "version"
 msgstr ""
 
@@ -1768,7 +1767,7 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:89
+#: src/components/art7/TabsManager.vue:87
 #: src/components/hat/TabsManager.vue:82
 #: src/components/letter/TabsManager.vue:94
 msgid "Versions"
@@ -1790,7 +1789,7 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:209
+#: src/components/art7/TabsManager.vue:207
 #: src/components/hat/TabsManager.vue:171
 #: src/components/letter/TabsManager.vue:175
 msgid "You cannot submit and empty form"
@@ -1804,7 +1803,7 @@ msgstr ""
 msgid "Annex groups"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:99
+#: src/components/art7/TabsManager.vue:97
 #: src/components/hat/TabsManager.vue:91
 #: src/components/letter/TabsManager.vue:104
 msgid "Submission versions"
@@ -1813,10 +1812,6 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:478
 #: src/components/hat/FormTemplate.vue:256
 msgid "Select substance"
-msgstr ""
-
-#: src/components/art7/TabsManager.vue:43
-msgid "Questionaire"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:500
