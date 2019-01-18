@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:50+0300\n"
+"POT-Creation-Date: 2019-01-18 12:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,11 +20,11 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: ozone/core/api/views.py:302
+#: ozone/core/api/views.py:304
 msgid "Non custom blends cannot be modified."
 msgstr ""
 
-#: ozone/core/api/views.py:443
+#: ozone/core/api/views.py:445
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
@@ -83,8 +83,8 @@ msgstr ""
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:538 ozone/core/serializers.py:411
-#: ozone/core/serializers.py:416
+#: ozone/core/models/reporting.py:538 ozone/core/serializers.py:412
+#: ozone/core/serializers.py:417
 msgid "User is not allowed to change this remark"
 msgstr ""
 
@@ -118,7 +118,7 @@ msgstr ""
 msgid "Substance or component name must be set."
 msgstr ""
 
-#: ozone/core/serializers.py:800
+#: ozone/core/serializers.py:801
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
