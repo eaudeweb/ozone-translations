@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 12:49+0000\n"
+"POT-Creation-Date: 2019-01-18 13:40+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/views/Dashboard.vue:309 src/views/Dashboard.vue:352
+#: src/views/Dashboard.vue:310 src/views/Dashboard.vue:353
 msgid "Actions"
 msgstr ""
 
@@ -71,7 +71,7 @@ msgstr ""
 msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr ""
 
-#: src/views/Dashboard.vue:96
+#: src/views/Dashboard.vue:97
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
@@ -312,7 +312,7 @@ msgstr ""
 msgid "Checked blanks"
 msgstr ""
 
-#: src/views/Dashboard.vue:54 src/views/Dashboard.vue:119
+#: src/views/Dashboard.vue:54 src/views/Dashboard.vue:120
 #: src/views/lookupTables/Blends.vue:35
 #: src/views/lookupTables/ControlledSubstances.vue:24
 msgid "Clear"
@@ -440,7 +440,7 @@ msgid "Current State"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:179
-#: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:447
+#: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:448
 msgid "Dashboard"
 msgstr ""
 
@@ -492,7 +492,7 @@ msgstr ""
 
 #: src/components/common/Attachments.vue:28
 #: src/components/hat/FormTemplate.vue:85
-#: src/components/hat/FormTemplate.vue:147 src/views/Dashboard.vue:172
+#: src/components/hat/FormTemplate.vue:147 src/views/Dashboard.vue:173
 msgid "Delete"
 msgstr ""
 
@@ -508,7 +508,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:224
 #: src/components/hat/TabsManager.vue:189
-#: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:497
+#: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:498
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
@@ -561,7 +561,7 @@ msgid "E-mail"
 msgstr ""
 
 #: src/components/hat/FormTemplate.vue:79
-#: src/components/hat/FormTemplate.vue:141 src/views/Dashboard.vue:139
+#: src/components/hat/FormTemplate.vue:141 src/views/Dashboard.vue:140
 msgid "Edit"
 msgstr ""
 
@@ -931,7 +931,7 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/views/Dashboard.vue:307 src/views/Dashboard.vue:349
+#: src/views/Dashboard.vue:308 src/views/Dashboard.vue:350
 msgid "Last modified"
 msgstr ""
 
@@ -1028,7 +1028,7 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners"
 msgstr ""
 
-#: src/views/Dashboard.vue:468
+#: src/views/Dashboard.vue:469
 msgid "New version created"
 msgstr ""
 
@@ -1044,9 +1044,9 @@ msgstr ""
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:292 src/views/Dashboard.vue:337
+#: src/views/Dashboard.vue:293 src/views/Dashboard.vue:338
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:39
-#: src/views/Dashboard.vue:106
+#: src/views/Dashboard.vue:107
 msgid "Obligation"
 msgstr ""
 
@@ -1103,9 +1103,9 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
-#: src/views/Dashboard.vue:298 src/views/Dashboard.vue:343
+#: src/views/Dashboard.vue:299 src/views/Dashboard.vue:344
 #: src/views/Dashboard.vue:20 src/views/Dashboard.vue:44
-#: src/views/Dashboard.vue:109
+#: src/views/Dashboard.vue:110
 msgid "Party"
 msgstr ""
 
@@ -1130,7 +1130,7 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:295 src/views/Dashboard.vue:340
+#: src/views/Dashboard.vue:296 src/views/Dashboard.vue:341
 #: src/views/Dashboard.vue:15
 msgid "Period"
 msgstr ""
@@ -1492,7 +1492,7 @@ msgstr ""
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
 
-#: src/views/Dashboard.vue:153
+#: src/views/Dashboard.vue:154
 msgid "Revise"
 msgstr ""
 
@@ -1515,7 +1515,7 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:310
 #: src/components/hat/FormTemplate.vue:45
 #: src/components/hat/FormTemplate.vue:109 src/views/Dashboard.vue:36
-#: src/views/Dashboard.vue:103
+#: src/views/Dashboard.vue:104
 msgid "Search"
 msgstr ""
 
@@ -1534,7 +1534,7 @@ msgstr ""
 msgid "See definition of “non parties” in Instruction V."
 msgstr ""
 
-#: src/views/Dashboard.vue:97
+#: src/views/Dashboard.vue:98
 msgid "Show all versions"
 msgstr ""
 
@@ -1542,7 +1542,7 @@ msgstr ""
 msgid "Sort"
 msgstr ""
 
-#: src/views/Dashboard.vue:304
+#: src/views/Dashboard.vue:305
 msgid "State"
 msgstr ""
 
@@ -1758,8 +1758,8 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:57 src/views/Dashboard.vue:301
-#: src/views/Dashboard.vue:346
+#: src/components/common/SubmissionHistory.vue:57 src/views/Dashboard.vue:302
+#: src/views/Dashboard.vue:347
 msgid "Version"
 msgstr ""
 
@@ -1773,7 +1773,7 @@ msgstr ""
 msgid "Vienna Convention"
 msgstr ""
 
-#: src/views/Dashboard.vue:142
+#: src/views/Dashboard.vue:75 src/views/Dashboard.vue:143
 msgid "View"
 msgstr ""
 
@@ -1822,7 +1822,7 @@ msgstr ""
 msgid "Search all columns"
 msgstr ""
 
-#: src/views/Dashboard.vue:84 src/views/Dashboard.vue:184
+#: src/views/Dashboard.vue:85 src/views/Dashboard.vue:185
 msgid "Per page"
 msgstr ""
 
