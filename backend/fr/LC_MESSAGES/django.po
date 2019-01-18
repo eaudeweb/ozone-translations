@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-18 15:38+0300\n"
+"POT-Creation-Date: 2019-01-18 15:47+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -18,11 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/api/views.py:306
-msgid "Non custom blends cannot be modified."
-msgstr ""
-
-#: ozone/core/api/views.py:447
+#: ozone/core/api/views.py:438
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
@@ -112,7 +108,11 @@ msgid ""
 "combination."
 msgstr ""
 
-#: ozone/core/models/substance.py:284 ozone/core/models/substance.py:287
+#: ozone/core/models/substance.py:255
+msgid "Non custom blends cannot be modified."
+msgstr ""
+
+#: ozone/core/models/substance.py:294 ozone/core/models/substance.py:297
 msgid "Substance or component name must be set."
 msgstr ""
 
