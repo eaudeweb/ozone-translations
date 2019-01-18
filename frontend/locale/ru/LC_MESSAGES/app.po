@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 17:31+0000\n"
+"POT-Creation-Date: 2019-01-18 17:53+0000\n"
 "PO-Revision-Date: 2019-01-18 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -963,7 +963,7 @@ msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:193
 #: src/views/lookupTables/ControlledSubstances.vue:123
-#: src/views/lookupTables/Parties.vue:191
+#: src/views/lookupTables/Parties.vue:192
 msgid "Lookup tables"
 msgstr "фиктивный текст"
 
@@ -1102,7 +1102,7 @@ msgstr "фиктивный текст"
 msgid "Paper"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:191
+#: src/views/lookupTables/Parties.vue:192
 #, fuzzy
 msgid "Parties"
 msgstr "фиктивный текст"

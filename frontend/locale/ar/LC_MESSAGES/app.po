@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 17:31+0000\n"
+"POT-Creation-Date: 2019-01-18 17:53+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -959,7 +959,7 @@ msgstr ""
 
 #: src/views/lookupTables/Blends.vue:193
 #: src/views/lookupTables/ControlledSubstances.vue:123
-#: src/views/lookupTables/Parties.vue:191
+#: src/views/lookupTables/Parties.vue:192
 msgid "Lookup tables"
 msgstr ""
 
@@ -1098,7 +1098,7 @@ msgstr ""
 msgid "Paper"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:191
+#: src/views/lookupTables/Parties.vue:192
 msgid "Parties"
 msgstr ""
 
