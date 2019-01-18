@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 10:24+0000\n"
+"POT-Creation-Date: 2019-01-18 12:49+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/views/Dashboard.vue:232 src/views/Dashboard.vue:255
+#: src/views/Dashboard.vue:309 src/views/Dashboard.vue:352
 msgid "Actions"
 msgstr ""
 
@@ -145,7 +145,7 @@ msgstr ""
 msgid "Amout generated and captured"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:60
+#: src/views/lookupTables/ControlledSubstances.vue:75
 msgid "Annex"
 msgstr ""
 
@@ -231,7 +231,7 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:95
+#: src/views/lookupTables/Parties.vue:107
 msgid "Article 5 party"
 msgstr ""
 
@@ -250,7 +250,7 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:123
+#: src/views/lookupTables/Parties.vue:135
 msgid "Beijing Amendment"
 msgstr ""
 
@@ -278,11 +278,12 @@ msgstr ""
 #: src/components/common/form-components/DefaultAside.vue:12
 #: src/components/common/mixins/FormTemplateMixin.vue:278
 #: src/components/hat/FormTemplate.vue:106
+#: src/views/lookupTables/Blends.vue:193
 #: src/components/common/mixins/FormTemplateMixin.vue:279
 msgid "Blends"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:189
+#: src/components/art7/TabsManager.vue:192
 msgid "Can't find instructions for current form"
 msgstr ""
 
@@ -358,7 +359,7 @@ msgstr ""
 msgid "Comments (Secretariat)"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:111 src/views/lookupTables/Blends.vue:22
+#: src/views/lookupTables/Blends.vue:127 src/views/lookupTables/Blends.vue:22
 msgid "Components"
 msgstr ""
 
@@ -378,7 +379,11 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:115
+#: src/views/lookupTables/ControlledSubstances.vue:123
+msgid "Controlled substances"
+msgstr ""
+
+#: src/views/lookupTables/Parties.vue:127
 msgid "Copenhagen Amendment"
 msgstr ""
 
@@ -431,8 +436,13 @@ msgstr ""
 msgid "Critical use"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:38
+#: src/components/common/SubmissionHistory.vue:63
 msgid "Current State"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:179
+#: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:447
+msgid "Dashboard"
 msgstr ""
 
 #: src/views/Dashboard.vue:31
@@ -497,9 +507,9 @@ msgstr ""
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:221
-#: src/components/hat/TabsManager.vue:187
-#: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:492
+#: src/components/art7/TabsManager.vue:224
+#: src/components/hat/TabsManager.vue:189
+#: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:497
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
@@ -592,7 +602,7 @@ msgstr ""
 msgid "Essential use, other than L&A"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:91
+#: src/views/lookupTables/Parties.vue:103
 msgid "EU Member"
 msgstr ""
 
@@ -765,7 +775,7 @@ msgstr ""
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:68
+#: src/views/lookupTables/ControlledSubstances.vue:83
 #: src/views/lookupTables/ControlledSubstances.vue:18
 msgid "Formula"
 msgstr ""
@@ -785,7 +795,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
-#: src/views/lookupTables/ControlledSubstances.vue:62
+#: src/views/lookupTables/ControlledSubstances.vue:77
 #: src/views/lookupTables/ControlledSubstances.vue:8
 msgid "Group"
 msgstr ""
@@ -795,7 +805,7 @@ msgid "Has blanks"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:26
-#: src/views/lookupTables/Parties.vue:99
+#: src/views/lookupTables/Parties.vue:111
 msgid "HAT"
 msgstr ""
 
@@ -903,7 +913,7 @@ msgstr ""
 msgid "invalid"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:127
+#: src/views/lookupTables/Parties.vue:139
 msgid "Kigali Amendment"
 msgstr ""
 
@@ -922,11 +932,11 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/views/Dashboard.vue:230 src/views/Dashboard.vue:252
+#: src/views/Dashboard.vue:307 src/views/Dashboard.vue:349
 msgid "Last modified"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:35
+#: src/components/common/SubmissionHistory.vue:60
 msgid "Last Modified"
 msgstr ""
 
@@ -943,29 +953,35 @@ msgstr ""
 msgid "Logout"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:111
+#: src/views/lookupTables/Parties.vue:123
 msgid "London Amendment"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:74
+#: src/views/lookupTables/Blends.vue:193
+#: src/views/lookupTables/ControlledSubstances.vue:123
+#: src/views/lookupTables/Parties.vue:168
+msgid "Lookup tables"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:89
 msgid "MaxODP"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:72
+#: src/views/lookupTables/ControlledSubstances.vue:87
 msgid "MinODP"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:119
+#: src/views/lookupTables/Parties.vue:131
 msgid "Montreal Amendment"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:107
+#: src/views/lookupTables/Parties.vue:119
 msgid "Montreal Protocol"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:107 src/views/lookupTables/Blends.vue:126
-#: src/views/lookupTables/ControlledSubstances.vue:64
-#: src/views/lookupTables/Parties.vue:86 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/Blends.vue:123 src/views/lookupTables/Blends.vue:132
+#: src/views/lookupTables/ControlledSubstances.vue:79
+#: src/views/lookupTables/Parties.vue:98 src/views/lookupTables/Blends.vue:8
 #: src/views/lookupTables/ControlledSubstances.vue:13
 #: src/views/lookupTables/Parties.vue:8
 msgid "Name"
@@ -1013,7 +1029,7 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners"
 msgstr ""
 
-#: src/views/Dashboard.vue:463
+#: src/views/Dashboard.vue:468
 msgid "New version created"
 msgstr ""
 
@@ -1025,17 +1041,17 @@ msgstr ""
 msgid "Nonparty"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:70
+#: src/views/lookupTables/ControlledSubstances.vue:85
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:215 src/views/Dashboard.vue:240
+#: src/views/Dashboard.vue:292 src/views/Dashboard.vue:337
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:39
 #: src/views/Dashboard.vue:106
 msgid "Obligation"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:66
+#: src/views/lookupTables/ControlledSubstances.vue:81
 msgid "ODP"
 msgstr ""
 
@@ -1056,7 +1072,7 @@ msgstr ""
 msgid "ORS (Ozone online reporting system)"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:109 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/Blends.vue:125 src/views/lookupTables/Blends.vue:8
 msgid "Other Names"
 msgstr ""
 
@@ -1082,9 +1098,13 @@ msgstr ""
 msgid "Paper"
 msgstr ""
 
+#: src/views/lookupTables/Parties.vue:168
+msgid "Parties"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
-#: src/views/Dashboard.vue:221 src/views/Dashboard.vue:246
+#: src/views/Dashboard.vue:298 src/views/Dashboard.vue:343
 #: src/views/Dashboard.vue:20 src/views/Dashboard.vue:44
 #: src/views/Dashboard.vue:109
 msgid "Party"
@@ -1107,11 +1127,11 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:65
 #: src/components/letter/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:99
-#: src/views/lookupTables/Blends.vue:129
+#: src/views/lookupTables/Blends.vue:135
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:218 src/views/Dashboard.vue:243
+#: src/views/Dashboard.vue:295 src/views/Dashboard.vue:340
 #: src/views/Dashboard.vue:15
 msgid "Period"
 msgstr ""
@@ -1133,8 +1153,8 @@ msgstr ""
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:213
-#: src/components/hat/TabsManager.vue:179
+#: src/components/art7/TabsManager.vue:216
+#: src/components/hat/TabsManager.vue:181
 #: src/components/letter/TabsManager.vue:185
 msgid "Please save before submitting"
 msgstr ""
@@ -1244,7 +1264,7 @@ msgstr ""
 msgid "Proprietatea3 for testing"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:41
+#: src/components/common/SubmissionHistory.vue:66
 #: src/components/common/dataDefinitions/labels.js:31
 msgid "Provisional"
 msgstr ""
@@ -1523,7 +1543,7 @@ msgstr ""
 msgid "Sort"
 msgstr "Sort"
 
-#: src/views/Dashboard.vue:227
+#: src/views/Dashboard.vue:304
 msgid "State"
 msgstr ""
 
@@ -1726,7 +1746,7 @@ msgstr ""
 msgid "valid"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:44
+#: src/components/common/SubmissionHistory.vue:69
 #: src/components/common/dataDefinitions/labels.js:34
 msgid "Valid"
 msgstr ""
@@ -1735,8 +1755,12 @@ msgstr ""
 msgid "Validation"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:32 src/views/Dashboard.vue:224
-#: src/views/Dashboard.vue:249
+#: src/components/art7/TabsManager.vue:179
+msgid "version"
+msgstr ""
+
+#: src/components/common/SubmissionHistory.vue:57 src/views/Dashboard.vue:301
+#: src/views/Dashboard.vue:346
 msgid "Version"
 msgstr ""
 
@@ -1746,7 +1770,7 @@ msgstr ""
 msgid "Versions"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:103
+#: src/views/lookupTables/Parties.vue:115
 msgid "Vienna Convention"
 msgstr ""
 
@@ -1762,8 +1786,8 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:203
-#: src/components/hat/TabsManager.vue:169
+#: src/components/art7/TabsManager.vue:206
+#: src/components/hat/TabsManager.vue:171
 #: src/components/letter/TabsManager.vue:175
 msgid "You cannot submit and empty form"
 msgstr ""
