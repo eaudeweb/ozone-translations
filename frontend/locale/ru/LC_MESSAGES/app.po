@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 13:58+0000\n"
+"POT-Creation-Date: 2019-01-18 14:35+0000\n"
 "PO-Revision-Date: 2019-01-18 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -285,7 +285,7 @@ msgstr "фиктивный текст"
 msgid "Blends"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:192
+#: src/components/art7/TabsManager.vue:195
 msgid "Can't find instructions for current form"
 msgstr "фиктивный текст"
 
@@ -443,7 +443,7 @@ msgstr "фиктивный текст"
 msgid "Current State"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:179
+#: src/components/art7/TabsManager.vue:182
 #: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:448
 msgid "Dashboard"
 msgstr "фиктивный текст"
@@ -510,7 +510,7 @@ msgstr "фиктивный текст"
 msgid "Delete Submission"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:224
+#: src/components/art7/TabsManager.vue:227
 #: src/components/hat/TabsManager.vue:189
 #: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:498
 msgid "Deleting the submission is ireversible. Are you sure ?"
@@ -1158,7 +1158,7 @@ msgstr "фиктивный текст"
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:216
+#: src/components/art7/TabsManager.vue:219
 #: src/components/hat/TabsManager.vue:181
 #: src/components/letter/TabsManager.vue:185
 msgid "Please save before submitting"
@@ -1581,7 +1581,7 @@ msgstr "фиктивный текст"
 msgid "Submission deleted"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:36
+#: src/components/art7/TabsManager.vue:148
 #: src/components/common/SubmissionInfo.vue:19
 #: src/components/common/dataDefinitions/tabSubInfo.js:9
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
@@ -1763,7 +1763,7 @@ msgstr "фиктивный текст"
 msgid "Validation"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:179
+#: src/components/art7/TabsManager.vue:182
 #, fuzzy
 msgid "version"
 msgstr "фиктивный текст"
@@ -1795,7 +1795,7 @@ msgstr "фиктивный текст"
 msgid "Yes"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:206
+#: src/components/art7/TabsManager.vue:209
 #: src/components/hat/TabsManager.vue:171
 #: src/components/letter/TabsManager.vue:175
 msgid "You cannot submit and empty form"

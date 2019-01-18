@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 13:58+0000\n"
+"POT-Creation-Date: 2019-01-18 14:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -282,7 +282,7 @@ msgstr ""
 msgid "Blends"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:192
+#: src/components/art7/TabsManager.vue:195
 msgid "Can't find instructions for current form"
 msgstr ""
 
@@ -439,7 +439,7 @@ msgstr ""
 msgid "Current State"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:179
+#: src/components/art7/TabsManager.vue:182
 #: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:448
 msgid "Dashboard"
 msgstr ""
@@ -506,7 +506,7 @@ msgstr ""
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:224
+#: src/components/art7/TabsManager.vue:227
 #: src/components/hat/TabsManager.vue:189
 #: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:498
 msgid "Deleting the submission is ireversible. Are you sure ?"
@@ -1153,7 +1153,7 @@ msgstr ""
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:216
+#: src/components/art7/TabsManager.vue:219
 #: src/components/hat/TabsManager.vue:181
 #: src/components/letter/TabsManager.vue:185
 msgid "Please save before submitting"
@@ -1576,7 +1576,7 @@ msgstr ""
 msgid "Submission deleted"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:36
+#: src/components/art7/TabsManager.vue:148
 #: src/components/common/SubmissionInfo.vue:19
 #: src/components/common/dataDefinitions/tabSubInfo.js:9
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
@@ -1758,7 +1758,7 @@ msgstr ""
 msgid "Validation"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:179
+#: src/components/art7/TabsManager.vue:182
 msgid "version"
 msgstr ""
 
@@ -1789,7 +1789,7 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:206
+#: src/components/art7/TabsManager.vue:209
 #: src/components/hat/TabsManager.vue:171
 #: src/components/letter/TabsManager.vue:175
 msgid "You cannot submit and empty form"
