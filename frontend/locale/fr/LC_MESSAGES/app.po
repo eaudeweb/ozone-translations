@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 13:40+0000\n"
+"POT-Creation-Date: 2019-01-18 13:58+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -264,7 +264,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
-#: src/components/common/mixins/FormTemplateMixin.vue:150
+#: src/components/common/mixins/FormTemplateMixin.vue:158
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
@@ -278,10 +278,10 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:307
 #: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/common/mixins/FormTemplateMixin.vue:278
+#: src/components/common/mixins/FormTemplateMixin.vue:282
 #: src/components/hat/FormTemplate.vue:106
 #: src/views/lookupTables/Blends.vue:193
-#: src/components/common/mixins/FormTemplateMixin.vue:279
+#: src/components/common/mixins/FormTemplateMixin.vue:283
 msgid "Blends"
 msgstr ""
 
@@ -859,6 +859,7 @@ msgstr ""
 msgid "If No, ignore data form 5. If Yes, please complete data form 5. Please read Instruction V of the document carefully, and, particularly, the definition of non-Parties before filling in the form."
 msgstr ""
 
+#: src/components/art7/dataDefinitions/form.js:205
 #: src/components/hat/dataDefinitions/form.js:35
 msgid "Imports"
 msgstr ""
@@ -1163,14 +1164,14 @@ msgstr ""
 msgid "Please save before submitting"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:39
-#: src/components/common/mixins/FormTemplateMixin.vue:40
+#: src/components/common/mixins/FormTemplateMixin.vue:138
+#: src/components/common/mixins/FormTemplateMixin.vue:139
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:579
-#: src/components/common/mixins/FormTemplateMixin.vue:25
-#: src/components/common/mixins/FormTemplateMixin.vue:26
+#: src/components/art7/FormTemplate.vue:795
+#: src/components/common/mixins/FormTemplateMixin.vue:97
+#: src/components/common/mixins/FormTemplateMixin.vue:98
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
 
@@ -1213,6 +1214,7 @@ msgstr ""
 msgid "Process agent uses"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/form.js:328
 #: src/components/hat/dataDefinitions/form.js:140
 msgid "Production"
 msgstr ""
@@ -1664,8 +1666,10 @@ msgstr ""
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:177
-#: src/components/common/mixins/FormTemplateMixin.vue:178
+#: src/components/common/mixins/FormTemplateMixin.vue:95
+#: src/components/common/mixins/FormTemplateMixin.vue:136
+#: src/components/common/mixins/FormTemplateMixin.vue:96
+#: src/components/common/mixins/FormTemplateMixin.vue:137
 msgid "There are no records to show"
 msgstr ""
 
@@ -1738,7 +1742,7 @@ msgstr ""
 msgid "twitter"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:154
+#: src/components/common/mixins/FormTemplateMixin.vue:162
 msgid "Type"
 msgstr ""
 
