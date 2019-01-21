@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 13:16+0000\n"
+"POT-Creation-Date: 2019-01-21 14:41+0000\n"
 "PO-Revision-Date: 2019-01-18 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -79,7 +79,6 @@ msgid "All submissions (%{totalRows} records)"
 msgstr "фиктивный (%{totalRows} текст)"
 
 #: src/components/art7/FormTemplate.vue:462
-#: src/components/hat/FormTemplate.vue:241
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "фиктивный текст"
 
@@ -160,7 +159,7 @@ msgid "Annex A, B, C, E and F substances"
 msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:48
-#: src/components/hat/dataDefinitions/form.js:139
+#: src/components/hat/dataDefinitions/form.js:142
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
@@ -204,7 +203,7 @@ msgstr "фиктивный текст"
 msgid "Annex group F"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:65
+#: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:154
 msgid "Annex/group"
 msgstr "фиктивный текст"
@@ -278,10 +277,10 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:307
 #: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/common/mixins/FormTemplateMixin.vue:290
-#: src/components/hat/FormTemplate.vue:106
+#: src/components/common/mixins/FormTemplateMixin.vue:300
+#: src/components/hat/FormTemplate.vue:102
 #: src/views/lookupTables/Blends.vue:193
-#: src/components/common/mixins/FormTemplateMixin.vue:291
+#: src/components/common/mixins/FormTemplateMixin.vue:301
 msgid "Blends"
 msgstr "фиктивный текст"
 
@@ -307,7 +306,6 @@ msgid "Captured for feedstock uses within your country"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:468
-#: src/components/hat/FormTemplate.vue:247
 msgid "Change substance"
 msgstr "фиктивный текст"
 
@@ -328,7 +326,6 @@ msgstr "фиктивный текст"
 #: src/components/art7/FormTemplate.vue:548
 #: src/components/art7/TabsManager.vue:25
 #: src/components/art7/TabsManager.vue:102
-#: src/components/hat/FormTemplate.vue:287
 #: src/components/hat/TabsManager.vue:29 src/components/hat/TabsManager.vue:95
 msgid "Close"
 msgstr "фиктивный текст"
@@ -341,7 +338,7 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:83
 #: src/components/art7/FormTemplate.vue:432
-#: src/components/hat/FormTemplate.vue:210
+#: src/components/hat/FormTemplate.vue:206
 msgid "Comments"
 msgstr "фиктивный текст"
 
@@ -500,9 +497,7 @@ msgstr "фиктивный текст"
 msgid "Decision / type of use or remark"
 msgstr "фиктивный текст"
 
-#: src/components/common/Attachments.vue:28
-#: src/components/hat/FormTemplate.vue:85
-#: src/components/hat/FormTemplate.vue:147 src/views/Dashboard.vue:190
+#: src/components/common/Attachments.vue:28 src/views/Dashboard.vue:190
 msgid "Delete"
 msgstr "фиктивный текст"
 
@@ -570,8 +565,7 @@ msgstr "фиктивный текст"
 msgid "E-mail"
 msgstr "фиктивный текст"
 
-#: src/components/hat/FormTemplate.vue:79
-#: src/components/hat/FormTemplate.vue:141 src/views/Dashboard.vue:157
+#: src/views/Dashboard.vue:157
 msgid "Edit"
 msgstr "фиктивный текст"
 
@@ -689,7 +683,7 @@ msgid "Fill in this form only if your country imported or exported CFCs, halons,
 msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:49
-#: src/components/hat/dataDefinitions/form.js:140
+#: src/components/hat/dataDefinitions/form.js:143
 msgid "Fill in this form only if your country is listed in appendix II to decision XXVIII/2, has formally notified the Secretariat of its intention to use the high-ambient-temperature exemption, and produced HFCs for its own use in the subsectors contained in appendix I to decision XXVIII/2"
 msgstr "фиктивный текст"
 
@@ -741,7 +735,7 @@ msgstr "фиктивный текст"
 msgid "For Destruction"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:185
+#: src/components/hat/dataDefinitions/form.js:192
 msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr "фиктивный текст"
 
@@ -884,7 +878,7 @@ msgid "in metric tonnes ( not ODP tonnes)"
 msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:48
-#: src/components/hat/dataDefinitions/form.js:139
+#: src/components/hat/dataDefinitions/form.js:142
 msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
 msgstr "фиктивный текст"
 
@@ -1015,17 +1009,17 @@ msgstr "фиктивный текст"
 msgid "New imports"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:85
+#: src/components/hat/dataDefinitions/form.js:80
 #: src/components/hat/dataDefinitions/labels.js:15
 msgid "New imports for use in ducted commercial packaged (self-contained) air conditioners"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:77
+#: src/components/hat/dataDefinitions/form.js:72
 #: src/components/hat/dataDefinitions/labels.js:13
 msgid "New imports for use in multi-split air conditioners"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:81
+#: src/components/hat/dataDefinitions/form.js:76
 #: src/components/hat/dataDefinitions/labels.js:14
 msgid "New imports for use in split ducted air conditioners"
 msgstr "фиктивный текст"
@@ -1083,7 +1077,7 @@ msgstr "фиктивный текст"
 msgid "ODP"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:101
+#: src/components/hat/dataDefinitions/form.js:103
 msgid "Only bulk gases for servicing of exempted equipment should be reported here, not gases imported inside pre-charged equipment."
 msgstr "фиктивный текст"
 
@@ -1188,7 +1182,7 @@ msgstr "фиктивный текст"
 msgid "Please use the form on the right sidebar to add blends"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:791
+#: src/components/art7/FormTemplate.vue:776
 #: src/components/common/mixins/FormTemplateMixin.vue:105
 #: src/components/common/mixins/FormTemplateMixin.vue:106
 msgid "Please use the form on the right sidebar to add substances"
@@ -1234,12 +1228,12 @@ msgid "Process agent uses"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:328
-#: src/components/hat/dataDefinitions/form.js:138
+#: src/components/hat/dataDefinitions/form.js:141
 msgid "Production"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:329
-#: src/components/hat/dataDefinitions/form.js:139
+#: src/components/hat/dataDefinitions/form.js:142
 msgid "PRODUCTION"
 msgstr "фиктивный текст"
 
@@ -1352,11 +1346,11 @@ msgstr "фиктивный текст"
 msgid "Quantity of New Substances Imported as Feedstock"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:99
+#: src/components/hat/dataDefinitions/form.js:101
 msgid "Quantity of new substances imported for approved subsectors to which the high-ambient-temperature exemption applies"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:183
+#: src/components/hat/dataDefinitions/form.js:190
 msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
 msgstr "фиктивный текст"
 
@@ -1424,6 +1418,12 @@ msgstr "фиктивный текст"
 msgid "Reinstate"
 msgstr "фиктивный текст"
 
+#: src/components/hat/dataDefinitions/form.js:84
+#: src/components/hat/dataDefinitions/form.js:174
+#, fuzzy
+msgid "Remarks (party"
+msgstr "фиктивный текст"
+
 #: src/components/art7/dataDefinitions/form.js:529
 #: src/components/art7/dataDefinitions/form.js:629
 #: src/components/art7/dataDefinitions/form.js:749
@@ -1449,6 +1449,8 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:533
 #: src/components/art7/dataDefinitions/form.js:753
+#: src/components/hat/dataDefinitions/form.js:88
+#: src/components/hat/dataDefinitions/form.js:178
 msgid "Remarks (secretariat)"
 msgstr "фиктивный текст"
 
@@ -1516,7 +1518,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/FormTemplate.vue:191
 #: src/components/art7/FormTemplate.vue:310
 #: src/components/hat/FormTemplate.vue:45
-#: src/components/hat/FormTemplate.vue:109 src/views/Dashboard.vue:53
+#: src/components/hat/FormTemplate.vue:105 src/views/Dashboard.vue:53
 #: src/views/Dashboard.vue:121
 msgid "Search"
 msgstr "фиктивный текст"
@@ -1550,8 +1552,8 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:537
 #: src/components/art7/dataDefinitions/form.js:637
 #: src/components/art7/dataDefinitions/form.js:757
-#: src/components/hat/dataDefinitions/form.js:89
-#: src/components/hat/dataDefinitions/form.js:174
+#: src/components/hat/dataDefinitions/form.js:92
+#: src/components/hat/dataDefinitions/form.js:182
 msgid "Status"
 msgstr "фиктивный текст"
 
@@ -1601,7 +1603,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:521
 #: src/components/art7/dataDefinitions/form.js:605
 #: src/components/art7/dataDefinitions/labels.js:119
-#: src/components/hat/dataDefinitions/form.js:71
+#: src/components/hat/dataDefinitions/form.js:66
 #: src/components/hat/dataDefinitions/form.js:158
 #: src/components/letter/dataDefinitions/labels.js:104
 msgid "Substance"
@@ -1651,7 +1653,6 @@ msgid "The page you are looking for was not found."
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:464
-#: src/components/hat/FormTemplate.vue:243
 msgid "The values are saved automatically in the table, as you type."
 msgstr "фиктивный текст"
 
@@ -1826,7 +1827,6 @@ msgid "Submission versions"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:478
-#: src/components/hat/FormTemplate.vue:256
 msgid "Select substance"
 msgstr "фиктивный текст"
 
