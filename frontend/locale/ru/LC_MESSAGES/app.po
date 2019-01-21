@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 14:41+0000\n"
+"POT-Creation-Date: 2019-01-21 15:20+0000\n"
 "PO-Revision-Date: 2019-01-18 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -338,7 +338,7 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:83
 #: src/components/art7/FormTemplate.vue:432
-#: src/components/hat/FormTemplate.vue:206
+#: src/components/hat/FormTemplate.vue:202
 msgid "Comments"
 msgstr "фиктивный текст"
 

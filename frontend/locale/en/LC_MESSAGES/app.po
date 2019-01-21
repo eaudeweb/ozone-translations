@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 14:41+0000\n"
+"POT-Creation-Date: 2019-01-21 15:20+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:83
 #: src/components/art7/FormTemplate.vue:432
-#: src/components/hat/FormTemplate.vue:206
+#: src/components/hat/FormTemplate.vue:202
 msgid "Comments"
 msgstr ""
 
