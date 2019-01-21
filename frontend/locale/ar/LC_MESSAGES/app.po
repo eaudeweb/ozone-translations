@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-18 17:53+0000\n"
+"POT-Creation-Date: 2019-01-21 13:16+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -156,8 +156,8 @@ msgstr ""
 msgid "Annex A, B, C, E and F substances"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:36
-#: src/components/hat/dataDefinitions/form.js:141
+#: src/components/hat/dataDefinitions/form.js:48
+#: src/components/hat/dataDefinitions/form.js:139
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
@@ -201,8 +201,8 @@ msgstr ""
 msgid "Annex group F"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:53
-#: src/components/hat/dataDefinitions/form.js:156
+#: src/components/hat/dataDefinitions/form.js:65
+#: src/components/hat/dataDefinitions/form.js:154
 msgid "Annex/group"
 msgstr ""
 
@@ -261,7 +261,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
-#: src/components/common/mixins/FormTemplateMixin.vue:158
+#: src/components/common/mixins/FormTemplateMixin.vue:166
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
@@ -275,10 +275,10 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:307
 #: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/common/mixins/FormTemplateMixin.vue:282
+#: src/components/common/mixins/FormTemplateMixin.vue:290
 #: src/components/hat/FormTemplate.vue:106
 #: src/views/lookupTables/Blends.vue:193
-#: src/components/common/mixins/FormTemplateMixin.vue:283
+#: src/components/common/mixins/FormTemplateMixin.vue:291
 msgid "Blends"
 msgstr ""
 
@@ -331,6 +331,8 @@ msgid "Close"
 msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:462
+#: src/components/hat/services/tableRowConstructorService.js:60
+#: src/components/hat/services/tableRowConstructorService.js:111
 msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
 msgstr ""
 
@@ -346,6 +348,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:108
 #: src/components/art7/dataDefinitions/labels.js:122
 #: src/components/art7/dataDefinitions/labels.js:133
+#: src/components/hat/dataDefinitions/labels.js:17
+#: src/components/hat/dataDefinitions/labels.js:28
 msgid "Comments (Party)"
 msgstr ""
 
@@ -355,6 +359,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:109
 #: src/components/art7/dataDefinitions/labels.js:123
 #: src/components/art7/dataDefinitions/labels.js:134
+#: src/components/hat/dataDefinitions/labels.js:16
+#: src/components/hat/dataDefinitions/labels.js:27
 msgid "Comments (Secretariat)"
 msgstr ""
 
@@ -370,7 +376,7 @@ msgstr ""
 msgid "Confirmed blanks"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:36
+#: src/components/hat/dataDefinitions/form.js:48
 msgid "Consumption (imports)"
 msgstr ""
 
@@ -678,8 +684,8 @@ msgstr ""
 msgid "Fill in this form only if your country imported or exported CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane or methyl bromide to non parties"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:37
-#: src/components/hat/dataDefinitions/form.js:142
+#: src/components/hat/dataDefinitions/form.js:49
+#: src/components/hat/dataDefinitions/form.js:140
 msgid "Fill in this form only if your country is listed in appendix II to decision XXVIII/2, has formally notified the Secretariat of its intention to use the high-ambient-temperature exemption, and produced HFCs for its own use in the subsectors contained in appendix I to decision XXVIII/2"
 msgstr ""
 
@@ -731,7 +737,7 @@ msgstr ""
 msgid "For Destruction"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:187
+#: src/components/hat/dataDefinitions/form.js:185
 msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr ""
 
@@ -857,7 +863,7 @@ msgid "If No, ignore data form 5. If Yes, please complete data form 5. Please re
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:205
-#: src/components/hat/dataDefinitions/form.js:35
+#: src/components/hat/dataDefinitions/form.js:47
 msgid "Imports"
 msgstr ""
 
@@ -873,8 +879,8 @@ msgstr ""
 msgid "in metric tonnes ( not ODP tonnes)"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:36
-#: src/components/hat/dataDefinitions/form.js:141
+#: src/components/hat/dataDefinitions/form.js:48
+#: src/components/hat/dataDefinitions/form.js:139
 msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
 msgstr ""
 
@@ -1005,28 +1011,43 @@ msgstr ""
 msgid "New imports"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:73
+#: src/components/hat/dataDefinitions/form.js:85
+#: src/components/hat/dataDefinitions/labels.js:15
 msgid "New imports for use in ducted commercial packaged (self-contained) air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:65
+#: src/components/hat/dataDefinitions/form.js:77
+#: src/components/hat/dataDefinitions/labels.js:13
 msgid "New imports for use in multi-split air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:69
+#: src/components/hat/dataDefinitions/form.js:81
+#: src/components/hat/dataDefinitions/labels.js:14
 msgid "New imports for use in split ducted air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:172
+#: src/components/hat/dataDefinitions/form.js:170
 msgid "New production for use in ducted commercial packaged (self-contained) air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:164
+#: src/components/hat/dataDefinitions/labels.js:26
+msgid "New production for use in ducted commercial packaged (self-contained) air conditioners\t"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:162
 msgid "New production for use in multi-split air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:168
+#: src/components/hat/dataDefinitions/labels.js:24
+msgid "New production for use in multi-split air conditioners\t"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/form.js:166
 msgid "New production for use in split ducted air conditioners"
+msgstr ""
+
+#: src/components/hat/dataDefinitions/labels.js:25
+msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
 #: src/views/Dashboard.vue:486
@@ -1055,7 +1076,7 @@ msgstr ""
 msgid "ODP"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:89
+#: src/components/hat/dataDefinitions/form.js:101
 msgid "Only bulk gases for servicing of exempted equipment should be reported here, not gases imported inside pre-charged equipment."
 msgstr ""
 
@@ -1110,18 +1131,13 @@ msgstr ""
 msgid "Party"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:98
-#: src/components/hat/dataDefinitions/form.js:196
-msgid "Party Comments"
-msgstr ""
-
 #: src/components/art7/dataDefinitions/labels.js:10
 #: src/components/art7/dataDefinitions/labels.js:42
 #: src/components/art7/dataDefinitions/labels.js:76
 #: src/components/art7/dataDefinitions/labels.js:104
 #: src/components/art7/dataDefinitions/labels.js:114
 #: src/components/hat/dataDefinitions/labels.js:10
-#: src/components/hat/dataDefinitions/labels.js:20
+#: src/components/hat/dataDefinitions/labels.js:22
 #: src/components/letter/dataDefinitions/labels.js:7
 #: src/components/letter/dataDefinitions/labels.js:35
 #: src/components/letter/dataDefinitions/labels.js:65
@@ -1159,14 +1175,14 @@ msgstr ""
 msgid "Please save before submitting"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:138
-#: src/components/common/mixins/FormTemplateMixin.vue:139
+#: src/components/common/mixins/FormTemplateMixin.vue:146
+#: src/components/common/mixins/FormTemplateMixin.vue:147
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:798
-#: src/components/common/mixins/FormTemplateMixin.vue:97
-#: src/components/common/mixins/FormTemplateMixin.vue:98
+#: src/components/art7/FormTemplate.vue:791
+#: src/components/common/mixins/FormTemplateMixin.vue:105
+#: src/components/common/mixins/FormTemplateMixin.vue:106
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
 
@@ -1210,12 +1226,12 @@ msgid "Process agent uses"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:328
-#: src/components/hat/dataDefinitions/form.js:140
+#: src/components/hat/dataDefinitions/form.js:138
 msgid "Production"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:329
-#: src/components/hat/dataDefinitions/form.js:141
+#: src/components/hat/dataDefinitions/form.js:139
 msgid "PRODUCTION"
 msgstr ""
 
@@ -1239,30 +1255,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:366
 #: src/components/letter/dataDefinitions/labels.js:82
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
-msgstr ""
-
-#: src/components/hat/dataDefinitions/labels.js:13
-msgid "Proprietatea 1 for testing"
-msgstr ""
-
-#: src/components/hat/dataDefinitions/labels.js:14
-msgid "Proprietatea 2 for testing"
-msgstr ""
-
-#: src/components/hat/dataDefinitions/labels.js:15
-msgid "Proprietatea 3 for testing"
-msgstr ""
-
-#: src/components/hat/dataDefinitions/labels.js:22
-msgid "Proprietatea1 for testing"
-msgstr ""
-
-#: src/components/hat/dataDefinitions/labels.js:23
-msgid "Proprietatea2 for testing"
-msgstr ""
-
-#: src/components/hat/dataDefinitions/labels.js:24
-msgid "Proprietatea3 for testing"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:66
@@ -1352,11 +1344,11 @@ msgstr ""
 msgid "Quantity of New Substances Imported as Feedstock"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:87
+#: src/components/hat/dataDefinitions/form.js:99
 msgid "Quantity of new substances imported for approved subsectors to which the high-ambient-temperature exemption applies"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:185
+#: src/components/hat/dataDefinitions/form.js:183
 msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
 msgstr ""
 
@@ -1437,7 +1429,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:112
 #: src/components/art7/dataDefinitions/labels.js:131
 #: src/components/hat/dataDefinitions/labels.js:12
-#: src/components/hat/dataDefinitions/labels.js:19
+#: src/components/hat/dataDefinitions/labels.js:21
 #: src/components/letter/dataDefinitions/labels.js:30
 #: src/components/letter/dataDefinitions/labels.js:60
 #: src/components/letter/dataDefinitions/labels.js:64
@@ -1460,7 +1452,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:113
 #: src/components/art7/dataDefinitions/labels.js:132
 #: src/components/hat/dataDefinitions/labels.js:11
-#: src/components/hat/dataDefinitions/labels.js:18
+#: src/components/hat/dataDefinitions/labels.js:20
 #: src/components/letter/dataDefinitions/labels.js:29
 #: src/components/letter/dataDefinitions/labels.js:59
 #: src/components/letter/dataDefinitions/labels.js:63
@@ -1490,7 +1482,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:40
 #: src/components/art7/dataDefinitions/form.js:53
 #: src/components/art7/dataDefinitions/form.js:78
-#: src/components/hat/dataDefinitions/form.js:20
+#: src/components/hat/dataDefinitions/form.js:32
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
 
@@ -1525,11 +1517,6 @@ msgstr ""
 msgid "Secretariat"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:104
-#: src/components/hat/dataDefinitions/form.js:202
-msgid "Secretariat Comments"
-msgstr ""
-
 #: src/components/art7/dataDefinitions/form.js:591
 #: src/components/art7/dataDefinitions/form.js:655
 #: src/components/art7/dataDefinitions/form.js:660
@@ -1555,8 +1542,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:537
 #: src/components/art7/dataDefinitions/form.js:637
 #: src/components/art7/dataDefinitions/form.js:757
-#: src/components/hat/dataDefinitions/form.js:77
-#: src/components/hat/dataDefinitions/form.js:176
+#: src/components/hat/dataDefinitions/form.js:89
+#: src/components/hat/dataDefinitions/form.js:174
 msgid "Status"
 msgstr ""
 
@@ -1606,8 +1593,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:521
 #: src/components/art7/dataDefinitions/form.js:605
 #: src/components/art7/dataDefinitions/labels.js:119
-#: src/components/hat/dataDefinitions/form.js:59
-#: src/components/hat/dataDefinitions/form.js:160
+#: src/components/hat/dataDefinitions/form.js:71
+#: src/components/hat/dataDefinitions/form.js:158
 #: src/components/letter/dataDefinitions/labels.js:104
 msgid "Substance"
 msgstr ""
@@ -1621,7 +1608,7 @@ msgstr ""
 #: src/components/common/form-components/DefaultAside.vue:6
 #: src/components/hat/FormTemplate.vue:42
 #: src/components/hat/dataDefinitions/labels.js:7
-#: src/components/hat/dataDefinitions/labels.js:21
+#: src/components/hat/dataDefinitions/labels.js:23
 #: src/components/letter/dataDefinitions/labels.js:4
 #: src/components/letter/dataDefinitions/labels.js:33
 #: src/components/letter/dataDefinitions/labels.js:83
@@ -1660,10 +1647,10 @@ msgstr ""
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:95
-#: src/components/common/mixins/FormTemplateMixin.vue:136
-#: src/components/common/mixins/FormTemplateMixin.vue:96
-#: src/components/common/mixins/FormTemplateMixin.vue:137
+#: src/components/common/mixins/FormTemplateMixin.vue:103
+#: src/components/common/mixins/FormTemplateMixin.vue:144
+#: src/components/common/mixins/FormTemplateMixin.vue:104
+#: src/components/common/mixins/FormTemplateMixin.vue:145
 msgid "There are no records to show"
 msgstr ""
 
@@ -1736,7 +1723,7 @@ msgstr ""
 msgid "twitter"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:162
+#: src/components/common/mixins/FormTemplateMixin.vue:170
 msgid "Type"
 msgstr ""
 
