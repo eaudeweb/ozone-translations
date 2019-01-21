@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 15:20+0000\n"
+"POT-Creation-Date: 2019-01-21 15:36+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/views/Dashboard.vue:327 src/views/Dashboard.vue:370
+#: src/views/Dashboard.vue:322 src/views/Dashboard.vue:359
 msgid "Actions"
 msgstr ""
 
@@ -444,7 +444,7 @@ msgid "Current State"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:181
-#: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:465
+#: src/components/hat/TabsManager.vue:153 src/views/Dashboard.vue:453
 msgid "Dashboard"
 msgstr ""
 
@@ -510,7 +510,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:226
 #: src/components/hat/TabsManager.vue:189
-#: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:515
+#: src/components/letter/TabsManager.vue:193 src/views/Dashboard.vue:503
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
@@ -581,10 +581,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:704
 msgid "Emissions"
-msgstr ""
-
-#: src/components/letter/services/tableRowConstructorService.js:131
-msgid "error 1 test"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:16
@@ -738,26 +734,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:729
 msgid "For feedstock use in your country"
-msgstr ""
-
-#: src/components/letter/dataDefinitions/form.js:26
-msgid "FOR TESTING ONLY Default Selected Option"
-msgstr ""
-
-#: src/components/letter/dataDefinitions/form.js:24
-msgid "FOR TESTING ONLY Please select some item"
-msgstr ""
-
-#: src/components/letter/dataDefinitions/form.js:27
-msgid "FOR TESTING ONLY This is another option"
-msgstr ""
-
-#: src/components/letter/dataDefinitions/form.js:25
-msgid "FOR TESTING ONLY This is First option"
-msgstr ""
-
-#: src/components/letter/dataDefinitions/form.js:28
-msgid "FOR TESTING ONLY This one is disabled"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:28
@@ -933,7 +909,7 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/views/Dashboard.vue:325 src/views/Dashboard.vue:367
+#: src/views/Dashboard.vue:321 src/views/Dashboard.vue:357
 msgid "Last modified"
 msgstr ""
 
@@ -1045,7 +1021,7 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
-#: src/views/Dashboard.vue:486
+#: src/views/Dashboard.vue:474
 msgid "New version created"
 msgstr ""
 
@@ -1061,7 +1037,7 @@ msgstr ""
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:310 src/views/Dashboard.vue:355
+#: src/views/Dashboard.vue:311 src/views/Dashboard.vue:349
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:56
 #: src/views/Dashboard.vue:124
 msgid "Obligation"
@@ -1120,7 +1096,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
-#: src/views/Dashboard.vue:316 src/views/Dashboard.vue:361
+#: src/views/Dashboard.vue:315 src/views/Dashboard.vue:353
 #: src/views/Dashboard.vue:31 src/views/Dashboard.vue:61
 #: src/views/Dashboard.vue:127
 msgid "Party"
@@ -1142,7 +1118,7 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:313 src/views/Dashboard.vue:358
+#: src/views/Dashboard.vue:313 src/views/Dashboard.vue:351
 #: src/views/Dashboard.vue:20
 msgid "Period"
 msgstr ""
@@ -1496,15 +1472,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:55
-msgid "Save failed  because of validation problems. Please check the"
-msgstr ""
-
-#: src/components/common/mixins/SaveMixin.vue:126
-#: src/components/common/mixins/SaveMixin.vue:142
-msgid "Save failed for"
-msgstr ""
-
+#: src/components/letter/services/tableRowConstructorService.js:131
 #: src/views/pages/Page404.vue:18 src/views/pages/Page500.vue:18
 #: src/components/art7/FormTemplate.vue:64
 #: src/components/art7/FormTemplate.vue:191
@@ -1533,7 +1501,7 @@ msgstr ""
 msgid "Sort"
 msgstr "Sort"
 
-#: src/views/Dashboard.vue:322
+#: src/views/Dashboard.vue:319
 msgid "State"
 msgstr ""
 
@@ -1746,8 +1714,8 @@ msgid "Validation"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:181
-#: src/components/common/SubmissionHistory.vue:57 src/views/Dashboard.vue:319
-#: src/views/Dashboard.vue:364
+#: src/components/common/SubmissionHistory.vue:57 src/views/Dashboard.vue:317
+#: src/views/Dashboard.vue:355
 msgid "Version"
 msgstr ""
 
