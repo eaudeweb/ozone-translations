@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-22 18:21+0000\n"
+"POT-Creation-Date: 2019-01-22 21:13+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -90,7 +90,7 @@ msgstr ""
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 
-#: src/components/art7/services/tableRowConstructorService.js:163
+#: src/components/art7/services/tableRowConstructorService.js:162
 msgid "Ammount generated and caputred for all uses (3a) must be greater or equal to (3b) + (3c)"
 msgstr ""
 
@@ -191,7 +191,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:32
+#: src/store/actions.js:33
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
@@ -212,7 +212,7 @@ msgstr ""
 msgid "Article 7"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:587
+#: src/components/art7/services/tableRowConstructorService.js:586
 msgid "At least one field from (4), (5), (6), (7) is required"
 msgstr ""
 
@@ -315,7 +315,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:22
+#: src/components/art7/services/tableRowConstructorService.js:21
 msgid "Click to edit"
 msgstr ""
 
@@ -326,7 +326,7 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:462
+#: src/components/art7/services/tableRowConstructorService.js:461
 #: src/components/hat/services/tableRowConstructorService.js:60
 #: src/components/hat/services/tableRowConstructorService.js:111
 msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
@@ -632,11 +632,11 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/store/actions.js:52
+#: src/store/actions.js:53
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:208
+#: src/store/actions.js:209
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -702,19 +702,19 @@ msgstr ""
 msgid "For all uses"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:473
+#: src/components/art7/services/tableRowConstructorService.js:472
 msgid "For annex E, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + QPS"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:479
+#: src/components/art7/services/tableRowConstructorService.js:478
 msgid "For annex F, total production (3) should be >= feedstock (4) + exempted, critical, other (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:485
+#: src/components/art7/services/tableRowConstructorService.js:484
 msgid "For annex F2, total production (3) should be >= feedstock (4a) + destruction (4b) + exempted, critical, other (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:467
+#: src/components/art7/services/tableRowConstructorService.js:466
 msgid "For annexes A-C, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + Article 5 countries (7)"
 msgstr ""
 
@@ -1124,15 +1124,15 @@ msgstr ""
 msgid "Phone"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:146
+#: src/components/art7/services/tableRowConstructorService.js:145
 msgid "Please complete the \"Amount of generated emissions (6)\" field"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:142
+#: src/components/art7/services/tableRowConstructorService.js:141
 msgid "Please complete the \"Facility name or identifier (1)\" field"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:528
+#: src/components/art7/services/tableRowConstructorService.js:527
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
@@ -1517,11 +1517,11 @@ msgstr ""
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
-#: src/store/actions.js:43
+#: src/store/actions.js:44
 msgid "Submission Created"
 msgstr ""
 
-#: src/store/actions.js:201
+#: src/store/actions.js:202
 msgid "Submission deleted"
 msgstr ""
 
@@ -1536,7 +1536,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:183
+#: src/store/actions.js:184
 msgid "Submission state updated"
 msgstr ""
 
@@ -1627,15 +1627,15 @@ msgstr ""
 msgid "Total amount generated"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:178
+#: src/components/art7/services/tableRowConstructorService.js:177
 msgid "Total amount generated (2) must be equal to its components (3a, 4, 5, 6)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:198
+#: src/components/art7/services/tableRowConstructorService.js:197
 msgid "Total amount generated (2) must be greater or equal to its components (3a, 4, 5, 6)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:156
+#: src/components/art7/services/tableRowConstructorService.js:155
 msgid "Total amount generated (2) must be higher than the sum of \"Amount generated and captured(3)\", \"Amount used for feedstock without prior capture(4)\", \"Amount destroyed without prior capture(5)\""
 msgstr ""
 
@@ -1673,12 +1673,12 @@ msgstr ""
 msgid "Total Quantity Imported for All Uses (recovered and reclaimed)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:337
+#: src/components/art7/services/tableRowConstructorService.js:336
 #: src/components/letter/services/tableRowConstructorService.js:309
 msgid "Total quantity imported for all uses is required"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:341
+#: src/components/art7/services/tableRowConstructorService.js:340
 #: src/components/letter/services/tableRowConstructorService.js:313
 msgid "Total quantity imported for all uses must be >= to the sum of individual components"
 msgstr ""
@@ -1687,7 +1687,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:189
+#: src/store/actions.js:190
 msgid "Unable to change the state of this submission"
 msgstr ""
 
