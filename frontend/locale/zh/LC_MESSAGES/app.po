@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-22 16:17+0000\n"
+"POT-Creation-Date: 2019-01-22 18:21+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -15,11 +15,11 @@ msgstr ""
 msgid "A blend with this name already exists!"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:37
+#: src/components/common/dataDefinitions/labels.js:36
 msgid "A1"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:38
+#: src/components/common/dataDefinitions/labels.js:37
 msgid "A2"
 msgstr ""
 
@@ -205,7 +205,7 @@ msgstr ""
 msgid "Article 5 party"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:26
+#: src/components/common/dataDefinitions/labels.js:25
 msgid "Article 7"
 msgstr ""
 
@@ -220,15 +220,15 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:39
+#: src/components/common/dataDefinitions/labels.js:38
 msgid "B1"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:40
+#: src/components/common/dataDefinitions/labels.js:39
 msgid "B2"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:41
+#: src/components/common/dataDefinitions/labels.js:40
 msgid "B3"
 msgstr ""
 
@@ -265,15 +265,15 @@ msgstr ""
 msgid "Blends"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:42
+#: src/components/common/dataDefinitions/labels.js:41
 msgid "C1"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:43
+#: src/components/common/dataDefinitions/labels.js:42
 msgid "C2"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:44
+#: src/components/common/dataDefinitions/labels.js:43
 msgid "C3"
 msgstr ""
 
@@ -302,7 +302,7 @@ msgstr ""
 msgid "Change substance"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:33
+#: src/components/common/dataDefinitions/labels.js:32
 msgid "Checked blanks"
 msgstr ""
 
@@ -365,7 +365,7 @@ msgstr ""
 msgid "Composition of"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:36
+#: src/components/common/dataDefinitions/labels.js:35
 msgid "Confirmed blanks"
 msgstr ""
 
@@ -545,7 +545,7 @@ msgstr ""
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:45
+#: src/components/common/dataDefinitions/labels.js:44
 msgid "E"
 msgstr ""
 
@@ -619,7 +619,7 @@ msgstr ""
 msgid "EXPORTS"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:46
+#: src/components/common/dataDefinitions/labels.js:45
 msgid "F"
 msgstr ""
 
@@ -767,11 +767,11 @@ msgstr ""
 msgid "Group"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:34
+#: src/components/common/dataDefinitions/labels.js:33
 msgid "Has blanks"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:27
+#: src/components/common/dataDefinitions/labels.js:26
 #: src/views/lookupTables/Parties.vue:110
 msgid "HAT"
 msgstr ""
@@ -873,7 +873,7 @@ msgstr ""
 msgid "Information in columns 2 to 5 is excluded from the reporting requirements under Article 7 of the Protocol and is provided on a voluntary basis"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:29
+#: src/components/common/dataDefinitions/labels.js:28
 msgid "invalid"
 msgstr ""
 
@@ -1220,7 +1220,7 @@ msgid "Production for supply to Article 5 countries in accordance with Articles 
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:66
-#: src/components/common/dataDefinitions/labels.js:32
+#: src/components/common/dataDefinitions/labels.js:31
 msgid "Provisional"
 msgstr ""
 
@@ -1508,10 +1508,6 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:25
-msgid "Subject"
-msgstr ""
-
 #: src/components/art7/Save.vue:43 src/components/art7/Save.vue:44
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
@@ -1581,7 +1577,7 @@ msgstr ""
 msgid "Substances - group FII"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:31
+#: src/components/common/dataDefinitions/labels.js:30
 msgid "Superseded"
 msgstr ""
 
@@ -1690,12 +1686,12 @@ msgstr ""
 msgid "Unable to change the state of this submission"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:28
+#: src/components/common/dataDefinitions/labels.js:27
 msgid "valid"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:69
-#: src/components/common/dataDefinitions/labels.js:35
+#: src/components/common/dataDefinitions/labels.js:34
 msgid "Valid"
 msgstr ""
 
