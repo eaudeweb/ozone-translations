@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-22 10:57+0000\n"
+"POT-Creation-Date: 2019-01-22 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -13,6 +13,14 @@ msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:221
 msgid "A blend with this name already exists!"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:37
+msgid "A1"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:38
+msgid "A2"
 msgstr ""
 
 #: src/components/common/Header.vue:15
@@ -160,44 +168,8 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:37
-msgid "Annex group A1"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:38
-msgid "Annex group A2"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:39
-msgid "Annex group B1"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:40
-msgid "Annex group B2"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:41
-msgid "Annex group B3"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:42
-msgid "Annex group C1"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:43
-msgid "Annex group C2"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:44
-msgid "Annex group C3"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:45
-msgid "Annex group E"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:46
-msgid "Annex group F"
+#: src/components/common/SubmissionInfo.vue:95
+msgid "Annex groups reported in submission"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:60
@@ -248,6 +220,18 @@ msgstr ""
 msgid "Attachments"
 msgstr ""
 
+#: src/components/common/dataDefinitions/labels.js:39
+msgid "B1"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:40
+msgid "B2"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:41
+msgid "B3"
+msgstr ""
+
 #: src/views/lookupTables/Parties.vue:134
 msgid "Beijing Amendment"
 msgstr ""
@@ -279,6 +263,18 @@ msgstr ""
 #: src/views/lookupTables/Blends.vue:193
 #: src/components/common/mixins/FormTemplateMixin.vue:301
 msgid "Blends"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:42
+msgid "C1"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:43
+msgid "C2"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:44
+msgid "C3"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:193
@@ -549,6 +545,10 @@ msgstr ""
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr ""
 
+#: src/components/common/dataDefinitions/labels.js:45
+msgid "E"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:22
 #: src/components/letter/dataDefinitions/labels.js:133
 msgid "E-mail"
@@ -617,6 +617,10 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:79
 msgid "EXPORTS"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:46
+msgid "F"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:717
