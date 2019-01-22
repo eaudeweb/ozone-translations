@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 15:36+0000\n"
+"POT-Creation-Date: 2019-01-22 10:11+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -269,7 +269,7 @@ msgstr ""
 msgid "Blend"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:307
+#: src/components/common/form-components/AddBlend.vue:343
 msgid "Blend created"
 msgstr ""
 
@@ -1493,6 +1493,11 @@ msgstr ""
 msgid "See definition of “non parties” in Instruction V."
 msgstr ""
 
+#: src/components/common/form-components/Add.vue:173
+#: src/components/common/form-components/AddBlend.vue:313
+msgid "select at least one country for each substance before adding it again"
+msgstr ""
+
 #: src/views/Dashboard.vue:115
 msgid "Show all versions"
 msgstr ""
@@ -1597,6 +1602,14 @@ msgstr ""
 
 #: src/components/common/form-components/CloneField.vue:111
 msgid "The fields for these countries were not added because they already exist"
+msgstr ""
+
+#: src/components/common/form-components/AddBlend.vue:313
+msgid "The following blends were not added because they already exist"
+msgstr ""
+
+#: src/components/common/form-components/Add.vue:173
+msgid "The following substances were not added because they already exist"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:37

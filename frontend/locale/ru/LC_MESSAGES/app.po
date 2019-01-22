@@ -2,17 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 15:36+0000\n"
+"POT-Creation-Date: 2019-01-22 10:11+0000\n"
 "PO-Revision-Date: 2019-01-22 09:45+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
-"Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
-"frontend/ru/>\n"
+"Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
 
@@ -273,7 +271,7 @@ msgstr "фиктивный текст"
 msgid "Blend"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:307
+#: src/components/common/form-components/AddBlend.vue:343
 msgid "Blend created"
 msgstr "фиктивный текст"
 
@@ -1497,6 +1495,11 @@ msgstr "фиктивный текст"
 msgid "See definition of “non parties” in Instruction V."
 msgstr "фиктивный текст."
 
+#: src/components/common/form-components/Add.vue:173
+#: src/components/common/form-components/AddBlend.vue:313
+msgid "select at least one country for each substance before adding it again"
+msgstr ""
+
 #: src/views/Dashboard.vue:115
 msgid "Show all versions"
 msgstr "фиктивный текст"
@@ -1601,6 +1604,16 @@ msgstr "фиктивный текст"
 
 #: src/components/common/form-components/CloneField.vue:111
 msgid "The fields for these countries were not added because they already exist"
+msgstr "фиктивный текст"
+
+#: src/components/common/form-components/AddBlend.vue:313
+#, fuzzy
+msgid "The following blends were not added because they already exist"
+msgstr "фиктивный текст"
+
+#: src/components/common/form-components/Add.vue:173
+#, fuzzy
+msgid "The following substances were not added because they already exist"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:37
