@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-22 10:44+0000\n"
+"POT-Creation-Date: 2019-01-22 10:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -412,16 +412,8 @@ msgstr ""
 msgid "Create a submission by specifying the obligation, the reporting period and the party name. All fields are mandatory."
 msgstr ""
 
-#: src/views/pages/Register.vue:38
-msgid "Create Account"
-msgstr ""
-
 #: src/views/Dashboard.vue:6
 msgid "Create submission"
-msgstr ""
-
-#: src/views/pages/Register.vue:9
-msgid "Create your account"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:18
@@ -576,7 +568,6 @@ msgid "Edit %{name} substance"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:38
-#: src/views/pages/Register.vue:22
 msgid "Email"
 msgstr ""
 
@@ -627,10 +618,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:79
 msgid "EXPORTS"
-msgstr ""
-
-#: src/views/pages/Register.vue:44
-msgid "facebook"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:717
@@ -803,10 +790,6 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:70
 #: src/components/letter/dataDefinitions/labels.js:71
 msgid "High ambient temperature"
-msgstr ""
-
-#: src/views/pages/Page500.vue:7
-msgid "Houston, we have a problem!"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:73
@@ -1379,10 +1362,6 @@ msgstr ""
 msgid "Refers to the total amount whether captured or not. The sum of these amounts is not to be reported under data form 3"
 msgstr ""
 
-#: src/views/pages/Register.vue:8
-msgid "Register"
-msgstr ""
-
 #: src/components/common/dataDefinitions/labels.js:11
 #: src/components/common/dataDefinitions/labels.js:12
 #: src/components/common/dataDefinitions/labels.js:13
@@ -1478,8 +1457,7 @@ msgid "Save and continue"
 msgstr ""
 
 #: src/components/letter/services/tableRowConstructorService.js:131
-#: src/views/pages/Page404.vue:18 src/views/pages/Page500.vue:18
-#: src/components/art7/FormTemplate.vue:64
+#: src/views/pages/Page404.vue:18 src/components/art7/FormTemplate.vue:64
 #: src/components/art7/FormTemplate.vue:193
 #: src/components/art7/FormTemplate.vue:314
 #: src/components/hat/FormTemplate.vue:45
@@ -1621,10 +1599,6 @@ msgstr ""
 msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
 msgstr ""
 
-#: src/views/pages/Page500.vue:8
-msgid "The page you are looking for is temporarily unavailable."
-msgstr ""
-
 #: src/views/pages/Page404.vue:8
 msgid "The page you are looking for was not found."
 msgstr ""
@@ -1703,10 +1677,6 @@ msgstr ""
 #: src/components/art7/services/tableRowConstructorService.js:341
 #: src/components/letter/services/tableRowConstructorService.js:313
 msgid "Total quantity imported for all uses must be >= to the sum of individual components"
-msgstr ""
-
-#: src/views/pages/Register.vue:47
-msgid "twitter"
 msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:170
@@ -1814,18 +1784,6 @@ msgstr ""
 msgid "Per page"
 msgstr ""
 
-#: src/views/pages/Page404.vue:17 src/views/pages/Page500.vue:17
+#: src/views/pages/Page404.vue:17
 msgid "What are you looking for?"
-msgstr ""
-
-#: src/views/pages/Register.vue:15
-msgid "Username"
-msgstr ""
-
-#: src/views/pages/Register.vue:29
-msgid "Password"
-msgstr ""
-
-#: src/views/pages/Register.vue:36
-msgid "Repeat password"
 msgstr ""
