@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-22 13:13+0300\n"
+"POT-Creation-Date: 2019-01-22 13:17+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ozone/core/api/views.py:440
+#: ozone/core/api/views.py:458
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
@@ -42,77 +42,77 @@ msgstr ""
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:551
+#: ozone/core/models/data.py:569
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:563
+#: ozone/core/models/data.py:581
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
-#: ozone/core/models/legal.py:59
+#: ozone/core/models/legal.py:64
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:55 ozone/core/models/reporting.py:876
+#: ozone/core/models/reporting.py:55 ozone/core/models/reporting.py:935
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
-#: ozone/core/models/reporting.py:423
+#: ozone/core/models/reporting.py:482
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:430
+#: ozone/core/models/reporting.py:489
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:439
+#: ozone/core/models/reporting.py:498
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:517
+#: ozone/core/models/reporting.py:576
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:574 ozone/core/serializers.py:412
+#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:412
 #: ozone/core/serializers.py:417
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:699
+#: ozone/core/models/reporting.py:758
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:710
+#: ozone/core/models/reporting.py:769
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:720
+#: ozone/core/models/reporting.py:779
 msgid "Submission in Data Entry cannot be cloned."
 msgstr ""
 
-#: ozone/core/models/reporting.py:854
+#: ozone/core/models/reporting.py:913
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:869
+#: ozone/core/models/reporting.py:928
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:903
+#: ozone/core/models/reporting.py:962
 msgid ""
 "There is already a submission in Data Entry for this party/period/obligation "
 "combination."
 msgstr ""
 
-#: ozone/core/models/substance.py:285
+#: ozone/core/models/substance.py:294
 msgid "Non custom blends cannot be modified."
 msgstr ""
 
-#: ozone/core/models/substance.py:324 ozone/core/models/substance.py:327
+#: ozone/core/models/substance.py:333 ozone/core/models/substance.py:336
 msgid "Substance or component name must be set."
 msgstr ""
 
