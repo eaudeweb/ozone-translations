@@ -3,14 +3,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-22 21:13+0000\n"
-"PO-Revision-Date: 2019-01-22 09:45+0000\n"
+"PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
-"Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
+"Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
+"frontend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
 
@@ -20,11 +22,11 @@ msgstr "фиктивный текст!"
 
 #: src/components/common/dataDefinitions/labels.js:36
 msgid "A1"
-msgstr ""
+msgstr "A1"
 
 #: src/components/common/dataDefinitions/labels.js:37
 msgid "A2"
-msgstr ""
+msgstr "A2"
 
 #: src/components/common/Header.vue:15
 msgid "Account"
@@ -172,7 +174,6 @@ msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionInfo.vue:95
-#, fuzzy
 msgid "Annex groups reported in submission"
 msgstr "фиктивный текст"
 
@@ -226,15 +227,15 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:38
 msgid "B1"
-msgstr ""
+msgstr "B1"
 
 #: src/components/common/dataDefinitions/labels.js:39
 msgid "B2"
-msgstr ""
+msgstr "B2"
 
 #: src/components/common/dataDefinitions/labels.js:40
 msgid "B3"
-msgstr ""
+msgstr "B3"
 
 #: src/views/lookupTables/Parties.vue:134
 msgid "Beijing Amendment"
@@ -271,15 +272,15 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:41
 msgid "C1"
-msgstr ""
+msgstr "C1"
 
 #: src/components/common/dataDefinitions/labels.js:42
 msgid "C2"
-msgstr ""
+msgstr "C2"
 
 #: src/components/common/dataDefinitions/labels.js:43
 msgid "C3"
-msgstr ""
+msgstr "C3"
 
 #: src/components/art7/TabsManager.vue:193
 msgid "Can't find instructions for current form"
@@ -551,7 +552,7 @@ msgstr "фиктивный текст!"
 
 #: src/components/common/dataDefinitions/labels.js:44
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #: src/components/common/dataDefinitions/labels.js:22
 #: src/components/letter/dataDefinitions/labels.js:133
@@ -625,7 +626,7 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:45
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: src/components/art7/dataDefinitions/form.js:717
 #: src/components/art7/dataDefinitions/labels.js:126
@@ -1056,7 +1057,6 @@ msgid "ORS (Ozone online reporting system)"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:10
-#, fuzzy
 msgid "Other"
 msgstr "фиктивный текст"
 
@@ -1487,7 +1487,7 @@ msgstr "фиктивный текст."
 #: src/components/common/form-components/Add.vue:173
 #: src/components/common/form-components/AddBlend.vue:313
 msgid "select at least one country for each substance before adding it again"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:115
 msgid "Show all versions"
@@ -1591,12 +1591,10 @@ msgid "The fields for these countries were not added because they already exist"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AddBlend.vue:313
-#, fuzzy
 msgid "The following blends were not added because they already exist"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:173
-#, fuzzy
 msgid "The following substances were not added because they already exist"
 msgstr "фиктивный текст"
 
