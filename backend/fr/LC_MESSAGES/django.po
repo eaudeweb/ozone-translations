@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-23 14:02+0300\n"
+"POT-Creation-Date: 2019-01-23 14:47+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -77,8 +77,8 @@ msgstr ""
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:412
-#: ozone/core/serializers.py:417
+#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:417
+#: ozone/core/serializers.py:422
 msgid "User is not allowed to change this remark"
 msgstr ""
 
@@ -116,7 +116,12 @@ msgstr ""
 msgid "Substance or component name must be set."
 msgstr ""
 
-#: ozone/core/serializers.py:801
+#: ozone/core/serializers.py:90
+#, python-brace-format
+msgid "Duplicate value for {field_value}"
+msgstr ""
+
+#: ozone/core/serializers.py:806
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
