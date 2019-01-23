@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-22 21:13+0000\n"
+"POT-Creation-Date: 2019-01-23 16:37+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -485,11 +485,11 @@ msgstr ""
 msgid "Decision / type of use or remark"
 msgstr ""
 
-#: src/components/common/Attachments.vue:28 src/views/Dashboard.vue:190
+#: src/components/common/Attachments.vue:32 src/views/Dashboard.vue:190
 msgid "Delete"
 msgstr ""
 
-#: src/components/common/Attachments.vue:12
+#: src/components/common/Attachments.vue:13
 msgid "Delete all"
 msgstr ""
 
