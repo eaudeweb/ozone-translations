@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-24 18:58+0300\n"
+"POT-Creation-Date: 2019-01-24 19:38+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -141,11 +141,11 @@ msgid ""
 "combination."
 msgstr ""
 
-#: ozone/core/models/substance.py:294
+#: ozone/core/models/substance.py:290
 msgid "Non custom blends cannot be modified."
 msgstr ""
 
-#: ozone/core/models/substance.py:333 ozone/core/models/substance.py:336
+#: ozone/core/models/substance.py:329 ozone/core/models/substance.py:332
 msgid "Substance or component name must be set."
 msgstr ""
 
