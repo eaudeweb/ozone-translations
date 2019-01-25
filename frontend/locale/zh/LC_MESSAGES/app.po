@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-23 16:37+0000\n"
+"POT-Creation-Date: 2019-01-25 19:07+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -188,7 +188,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:33
+#: src/store/actions.js:34
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
@@ -482,11 +482,11 @@ msgstr ""
 msgid "Decision / type of use or remark"
 msgstr ""
 
-#: src/components/common/Attachments.vue:32 src/views/Dashboard.vue:190
+#: src/views/Dashboard.vue:190
 msgid "Delete"
 msgstr ""
 
-#: src/components/common/Attachments.vue:13
+#: src/components/common/Attachments.vue:32
 msgid "Delete all"
 msgstr ""
 
@@ -629,11 +629,11 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/store/actions.js:53
+#: src/store/actions.js:54
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:209
+#: src/store/actions.js:210
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -1512,11 +1512,11 @@ msgstr ""
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
-#: src/store/actions.js:44
+#: src/store/actions.js:45
 msgid "Submission Created"
 msgstr ""
 
-#: src/store/actions.js:202
+#: src/store/actions.js:203
 msgid "Submission deleted"
 msgstr ""
 
@@ -1531,7 +1531,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:184
+#: src/store/actions.js:185
 msgid "Submission state updated"
 msgstr ""
 
@@ -1682,8 +1682,12 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:190
+#: src/store/actions.js:191
 msgid "Unable to change the state of this submission"
+msgstr ""
+
+#: src/components/common/Attachments.vue:47
+msgid "Upload"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:27

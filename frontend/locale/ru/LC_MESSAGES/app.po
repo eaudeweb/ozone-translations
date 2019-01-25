@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-23 16:37+0000\n"
+"POT-Creation-Date: 2019-01-25 19:07+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -191,7 +191,7 @@ msgstr "фиктивный текст"
 msgid "Annexes A, B, C and E substances"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:33
+#: src/store/actions.js:34
 msgid "Another submission already exists in Data Entry stage."
 msgstr "фиктивный текст."
 
@@ -485,11 +485,11 @@ msgstr "фиктивный текст"
 msgid "Decision / type of use or remark"
 msgstr "фиктивный текст"
 
-#: src/components/common/Attachments.vue:32 src/views/Dashboard.vue:190
+#: src/views/Dashboard.vue:190
 msgid "Delete"
 msgstr "фиктивный текст"
 
-#: src/components/common/Attachments.vue:13
+#: src/components/common/Attachments.vue:32
 msgid "Delete all"
 msgstr "фиктивный текст"
 
@@ -632,11 +632,11 @@ msgstr "F"
 msgid "Facility name or identifier"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:53
+#: src/store/actions.js:54
 msgid "Failed to create submission"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:209
+#: src/store/actions.js:210
 msgid "Failed to delete submission"
 msgstr "фиктивный текст"
 
@@ -1515,11 +1515,11 @@ msgstr "фиктивный текст"
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:44
+#: src/store/actions.js:45
 msgid "Submission Created"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:202
+#: src/store/actions.js:203
 msgid "Submission deleted"
 msgstr "фиктивный текст"
 
@@ -1534,7 +1534,7 @@ msgstr "фиктивный текст"
 msgid "Submission Info"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:184
+#: src/store/actions.js:185
 msgid "Submission state updated"
 msgstr "фиктивный текст"
 
@@ -1685,9 +1685,13 @@ msgstr "фиктивный текст"
 msgid "Type"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:190
+#: src/store/actions.js:191
 msgid "Unable to change the state of this submission"
 msgstr "фиктивный текст"
+
+#: src/components/common/Attachments.vue:47
+msgid "Upload"
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:27
 msgid "valid"
