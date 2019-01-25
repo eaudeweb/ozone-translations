@@ -3,167 +3,168 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-24 19:38+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2019-01-25 08:35+0000\n"
+"Last-Translator: admin <admin@example.com>\n"
+"Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
+"backend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
-"%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ozone/core/admin.py:77
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
-msgstr ""
+msgstr "фиктивный текст! %(username)s фиктивный текст."
 
 #: ozone/core/admin.py:92
 msgid "ORS"
-msgstr ""
+msgstr "ORS"
 
 #: ozone/core/admin.py:95
 msgid "Ozone Reporting System"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/admin.py:98
 msgid "Administration"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/admin.py:258
 #, python-format
 msgid "Email sent to %d users for password reset"
-msgstr ""
+msgstr "фиктивный текст! %d фиктивный текст"
 
 #: ozone/core/admin.py:261
 #, python-format
 msgid "Email sent to %s for password reset"
-msgstr ""
+msgstr "фиктивный текст! %s фиктивный текст"
 
 #: ozone/core/admin.py:264
 msgid "Reset user password"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/api/views.py:459
 msgid "Invalid request: request body should contain 'transition' key."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/data.py:64 ozone/core/models/data.py:67
 msgid "Data should refer to one substance or one blend"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/models/data.py:75 ozone/core/models/data.py:78
 msgid "Data should not refer to both a substance and a blend"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/models/data.py:90
 msgid "This blend is for a different party!"
-msgstr ""
+msgstr "фиктивный текст!"
 
 #: ozone/core/models/data.py:96
 msgid "Substance rows derived from blends cannot be changed!"
-msgstr ""
+msgstr "фиктивный текст!"
 
 #: ozone/core/models/data.py:158
 msgid "Cannot report polyols quantity if substance not in polyols!"
-msgstr ""
+msgstr "фиктивный текст!"
 
 #: ozone/core/models/data.py:569
 msgid "At least one quantity field should be non-null."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/data.py:581
 msgid "You need to select a non-party, according to the selected substance."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/legal.py:64
 msgid "End date has to be temporally after start date."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/reporting.py:55 ozone/core/models/reporting.py:936
 msgid "Submitted submissions cannot be modified."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/reporting.py:482
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
-msgstr ""
+msgstr "фиктивный {trans_name} текст"
 
 #: ozone/core/models/reporting.py:489
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
-msgstr ""
+msgstr "фиктивный {trans_name} текст"
 
 #: ozone/core/models/reporting.py:498
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/models/reporting.py:576
 msgid "User is not allowed to change this flag"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/models/reporting.py:633 ozone/core/serializers.py:417
 #: ozone/core/serializers.py:422
 msgid "User is not allowed to change this remark"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/core/models/reporting.py:758
 msgid "You do not have permission to perform this action."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/reporting.py:769
 msgid "You can't clone a submission from a previous period if it's superseded."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/reporting.py:779
 msgid "Submission in Data Entry cannot be cloned."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/reporting.py:914
 msgid "Submitted submissions cannot be deleted."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/reporting.py:929
 msgid "Reporting cannot be performed for this reporting period."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/reporting.py:963
 msgid ""
 "There is already a submission in Data Entry for this party/period/obligation "
 "combination."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/substance.py:290
 msgid "Non custom blends cannot be modified."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/models/substance.py:329 ozone/core/models/substance.py:332
 msgid "Substance or component name must be set."
-msgstr ""
+msgstr "фиктивный текст."
 
 #: ozone/core/serializers.py:90
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
-msgstr ""
+msgstr "фиктивный текст! {field_value}"
 
 #: ozone/core/serializers.py:806
 msgid "User is not allowed to change the reporting channel"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/templates/admin/import_export/change_list_export_item.html:6
 msgid "Export"
-msgstr ""
+msgstr "фиктивный текст"
 
 #: ozone/templates/admin/import_export/change_list_import_item.html:5
 msgid "Import"
-msgstr ""
+msgstr "фиктивный текст"
