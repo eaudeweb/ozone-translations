@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-25 16:36+0300\n"
+"POT-Creation-Date: 2019-01-25 16:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -164,4 +164,8 @@ msgstr ""
 
 #: ozone/templates/admin/import_export/change_list_import_item.html:5
 msgid "Import"
+msgstr ""
+
+#: weblate/ozone.py:24
+msgid "Authentication has been forbidden by server."
 msgstr ""
