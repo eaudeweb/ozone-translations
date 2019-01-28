@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-25 22:01+0300\n"
+"POT-Creation-Date: 2019-01-28 10:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,17 +37,17 @@ msgstr ""
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:258
+#: ozone/core/admin.py:264
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:261
+#: ozone/core/admin.py:267
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:264
+#: ozone/core/admin.py:270
 msgid "Reset user password"
 msgstr ""
 
@@ -164,6 +164,65 @@ msgstr ""
 
 #: ozone/templates/admin/import_export/change_list_import_item.html:5
 msgid "Import"
+msgstr ""
+
+#: ozone/templates/registration/account_activated_email.html:2
+#, python-format
+msgid ""
+"User %(account)s has successfully activate the account and can now begin "
+"using %(site_name)s."
+msgstr ""
+
+#: ozone/templates/registration/account_activated_email.html:4
+#: ozone/templates/registration/account_created_email.html:10
+#: ozone/templates/registration/password_reset_email.html:10
+#, python-format
+msgid "The %(site_name)s team"
+msgstr ""
+
+#: ozone/templates/registration/account_activated_subject.txt:2
+#, python-format
+msgid "Account %(account)s has been activated"
+msgstr ""
+
+#: ozone/templates/registration/account_created_email.html:2
+#, python-format
+msgid "A new account has been created for you at %(site_name)s."
+msgstr ""
+
+#: ozone/templates/registration/account_created_email.html:4
+msgid ""
+"Please go to the following page and choose a password to activate your "
+"account:"
+msgstr ""
+
+#: ozone/templates/registration/account_created_email.html:8
+msgid "Your username, is:"
+msgstr ""
+
+#: ozone/templates/registration/account_created_subject.txt:2
+#, python-format
+msgid "Activate your account on %(site_name)s"
+msgstr ""
+
+#: ozone/templates/registration/password_reset_email.html:2
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+
+#: ozone/templates/registration/password_reset_email.html:4
+msgid "Please go to the following page and choose a new password:"
+msgstr ""
+
+#: ozone/templates/registration/password_reset_email.html:8
+msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: ozone/templates/registration/password_reset_subject.txt:2
+#, python-format
+msgid "Password reset on %(site_name)s"
 msgstr ""
 
 #: weblate/ozone.py:24
