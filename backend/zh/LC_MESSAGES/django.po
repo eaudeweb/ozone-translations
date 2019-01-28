@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-28 17:34+0300\n"
+"POT-Creation-Date: 2019-01-28 17:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,7 +54,7 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: ozone/core/api/views.py:460
+#: ozone/core/api/views.py:461
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
@@ -113,8 +113,8 @@ msgstr ""
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:423
-#: ozone/core/serializers.py:428
+#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:428
+#: ozone/core/serializers.py:433
 msgid "User is not allowed to change this remark"
 msgstr ""
 
@@ -157,7 +157,7 @@ msgstr ""
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:812
+#: ozone/core/serializers.py:817
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
