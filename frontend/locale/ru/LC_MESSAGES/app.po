@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-25 19:07+0000\n"
+"POT-Creation-Date: 2019-01-28 08:57+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -916,7 +916,7 @@ msgstr "фиктивный текст"
 msgid "Legend:"
 msgstr "фиктивный текст:"
 
-#: src/components/common/Header.vue:17
+#: src/components/common/Header.vue:19
 msgid "Logout"
 msgstr "фиктивный текст"
 
@@ -1376,6 +1376,10 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:125
 msgid "Reinstate"
 msgstr "фиктивный текст"
+
+#: src/components/common/Header.vue:18
+msgid "Release"
+msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:84
 #: src/components/hat/dataDefinitions/form.js:174

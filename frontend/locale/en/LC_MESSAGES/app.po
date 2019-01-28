@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-25 19:07+0000\n"
+"POT-Creation-Date: 2019-01-28 08:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -914,7 +914,7 @@ msgstr ""
 msgid "Legend:"
 msgstr ""
 
-#: src/components/common/Header.vue:17
+#: src/components/common/Header.vue:19
 msgid "Logout"
 msgstr ""
 
@@ -1373,6 +1373,10 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:124
 #: src/components/letter/dataDefinitions/labels.js:125
 msgid "Reinstate"
+msgstr ""
+
+#: src/components/common/Header.vue:18
+msgid "Release"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:84
