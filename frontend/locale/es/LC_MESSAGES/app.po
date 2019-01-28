@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-28 08:57+0000\n"
+"POT-Creation-Date: 2019-01-28 12:02+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -24,7 +24,7 @@ msgstr ""
 msgid "A2"
 msgstr ""
 
-#: src/components/common/Header.vue:15
+#: src/components/common/Header.vue:7
 msgid "Account"
 msgstr ""
 
@@ -568,6 +568,7 @@ msgid "Edit %{name} substance"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:38
+#: src/views/UserProfile.vue:19
 msgid "Email"
 msgstr ""
 
@@ -914,7 +915,7 @@ msgstr ""
 msgid "Legend:"
 msgstr ""
 
-#: src/components/common/Header.vue:19
+#: src/components/common/Header.vue:12
 msgid "Logout"
 msgstr ""
 
@@ -1090,7 +1091,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
 #: src/views/Dashboard.vue:315 src/views/Dashboard.vue:353
 #: src/views/Dashboard.vue:31 src/views/Dashboard.vue:61
-#: src/views/Dashboard.vue:127
+#: src/views/Dashboard.vue:127 src/views/UserProfile.vue:22
 msgid "Party"
 msgstr ""
 
@@ -1375,7 +1376,7 @@ msgstr ""
 msgid "Reinstate"
 msgstr ""
 
-#: src/components/common/Header.vue:18
+#: src/components/common/Header.vue:11
 msgid "Release"
 msgstr ""
 
@@ -1440,7 +1441,7 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/components/common/Header.vue:16
+#: src/components/common/Header.vue:9
 msgid "Reset password"
 msgstr ""
 
@@ -1458,6 +1459,10 @@ msgstr ""
 
 #: src/views/Dashboard.vue:171
 msgid "Revise"
+msgstr ""
+
+#: src/views/UserProfile.vue:38
+msgid "Save"
 msgstr ""
 
 #: src/components/common/mixins/SaveMixin.vue:5
@@ -1695,6 +1700,10 @@ msgstr ""
 msgid "Upload"
 msgstr ""
 
+#: src/components/common/Header.vue:8 src/views/UserProfile.vue:59
+msgid "User profile"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:27
 msgid "valid"
 msgstr ""
@@ -1794,4 +1803,20 @@ msgstr ""
 
 #: src/views/pages/Page404.vue:17
 msgid "What are you looking for?"
+msgstr ""
+
+#: src/views/UserProfile.vue:3
+msgid "First name"
+msgstr ""
+
+#: src/views/UserProfile.vue:6
+msgid "Last name"
+msgstr ""
+
+#: src/views/UserProfile.vue:9
+msgid "Language"
+msgstr ""
+
+#: src/views/UserProfile.vue:16
+msgid "User name"
 msgstr ""
