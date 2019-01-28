@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-28 10:59+0300\n"
+"POT-Creation-Date: 2019-01-28 11:55+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -21,40 +21,44 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:77
+#: ozone/core/admin.py:78
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr "фиктивный текст! %(username)s фиктивный текст."
 
-#: ozone/core/admin.py:92
+#: ozone/core/admin.py:93
 msgid "ORS"
 msgstr "ORS"
 
-#: ozone/core/admin.py:95
+#: ozone/core/admin.py:96
 msgid "Ozone Reporting System"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:98
+#: ozone/core/admin.py:99
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:264
+#: ozone/core/admin.py:271
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:267
+#: ozone/core/admin.py:274
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:270
+#: ozone/core/admin.py:276
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/api/views.py:459
+#: ozone/core/admin.py:282
+msgid "Login"
+msgstr ""
+
+#: ozone/core/api/views.py:460
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
@@ -113,8 +117,8 @@ msgstr "фиктивный текст"
 msgid "User is not allowed to change this flag"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:417
-#: ozone/core/serializers.py:422
+#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:423
+#: ozone/core/serializers.py:428
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
@@ -157,7 +161,7 @@ msgstr "фиктивный текст."
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
 
-#: ozone/core/serializers.py:806
+#: ozone/core/serializers.py:812
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
 
