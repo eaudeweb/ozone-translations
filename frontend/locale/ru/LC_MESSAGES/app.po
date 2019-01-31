@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-31 13:03+0000\n"
+"POT-Creation-Date: 2019-01-31 23:14+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -191,7 +191,7 @@ msgstr "фиктивный текст"
 msgid "Annexes A, B, C and E substances"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:35
+#: src/store/actions.js:36
 msgid "Another submission already exists in Data Entry stage."
 msgstr "фиктивный текст."
 
@@ -214,13 +214,6 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:586
 msgid "At least one field from (4), (5), (6), (7) is required"
-msgstr "фиктивный текст"
-
-#: src/components/common/dataDefinitions/tabAttachments.js:5
-#: src/components/common/dataDefinitions/tabAttachments.js:6
-#: src/components/hat/TabsManager.vue:47
-#: src/components/letter/TabsManager.vue:37
-msgid "Attachments"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:38
@@ -629,11 +622,11 @@ msgstr "F"
 msgid "Facility name or identifier"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:55
+#: src/store/actions.js:56
 msgid "Failed to create submission"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:224
+#: src/store/actions.js:225
 msgid "Failed to delete submission"
 msgstr "фиктивный текст"
 
@@ -641,6 +634,13 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:132
 msgid "Fax"
 msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/tabFiles.js:5
+#: src/components/common/dataDefinitions/tabFiles.js:6
+#: src/components/hat/TabsManager.vue:47
+#: src/components/letter/TabsManager.vue:37
+msgid "Files"
+msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:508
 msgid "Fill in this form only if your country destroyed CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
@@ -1459,7 +1459,7 @@ msgstr "фиктивный текст"
 msgid "Revise"
 msgstr "фиктивный текст"
 
-#: src/views/UserProfile.vue:38
+#: src/components/common/Files.vue:41 src/views/UserProfile.vue:38
 msgid "Save"
 msgstr ""
 
@@ -1520,12 +1520,12 @@ msgstr "фиктивный текст"
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:46
+#: src/store/actions.js:47
 #, fuzzy
 msgid "Submission created"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:217
+#: src/store/actions.js:218
 msgid "Submission deleted"
 msgstr "фиктивный текст"
 
@@ -1540,7 +1540,7 @@ msgstr "фиктивный текст"
 msgid "Submission Info"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:199
+#: src/store/actions.js:200
 msgid "Submission state updated"
 msgstr "фиктивный текст"
 
@@ -1691,11 +1691,11 @@ msgstr "фиктивный текст"
 msgid "Type"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:205
+#: src/store/actions.js:206
 msgid "Unable to change the state of this submission"
 msgstr "фиктивный текст"
 
-#: src/components/common/Attachments.vue:38
+#: src/components/common/Files.vue:39
 msgid "Upload"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-31 13:03+0000\n"
+"POT-Creation-Date: 2019-01-31 23:14+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -191,7 +191,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:35
+#: src/store/actions.js:36
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
@@ -214,13 +214,6 @@ msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:586
 msgid "At least one field from (4), (5), (6), (7) is required"
-msgstr ""
-
-#: src/components/common/dataDefinitions/tabAttachments.js:5
-#: src/components/common/dataDefinitions/tabAttachments.js:6
-#: src/components/hat/TabsManager.vue:47
-#: src/components/letter/TabsManager.vue:37
-msgid "Attachments"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:38
@@ -629,17 +622,24 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/store/actions.js:55
+#: src/store/actions.js:56
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:224
+#: src/store/actions.js:225
 msgid "Failed to delete submission"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:21
 #: src/components/letter/dataDefinitions/labels.js:132
 msgid "Fax"
+msgstr ""
+
+#: src/components/common/dataDefinitions/tabFiles.js:5
+#: src/components/common/dataDefinitions/tabFiles.js:6
+#: src/components/hat/TabsManager.vue:47
+#: src/components/letter/TabsManager.vue:37
+msgid "Files"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:508
@@ -1461,7 +1461,7 @@ msgstr ""
 msgid "Revise"
 msgstr ""
 
-#: src/views/UserProfile.vue:38
+#: src/components/common/Files.vue:41 src/views/UserProfile.vue:38
 msgid "Save"
 msgstr ""
 
@@ -1522,11 +1522,11 @@ msgstr ""
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
-#: src/store/actions.js:46
+#: src/store/actions.js:47
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:217
+#: src/store/actions.js:218
 msgid "Submission deleted"
 msgstr ""
 
@@ -1541,7 +1541,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:199
+#: src/store/actions.js:200
 msgid "Submission state updated"
 msgstr ""
 
@@ -1692,11 +1692,11 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:205
+#: src/store/actions.js:206
 msgid "Unable to change the state of this submission"
 msgstr ""
 
-#: src/components/common/Attachments.vue:38
+#: src/components/common/Files.vue:39
 msgid "Upload"
 msgstr ""
 
