@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-28 12:02+0000\n"
+"POT-Creation-Date: 2019-01-31 12:16+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/views/Dashboard.vue:322 src/views/Dashboard.vue:359
+#: src/views/Dashboard.vue:323 src/views/Dashboard.vue:360
 msgid "Actions"
 msgstr ""
 
@@ -433,7 +433,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:180
 #: src/components/hat/TabsManager.vue:146
-#: src/components/letter/TabsManager.vue:129 src/views/Dashboard.vue:453
+#: src/components/letter/TabsManager.vue:129 src/views/Dashboard.vue:454
 msgid "Dashboard"
 msgstr ""
 
@@ -483,7 +483,7 @@ msgstr ""
 msgid "Decision / type of use or remark"
 msgstr ""
 
-#: src/views/Dashboard.vue:190
+#: src/views/Dashboard.vue:191
 msgid "Delete"
 msgstr ""
 
@@ -499,7 +499,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:225
 #: src/components/hat/TabsManager.vue:182
-#: src/components/letter/TabsManager.vue:182 src/views/Dashboard.vue:503
+#: src/components/letter/TabsManager.vue:182 src/views/Dashboard.vue:504
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
@@ -555,7 +555,7 @@ msgstr ""
 msgid "E-mail"
 msgstr ""
 
-#: src/views/Dashboard.vue:157
+#: src/views/Dashboard.vue:158
 msgid "Edit"
 msgstr ""
 
@@ -898,7 +898,7 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/views/Dashboard.vue:321 src/views/Dashboard.vue:357
+#: src/views/Dashboard.vue:322 src/views/Dashboard.vue:358
 msgid "Last modified"
 msgstr ""
 
@@ -1010,7 +1010,7 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
-#: src/views/Dashboard.vue:474
+#: src/views/Dashboard.vue:475
 msgid "New version created"
 msgstr ""
 
@@ -1026,7 +1026,7 @@ msgstr ""
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:311 src/views/Dashboard.vue:349
+#: src/views/Dashboard.vue:312 src/views/Dashboard.vue:350
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:56
 #: src/views/Dashboard.vue:124
 msgid "Obligation"
@@ -1089,7 +1089,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
-#: src/views/Dashboard.vue:315 src/views/Dashboard.vue:353
+#: src/views/Dashboard.vue:316 src/views/Dashboard.vue:354
 #: src/views/Dashboard.vue:31 src/views/Dashboard.vue:61
 #: src/views/Dashboard.vue:127 src/views/UserProfile.vue:22
 msgid "Party"
@@ -1111,7 +1111,7 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:313 src/views/Dashboard.vue:351
+#: src/views/Dashboard.vue:314 src/views/Dashboard.vue:352
 #: src/views/Dashboard.vue:20
 msgid "Period"
 msgstr ""
@@ -1457,7 +1457,7 @@ msgstr ""
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
 
-#: src/views/Dashboard.vue:171
+#: src/views/Dashboard.vue:172
 msgid "Revise"
 msgstr ""
 
@@ -1502,7 +1502,7 @@ msgstr ""
 msgid "Sort"
 msgstr ""
 
-#: src/views/Dashboard.vue:319
+#: src/views/Dashboard.vue:320
 msgid "State"
 msgstr ""
 
@@ -1523,7 +1523,7 @@ msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
 #: src/store/actions.js:45
-msgid "Submission Created"
+msgid "Submission created"
 msgstr ""
 
 #: src/store/actions.js:203
@@ -1719,8 +1719,8 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:180
 #: src/components/common/SubmissionHistory.vue:57
-#: src/components/letter/TabsManager.vue:129 src/views/Dashboard.vue:317
-#: src/views/Dashboard.vue:355
+#: src/components/letter/TabsManager.vue:129 src/views/Dashboard.vue:318
+#: src/views/Dashboard.vue:356
 msgid "Version"
 msgstr ""
 
@@ -1734,7 +1734,7 @@ msgstr ""
 msgid "Vienna Convention"
 msgstr ""
 
-#: src/views/Dashboard.vue:92 src/views/Dashboard.vue:160
+#: src/views/Dashboard.vue:92 src/views/Dashboard.vue:161
 msgid "View"
 msgstr ""
 
@@ -1797,7 +1797,7 @@ msgstr ""
 msgid "Search all columns"
 msgstr ""
 
-#: src/views/Dashboard.vue:102 src/views/Dashboard.vue:202
+#: src/views/Dashboard.vue:102 src/views/Dashboard.vue:203
 msgid "Per page"
 msgstr ""
 
