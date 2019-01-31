@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-31 12:16+0000\n"
+"POT-Creation-Date: 2019-01-31 13:03+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -191,7 +191,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:34
+#: src/store/actions.js:35
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
@@ -489,10 +489,6 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/components/common/Attachments.vue:32
-msgid "Delete all"
-msgstr ""
-
 #: src/components/art7/TabsManager.vue:90
 #: src/components/hat/TabsManager.vue:78
 #: src/components/letter/TabsManager.vue:83
@@ -570,7 +566,7 @@ msgid "Edit %{name} substance"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:38
-#: src/views/UserProfile.vue:19
+#: src/views/UserProfile.vue:9
 msgid "Email"
 msgstr ""
 
@@ -633,11 +629,11 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/store/actions.js:54
+#: src/store/actions.js:55
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:210
+#: src/store/actions.js:224
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -1526,11 +1522,11 @@ msgstr ""
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
-#: src/store/actions.js:45
+#: src/store/actions.js:46
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:203
+#: src/store/actions.js:217
 msgid "Submission deleted"
 msgstr ""
 
@@ -1545,7 +1541,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:185
+#: src/store/actions.js:199
 msgid "Submission state updated"
 msgstr ""
 
@@ -1696,11 +1692,11 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:191
+#: src/store/actions.js:205
 msgid "Unable to change the state of this submission"
 msgstr ""
 
-#: src/components/common/Attachments.vue:47
+#: src/components/common/Attachments.vue:38
 msgid "Upload"
 msgstr ""
 
@@ -1817,10 +1813,10 @@ msgstr ""
 msgid "Last name"
 msgstr ""
 
-#: src/views/UserProfile.vue:9
+#: src/views/UserProfile.vue:12
 msgid "Language"
 msgstr ""
 
-#: src/views/UserProfile.vue:16
+#: src/views/UserProfile.vue:19
 msgid "User name"
 msgstr ""
