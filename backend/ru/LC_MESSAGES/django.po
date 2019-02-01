@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-01 17:53+0300\n"
+"POT-Creation-Date: 2019-02-01 19:48+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -517,55 +517,55 @@ msgstr "фиктивный текст."
 msgid "End date has to be temporally after start date."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:55 ozone/core/models/reporting.py:936
+#: ozone/core/models/reporting.py:55 ozone/core/models/reporting.py:940
 msgid "Submitted submissions cannot be modified."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:482
+#: ozone/core/models/reporting.py:486
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:489
+#: ozone/core/models/reporting.py:493
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:498
+#: ozone/core/models/reporting.py:502
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:576
+#: ozone/core/models/reporting.py:580
 msgid "User is not allowed to change this flag"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:435
+#: ozone/core/models/reporting.py:637 ozone/core/serializers.py:435
 #: ozone/core/serializers.py:440
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:758
+#: ozone/core/models/reporting.py:762
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:769
+#: ozone/core/models/reporting.py:773
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:779
+#: ozone/core/models/reporting.py:783
 msgid "Submission in Data Entry cannot be cloned."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:914
+#: ozone/core/models/reporting.py:918
 msgid "Submitted submissions cannot be deleted."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:929
+#: ozone/core/models/reporting.py:933
 msgid "Reporting cannot be performed for this reporting period."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:963
+#: ozone/core/models/reporting.py:967
 msgid ""
 "There is already a submission in Data Entry for this party/period/obligation "
 "combination."
