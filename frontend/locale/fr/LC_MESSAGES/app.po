@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-01 09:37+0000\n"
+"POT-Creation-Date: 2019-02-01 14:55+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1162,11 +1162,8 @@ msgid "Polyols quantity"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:17
-msgid "Postal adddress"
-msgstr ""
-
 #: src/components/letter/dataDefinitions/labels.js:129
-msgid "Postal Adddress"
+msgid "Postal address"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:7
