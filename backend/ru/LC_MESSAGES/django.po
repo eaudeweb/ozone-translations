@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-01 12:35+0300\n"
+"POT-Creation-Date: 2019-02-01 16:42+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -540,8 +540,8 @@ msgstr "фиктивный текст"
 msgid "User is not allowed to change this flag"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:428
-#: ozone/core/serializers.py:433
+#: ozone/core/models/reporting.py:633 ozone/core/serializers.py:435
+#: ozone/core/serializers.py:440
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
@@ -579,12 +579,12 @@ msgstr "фиктивный текст."
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 
-#: ozone/core/serializers.py:90
+#: ozone/core/serializers.py:91
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
 
-#: ozone/core/serializers.py:817
+#: ozone/core/serializers.py:824
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
 
