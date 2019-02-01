@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-01 19:48+0300\n"
+"POT-Creation-Date: 2019-02-01 19:55+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -481,7 +481,7 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:471
+#: ozone/core/api/views.py:480
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
@@ -540,8 +540,8 @@ msgstr "фиктивный текст"
 msgid "User is not allowed to change this flag"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:637 ozone/core/serializers.py:435
-#: ozone/core/serializers.py:440
+#: ozone/core/models/reporting.py:637 ozone/core/serializers.py:431
+#: ozone/core/serializers.py:436
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
@@ -579,14 +579,22 @@ msgstr "фиктивный текст."
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 
-#: ozone/core/serializers.py:91
+#: ozone/core/serializers.py:87
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
 
-#: ozone/core/serializers.py:824
+#: ozone/core/serializers.py:823
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
+
+#: ozone/core/serializers.py:1001
+msgid "File id must be specified at update"
+msgstr ""
+
+#: ozone/core/serializers.py:1019
+msgid "Specified file id not found for this submission"
+msgstr ""
 
 #: ozone/templates/admin/import_export/change_list_export_item.html:6
 msgid "Export"
