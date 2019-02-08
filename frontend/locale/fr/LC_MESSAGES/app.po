@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-07 19:59+0000\n"
+"POT-Creation-Date: 2019-02-08 15:45+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -209,8 +209,8 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:44
 #: src/components/exemption/dataDefinitions/form.js:45
+#: src/components/exemption/dataDefinitions/form.js:46
 msgid "Approved"
 msgstr ""
 
@@ -689,8 +689,8 @@ msgstr ""
 msgid "Fax"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabFiles.js:6
 #: src/components/common/dataDefinitions/tabFiles.js:7
+#: src/components/common/dataDefinitions/tabFiles.js:8
 #: src/components/exemption/TabsManager.vue:38
 #: src/components/hat/TabsManager.vue:47
 #: src/components/letter/TabsManager.vue:39
@@ -1099,8 +1099,8 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:36
 #: src/components/exemption/dataDefinitions/form.js:37
+#: src/components/exemption/dataDefinitions/form.js:38
 msgid "Nomination"
 msgstr ""
 
