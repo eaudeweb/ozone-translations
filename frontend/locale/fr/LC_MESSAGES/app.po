@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-08 15:45+0000\n"
+"POT-Creation-Date: 2019-02-09 02:50+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -87,7 +87,7 @@ msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:467
-#: src/components/exemption/FormTemplate.vue:116
+#: src/components/exemption/FormTemplate.vue:118
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 
@@ -99,7 +99,6 @@ msgstr ""
 msgid "Amount [generated] (tonnes)"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:110
 #: src/components/letter/dataDefinitions/labels.js:110
 msgid "Amount [Generated] (tonnes)"
 msgstr ""
@@ -112,7 +111,6 @@ msgstr ""
 msgid "Amount destroyed"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:112
 #: src/components/letter/dataDefinitions/labels.js:112
 msgid "Amount Destroyed"
 msgstr ""
@@ -129,7 +127,6 @@ msgstr ""
 msgid "Amount of emissions"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:113
 #: src/components/letter/dataDefinitions/labels.js:113
 msgid "Amount of Emissions"
 msgstr ""
@@ -142,7 +139,6 @@ msgstr ""
 msgid "Amount used for feedstock"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:111
 #: src/components/letter/dataDefinitions/labels.js:111
 msgid "Amount Used for Feedstock"
 msgstr ""
@@ -196,7 +192,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:36
+#: src/store/actions.js:35
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
@@ -209,8 +205,8 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:45
-#: src/components/exemption/dataDefinitions/form.js:46
+#: src/components/exemption/dataDefinitions/form.js:50
+#: src/components/exemption/dataDefinitions/form.js:51
 msgid "Approved"
 msgstr ""
 
@@ -242,7 +238,6 @@ msgstr ""
 msgid "Beijing Amendment"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:94
 #: src/components/letter/dataDefinitions/labels.js:94
 msgid "blend"
 msgstr ""
@@ -252,9 +247,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
 #: src/components/common/mixins/FormTemplateMixin.vue:160
-#: src/components/exemption/dataDefinitions/labels.js:5
-#: src/components/exemption/dataDefinitions/labels.js:34
-#: src/components/exemption/dataDefinitions/labels.js:105
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
@@ -309,7 +301,7 @@ msgid "Captured for feedstock uses within your country"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:473
-#: src/components/exemption/FormTemplate.vue:122
+#: src/components/exemption/FormTemplate.vue:124
 msgid "Change substance"
 msgstr ""
 
@@ -330,7 +322,7 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:553
 #: src/components/art7/TabsManager.vue:25
 #: src/components/art7/TabsManager.vue:102
-#: src/components/exemption/FormTemplate.vue:175
+#: src/components/exemption/FormTemplate.vue:151
 #: src/components/hat/TabsManager.vue:22 src/components/hat/TabsManager.vue:88
 msgid "Close"
 msgstr ""
@@ -343,6 +335,7 @@ msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:83
 #: src/components/art7/FormTemplate.vue:437
+#: src/components/exemption/FormTemplate.vue:90
 #: src/components/hat/FormTemplate.vue:210
 msgid "Comments"
 msgstr ""
@@ -398,7 +391,6 @@ msgid "Copenhagen Amendment"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:18
-#: src/components/exemption/dataDefinitions/labels.js:130
 #: src/components/letter/dataDefinitions/labels.js:130
 msgid "Country"
 msgstr ""
@@ -408,7 +400,6 @@ msgstr ""
 msgid "Country of destination of exports"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:37
 #: src/components/letter/dataDefinitions/labels.js:37
 msgid "Country of Destination of Exports"
 msgstr ""
@@ -431,12 +422,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:55
 #: src/components/art7/dataDefinitions/labels.js:77
 #: src/components/art7/dataDefinitions/labels.js:78
-#: src/components/exemption/dataDefinitions/labels.js:15
-#: src/components/exemption/dataDefinitions/labels.js:16
-#: src/components/exemption/dataDefinitions/labels.js:45
-#: src/components/exemption/dataDefinitions/labels.js:46
-#: src/components/exemption/dataDefinitions/labels.js:66
-#: src/components/exemption/dataDefinitions/labels.js:67
 #: src/components/letter/dataDefinitions/labels.js:15
 #: src/components/letter/dataDefinitions/labels.js:16
 #: src/components/letter/dataDefinitions/labels.js:45
@@ -474,7 +459,6 @@ msgid "Data was not saved"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:23
-#: src/components/exemption/dataDefinitions/labels.js:134
 #: src/components/letter/dataDefinitions/labels.js:134
 msgid "Date"
 msgstr ""
@@ -487,10 +471,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:51
 #: src/components/art7/dataDefinitions/labels.js:66
 #: src/components/art7/dataDefinitions/labels.js:96
-#: src/components/exemption/dataDefinitions/labels.js:27
-#: src/components/exemption/dataDefinitions/labels.js:42
-#: src/components/exemption/dataDefinitions/labels.js:57
-#: src/components/exemption/dataDefinitions/labels.js:85
 #: src/components/letter/dataDefinitions/labels.js:27
 #: src/components/letter/dataDefinitions/labels.js:42
 #: src/components/letter/dataDefinitions/labels.js:57
@@ -531,17 +511,12 @@ msgid "description..............."
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:15
-#: src/components/exemption/dataDefinitions/labels.js:127
 #: src/components/letter/dataDefinitions/labels.js:127
 msgid "Designation"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:506
 msgid "Destruction"
-msgstr ""
-
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:12
-msgid "detailsHtml..........................."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:30
@@ -583,7 +558,6 @@ msgid "E"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:22
-#: src/components/exemption/dataDefinitions/labels.js:133
 #: src/components/letter/dataDefinitions/labels.js:133
 msgid "E-mail"
 msgstr ""
@@ -593,12 +567,11 @@ msgid "Edit"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:463
-#: src/components/exemption/FormTemplate.vue:112
 msgid "Edit %{name} blend"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:462
-#: src/components/exemption/FormTemplate.vue:111
+#: src/components/exemption/FormTemplate.vue:114
 msgid "Edit %{name} substance"
 msgstr ""
 
@@ -617,12 +590,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:53
 #: src/components/art7/dataDefinitions/labels.js:79
 #: src/components/art7/dataDefinitions/labels.js:80
-#: src/components/exemption/dataDefinitions/labels.js:13
-#: src/components/exemption/dataDefinitions/labels.js:14
-#: src/components/exemption/dataDefinitions/labels.js:43
-#: src/components/exemption/dataDefinitions/labels.js:44
-#: src/components/exemption/dataDefinitions/labels.js:68
-#: src/components/exemption/dataDefinitions/labels.js:69
 #: src/components/letter/dataDefinitions/labels.js:13
 #: src/components/letter/dataDefinitions/labels.js:14
 #: src/components/letter/dataDefinitions/labels.js:43
@@ -638,7 +605,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:231
 #: src/components/art7/dataDefinitions/labels.js:11
-#: src/components/exemption/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:8
 msgid "Exporting party for quantities reported as imports"
 msgstr ""
@@ -651,7 +617,6 @@ msgstr ""
 msgid "Exporting party for quantities reported as imports or country of destination of exports"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:106
 #: src/components/letter/dataDefinitions/labels.js:106
 msgid "Exporting party for quantities reported as imports OR Country of destination of exports"
 msgstr ""
@@ -670,21 +635,19 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:717
 #: src/components/art7/dataDefinitions/labels.js:126
-#: src/components/exemption/dataDefinitions/labels.js:109
 #: src/components/letter/dataDefinitions/labels.js:109
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/store/actions.js:56
+#: src/store/actions.js:55
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:225
+#: src/store/actions.js:224
 msgid "Failed to delete submission"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:21
-#: src/components/exemption/dataDefinitions/labels.js:132
 #: src/components/letter/dataDefinitions/labels.js:132
 msgid "Fax"
 msgstr ""
@@ -739,7 +702,6 @@ msgid "Filter by blend types in order to select one or more blends. A row for ea
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:8
-#: src/components/exemption/dataDefinitions/labels.js:121
 #: src/components/letter/dataDefinitions/labels.js:121
 msgid "Finalize"
 msgstr ""
@@ -818,8 +780,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:601
 #: src/components/art7/dataDefinitions/labels.js:9
 #: src/components/art7/dataDefinitions/labels.js:43
-#: src/components/exemption/dataDefinitions/labels.js:6
-#: src/components/exemption/dataDefinitions/labels.js:36
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
@@ -848,12 +808,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:57
 #: src/components/art7/dataDefinitions/labels.js:81
 #: src/components/art7/dataDefinitions/labels.js:82
-#: src/components/exemption/dataDefinitions/labels.js:17
-#: src/components/exemption/dataDefinitions/labels.js:18
-#: src/components/exemption/dataDefinitions/labels.js:47
-#: src/components/exemption/dataDefinitions/labels.js:48
-#: src/components/exemption/dataDefinitions/labels.js:70
-#: src/components/exemption/dataDefinitions/labels.js:71
 #: src/components/letter/dataDefinitions/labels.js:17
 #: src/components/letter/dataDefinitions/labels.js:18
 #: src/components/letter/dataDefinitions/labels.js:47
@@ -962,12 +916,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:61
 #: src/components/art7/dataDefinitions/labels.js:85
 #: src/components/art7/dataDefinitions/labels.js:86
-#: src/components/exemption/dataDefinitions/labels.js:21
-#: src/components/exemption/dataDefinitions/labels.js:22
-#: src/components/exemption/dataDefinitions/labels.js:51
-#: src/components/exemption/dataDefinitions/labels.js:52
-#: src/components/exemption/dataDefinitions/labels.js:74
-#: src/components/exemption/dataDefinitions/labels.js:75
 #: src/components/letter/dataDefinitions/labels.js:21
 #: src/components/letter/dataDefinitions/labels.js:22
 #: src/components/letter/dataDefinitions/labels.js:51
@@ -1034,7 +982,6 @@ msgid "Name"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:14
-#: src/components/exemption/dataDefinitions/labels.js:126
 #: src/components/letter/dataDefinitions/labels.js:126
 msgid "Name of reporting officer"
 msgstr ""
@@ -1099,8 +1046,8 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:37
-#: src/components/exemption/dataDefinitions/form.js:38
+#: src/components/exemption/dataDefinitions/form.js:42
+#: src/components/exemption/dataDefinitions/form.js:43
 msgid "Nomination"
 msgstr ""
 
@@ -1131,7 +1078,6 @@ msgid "Oops! You're lost."
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:16
-#: src/components/exemption/dataDefinitions/labels.js:128
 #: src/components/letter/dataDefinitions/labels.js:128
 msgid "Organization"
 msgstr ""
@@ -1157,12 +1103,6 @@ msgstr ""
 msgid "Other/unspecified"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:25
-#: src/components/exemption/dataDefinitions/labels.js:26
-#: src/components/exemption/dataDefinitions/labels.js:55
-#: src/components/exemption/dataDefinitions/labels.js:56
-#: src/components/exemption/dataDefinitions/labels.js:78
-#: src/components/exemption/dataDefinitions/labels.js:79
 #: src/components/letter/dataDefinitions/labels.js:25
 #: src/components/letter/dataDefinitions/labels.js:26
 #: src/components/letter/dataDefinitions/labels.js:55
@@ -1193,11 +1133,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:76
 #: src/components/art7/dataDefinitions/labels.js:104
 #: src/components/art7/dataDefinitions/labels.js:114
-#: src/components/exemption/dataDefinitions/labels.js:7
-#: src/components/exemption/dataDefinitions/labels.js:35
-#: src/components/exemption/dataDefinitions/labels.js:65
-#: src/components/exemption/dataDefinitions/labels.js:91
-#: src/components/exemption/dataDefinitions/labels.js:99
 #: src/components/hat/dataDefinitions/labels.js:10
 #: src/components/hat/dataDefinitions/labels.js:22
 #: src/components/letter/dataDefinitions/labels.js:7
@@ -1215,12 +1150,11 @@ msgid "Period"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:19
-#: src/components/exemption/dataDefinitions/labels.js:131
 #: src/components/letter/dataDefinitions/labels.js:131
 msgid "Phone"
 msgstr ""
 
-#: src/components/exemption/services/tableRowConstructorService.js:33
+#: src/components/exemption/services/tableRowConstructorService.js:35
 msgid "Please complete the \"(3) Quantity\" field"
 msgstr ""
 
@@ -1266,13 +1200,11 @@ msgid "Polyols quantity"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:17
-#: src/components/exemption/dataDefinitions/labels.js:129
 #: src/components/letter/dataDefinitions/labels.js:129
 msgid "Postal address"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:7
-#: src/components/exemption/dataDefinitions/labels.js:120
 #: src/components/letter/dataDefinitions/labels.js:120
 msgid "Process"
 msgstr ""
@@ -1283,12 +1215,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:59
 #: src/components/art7/dataDefinitions/labels.js:83
 #: src/components/art7/dataDefinitions/labels.js:84
-#: src/components/exemption/dataDefinitions/labels.js:19
-#: src/components/exemption/dataDefinitions/labels.js:20
-#: src/components/exemption/dataDefinitions/labels.js:49
-#: src/components/exemption/dataDefinitions/labels.js:50
-#: src/components/exemption/dataDefinitions/labels.js:72
-#: src/components/exemption/dataDefinitions/labels.js:73
 #: src/components/letter/dataDefinitions/labels.js:19
 #: src/components/letter/dataDefinitions/labels.js:20
 #: src/components/letter/dataDefinitions/labels.js:49
@@ -1311,14 +1237,12 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:389
 #: src/components/art7/dataDefinitions/form.js:420
 #: src/components/art7/dataDefinitions/labels.js:95
-#: src/components/exemption/dataDefinitions/labels.js:84
 #: src/components/letter/dataDefinitions/labels.js:84
 msgid "Production for exempted essential, critical or other uses within your country"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:354
 #: src/components/art7/dataDefinitions/labels.js:92
-#: src/components/exemption/dataDefinitions/labels.js:81
 #: src/components/letter/dataDefinitions/labels.js:81
 msgid "Production for feedstock uses within your country"
 msgstr ""
@@ -1328,7 +1252,6 @@ msgid "Production for supply to article 5 countries in accordance with articles 
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:366
-#: src/components/exemption/dataDefinitions/labels.js:82
 #: src/components/letter/dataDefinitions/labels.js:82
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
@@ -1345,9 +1268,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:33
 #: src/components/art7/dataDefinitions/labels.js:67
 #: src/components/art7/dataDefinitions/labels.js:97
-#: src/components/exemption/dataDefinitions/labels.js:28
-#: src/components/exemption/dataDefinitions/labels.js:58
-#: src/components/exemption/dataDefinitions/labels.js:86
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:27
 #: src/components/letter/dataDefinitions/labels.js:28
 #: src/components/letter/dataDefinitions/labels.js:58
@@ -1357,7 +1277,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:525
 #: src/components/art7/dataDefinitions/labels.js:105
-#: src/components/exemption/dataDefinitions/labels.js:92
 #: src/components/letter/dataDefinitions/labels.js:92
 msgid "Quantity destroyed"
 msgstr ""
@@ -1367,13 +1286,11 @@ msgid "Quantity of exports to non-parties"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:117
-#: src/components/exemption/dataDefinitions/labels.js:102
 #: src/components/letter/dataDefinitions/labels.js:102
 msgid "Quantity of exports to non-parties (new)"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:118
-#: src/components/exemption/dataDefinitions/labels.js:103
 #: src/components/letter/dataDefinitions/labels.js:103
 msgid "Quantity of exports to non-parties (recovered)"
 msgstr ""
@@ -1383,13 +1300,11 @@ msgid "Quantity of imports from non-parties"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:115
-#: src/components/exemption/dataDefinitions/labels.js:100
 #: src/components/letter/dataDefinitions/labels.js:100
 msgid "Quantity of imports from non-parties (new)"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:116
-#: src/components/exemption/dataDefinitions/labels.js:101
 #: src/components/letter/dataDefinitions/labels.js:101
 msgid "Quantity of imports from non-parties (recovered)"
 msgstr ""
@@ -1404,14 +1319,12 @@ msgstr ""
 msgid "Quantity of new substance exported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:41
 #: src/components/letter/dataDefinitions/labels.js:41
 msgid "Quantity of new substance Exported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:278
 #: src/components/art7/dataDefinitions/labels.js:15
-#: src/components/exemption/dataDefinitions/labels.js:12
 #: src/components/letter/dataDefinitions/labels.js:12
 msgid "Quantity of new substance imported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
@@ -1426,8 +1339,6 @@ msgstr ""
 msgid "Quantity of new substances imported as feedstock"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:11
-#: src/components/exemption/dataDefinitions/labels.js:40
 #: src/components/letter/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:40
 msgid "Quantity of New Substances Imported as Feedstock"
@@ -1455,12 +1366,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:63
 #: src/components/art7/dataDefinitions/labels.js:87
 #: src/components/art7/dataDefinitions/labels.js:88
-#: src/components/exemption/dataDefinitions/labels.js:23
-#: src/components/exemption/dataDefinitions/labels.js:24
-#: src/components/exemption/dataDefinitions/labels.js:53
-#: src/components/exemption/dataDefinitions/labels.js:54
-#: src/components/exemption/dataDefinitions/labels.js:76
-#: src/components/exemption/dataDefinitions/labels.js:77
 #: src/components/letter/dataDefinitions/labels.js:23
 #: src/components/letter/dataDefinitions/labels.js:24
 #: src/components/letter/dataDefinitions/labels.js:53
@@ -1476,7 +1381,6 @@ msgid "Questionnaire"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:6
-#: src/components/exemption/dataDefinitions/labels.js:119
 #: src/components/letter/dataDefinitions/labels.js:119
 msgid "Recall"
 msgstr ""
@@ -1502,9 +1406,6 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:11
 #: src/components/common/dataDefinitions/labels.js:12
 #: src/components/common/dataDefinitions/labels.js:13
-#: src/components/exemption/dataDefinitions/labels.js:123
-#: src/components/exemption/dataDefinitions/labels.js:124
-#: src/components/exemption/dataDefinitions/labels.js:125
 #: src/components/letter/dataDefinitions/labels.js:123
 #: src/components/letter/dataDefinitions/labels.js:124
 #: src/components/letter/dataDefinitions/labels.js:125
@@ -1536,12 +1437,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:102
 #: src/components/art7/dataDefinitions/labels.js:112
 #: src/components/art7/dataDefinitions/labels.js:131
-#: src/components/exemption/dataDefinitions/labels.js:30
-#: src/components/exemption/dataDefinitions/labels.js:60
-#: src/components/exemption/dataDefinitions/labels.js:64
-#: src/components/exemption/dataDefinitions/labels.js:90
-#: src/components/exemption/dataDefinitions/labels.js:98
-#: src/components/exemption/dataDefinitions/labels.js:115
 #: src/components/hat/dataDefinitions/labels.js:12
 #: src/components/hat/dataDefinitions/labels.js:21
 #: src/components/letter/dataDefinitions/labels.js:30
@@ -1567,12 +1462,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:103
 #: src/components/art7/dataDefinitions/labels.js:113
 #: src/components/art7/dataDefinitions/labels.js:132
-#: src/components/exemption/dataDefinitions/labels.js:29
-#: src/components/exemption/dataDefinitions/labels.js:59
-#: src/components/exemption/dataDefinitions/labels.js:63
-#: src/components/exemption/dataDefinitions/labels.js:89
-#: src/components/exemption/dataDefinitions/labels.js:97
-#: src/components/exemption/dataDefinitions/labels.js:114
+#: src/components/exemption/dataDefinitions/form.js:58
 #: src/components/hat/dataDefinitions/labels.js:11
 #: src/components/hat/dataDefinitions/labels.js:20
 #: src/components/letter/dataDefinitions/labels.js:29
@@ -1612,7 +1502,7 @@ msgstr ""
 msgid "Revise"
 msgstr ""
 
-#: src/components/common/Files.vue:41 src/views/UserProfile.vue:38
+#: src/views/UserProfile.vue:38
 msgid "Save"
 msgstr ""
 
@@ -1664,7 +1554,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:537
 #: src/components/art7/dataDefinitions/form.js:637
 #: src/components/art7/dataDefinitions/form.js:757
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:38
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
 #: src/components/hat/dataDefinitions/form.js:182
 msgid "Status"
@@ -1674,11 +1564,11 @@ msgstr ""
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
-#: src/store/actions.js:47
+#: src/store/actions.js:46
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:218
+#: src/store/actions.js:217
 msgid "Submission deleted"
 msgstr ""
 
@@ -1695,14 +1585,13 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:200
+#: src/store/actions.js:199
 msgid "Submission state updated"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:77
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:77
-#: src/components/exemption/dataDefinitions/labels.js:122
 #: src/components/hat/TabsManager.vue:65
 #: src/components/letter/TabsManager.vue:72
 #: src/components/letter/dataDefinitions/labels.js:122
@@ -1715,7 +1604,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:521
 #: src/components/art7/dataDefinitions/form.js:605
 #: src/components/art7/dataDefinitions/labels.js:119
-#: src/components/exemption/dataDefinitions/labels.js:104
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:23
 #: src/components/hat/dataDefinitions/form.js:66
 #: src/components/hat/dataDefinitions/form.js:158
@@ -1731,10 +1619,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:106
 #: src/components/common/form-components/DefaultAside.vue:6
 #: src/components/exemption/FormTemplate.vue:23
-#: src/components/exemption/dataDefinitions/labels.js:4
-#: src/components/exemption/dataDefinitions/labels.js:33
-#: src/components/exemption/dataDefinitions/labels.js:83
-#: src/components/exemption/dataDefinitions/labels.js:93
 #: src/components/hat/FormTemplate.vue:42
 #: src/components/hat/dataDefinitions/labels.js:7
 #: src/components/hat/dataDefinitions/labels.js:23
@@ -1781,7 +1665,7 @@ msgid "The page you are looking for was not found."
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:469
-#: src/components/exemption/FormTemplate.vue:118
+#: src/components/exemption/FormTemplate.vue:120
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
@@ -1794,7 +1678,7 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:168
 #: src/components/art7/dataDefinitions/form.js:291
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:53
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:56
 msgid "Tonne = Metric ton."
 msgstr ""
 
@@ -1820,7 +1704,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:350
 #: src/components/art7/dataDefinitions/labels.js:91
-#: src/components/exemption/dataDefinitions/labels.js:80
 #: src/components/letter/dataDefinitions/labels.js:80
 msgid "Total production for all uses"
 msgstr ""
@@ -1838,8 +1721,6 @@ msgstr ""
 msgid "Total quantity imported for all uses (new)"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:9
-#: src/components/exemption/dataDefinitions/labels.js:38
 #: src/components/letter/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:38
 msgid "Total Quantity Imported for All Uses (new)"
@@ -1850,8 +1731,6 @@ msgstr ""
 msgid "Total quantity imported for all uses (recovered and reclaimed)"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:10
-#: src/components/exemption/dataDefinitions/labels.js:39
 #: src/components/letter/dataDefinitions/labels.js:10
 #: src/components/letter/dataDefinitions/labels.js:39
 msgid "Total Quantity Imported for All Uses (recovered and reclaimed)"
@@ -1869,12 +1748,8 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:206
+#: src/store/actions.js:205
 msgid "Unable to change the state of this submission"
-msgstr ""
-
-#: src/components/common/Files.vue:39
-msgid "Upload"
 msgstr ""
 
 #: src/components/common/Header.vue:8 src/views/UserProfile.vue:59
@@ -1938,7 +1813,6 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:505
 #: src/components/common/form-components/CloneField.vue:13
-#: src/components/exemption/FormTemplate.vue:154
 msgid "Countries"
 msgstr ""
 
@@ -1946,7 +1820,7 @@ msgstr ""
 #: src/components/common/form-components/Add.vue:17
 #: src/components/common/form-components/AddBlend.vue:9
 #: src/components/common/form-components/AddBlend.vue:24
-#: src/components/common/form-components/fieldGenerator.vue:10
+#: src/components/common/form-components/fieldGenerator.vue:11
 #: src/views/Dashboard.vue:13 src/views/Dashboard.vue:22
 #: src/views/Dashboard.vue:33
 msgid "Select option"
@@ -1972,7 +1846,7 @@ msgid "Submission versions"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:483
-#: src/components/exemption/FormTemplate.vue:132
+#: src/components/exemption/FormTemplate.vue:134
 msgid "Select substance"
 msgstr ""
 
