@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-11 18:32+0000\n"
+"POT-Creation-Date: 2019-02-11 19:27+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1507,7 +1507,7 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:5
+#: src/components/common/mixins/SaveMixin.vue:6
 msgid "Save and continue"
 msgstr ""
 
