@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-11 13:28+0000\n"
+"POT-Creation-Date: 2019-02-11 17:50+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -202,8 +202,8 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:62
-#: src/components/exemption/dataDefinitions/form.js:63
+#: src/components/exemption/dataDefinitions/form.js:58
+#: src/components/exemption/dataDefinitions/form.js:59
 msgid "Approved"
 msgstr ""
 
@@ -1040,8 +1040,8 @@ msgstr ""
 msgid "No"
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/form.js:42
 #: src/components/exemption/dataDefinitions/form.js:43
-#: src/components/exemption/dataDefinitions/form.js:44
 msgid "Nomination"
 msgstr ""
 
@@ -1456,8 +1456,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:103
 #: src/components/art7/dataDefinitions/labels.js:113
 #: src/components/art7/dataDefinitions/labels.js:132
-#: src/components/exemption/dataDefinitions/form.js:51
-#: src/components/exemption/dataDefinitions/form.js:70
+#: src/components/exemption/dataDefinitions/form.js:50
+#: src/components/exemption/dataDefinitions/form.js:66
 #: src/components/hat/dataDefinitions/labels.js:11
 #: src/components/hat/dataDefinitions/labels.js:20
 #: src/components/letter/dataDefinitions/labels.js:29
