@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-11 22:22+0300\n"
+"POT-Creation-Date: 2019-02-12 11:23+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -514,55 +514,55 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:57 ozone/core/models/reporting.py:979
+#: ozone/core/models/reporting.py:57 ozone/core/models/reporting.py:991
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
-#: ozone/core/models/reporting.py:509
+#: ozone/core/models/reporting.py:519
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:516
+#: ozone/core/models/reporting.py:526
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:525
+#: ozone/core/models/reporting.py:535
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:604
+#: ozone/core/models/reporting.py:614
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:661 ozone/core/serializers.py:433
+#: ozone/core/models/reporting.py:671 ozone/core/serializers.py:433
 #: ozone/core/serializers.py:438
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:789
+#: ozone/core/models/reporting.py:801
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:800
+#: ozone/core/models/reporting.py:812
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:810
+#: ozone/core/models/reporting.py:822
 msgid "Submission in Data Entry cannot be cloned."
 msgstr ""
 
-#: ozone/core/models/reporting.py:957
+#: ozone/core/models/reporting.py:969
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:972
+#: ozone/core/models/reporting.py:984
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1006
+#: ozone/core/models/reporting.py:1018
 msgid ""
 "There is already a submission in Data Entry for this party/period/obligation "
 "combination."
@@ -585,11 +585,11 @@ msgstr ""
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1051
+#: ozone/core/serializers.py:1053
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1069
+#: ozone/core/serializers.py:1071
 msgid "Specified file id not found for this submission"
 msgstr ""
 
