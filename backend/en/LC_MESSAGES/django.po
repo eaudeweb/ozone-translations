@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 11:29+0300\n"
+"POT-Creation-Date: 2019-02-12 17:36+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -479,35 +479,35 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:485
+#: ozone/core/api/views.py:487
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/models/data.py:64 ozone/core/models/data.py:67
+#: ozone/core/models/data.py:66 ozone/core/models/data.py:69
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:75 ozone/core/models/data.py:78
+#: ozone/core/models/data.py:77 ozone/core/models/data.py:80
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:90
+#: ozone/core/models/data.py:92
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:96
+#: ozone/core/models/data.py:98
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:158
+#: ozone/core/models/data.py:160
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:569
+#: ozone/core/models/data.py:576
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:581
+#: ozone/core/models/data.py:588
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
@@ -515,55 +515,55 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:57 ozone/core/models/reporting.py:991
+#: ozone/core/models/reporting.py:57 ozone/core/models/reporting.py:1004
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
-#: ozone/core/models/reporting.py:519
+#: ozone/core/models/reporting.py:530
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:526
+#: ozone/core/models/reporting.py:537
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:535
+#: ozone/core/models/reporting.py:546
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:614
+#: ozone/core/models/reporting.py:625
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:671 ozone/core/serializers.py:433
-#: ozone/core/serializers.py:438
+#: ozone/core/models/reporting.py:682 ozone/core/serializers.py:441
+#: ozone/core/serializers.py:446
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:801
+#: ozone/core/models/reporting.py:814
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:812
+#: ozone/core/models/reporting.py:825
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:822
+#: ozone/core/models/reporting.py:835
 msgid "Submission in Data Entry cannot be cloned."
 msgstr ""
 
-#: ozone/core/models/reporting.py:969
+#: ozone/core/models/reporting.py:982
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:984
+#: ozone/core/models/reporting.py:997
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1018
+#: ozone/core/models/reporting.py:1031
 msgid ""
 "There is already a submission in Data Entry for this party/period/obligation "
 "combination."
@@ -577,20 +577,20 @@ msgstr ""
 msgid "Substance or component name must be set."
 msgstr ""
 
-#: ozone/core/serializers.py:89
+#: ozone/core/serializers.py:91
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:865
+#: ozone/core/serializers.py:933
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1053
+#: ozone/core/serializers.py:1126
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1071
+#: ozone/core/serializers.py:1144
 msgid "Specified file id not found for this submission"
 msgstr ""
 
