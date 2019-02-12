@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-12 19:23+0000\n"
+"POT-Creation-Date: 2019-02-12 20:15+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1777,7 +1777,7 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:177
 #: src/components/art7/dataDefinitions/form.js:300
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:55
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:53
 msgid "Tonne = Metric ton."
 msgstr "фиктивный текст."
 
