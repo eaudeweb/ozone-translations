@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-13 14:47+0000\n"
+"POT-Creation-Date: 2019-02-13 15:22+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -630,6 +630,10 @@ msgstr ""
 msgid "Emissions"
 msgstr ""
 
+#: src/store/actions.js:103
+msgid "Error"
+msgstr ""
+
 #: src/components/raf/dataDefinitions/form.js:45
 #: src/components/raf/dataDefinitions/labels.js:10
 msgid "Essential and critical uses"
@@ -694,7 +698,7 @@ msgstr ""
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:224
+#: src/store/actions.js:232
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -1589,8 +1593,16 @@ msgstr ""
 msgid "Role:"
 msgstr ""
 
+#: src/views/UserProfile.vue:36
+msgid "Save"
+msgstr ""
+
 #: src/components/common/mixins/SaveMixin.vue:6
 msgid "Save and continue"
+msgstr ""
+
+#: src/store/actions.js:98
+msgid "Saved"
 msgstr ""
 
 #: src/views/pages/Page404.vue:18 src/components/art7/FormTemplate.vue:64
@@ -1655,7 +1667,7 @@ msgstr ""
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:217
+#: src/store/actions.js:225
 msgid "Submission deleted"
 msgstr ""
 
@@ -1674,7 +1686,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:199
+#: src/store/actions.js:207
 msgid "Submission state updated"
 msgstr ""
 
@@ -1847,7 +1859,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:205
+#: src/store/actions.js:213
 msgid "Unable to change the state of this submission"
 msgstr ""
 
@@ -1855,7 +1867,7 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-#: src/components/common/Header.vue:8 src/views/UserProfile.vue:53
+#: src/components/common/Header.vue:8 src/views/UserProfile.vue:58
 msgid "User profile"
 msgstr ""
 
