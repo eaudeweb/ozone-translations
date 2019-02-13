@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-12 20:15+0000\n"
+"POT-Creation-Date: 2019-02-13 13:35+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -552,7 +552,7 @@ msgstr "фиктивный текст"
 #: src/components/exemption/TabsManager.vue:195
 #: src/components/hat/TabsManager.vue:182
 #: src/components/letter/TabsManager.vue:184
-#: src/components/raf/TabsManager.vue:182 src/views/Dashboard.vue:505
+#: src/components/raf/TabsManager.vue:182 src/views/Dashboard.vue:508
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr "фиктивный текст ?"
 
@@ -1097,7 +1097,7 @@ msgstr "фиктивный текст"
 msgid "New production for use in split ducted air conditioners\t"
 msgstr "фиктивный текст\t"
 
-#: src/views/Dashboard.vue:476
+#: src/views/Dashboard.vue:479
 msgid "New version created"
 msgstr "фиктивный текст"
 

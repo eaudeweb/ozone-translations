@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-12 20:15+0000\n"
+"POT-Creation-Date: 2019-02-13 13:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -547,7 +547,7 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:195
 #: src/components/hat/TabsManager.vue:182
 #: src/components/letter/TabsManager.vue:184
-#: src/components/raf/TabsManager.vue:182 src/views/Dashboard.vue:505
+#: src/components/raf/TabsManager.vue:182 src/views/Dashboard.vue:508
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
@@ -1091,7 +1091,7 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
-#: src/views/Dashboard.vue:476
+#: src/views/Dashboard.vue:479
 msgid "New version created"
 msgstr ""
 
