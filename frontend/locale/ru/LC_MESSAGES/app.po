@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-13 15:22+0000\n"
+"POT-Creation-Date: 2019-02-13 15:26+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -548,11 +548,11 @@ msgstr "фиктивный текст"
 msgid "Delete Submission"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:225
-#: src/components/exemption/TabsManager.vue:195
-#: src/components/hat/TabsManager.vue:182
-#: src/components/letter/TabsManager.vue:184
-#: src/components/raf/TabsManager.vue:182 src/views/Dashboard.vue:522
+#: src/components/art7/TabsManager.vue:217
+#: src/components/exemption/TabsManager.vue:186
+#: src/components/hat/TabsManager.vue:174
+#: src/components/letter/TabsManager.vue:176
+#: src/components/raf/TabsManager.vue:174 src/views/Dashboard.vue:522
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr "фиктивный текст ?"
 
@@ -1200,12 +1200,12 @@ msgstr "фиктивный текст"
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
 #: src/views/Dashboard.vue:317 src/views/Dashboard.vue:355
-#: src/views/UserProfile.vue:30 src/views/Dashboard.vue:31
+#: src/views/UserProfile.vue:31 src/views/Dashboard.vue:31
 #: src/views/Dashboard.vue:61 src/views/Dashboard.vue:128
 msgid "Party"
 msgstr "фиктивный текст"
 
-#: src/views/UserProfile.vue:23
+#: src/views/UserProfile.vue:24
 #, fuzzy
 msgid "Party:"
 msgstr "фиктивный текст"
@@ -1254,11 +1254,11 @@ msgstr "фиктивный текст"
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:217
-#: src/components/exemption/TabsManager.vue:187
-#: src/components/hat/TabsManager.vue:174
-#: src/components/letter/TabsManager.vue:176
-#: src/components/raf/TabsManager.vue:174
+#: src/components/art7/TabsManager.vue:209
+#: src/components/exemption/TabsManager.vue:178
+#: src/components/hat/TabsManager.vue:166
+#: src/components/letter/TabsManager.vue:168
+#: src/components/raf/TabsManager.vue:166
 msgid "Please save before submitting"
 msgstr "фиктивный текст"
 
@@ -1469,7 +1469,7 @@ msgstr "фиктивный текст"
 msgid "Questionnaire"
 msgstr "фиктивный текст"
 
-#: src/views/UserProfile.vue:31
+#: src/views/UserProfile.vue:32
 msgid "read-only"
 msgstr ""
 
@@ -1602,11 +1602,11 @@ msgstr "фиктивный текст"
 msgid "Revise"
 msgstr "фиктивный текст"
 
-#: src/views/UserProfile.vue:27
+#: src/views/UserProfile.vue:28
 msgid "Role:"
 msgstr ""
 
-#: src/views/UserProfile.vue:36
+#: src/views/UserProfile.vue:37
 msgid "Save"
 msgstr ""
 
@@ -1631,7 +1631,7 @@ msgid "Search"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/UserProfile.vue:29
+#: src/views/UserProfile.vue:30
 msgid "Secretariat"
 msgstr "фиктивный текст"
 
@@ -1882,6 +1882,11 @@ msgstr "фиктивный текст"
 msgid "Used"
 msgstr ""
 
+#: src/views/UserProfile.vue:20
+#, fuzzy
+msgid "User name:"
+msgstr "фиктивный текст"
+
 #: src/components/common/Header.vue:8 src/views/UserProfile.vue:58
 msgid "User profile"
 msgstr ""
@@ -1929,14 +1934,6 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "Yes"
-msgstr "фиктивный текст"
-
-#: src/components/art7/TabsManager.vue:207
-#: src/components/exemption/TabsManager.vue:177
-#: src/components/hat/TabsManager.vue:164
-#: src/components/letter/TabsManager.vue:166
-#: src/components/raf/TabsManager.vue:164
-msgid "You cannot submit and empty form"
 msgstr "фиктивный текст"
 
 #: src/components/art7/Save.vue:7
@@ -2012,8 +2009,4 @@ msgstr "фиктивный текст"
 
 #: src/views/UserProfile.vue:13
 msgid "Language"
-msgstr ""
-
-#: src/views/UserProfile.vue:20
-msgid "User name"
 msgstr ""
