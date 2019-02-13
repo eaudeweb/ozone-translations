@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-13 18:02+0000\n"
+"POT-Creation-Date: 2019-02-13 18:13+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -19,12 +19,13 @@ msgid "A blend with this name already exists!"
 msgstr "фиктивный текст!"
 
 #: src/components/common/dataDefinitions/labels.js:38
-msgid "A1"
-msgstr "A1"
+#, fuzzy
+msgid "A/I"
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:39
-msgid "A2"
-msgstr "A2"
+msgid "A/II"
+msgstr ""
 
 #: src/components/common/Header.vue:7
 msgid "Account"
@@ -204,7 +205,8 @@ msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionInfo.vue:101
-msgid "Annex groups reported in submission"
+#, fuzzy
+msgid "Annex group reported in full"
 msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:58
@@ -266,16 +268,16 @@ msgid "Available for use"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:40
-msgid "B1"
-msgstr "B1"
+msgid "B/I"
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:41
-msgid "B2"
-msgstr "B2"
+msgid "B/II"
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:42
-msgid "B3"
-msgstr "B3"
+msgid "B/III"
+msgstr ""
 
 #: src/views/lookupTables/Parties.vue:134
 msgid "Beijing Amendment"
@@ -312,16 +314,16 @@ msgid "Blends"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:43
-msgid "C1"
-msgstr "C1"
+msgid "C/I"
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:44
-msgid "C2"
-msgstr "C2"
+msgid "C/II"
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:45
-msgid "C3"
-msgstr "C3"
+msgid "C/IIII"
+msgstr ""
 
 #: src/components/art7/TabsManager.vue:193
 msgid "Can't find instructions for current form"
@@ -611,14 +613,14 @@ msgstr "фиктивный текст."
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr "фиктивный текст!"
 
-#: src/components/common/dataDefinitions/labels.js:46
-msgid "E"
-msgstr "E"
-
 #: src/components/common/dataDefinitions/labels.js:22
 #: src/components/letter/dataDefinitions/labels.js:133
 msgid "E-mail"
 msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/labels.js:46
+msgid "E/I"
+msgstr ""
 
 #: src/views/Dashboard.vue:159
 msgid "Edit"
@@ -699,8 +701,12 @@ msgid "EXPORTS"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:47
-msgid "F"
-msgstr "F"
+msgid "F/I"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:48
+msgid "F/II"
+msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:727
 #: src/components/art7/dataDefinitions/labels.js:126
@@ -2009,6 +2015,14 @@ msgstr "фиктивный текст"
 #: src/components/art7/EmissionsTemplate.vue:27
 msgid "Search all columns"
 msgstr "фиктивный текст"
+
+#: src/views/Dashboard.vue:64 src/views/Dashboard.vue:131
+msgid "From"
+msgstr ""
+
+#: src/views/Dashboard.vue:68 src/views/Dashboard.vue:135
+msgid "To"
+msgstr ""
 
 #: src/views/Dashboard.vue:103 src/views/Dashboard.vue:204
 msgid "Per page"
