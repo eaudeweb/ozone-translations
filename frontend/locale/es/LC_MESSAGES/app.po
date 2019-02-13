@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-13 13:35+0000\n"
+"POT-Creation-Date: 2019-02-13 14:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -623,7 +623,7 @@ msgid "Edit %{name} substance"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:38
-#: src/views/UserProfile.vue:9
+#: src/views/UserProfile.vue:10
 msgid "Email"
 msgstr ""
 
@@ -1188,9 +1188,13 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:14
 #: src/views/Dashboard.vue:317 src/views/Dashboard.vue:355
-#: src/views/Dashboard.vue:31 src/views/Dashboard.vue:61
-#: src/views/Dashboard.vue:128 src/views/UserProfile.vue:22
+#: src/views/UserProfile.vue:30 src/views/Dashboard.vue:31
+#: src/views/Dashboard.vue:61 src/views/Dashboard.vue:128
 msgid "Party"
+msgstr ""
+
+#: src/views/UserProfile.vue:23
+msgid "Party:"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:10
@@ -1450,6 +1454,10 @@ msgstr ""
 msgid "Questionnaire"
 msgstr ""
 
+#: src/views/UserProfile.vue:31
+msgid "read-only"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:119
 msgid "Recall"
@@ -1578,8 +1586,8 @@ msgstr ""
 msgid "Revise"
 msgstr ""
 
-#: src/views/UserProfile.vue:38
-msgid "Save"
+#: src/views/UserProfile.vue:27
+msgid "Role:"
 msgstr ""
 
 #: src/components/common/mixins/SaveMixin.vue:6
@@ -1599,6 +1607,7 @@ msgid "Search"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
+#: src/views/UserProfile.vue:29
 msgid "Secretariat"
 msgstr ""
 
@@ -1847,7 +1856,7 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-#: src/components/common/Header.vue:8 src/views/UserProfile.vue:59
+#: src/components/common/Header.vue:8 src/views/UserProfile.vue:53
 msgid "User profile"
 msgstr ""
 
@@ -1965,18 +1974,18 @@ msgstr ""
 msgid "What are you looking for?"
 msgstr ""
 
-#: src/views/UserProfile.vue:3
+#: src/views/UserProfile.vue:4
 msgid "First name"
 msgstr ""
 
-#: src/views/UserProfile.vue:6
+#: src/views/UserProfile.vue:7
 msgid "Last name"
 msgstr ""
 
-#: src/views/UserProfile.vue:12
+#: src/views/UserProfile.vue:13
 msgid "Language"
 msgstr ""
 
-#: src/views/UserProfile.vue:19
+#: src/views/UserProfile.vue:20
 msgid "User name"
 msgstr ""
