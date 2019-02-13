@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-13 15:36+0000\n"
+"POT-Creation-Date: 2019-02-13 16:14+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -193,7 +193,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:95
+#: src/components/common/SubmissionInfo.vue:101
 msgid "Annex groups reported in submission"
 msgstr ""
 
@@ -758,7 +758,7 @@ msgstr ""
 msgid "Finalize"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:44
+#: src/components/common/SubmissionInfo.vue:50
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1752,6 +1752,10 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:32
 msgid "Superseded"
+msgstr ""
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:82
+msgid "The date indicated on the submitted document"
 msgstr ""
 
 #: src/components/common/form-components/CloneField.vue:111

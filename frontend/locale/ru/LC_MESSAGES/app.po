@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-13 15:36+0000\n"
+"POT-Creation-Date: 2019-02-13 16:14+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -198,7 +198,7 @@ msgstr "фиктивный текст"
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:95
+#: src/components/common/SubmissionInfo.vue:101
 msgid "Annex groups reported in submission"
 msgstr "фиктивный текст"
 
@@ -763,7 +763,7 @@ msgstr "фиктивный текст."
 msgid "Finalize"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:44
+#: src/components/common/SubmissionInfo.vue:50
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1767,6 +1767,10 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:32
 msgid "Superseded"
 msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:82
+msgid "The date indicated on the submitted document"
+msgstr ""
 
 #: src/components/common/form-components/CloneField.vue:111
 msgid "The fields for these countries were not added because they already exist"
