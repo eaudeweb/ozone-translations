@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-13 15:26+0000\n"
+"POT-Creation-Date: 2019-02-13 15:32+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -543,11 +543,11 @@ msgstr ""
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:217
-#: src/components/exemption/TabsManager.vue:186
-#: src/components/hat/TabsManager.vue:174
-#: src/components/letter/TabsManager.vue:176
-#: src/components/raf/TabsManager.vue:174 src/views/Dashboard.vue:522
+#: src/components/art7/TabsManager.vue:212
+#: src/components/exemption/TabsManager.vue:182
+#: src/components/hat/TabsManager.vue:169
+#: src/components/letter/TabsManager.vue:171
+#: src/components/raf/TabsManager.vue:169 src/views/Dashboard.vue:522
 msgid "Deleting the submission is ireversible. Are you sure ?"
 msgstr ""
 
@@ -1244,11 +1244,11 @@ msgstr ""
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:209
-#: src/components/exemption/TabsManager.vue:178
-#: src/components/hat/TabsManager.vue:166
-#: src/components/letter/TabsManager.vue:168
-#: src/components/raf/TabsManager.vue:166
+#: src/components/art7/TabsManager.vue:204
+#: src/components/exemption/TabsManager.vue:174
+#: src/components/hat/TabsManager.vue:161
+#: src/components/letter/TabsManager.vue:163
+#: src/components/raf/TabsManager.vue:161
 msgid "Please save before submitting"
 msgstr ""
 
