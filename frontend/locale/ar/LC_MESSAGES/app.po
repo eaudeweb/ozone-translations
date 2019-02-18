@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-18 14:49+0000\n"
+"POT-Creation-Date: 2019-02-18 17:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -197,7 +197,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:101
+#: src/components/common/SubmissionInfo.vue:103
 msgid "Annex group reported in full"
 msgstr ""
 
@@ -223,7 +223,7 @@ msgstr ""
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:42
+#: src/components/common/dataDefinitions/tabSubInfo.js:43
 msgid "API"
 msgstr ""
 
@@ -629,7 +629,7 @@ msgstr ""
 msgid "Edit %{name} substance"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:39
+#: src/components/common/dataDefinitions/tabSubInfo.js:40
 #: src/views/UserProfile.vue:10
 msgid "Email"
 msgstr ""
@@ -767,7 +767,7 @@ msgstr ""
 msgid "Finalize"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:50
+#: src/components/common/SubmissionInfo.vue:52
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -996,7 +996,7 @@ msgstr ""
 msgid "Last Modified"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:40
+#: src/components/common/dataDefinitions/tabSubInfo.js:41
 msgid "Legacy"
 msgstr ""
 
@@ -1193,7 +1193,7 @@ msgstr ""
 msgid "Ozone depletig substances"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:41
+#: src/components/common/dataDefinitions/tabSubInfo.js:42
 msgid "Paper"
 msgstr ""
 
@@ -1202,7 +1202,7 @@ msgid "Parties"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
-#: src/components/common/dataDefinitions/tabSubInfo.js:15
+#: src/components/common/dataDefinitions/tabSubInfo.js:16
 #: src/views/Dashboard.vue:317 src/views/Dashboard.vue:355
 #: src/views/UserProfile.vue:31 src/views/Dashboard.vue:31
 #: src/views/Dashboard.vue:61 src/views/Dashboard.vue:128
@@ -1582,8 +1582,15 @@ msgstr ""
 msgid "Reporting channel"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:23
+#: src/components/common/dataDefinitions/tabSubInfo.js:24
 msgid "Reporting Period"
+msgstr ""
+
+#: src/components/common/SubmissionInfo.vue:30
+#: src/components/common/dataDefinitions/tabSubInfo.js:88
+#: src/components/common/dataDefinitions/tabSubInfo.js:95
+#: src/components/common/dataDefinitions/tabSubInfo.js:96
+msgid "Required"
 msgstr ""
 
 #: src/components/common/Header.vue:9
@@ -1591,7 +1598,7 @@ msgid "Reset password"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:50
-#: src/components/common/dataDefinitions/tabSubInfo.js:9
+#: src/components/common/dataDefinitions/tabSubInfo.js:10
 msgid "Respondents are requested to read the Introduction in section 2, the General Instructions in section 4 and the Definitions in section 5 carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms."
 msgstr ""
 
@@ -1619,7 +1626,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:165
+#: src/components/common/mixins/SaveMixin.vue:173
 msgid "Save failed"
 msgstr ""
 
@@ -1696,8 +1703,8 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:146
 #: src/components/common/SubmissionInfo.vue:19
-#: src/components/common/dataDefinitions/tabSubInfo.js:10
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
+#: src/components/common/dataDefinitions/tabSubInfo.js:12
 #: src/components/letter/TabsManager.vue:32
 #: src/components/letter/TabsManager.vue:30
 msgid "Submission Info"
@@ -1764,7 +1771,7 @@ msgstr ""
 msgid "Superseded"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:79
+#: src/components/common/dataDefinitions/tabSubInfo.js:83
 msgid "The date indicated on the submitted document"
 msgstr ""
 
@@ -1935,7 +1942,7 @@ msgstr ""
 msgid "View"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:38
+#: src/components/common/dataDefinitions/tabSubInfo.js:39
 msgid "Web form"
 msgstr ""
 
