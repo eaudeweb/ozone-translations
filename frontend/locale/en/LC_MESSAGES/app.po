@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-15 10:18+0000\n"
+"POT-Creation-Date: 2019-02-18 10:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: src/components/common/form-components/Add.vue:29
 #: src/components/common/form-components/AddBlend.vue:60
-#: src/components/common/form-components/CloneField.vue:16
+#: src/components/common/form-components/CloneField.vue:17
 msgid "Add %{length} rows"
 msgstr ""
 
@@ -1769,7 +1769,7 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/common/form-components/CloneField.vue:111
+#: src/components/common/form-components/CloneField.vue:113
 msgid "The fields for these countries were not added because they already exist"
 msgstr ""
 
@@ -1948,7 +1948,7 @@ msgid "You have unsaved data in that will be deleted because of the \"No\" selec
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:506
-#: src/components/common/form-components/CloneField.vue:13
+#: src/components/common/form-components/CloneField.vue:14
 #: src/components/raf/FormTemplate.vue:189
 msgid "Countries"
 msgstr ""
