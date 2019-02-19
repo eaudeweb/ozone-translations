@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-19 12:04+0000\n"
+"POT-Creation-Date: 2019-02-19 17:23+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -240,8 +240,8 @@ msgstr "фиктивный текст"
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr "фиктивный текст."
 
-#: src/components/exemption/dataDefinitions/form.js:59
-#: src/components/exemption/dataDefinitions/form.js:60
+#: src/components/exemption/dataDefinitions/form.js:51
+#: src/components/exemption/dataDefinitions/form.js:52
 msgid "Approved"
 msgstr ""
 
@@ -1124,8 +1124,8 @@ msgstr "фиктивный текст"
 msgid "No"
 msgstr "фиктивный текст"
 
-#: src/components/exemption/dataDefinitions/form.js:44
-#: src/components/exemption/dataDefinitions/form.js:45
+#: src/components/exemption/dataDefinitions/form.js:36
+#: src/components/exemption/dataDefinitions/form.js:37
 #, fuzzy
 msgid "Nomination"
 msgstr "фиктивный текст"
