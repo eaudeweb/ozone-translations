@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-19 21:51+0000\n"
+"POT-Creation-Date: 2019-02-19 22:32+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -13,6 +13,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
+
+#: src/components/common/SubmissionInfo.vue:40
+msgid "{{info.form_fields['submitted_at'].validation}}"
+msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:221
 msgid "A blend with this name already exists!"
@@ -200,7 +204,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:102
+#: src/components/common/SubmissionInfo.vue:103
 msgid "Annex group reported in full"
 msgstr ""
 
@@ -517,6 +521,7 @@ msgid "Date"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:24
+#: src/components/common/dataDefinitions/tabSubInfo.js:109
 msgid "Date of submission"
 msgstr ""
 
@@ -770,7 +775,7 @@ msgstr ""
 msgid "Finalize"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:51
+#: src/components/common/SubmissionInfo.vue:52
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1596,6 +1601,7 @@ msgid "Reporting Period"
 msgstr ""
 
 #: src/components/common/SubmissionInfo.vue:30
+#: src/components/common/SubmissionInfo.vue:192
 #: src/components/common/dataDefinitions/tabSubInfo.js:92
 #: src/components/common/dataDefinitions/tabSubInfo.js:99
 #: src/components/common/dataDefinitions/tabSubInfo.js:100

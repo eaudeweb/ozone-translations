@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-19 21:51+0000\n"
+"POT-Creation-Date: 2019-02-19 22:32+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -13,6 +13,10 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 "Generated-By: easygettext\n"
+
+#: src/components/common/SubmissionInfo.vue:40
+msgid "{{info.form_fields['submitted_at'].validation}}"
+msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:221
 msgid "A blend with this name already exists!"
@@ -204,7 +208,7 @@ msgstr "фиктивный текст"
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:102
+#: src/components/common/SubmissionInfo.vue:103
 #, fuzzy
 msgid "Annex group reported in full"
 msgstr "фиктивный текст"
@@ -522,6 +526,7 @@ msgid "Date"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:24
+#: src/components/common/dataDefinitions/tabSubInfo.js:109
 msgid "Date of submission"
 msgstr "фиктивный текст"
 
@@ -775,7 +780,7 @@ msgstr "фиктивный текст."
 msgid "Finalize"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:51
+#: src/components/common/SubmissionInfo.vue:52
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1606,6 +1611,7 @@ msgid "Reporting Period"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionInfo.vue:30
+#: src/components/common/SubmissionInfo.vue:192
 #: src/components/common/dataDefinitions/tabSubInfo.js:92
 #: src/components/common/dataDefinitions/tabSubInfo.js:99
 #: src/components/common/dataDefinitions/tabSubInfo.js:100
