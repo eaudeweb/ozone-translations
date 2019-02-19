@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-19 20:12+0000\n"
+"POT-Creation-Date: 2019-02-19 21:24+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -197,7 +197,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:94
+#: src/components/common/SubmissionInfo.vue:102
 msgid "Annex group reported in full"
 msgstr ""
 
@@ -232,8 +232,8 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/form.js:50
 #: src/components/exemption/dataDefinitions/form.js:51
-#: src/components/exemption/dataDefinitions/form.js:52
 msgid "Approved"
 msgstr ""
 
@@ -767,7 +767,7 @@ msgstr ""
 msgid "Finalize"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:43
+#: src/components/common/SubmissionInfo.vue:51
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1115,8 +1115,8 @@ msgstr ""
 msgid "No"
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/form.js:35
 #: src/components/exemption/dataDefinitions/form.js:36
-#: src/components/exemption/dataDefinitions/form.js:37
 msgid "Nomination"
 msgstr ""
 
@@ -1590,9 +1590,9 @@ msgid "Reporting Period"
 msgstr ""
 
 #: src/components/common/SubmissionInfo.vue:30
-#: src/components/common/dataDefinitions/tabSubInfo.js:88
-#: src/components/common/dataDefinitions/tabSubInfo.js:95
-#: src/components/common/dataDefinitions/tabSubInfo.js:96
+#: src/components/common/dataDefinitions/tabSubInfo.js:92
+#: src/components/common/dataDefinitions/tabSubInfo.js:99
+#: src/components/common/dataDefinitions/tabSubInfo.js:100
 msgid "Required"
 msgstr ""
 
