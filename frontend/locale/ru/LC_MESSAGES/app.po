@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-19 17:23+0000\n"
+"POT-Creation-Date: 2019-02-19 20:12+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -204,7 +204,7 @@ msgstr "фиктивный текст"
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:103
+#: src/components/common/SubmissionInfo.vue:94
 #, fuzzy
 msgid "Annex group reported in full"
 msgstr "фиктивный текст"
@@ -775,7 +775,7 @@ msgstr "фиктивный текст."
 msgid "Finalize"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:52
+#: src/components/common/SubmissionInfo.vue:43
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1645,7 +1645,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr "фиктивный текст"
 
-#: src/components/common/mixins/SaveMixin.vue:173
+#: src/components/common/mixins/SaveMixin.vue:187
 msgid "Save failed"
 msgstr ""
 
