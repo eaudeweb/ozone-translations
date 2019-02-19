@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-19 20:20+0300\n"
+"POT-Creation-Date: 2019-02-19 23:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -515,7 +515,7 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1018
+#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1037
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
@@ -538,36 +538,36 @@ msgstr ""
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:688 ozone/core/serializers.py:442
-#: ozone/core/serializers.py:447
+#: ozone/core/models/reporting.py:688 ozone/core/serializers.py:444
+#: ozone/core/serializers.py:449
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:820
+#: ozone/core/models/reporting.py:821
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:828
+#: ozone/core/models/reporting.py:829
 msgid "You can't clone a submission with this type of obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:839
+#: ozone/core/models/reporting.py:840
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:849
+#: ozone/core/models/reporting.py:850
 msgid "Submission in Data Entry cannot be cloned."
 msgstr ""
 
-#: ozone/core/models/reporting.py:996
+#: ozone/core/models/reporting.py:1015
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1011
+#: ozone/core/models/reporting.py:1030
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1045
+#: ozone/core/models/reporting.py:1064
 msgid ""
 "There is already a submission in Data Entry for this party/period/obligation "
 "combination."
@@ -581,20 +581,24 @@ msgstr ""
 msgid "Substance or component name must be set."
 msgstr ""
 
-#: ozone/core/serializers.py:92
+#: ozone/core/serializers.py:94
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:938
+#: ozone/core/serializers.py:946
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1136
+#: ozone/core/serializers.py:954
+msgid "User is not allowed to change date of submission."
+msgstr ""
+
+#: ozone/core/serializers.py:1168
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1154
+#: ozone/core/serializers.py:1186
 msgid "Specified file id not found for this submission"
 msgstr ""
 
