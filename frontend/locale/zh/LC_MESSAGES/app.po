@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-19 22:32+0000\n"
+"POT-Creation-Date: 2019-02-20 09:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -637,6 +637,10 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabSubInfo.js:40
 #: src/views/UserProfile.vue:10
 msgid "Email"
+msgstr ""
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:101
+msgid "Email/Address"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:714
@@ -1588,6 +1592,10 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:21
 msgid "Reporting channel"
+msgstr ""
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:93
+msgid "Reporting officer"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:24

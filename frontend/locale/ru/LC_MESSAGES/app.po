@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-19 22:32+0000\n"
+"POT-Creation-Date: 2019-02-20 09:46+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -646,6 +646,10 @@ msgstr "фиктивный %{name} текст"
 #: src/views/UserProfile.vue:10
 msgid "Email"
 msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:101
+msgid "Email/Address"
+msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:714
 msgid "Emissions"
@@ -1604,6 +1608,11 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:21
 msgid "Reporting channel"
+msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/tabSubInfo.js:93
+#, fuzzy
+msgid "Reporting officer"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:24
