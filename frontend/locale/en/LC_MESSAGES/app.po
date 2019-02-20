@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-20 09:46+0000\n"
+"POT-Creation-Date: 2019-02-20 13:26+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -490,7 +490,7 @@ msgid "Current State"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:209
-#: src/components/exemption/TabsManager.vue:136
+#: src/components/exemption/TabsManager.vue:135
 #: src/components/hat/TabsManager.vue:167
 #: src/components/letter/TabsManager.vue:139
 #: src/components/raf/TabsManager.vue:170 src/views/Dashboard.vue:470
@@ -549,7 +549,7 @@ msgid "Delete"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:100
-#: src/components/exemption/TabsManager.vue:88
+#: src/components/exemption/TabsManager.vue:87
 #: src/components/hat/TabsManager.vue:81
 #: src/components/letter/TabsManager.vue:93
 #: src/components/raf/TabsManager.vue:84
@@ -557,7 +557,7 @@ msgid "Delete Submission"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:241
-#: src/components/exemption/TabsManager.vue:180
+#: src/components/exemption/TabsManager.vue:188
 #: src/components/hat/TabsManager.vue:190
 #: src/components/letter/TabsManager.vue:197
 #: src/components/raf/TabsManager.vue:193 src/views/Dashboard.vue:523
@@ -817,19 +817,19 @@ msgid "For feedstock use in your country"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:28
-#: src/components/exemption/TabsManager.vue:54
+#: src/components/exemption/TabsManager.vue:53
 #: src/components/letter/TabsManager.vue:51
 msgid "Form is curently being saved"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:31
-#: src/components/exemption/TabsManager.vue:57
+#: src/components/exemption/TabsManager.vue:56
 #: src/components/letter/TabsManager.vue:54
 msgid "Form save failed. Please check the validation"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:34
-#: src/components/exemption/TabsManager.vue:60
+#: src/components/exemption/TabsManager.vue:59
 #: src/components/letter/TabsManager.vue:57
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
@@ -1011,7 +1011,7 @@ msgid "Legacy"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:24
-#: src/components/exemption/TabsManager.vue:50
+#: src/components/exemption/TabsManager.vue:49
 #: src/components/letter/TabsManager.vue:47
 msgid "Legend:"
 msgstr ""
@@ -1270,7 +1270,7 @@ msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:233
-#: src/components/exemption/TabsManager.vue:172
+#: src/components/exemption/TabsManager.vue:180
 #: src/components/hat/TabsManager.vue:182
 #: src/components/letter/TabsManager.vue:189
 #: src/components/raf/TabsManager.vue:185
@@ -1644,7 +1644,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:185
+#: src/components/common/mixins/SaveMixin.vue:193
 msgid "Save failed"
 msgstr ""
 
@@ -1734,7 +1734,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:77
 #: src/components/common/dataDefinitions/labels.js:9
-#: src/components/exemption/TabsManager.vue:75
+#: src/components/exemption/TabsManager.vue:74
 #: src/components/hat/TabsManager.vue:60
 #: src/components/letter/TabsManager.vue:72
 #: src/components/letter/dataDefinitions/labels.js:122
@@ -1806,7 +1806,7 @@ msgid "The following substances were not added because they already exist"
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:37
-#: src/components/exemption/TabsManager.vue:63
+#: src/components/exemption/TabsManager.vue:62
 #: src/components/letter/TabsManager.vue:60
 msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
 msgstr ""
@@ -1937,14 +1937,14 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:209
 #: src/components/common/SubmissionHistory.vue:57
-#: src/components/exemption/TabsManager.vue:136
+#: src/components/exemption/TabsManager.vue:135
 #: src/components/letter/TabsManager.vue:139 src/views/Dashboard.vue:319
 #: src/views/Dashboard.vue:357
 msgid "Version"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:97
-#: src/components/exemption/TabsManager.vue:85
+#: src/components/exemption/TabsManager.vue:84
 #: src/components/hat/TabsManager.vue:78
 #: src/components/letter/TabsManager.vue:90
 #: src/components/raf/TabsManager.vue:81
@@ -2001,7 +2001,7 @@ msgid "Annex groups"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:107
-#: src/components/exemption/TabsManager.vue:95
+#: src/components/exemption/TabsManager.vue:94
 #: src/components/hat/TabsManager.vue:87
 #: src/components/letter/TabsManager.vue:100
 #: src/components/raf/TabsManager.vue:90
