@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-20 18:35+0300\n"
+"POT-Creation-Date: 2019-02-22 11:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -513,7 +513,7 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1061
+#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1082
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
@@ -549,30 +549,36 @@ msgstr ""
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:853
+#: ozone/core/models/reporting.py:854
 msgid "You can't clone a submission with this type of obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:864
+#: ozone/core/models/reporting.py:867
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:874
-msgid "Submission in Data Entry cannot be cloned."
+#: ozone/core/models/reporting.py:881
+msgid ""
+"There is already a Data Entry submission created by Secretariat for this "
+"party/period/obligation combination."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1039
+#: ozone/core/models/reporting.py:892
+msgid ""
+"There is already a Data Entry submission created by party for this party/"
+"period/obligation combination."
+msgstr ""
+
+#: ozone/core/models/reporting.py:1060
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1054
+#: ozone/core/models/reporting.py:1075
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1088
-msgid ""
-"There is already a submission in Data Entry for this party/period/obligation "
-"combination."
+#: ozone/core/models/reporting.py:1114
+msgid "There is already a Data Entry submission created "
 msgstr ""
 
 #: ozone/core/models/substance.py:290
