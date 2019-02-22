@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-20 13:26+0000\n"
+"POT-Creation-Date: 2019-02-22 09:13+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -702,11 +702,7 @@ msgid "EXPORTS"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:51
-msgid "F/I"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:52
-msgid "F/II"
+msgid "F"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:727
