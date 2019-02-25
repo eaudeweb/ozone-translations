@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-22 09:13+0000\n"
+"POT-Creation-Date: 2019-02-25 10:24+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -223,7 +223,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:35
+#: src/store/actions.js:55
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
@@ -555,14 +555,6 @@ msgstr ""
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:241
-#: src/components/exemption/TabsManager.vue:188
-#: src/components/hat/TabsManager.vue:190
-#: src/components/letter/TabsManager.vue:197
-#: src/components/raf/TabsManager.vue:193 src/views/Dashboard.vue:523
-msgid "Deleting the submission is ireversible. Are you sure ?"
-msgstr ""
-
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:15
 msgid "description..............."
 msgstr ""
@@ -647,7 +639,7 @@ msgstr ""
 msgid "Emissions"
 msgstr ""
 
-#: src/store/actions.js:103
+#: src/store/actions.js:123
 msgid "Error"
 msgstr ""
 
@@ -711,11 +703,11 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/store/actions.js:55
+#: src/store/actions.js:75
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:232
+#: src/store/actions.js:260
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -1264,6 +1256,10 @@ msgstr ""
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
+#: src/store/actions.js:32
+msgid "Please confirm"
+msgstr ""
+
 #: src/components/art7/TabsManager.vue:233
 #: src/components/exemption/TabsManager.vue:180
 #: src/components/hat/TabsManager.vue:182
@@ -1643,7 +1639,7 @@ msgstr ""
 msgid "Save failed"
 msgstr ""
 
-#: src/store/actions.js:98
+#: src/store/actions.js:118
 msgid "Saved"
 msgstr ""
 
@@ -1706,11 +1702,11 @@ msgstr ""
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
-#: src/store/actions.js:46
+#: src/store/actions.js:66
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:225
+#: src/store/actions.js:253
 msgid "Submission deleted"
 msgstr ""
 
@@ -1723,7 +1719,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:207
+#: src/store/actions.js:231
 msgid "Submission state updated"
 msgstr ""
 
@@ -1900,7 +1896,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:213
+#: src/store/actions.js:237
 msgid "Unable to change the state of this submission"
 msgstr ""
 
