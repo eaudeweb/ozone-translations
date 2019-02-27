@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-27 19:03+0300\n"
+"POT-Creation-Date: 2019-02-27 19:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -578,6 +578,10 @@ msgstr ""
 
 #: ozone/core/models/substance.py:329 ozone/core/models/substance.py:332
 msgid "Substance or component name must be set."
+msgstr ""
+
+#: ozone/core/models/workflows/default.py:115
+msgid "Valid flag must be set before submission is finalized"
 msgstr ""
 
 #: ozone/core/serializers.py:94
