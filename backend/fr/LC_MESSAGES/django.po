@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-25 15:19+0300\n"
+"POT-Creation-Date: 2019-02-27 14:39+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -514,7 +514,7 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1095
+#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1099
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
@@ -522,52 +522,52 @@ msgstr ""
 msgid "Only one obligation can be set as default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:560
+#: ozone/core/models/reporting.py:564
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:567
+#: ozone/core/models/reporting.py:571
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:576
+#: ozone/core/models/reporting.py:580
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:655
+#: ozone/core/models/reporting.py:659
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:712 ozone/core/serializers.py:444
+#: ozone/core/models/reporting.py:716 ozone/core/serializers.py:444
 #: ozone/core/serializers.py:449
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:846
+#: ozone/core/models/reporting.py:850
 #, python-brace-format
 msgid "There is already a Data Entry submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:870
+#: ozone/core/models/reporting.py:874
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:879
+#: ozone/core/models/reporting.py:883
 msgid "You can't clone a submission with this type of obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:892
+#: ozone/core/models/reporting.py:896
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1073
+#: ozone/core/models/reporting.py:1077
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1088
+#: ozone/core/models/reporting.py:1092
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
