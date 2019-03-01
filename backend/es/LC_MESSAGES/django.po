@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-01 15:12+0300\n"
+"POT-Creation-Date: 2019-03-01 18:31+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -482,31 +482,31 @@ msgstr ""
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/models/data.py:66 ozone/core/models/data.py:69
+#: ozone/core/models/data.py:67 ozone/core/models/data.py:70
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:77 ozone/core/models/data.py:80
+#: ozone/core/models/data.py:78 ozone/core/models/data.py:81
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:92
+#: ozone/core/models/data.py:93
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:98
+#: ozone/core/models/data.py:99
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:160
+#: ozone/core/models/data.py:161
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:576
+#: ozone/core/models/data.py:577
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:588
+#: ozone/core/models/data.py:589
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
