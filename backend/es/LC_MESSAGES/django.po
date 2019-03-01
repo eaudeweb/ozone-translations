@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-01 01:44+0300\n"
+"POT-Creation-Date: 2019-03-01 11:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -577,6 +577,14 @@ msgstr ""
 
 #: ozone/core/models/substance.py:329 ozone/core/models/substance.py:332
 msgid "Substance or component name must be set."
+msgstr ""
+
+#: ozone/core/models/user.py:70
+msgid "Secretariat users cannot belong to a Party"
+msgstr ""
+
+#: ozone/core/models/user.py:74
+msgid "User needs to be either Secretariat or Party"
 msgstr ""
 
 #: ozone/core/models/workflows/default.py:115
