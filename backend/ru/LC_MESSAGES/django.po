@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-04 17:19+0300\n"
+"POT-Creation-Date: 2019-03-04 17:33+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -592,11 +592,11 @@ msgstr "фиктивный текст."
 msgid "email address"
 msgstr ""
 
-#: ozone/core/models/user.py:72
+#: ozone/core/models/user.py:74
 msgid "Secretariat users cannot belong to a Party"
 msgstr ""
 
-#: ozone/core/models/user.py:76
+#: ozone/core/models/user.py:78
 msgid "User needs to be either Secretariat or Party"
 msgstr ""
 
