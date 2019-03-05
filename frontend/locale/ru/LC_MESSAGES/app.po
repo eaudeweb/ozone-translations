@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-28 22:47+0000\n"
+"POT-Creation-Date: 2019-03-05 10:29+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -35,7 +35,7 @@ msgstr ""
 msgid "Account"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:334 src/views/Dashboard.vue:371
+#: src/views/Dashboard.vue:341 src/views/Dashboard.vue:378
 msgid "Actions"
 msgstr "фиктивный текст"
 
@@ -500,7 +500,7 @@ msgstr "фиктивный текст"
 #: src/components/exemption/TabsManager.vue:135
 #: src/components/hat/TabsManager.vue:167
 #: src/components/letter/TabsManager.vue:139
-#: src/components/raf/TabsManager.vue:170 src/views/Dashboard.vue:482
+#: src/components/raf/TabsManager.vue:170 src/views/Dashboard.vue:489
 msgid "Dashboard"
 msgstr "фиктивный текст"
 
@@ -994,7 +994,7 @@ msgstr "фиктивный текст"
 msgid "Laboratory and analytical"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:333 src/views/Dashboard.vue:369
+#: src/views/Dashboard.vue:340 src/views/Dashboard.vue:376
 msgid "Last modified"
 msgstr "фиктивный текст"
 
@@ -1113,7 +1113,7 @@ msgstr "фиктивный текст\t"
 #: src/components/art7/TabsManager.vue:195
 #: src/components/hat/TabsManager.vue:154
 #: src/components/letter/TabsManager.vue:164
-#: src/components/raf/TabsManager.vue:157 src/views/Dashboard.vue:505
+#: src/components/raf/TabsManager.vue:157 src/views/Dashboard.vue:512
 msgid "New version created"
 msgstr "фиктивный текст"
 
@@ -1135,7 +1135,7 @@ msgstr "фиктивный текст"
 msgid "Number of Isomers"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:323 src/views/Dashboard.vue:361
+#: src/views/Dashboard.vue:330 src/views/Dashboard.vue:368
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:56
 #: src/views/Dashboard.vue:125
 msgid "Obligation"
@@ -1214,7 +1214,7 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:327 src/views/Dashboard.vue:365
+#: src/views/Dashboard.vue:334 src/views/Dashboard.vue:372
 #: src/views/UserProfile.vue:31 src/views/Dashboard.vue:31
 #: src/views/Dashboard.vue:61 src/views/Dashboard.vue:128
 msgid "Party"
@@ -1242,7 +1242,7 @@ msgstr "фиктивный текст"
 msgid "Percentage"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:325 src/views/Dashboard.vue:363
+#: src/views/Dashboard.vue:332 src/views/Dashboard.vue:370
 #: src/views/Dashboard.vue:20
 msgid "Period"
 msgstr "фиктивный текст"
@@ -1696,7 +1696,7 @@ msgstr "фиктивный текст"
 msgid "Sort"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:331
+#: src/views/Dashboard.vue:338
 msgid "State"
 msgstr "фиктивный текст"
 
@@ -1949,8 +1949,8 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:209
 #: src/components/common/SubmissionHistory.vue:57
 #: src/components/exemption/TabsManager.vue:135
-#: src/components/letter/TabsManager.vue:139 src/views/Dashboard.vue:329
-#: src/views/Dashboard.vue:367
+#: src/components/letter/TabsManager.vue:139 src/views/Dashboard.vue:336
+#: src/views/Dashboard.vue:374
 msgid "Version"
 msgstr "фиктивный текст"
 
