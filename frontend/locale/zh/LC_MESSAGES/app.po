@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 11:16+0000\n"
+"POT-Creation-Date: 2019-03-06 11:31+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -325,7 +325,7 @@ msgstr ""
 msgid "C/IIII"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:222
+#: src/components/art7/TabsManager.vue:229
 msgid "Can't find instructions for current form"
 msgstr ""
 
@@ -370,11 +370,16 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:557
 #: src/components/art7/TabsManager.vue:25
-#: src/components/art7/TabsManager.vue:112
+#: src/components/art7/TabsManager.vue:72
+#: src/components/art7/TabsManager.vue:119
 #: src/components/exemption/FormTemplate.vue:151
-#: src/components/hat/TabsManager.vue:22 src/components/hat/TabsManager.vue:91
+#: src/components/exemption/TabsManager.vue:69
+#: src/components/hat/TabsManager.vue:22 src/components/hat/TabsManager.vue:55
+#: src/components/hat/TabsManager.vue:99
+#: src/components/letter/TabsManager.vue:67
 #: src/components/raf/FormTemplate.vue:210
-#: src/components/raf/TabsManager.vue:22 src/components/raf/TabsManager.vue:94
+#: src/components/raf/TabsManager.vue:22 src/components/raf/TabsManager.vue:58
+#: src/components/raf/TabsManager.vue:102
 msgid "Close"
 msgstr ""
 
@@ -492,11 +497,11 @@ msgstr ""
 msgid "Current State"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:209
-#: src/components/exemption/TabsManager.vue:135
-#: src/components/hat/TabsManager.vue:167
-#: src/components/letter/TabsManager.vue:139
-#: src/components/raf/TabsManager.vue:170 src/views/Dashboard.vue:489
+#: src/components/art7/TabsManager.vue:216
+#: src/components/exemption/TabsManager.vue:142
+#: src/components/hat/TabsManager.vue:175
+#: src/components/letter/TabsManager.vue:146
+#: src/components/raf/TabsManager.vue:178 src/views/Dashboard.vue:489
 msgid "Dashboard"
 msgstr ""
 
@@ -547,11 +552,11 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:100
-#: src/components/exemption/TabsManager.vue:87
-#: src/components/hat/TabsManager.vue:81
-#: src/components/letter/TabsManager.vue:93
-#: src/components/raf/TabsManager.vue:84
+#: src/components/art7/TabsManager.vue:107
+#: src/components/exemption/TabsManager.vue:94
+#: src/components/hat/TabsManager.vue:89
+#: src/components/letter/TabsManager.vue:100
+#: src/components/raf/TabsManager.vue:92
 msgid "Delete Submission"
 msgstr ""
 
@@ -1101,10 +1106,10 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:195
-#: src/components/hat/TabsManager.vue:154
-#: src/components/letter/TabsManager.vue:164
-#: src/components/raf/TabsManager.vue:157 src/views/Dashboard.vue:512
+#: src/components/art7/TabsManager.vue:202
+#: src/components/hat/TabsManager.vue:162
+#: src/components/letter/TabsManager.vue:171
+#: src/components/raf/TabsManager.vue:165 src/views/Dashboard.vue:512
 msgid "New version created"
 msgstr ""
 
@@ -1260,11 +1265,11 @@ msgstr ""
 msgid "Please confirm"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:233
-#: src/components/exemption/TabsManager.vue:180
-#: src/components/hat/TabsManager.vue:182
-#: src/components/letter/TabsManager.vue:189
-#: src/components/raf/TabsManager.vue:185
+#: src/components/art7/TabsManager.vue:240
+#: src/components/exemption/TabsManager.vue:187
+#: src/components/hat/TabsManager.vue:190
+#: src/components/letter/TabsManager.vue:196
+#: src/components/raf/TabsManager.vue:193
 msgid "Please save before submitting"
 msgstr ""
 
@@ -1709,7 +1714,7 @@ msgstr ""
 msgid "Submission deleted"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:156
+#: src/components/art7/TabsManager.vue:163
 #: src/components/common/SubmissionInfo.vue:19
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
 #: src/components/common/dataDefinitions/tabSubInfo.js:12
@@ -1722,13 +1727,13 @@ msgstr ""
 msgid "Submission state updated"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:77
+#: src/components/art7/TabsManager.vue:84
 #: src/components/common/dataDefinitions/labels.js:9
-#: src/components/exemption/TabsManager.vue:74
-#: src/components/hat/TabsManager.vue:60
-#: src/components/letter/TabsManager.vue:72
+#: src/components/exemption/TabsManager.vue:81
+#: src/components/hat/TabsManager.vue:68
+#: src/components/letter/TabsManager.vue:79
 #: src/components/letter/dataDefinitions/labels.js:122
-#: src/components/raf/TabsManager.vue:63
+#: src/components/raf/TabsManager.vue:71
 msgid "Submit"
 msgstr ""
 
@@ -1925,19 +1930,19 @@ msgstr ""
 msgid "Validation"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:209
+#: src/components/art7/TabsManager.vue:216
 #: src/components/common/SubmissionHistory.vue:57
-#: src/components/exemption/TabsManager.vue:135
-#: src/components/letter/TabsManager.vue:139 src/views/Dashboard.vue:336
+#: src/components/exemption/TabsManager.vue:142
+#: src/components/letter/TabsManager.vue:146 src/views/Dashboard.vue:336
 #: src/views/Dashboard.vue:374
 msgid "Version"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:97
-#: src/components/exemption/TabsManager.vue:84
-#: src/components/hat/TabsManager.vue:78
-#: src/components/letter/TabsManager.vue:90
-#: src/components/raf/TabsManager.vue:81
+#: src/components/art7/TabsManager.vue:104
+#: src/components/exemption/TabsManager.vue:91
+#: src/components/hat/TabsManager.vue:86
+#: src/components/letter/TabsManager.vue:97
+#: src/components/raf/TabsManager.vue:89
 msgid "Versions"
 msgstr ""
 
@@ -1990,11 +1995,11 @@ msgstr ""
 msgid "Annex groups"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:107
-#: src/components/exemption/TabsManager.vue:94
-#: src/components/hat/TabsManager.vue:87
-#: src/components/letter/TabsManager.vue:100
-#: src/components/raf/TabsManager.vue:90
+#: src/components/art7/TabsManager.vue:114
+#: src/components/exemption/TabsManager.vue:101
+#: src/components/hat/TabsManager.vue:95
+#: src/components/letter/TabsManager.vue:107
+#: src/components/raf/TabsManager.vue:98
 msgid "Submission versions"
 msgstr ""
 
