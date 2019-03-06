@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:27+0000\n"
+"POT-Creation-Date: 2019-03-06 12:39+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -451,10 +451,6 @@ msgstr ""
 msgid "Consumption (imports)"
 msgstr ""
 
-#: src/views/Dashboard.vue:92
-msgid "Continue"
-msgstr ""
-
 #: src/views/lookupTables/ControlledSubstances.vue:123
 msgid "Controlled substances"
 msgstr ""
@@ -628,6 +624,7 @@ msgid "E/I"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:31
+#: src/views/Dashboard.vue:92
 msgid "Edit"
 msgstr ""
 
