@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 13:35+0000\n"
+"POT-Creation-Date: 2019-03-06 10:40+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -703,7 +703,7 @@ msgstr ""
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:262
+#: src/store/actions.js:272
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -1702,7 +1702,7 @@ msgstr ""
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:255
+#: src/store/actions.js:265
 msgid "Submission deleted"
 msgstr ""
 
