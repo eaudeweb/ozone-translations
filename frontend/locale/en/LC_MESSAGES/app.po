@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 11:31+0000\n"
+"POT-Creation-Date: 2019-03-06 12:27+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -210,11 +210,21 @@ msgstr ""
 msgid "Annex group reported in full"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:58
-#: src/components/hat/dataDefinitions/form.js:152
 #: src/components/raf/dataDefinitions/form.js:62
 #: src/components/raf/dataDefinitions/labels.js:16
 msgid "Annex/group"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:96
+#: src/components/art7/dataDefinitions/form.js:233
+#: src/components/art7/dataDefinitions/form.js:353
+#: src/components/art7/dataDefinitions/form.js:442
+#: src/components/art7/dataDefinitions/form.js:527
+#: src/components/art7/dataDefinitions/form.js:611
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
+#: src/components/hat/dataDefinitions/form.js:58
+#: src/components/hat/dataDefinitions/form.js:152
+msgid "Annex/Group"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:89
@@ -836,17 +846,10 @@ msgstr ""
 msgid "Go back to dashboard"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:96
-#: src/components/art7/dataDefinitions/form.js:233
-#: src/components/art7/dataDefinitions/form.js:353
-#: src/components/art7/dataDefinitions/form.js:442
-#: src/components/art7/dataDefinitions/form.js:527
-#: src/components/art7/dataDefinitions/form.js:611
 #: src/components/art7/dataDefinitions/labels.js:9
 #: src/components/art7/dataDefinitions/labels.js:43
 #: src/components/exemption/dataDefinitions/labels.js:6
 #: src/components/exemption/dataDefinitions/labels.js:13
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
