@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:48+0000\n"
+"POT-Creation-Date: 2019-03-06 14:37+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -16,7 +16,7 @@ msgid "({{info.form_fields['submitted_at'].validation}})"
 msgstr ""
 
 #: src/components/common/SubmissionInfo.vue:31
-msgid "(Required)"
+msgid "(required)"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:221
