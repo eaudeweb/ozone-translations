@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:39+0000\n"
+"POT-Creation-Date: 2019-03-06 12:48+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -35,7 +35,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/views/Dashboard.vue:341 src/views/Dashboard.vue:378
+#: src/views/Dashboard.vue:345 src/views/Dashboard.vue:385
 msgid "Actions"
 msgstr ""
 
@@ -484,6 +484,10 @@ msgstr ""
 msgid "Create submission"
 msgstr ""
 
+#: src/views/Dashboard.vue:343 src/views/Dashboard.vue:383
+msgid "Created by"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/labels.js:18
 #: src/components/art7/dataDefinitions/labels.js:19
 #: src/components/art7/dataDefinitions/labels.js:54
@@ -507,7 +511,7 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:142
 #: src/components/hat/TabsManager.vue:175
 #: src/components/letter/TabsManager.vue:146
-#: src/components/raf/TabsManager.vue:178 src/views/Dashboard.vue:489
+#: src/components/raf/TabsManager.vue:178 src/views/Dashboard.vue:496
 msgid "Dashboard"
 msgstr ""
 
@@ -990,7 +994,7 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/views/Dashboard.vue:340 src/views/Dashboard.vue:376
+#: src/views/Dashboard.vue:341 src/views/Dashboard.vue:381
 msgid "Last modified"
 msgstr ""
 
@@ -1109,7 +1113,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:202
 #: src/components/hat/TabsManager.vue:162
 #: src/components/letter/TabsManager.vue:171
-#: src/components/raf/TabsManager.vue:165 src/views/Dashboard.vue:512
+#: src/components/raf/TabsManager.vue:165 src/views/Dashboard.vue:519
 msgid "New version created"
 msgstr ""
 
@@ -1130,7 +1134,7 @@ msgstr ""
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:330 src/views/Dashboard.vue:368
+#: src/views/Dashboard.vue:331 src/views/Dashboard.vue:373
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:56
 #: src/views/Dashboard.vue:125
 msgid "Obligation"
@@ -1208,7 +1212,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:334 src/views/Dashboard.vue:372
+#: src/views/Dashboard.vue:335 src/views/Dashboard.vue:377
 #: src/views/UserProfile.vue:31 src/views/Dashboard.vue:31
 #: src/views/Dashboard.vue:61 src/views/Dashboard.vue:128
 msgid "Party"
@@ -1235,7 +1239,7 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:332 src/views/Dashboard.vue:370
+#: src/views/Dashboard.vue:333 src/views/Dashboard.vue:375
 #: src/views/Dashboard.vue:20
 msgid "Period"
 msgstr ""
@@ -1683,7 +1687,7 @@ msgstr ""
 msgid "Sort"
 msgstr ""
 
-#: src/views/Dashboard.vue:338
+#: src/views/Dashboard.vue:339
 msgid "State"
 msgstr ""
 
@@ -1933,8 +1937,8 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:216
 #: src/components/common/SubmissionHistory.vue:57
 #: src/components/exemption/TabsManager.vue:142
-#: src/components/letter/TabsManager.vue:146 src/views/Dashboard.vue:336
-#: src/views/Dashboard.vue:374
+#: src/components/letter/TabsManager.vue:146 src/views/Dashboard.vue:337
+#: src/views/Dashboard.vue:379
 msgid "Version"
 msgstr ""
 
