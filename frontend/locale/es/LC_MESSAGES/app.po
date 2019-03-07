@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-07 13:16+0000\n"
+"POT-Creation-Date: 2019-03-07 13:30+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -1213,7 +1213,8 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:335 src/views/Dashboard.vue:377
+#: src/views/Dashboard.vue:319 src/views/Dashboard.vue:335
+#: src/views/Dashboard.vue:363 src/views/Dashboard.vue:377
 #: src/views/UserProfile.vue:31 src/views/Dashboard.vue:31
 #: src/views/Dashboard.vue:61 src/views/Dashboard.vue:128
 msgid "Party"
@@ -1665,6 +1666,7 @@ msgid "Search"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
+#: src/views/Dashboard.vue:319 src/views/Dashboard.vue:363
 #: src/views/UserProfile.vue:30
 msgid "Secretariat"
 msgstr ""
