@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-06 17:33+0300\n"
+"POT-Creation-Date: 2019-03-07 11:11+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -478,7 +478,7 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:501
+#: ozone/core/api/views.py:503
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
@@ -628,11 +628,11 @@ msgstr ""
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1170
+#: ozone/core/serializers.py:1177
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1188
+#: ozone/core/serializers.py:1195
 msgid "Specified file id not found for this submission"
 msgstr ""
 
