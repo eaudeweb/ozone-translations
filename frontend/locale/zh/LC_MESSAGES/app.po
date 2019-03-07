@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 14:37+0000\n"
+"POT-Creation-Date: 2019-03-07 13:16+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -1113,7 +1113,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:202
 #: src/components/hat/TabsManager.vue:162
 #: src/components/letter/TabsManager.vue:171
-#: src/components/raf/TabsManager.vue:165 src/views/Dashboard.vue:519
+#: src/components/raf/TabsManager.vue:165 src/views/Dashboard.vue:522
 msgid "New version created"
 msgstr ""
 
