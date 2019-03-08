@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-07 13:30+0000\n"
+"POT-Creation-Date: 2019-03-08 17:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -35,7 +35,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/views/Dashboard.vue:345 src/views/Dashboard.vue:385
+#: src/views/Dashboard.vue:349 src/views/Dashboard.vue:389
 msgid "Actions"
 msgstr ""
 
@@ -484,7 +484,7 @@ msgstr ""
 msgid "Create submission"
 msgstr ""
 
-#: src/views/Dashboard.vue:343 src/views/Dashboard.vue:383
+#: src/views/Dashboard.vue:347 src/views/Dashboard.vue:387
 msgid "Created by"
 msgstr ""
 
@@ -511,7 +511,7 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:142
 #: src/components/hat/TabsManager.vue:175
 #: src/components/letter/TabsManager.vue:146
-#: src/components/raf/TabsManager.vue:178 src/views/Dashboard.vue:496
+#: src/components/raf/TabsManager.vue:178 src/views/Dashboard.vue:502
 msgid "Dashboard"
 msgstr ""
 
@@ -655,7 +655,7 @@ msgstr ""
 msgid "Emissions"
 msgstr ""
 
-#: src/store/actions.js:125
+#: src/store/actions.js:124
 msgid "Error"
 msgstr ""
 
@@ -723,7 +723,7 @@ msgstr ""
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:272
+#: src/store/actions.js:271
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -994,7 +994,7 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/views/Dashboard.vue:341 src/views/Dashboard.vue:381
+#: src/views/Dashboard.vue:345 src/views/Dashboard.vue:385
 msgid "Last modified"
 msgstr ""
 
@@ -1113,7 +1113,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:202
 #: src/components/hat/TabsManager.vue:162
 #: src/components/letter/TabsManager.vue:171
-#: src/components/raf/TabsManager.vue:165 src/views/Dashboard.vue:522
+#: src/components/raf/TabsManager.vue:165 src/views/Dashboard.vue:528
 msgid "New version created"
 msgstr ""
 
@@ -1134,7 +1134,7 @@ msgstr ""
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:331 src/views/Dashboard.vue:373
+#: src/views/Dashboard.vue:335 src/views/Dashboard.vue:377
 #: src/views/Dashboard.vue:11 src/views/Dashboard.vue:56
 #: src/views/Dashboard.vue:125
 msgid "Obligation"
@@ -1212,8 +1212,8 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:319 src/views/Dashboard.vue:335
-#: src/views/Dashboard.vue:363 src/views/Dashboard.vue:377
+#: src/views/Dashboard.vue:323 src/views/Dashboard.vue:339
+#: src/views/Dashboard.vue:367 src/views/Dashboard.vue:381
 #: src/views/UserProfile.vue:31 src/views/Dashboard.vue:31
 #: src/views/Dashboard.vue:61 src/views/Dashboard.vue:128
 msgid "Party"
@@ -1240,7 +1240,7 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:333 src/views/Dashboard.vue:375
+#: src/views/Dashboard.vue:337 src/views/Dashboard.vue:379
 #: src/views/Dashboard.vue:20
 msgid "Period"
 msgstr ""
@@ -1648,7 +1648,7 @@ msgstr ""
 msgid "Save failed"
 msgstr ""
 
-#: src/store/actions.js:120
+#: src/store/actions.js:119
 msgid "Saved"
 msgstr ""
 
@@ -1665,7 +1665,7 @@ msgid "Search"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:319 src/views/Dashboard.vue:363
+#: src/views/Dashboard.vue:323 src/views/Dashboard.vue:367
 #: src/views/UserProfile.vue:30
 msgid "Secretariat"
 msgstr ""
@@ -1689,7 +1689,7 @@ msgstr ""
 msgid "Sort"
 msgstr ""
 
-#: src/views/Dashboard.vue:339
+#: src/views/Dashboard.vue:343
 msgid "State"
 msgstr ""
 
@@ -1716,7 +1716,7 @@ msgstr ""
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:265
+#: src/store/actions.js:264
 msgid "Submission deleted"
 msgstr ""
 
@@ -1729,7 +1729,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:233
+#: src/store/actions.js:232
 msgid "Submission state updated"
 msgstr ""
 
@@ -1906,7 +1906,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:239
+#: src/store/actions.js:238
 msgid "Unable to change the state of this submission"
 msgstr ""
 
@@ -1939,8 +1939,8 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:216
 #: src/components/common/SubmissionHistory.vue:57
 #: src/components/exemption/TabsManager.vue:142
-#: src/components/letter/TabsManager.vue:146 src/views/Dashboard.vue:337
-#: src/views/Dashboard.vue:379
+#: src/components/letter/TabsManager.vue:146 src/views/Dashboard.vue:341
+#: src/views/Dashboard.vue:383
 msgid "Version"
 msgstr ""
 
