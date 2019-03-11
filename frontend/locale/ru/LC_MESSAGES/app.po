@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-11 14:05+0000\n"
+"POT-Creation-Date: 2019-03-11 15:33+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -310,7 +310,9 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
-#: src/components/common/mixins/FormTemplateMixin.vue:160
+#: src/components/common/mixins/FormTemplateMixin.vue:161
+#: src/components/common/mixins/FormTemplateMixin.vue:163
+#: src/components/common/mixins/FormTemplateMixin.vue:165
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
@@ -816,7 +818,8 @@ msgid "For annexes A-C, total production (3) should be >= feedstock (4) + exempt
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:743
-msgid "For Destruction"
+#, fuzzy
+msgid "For destruction"
 msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:190
@@ -1921,7 +1924,8 @@ msgstr "фиктивный текст"
 msgid "Total quantity imported for all uses must be >= to the sum of individual components"
 msgstr "фиктивный текст"
 
-#: src/components/common/mixins/FormTemplateMixin.vue:164
+#: src/components/common/mixins/FormTemplateMixin.vue:171
+#: src/components/common/mixins/FormTemplateMixin.vue:177
 msgid "Type"
 msgstr "фиктивный текст"
 
