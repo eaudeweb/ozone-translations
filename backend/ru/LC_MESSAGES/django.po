@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-08 20:40+0300\n"
+"POT-Creation-Date: 2019-03-11 11:16+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -517,7 +517,7 @@ msgstr "фиктивный текст."
 msgid "End date has to be temporally after start date."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:58 ozone/core/models/reporting.py:1118
+#: ozone/core/models/reporting.py:58 ozone/core/models/reporting.py:1115
 msgid "Submitted submissions cannot be modified."
 msgstr "фиктивный текст."
 
@@ -525,31 +525,31 @@ msgstr "фиктивный текст."
 msgid "Only one obligation can be set as default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:560
+#: ozone/core/models/reporting.py:557
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:567
+#: ozone/core/models/reporting.py:564
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:576
+#: ozone/core/models/reporting.py:573
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:678
+#: ozone/core/models/reporting.py:675
 msgid "User is not allowed to change this flag"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:735 ozone/core/serializers.py:444
+#: ozone/core/models/reporting.py:732 ozone/core/serializers.py:444
 #: ozone/core/serializers.py:449
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:869
+#: ozone/core/models/reporting.py:866
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -557,26 +557,26 @@ msgstr "фиктивный текст"
 msgid "There is already a Data Entry submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:893
+#: ozone/core/models/reporting.py:890
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:902
+#: ozone/core/models/reporting.py:899
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
 msgid "You can't clone a submission with this type of obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:915
+#: ozone/core/models/reporting.py:912
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1096
+#: ozone/core/models/reporting.py:1093
 msgid "Submitted submissions cannot be deleted."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1111
+#: ozone/core/models/reporting.py:1108
 msgid "Reporting cannot be performed for this reporting period."
 msgstr "фиктивный текст."
 
