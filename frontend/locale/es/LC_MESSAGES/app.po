@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-11 16:38+0000\n"
+"POT-Creation-Date: 2019-03-11 17:32+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -36,7 +36,8 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/views/Dashboard.vue:349 src/views/Dashboard.vue:390
+#: src/components/common/SubmissionHistory.vue:97 src/views/Dashboard.vue:349
+#: src/views/Dashboard.vue:390
 msgid "Actions"
 msgstr ""
 
@@ -486,7 +487,8 @@ msgstr ""
 msgid "Create submission"
 msgstr ""
 
-#: src/views/Dashboard.vue:347 src/views/Dashboard.vue:388
+#: src/components/common/SubmissionHistory.vue:88 src/views/Dashboard.vue:347
+#: src/views/Dashboard.vue:388
 msgid "Created by"
 msgstr ""
 
@@ -505,7 +507,7 @@ msgstr ""
 msgid "Critical use"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:63
+#: src/components/common/SubmissionHistory.vue:94
 msgid "Current State"
 msgstr ""
 
@@ -1000,7 +1002,7 @@ msgstr ""
 msgid "Last modified"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:60
+#: src/components/common/SubmissionHistory.vue:91
 msgid "Last Modified"
 msgstr ""
 
@@ -1365,7 +1367,6 @@ msgstr ""
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:66
 #: src/components/common/dataDefinitions/labels.js:37
 msgid "Provisional"
 msgstr ""
@@ -1930,7 +1931,6 @@ msgstr ""
 msgid "valid"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:69
 #: src/components/common/dataDefinitions/labels.js:40
 msgid "Valid"
 msgstr ""
@@ -1940,7 +1940,7 @@ msgid "Validation"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:216
-#: src/components/common/SubmissionHistory.vue:57
+#: src/components/common/SubmissionHistory.vue:85
 #: src/components/exemption/TabsManager.vue:142
 #: src/components/letter/TabsManager.vue:146 src/views/Dashboard.vue:341
 #: src/views/Dashboard.vue:384
@@ -1959,6 +1959,7 @@ msgstr ""
 msgid "Vienna Convention"
 msgstr ""
 
+#: src/components/common/SubmissionHistory.vue:20
 #: src/components/common/dataDefinitions/labels.js:32
 #: src/views/Dashboard.vue:93
 msgid "View"
