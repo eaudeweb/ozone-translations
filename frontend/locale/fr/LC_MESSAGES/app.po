@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-11 15:33+0000\n"
+"POT-Creation-Date: 2019-03-11 16:38+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -78,6 +78,7 @@ msgid "Add substance"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:3
+#: src/components/common/form-components/AsideTogglerModified.vue:2
 msgid "Add substances"
 msgstr ""
 
