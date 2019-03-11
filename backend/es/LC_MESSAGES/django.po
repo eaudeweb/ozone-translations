@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-11 13:48+0300\n"
+"POT-Creation-Date: 2019-03-11 13:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -478,7 +478,7 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:504
+#: ozone/core/api/views.py:505
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
