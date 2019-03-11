@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-11 13:10+0000\n"
+"POT-Creation-Date: 2019-03-11 14:05+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -237,7 +237,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:57
+#: src/store/actions.js:58
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
@@ -653,7 +653,7 @@ msgstr ""
 msgid "Emissions"
 msgstr ""
 
-#: src/store/actions.js:124
+#: src/store/actions.js:125
 msgid "Error"
 msgstr ""
 
@@ -717,11 +717,11 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/store/actions.js:77
+#: src/store/actions.js:78
 msgid "Failed to create submission"
 msgstr ""
 
-#: src/store/actions.js:271
+#: src/store/actions.js:272
 msgid "Failed to delete submission"
 msgstr ""
 
@@ -1264,7 +1264,7 @@ msgstr ""
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
-#: src/store/actions.js:33
+#: src/store/actions.js:34
 msgid "Please confirm"
 msgstr ""
 
@@ -1642,11 +1642,11 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:193
+#: src/components/common/mixins/SaveMixin.vue:198
 msgid "Save failed"
 msgstr ""
 
-#: src/store/actions.js:119
+#: src/store/actions.js:120
 msgid "Saved"
 msgstr ""
 
@@ -1710,11 +1710,11 @@ msgstr ""
 msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
-#: src/store/actions.js:68
+#: src/store/actions.js:69
 msgid "Submission created"
 msgstr ""
 
-#: src/store/actions.js:264
+#: src/store/actions.js:265
 msgid "Submission deleted"
 msgstr ""
 
@@ -1727,7 +1727,7 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:232
+#: src/store/actions.js:233
 msgid "Submission state updated"
 msgstr ""
 
@@ -1904,7 +1904,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: src/store/actions.js:238
+#: src/store/actions.js:239
 msgid "Unable to change the state of this submission"
 msgstr ""
 
