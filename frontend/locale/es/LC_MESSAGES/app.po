@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 15:08+0000\n"
+"POT-Creation-Date: 2019-03-12 15:58+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -537,7 +537,7 @@ msgid "Date"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:24
-#: src/components/common/dataDefinitions/tabSubInfo.js:115
+#: src/components/common/dataDefinitions/tabSubInfo.js:116
 msgid "Date of submission"
 msgstr ""
 
@@ -651,7 +651,7 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:107
+#: src/components/common/dataDefinitions/tabSubInfo.js:108
 msgid "Email/Address"
 msgstr ""
 
@@ -1599,7 +1599,7 @@ msgstr ""
 msgid "Reporting channel"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:99
+#: src/components/common/dataDefinitions/tabSubInfo.js:100
 msgid "Reporting officer"
 msgstr ""
 
@@ -1608,9 +1608,9 @@ msgid "Reporting Period"
 msgstr ""
 
 #: src/components/common/SubmissionInfo.vue:194
-#: src/components/common/dataDefinitions/tabSubInfo.js:98
-#: src/components/common/dataDefinitions/tabSubInfo.js:105
+#: src/components/common/dataDefinitions/tabSubInfo.js:99
 #: src/components/common/dataDefinitions/tabSubInfo.js:106
+#: src/components/common/dataDefinitions/tabSubInfo.js:107
 msgid "Required"
 msgstr ""
 
@@ -1797,7 +1797,7 @@ msgstr ""
 msgid "Superseded"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:89
+#: src/components/common/dataDefinitions/tabSubInfo.js:90
 msgid "The date indicated on the submitted document"
 msgstr ""
 
