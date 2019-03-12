@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-11 20:31+0300\n"
+"POT-Creation-Date: 2019-03-12 11:15+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -515,7 +515,7 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:58 ozone/core/models/reporting.py:1123
+#: ozone/core/models/reporting.py:58 ozone/core/models/reporting.py:1122
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
@@ -538,37 +538,37 @@ msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:678
+#: ozone/core/models/reporting.py:677
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:735 ozone/core/serializers.py:444
+#: ozone/core/models/reporting.py:734 ozone/core/serializers.py:444
 #: ozone/core/serializers.py:449
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:869
+#: ozone/core/models/reporting.py:868
 #, python-brace-format
 msgid "There is already a Data Entry submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:893
+#: ozone/core/models/reporting.py:892
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:902
+#: ozone/core/models/reporting.py:901
 msgid "You can't clone a submission with this type of obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:915
+#: ozone/core/models/reporting.py:914
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1101
+#: ozone/core/models/reporting.py:1100
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1116
+#: ozone/core/models/reporting.py:1115
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
