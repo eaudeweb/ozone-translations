@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-13 15:07+0000\n"
+"POT-Creation-Date: 2019-03-13 16:15+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -214,7 +214,7 @@ msgstr "фиктивный текст"
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:105
+#: src/components/common/SubmissionInfo.vue:107
 #, fuzzy
 msgid "Annex group reported in full"
 msgstr "фиктивный текст"
@@ -252,6 +252,10 @@ msgstr "фиктивный текст"
 msgid "Another submission already exists in Data Entry stage."
 msgstr "фиктивный текст."
 
+#: src/components/common/SubmissionStatus.vue:34
+msgid "Another version has been submitted, overriding this one"
+msgstr ""
+
 #: src/components/common/dataDefinitions/tabSubInfo.js:43
 msgid "API"
 msgstr "фиктивный текст"
@@ -272,6 +276,12 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:30
 msgid "Article 7"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionStatus.vue:17
+#: src/components/common/SubmissionStatus.vue:23
+#, fuzzy
+msgid "at"
 msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:586
@@ -495,7 +505,8 @@ msgstr "фиктивный текст."
 msgid "Create submission"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:88 src/views/Dashboard.vue:347
+#: src/components/common/SubmissionHistory.vue:88
+#: src/components/common/SubmissionStatus.vue:15 src/views/Dashboard.vue:347
 #: src/views/Dashboard.vue:388
 #, fuzzy
 msgid "Created by"
@@ -1018,6 +1029,10 @@ msgstr "фиктивный текст"
 msgid "Laboratory and analytical"
 msgstr "фиктивный текст"
 
+#: src/components/common/SubmissionStatus.vue:21
+msgid "Last changed by"
+msgstr ""
+
 #: src/views/Dashboard.vue:345 src/views/Dashboard.vue:386
 msgid "Last modified"
 msgstr "фиктивный текст"
@@ -1158,6 +1173,11 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:600
 msgid "Nonparty"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionStatus.vue:7
+#, fuzzy
+msgid "not valid"
 msgstr "фиктивный текст"
 
 #: src/views/lookupTables/ControlledSubstances.vue:85
@@ -1645,7 +1665,7 @@ msgstr "фиктивный текст"
 msgid "Reporting Period"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:194
+#: src/components/common/SubmissionInfo.vue:203
 #: src/components/common/dataDefinitions/tabSubInfo.js:99
 #: src/components/common/dataDefinitions/tabSubInfo.js:106
 #: src/components/common/dataDefinitions/tabSubInfo.js:107
@@ -1780,6 +1800,11 @@ msgstr "фиктивный текст"
 msgid "Submission state updated"
 msgstr "фиктивный текст"
 
+#: src/components/common/SubmissionInfo.vue:135
+#, fuzzy
+msgid "Submission status"
+msgstr "фиктивный текст"
+
 #: src/components/art7/TabsManager.vue:81
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:78
@@ -1837,6 +1862,11 @@ msgstr "фиктивный текст"
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
 msgid "subtitle............"
 msgstr ""
+
+#: src/components/common/SubmissionStatus.vue:10
+#, fuzzy
+msgid "superseded"
+msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:42
 msgid "Superseded"
@@ -1978,6 +2008,7 @@ msgstr "фиктивный текст"
 msgid "User profile"
 msgstr ""
 
+#: src/components/common/SubmissionStatus.vue:4
 #: src/components/common/dataDefinitions/labels.js:33
 msgid "valid"
 msgstr "фиктивный текст"
@@ -2057,6 +2088,18 @@ msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:6
 msgid "Annex groups"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionStatus.vue:17
+#: src/components/common/SubmissionStatus.vue:23
+#, fuzzy
+msgid "secretariat"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionStatus.vue:17
+#: src/components/common/SubmissionStatus.vue:23
+#, fuzzy
+msgid "party"
 msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:111
