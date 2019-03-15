@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-15 16:20+0000\n"
+"POT-Creation-Date: 2019-03-15 16:40+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -23,11 +23,11 @@ msgstr ""
 msgid "A blend with this name already exists!"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:49
+#: src/components/common/dataDefinitions/labels.js:50
 msgid "A/I"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:50
+#: src/components/common/dataDefinitions/labels.js:51
 msgid "A/II"
 msgstr ""
 
@@ -265,7 +265,7 @@ msgstr ""
 msgid "Article 5 party"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:31
+#: src/components/common/dataDefinitions/labels.js:32
 msgid "Article 7"
 msgstr ""
 
@@ -288,15 +288,15 @@ msgstr ""
 msgid "Available for use"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:51
+#: src/components/common/dataDefinitions/labels.js:52
 msgid "B/I"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:52
+#: src/components/common/dataDefinitions/labels.js:53
 msgid "B/II"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:53
+#: src/components/common/dataDefinitions/labels.js:54
 msgid "B/III"
 msgstr ""
 
@@ -334,15 +334,15 @@ msgstr ""
 msgid "Blends"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:54
+#: src/components/common/dataDefinitions/labels.js:55
 msgid "C/I"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:55
+#: src/components/common/dataDefinitions/labels.js:56
 msgid "C/II"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:56
+#: src/components/common/dataDefinitions/labels.js:57
 msgid "C/IIII"
 msgstr ""
 
@@ -374,7 +374,7 @@ msgstr ""
 msgid "Change substance"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:45
+#: src/components/common/dataDefinitions/labels.js:46
 msgid "Checked blanks"
 msgstr ""
 
@@ -425,7 +425,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:108
 #: src/components/art7/dataDefinitions/labels.js:122
 #: src/components/art7/dataDefinitions/labels.js:133
-#: src/components/common/dataDefinitions/labels.js:36
+#: src/components/common/dataDefinitions/labels.js:37
 #: src/components/hat/dataDefinitions/labels.js:17
 #: src/components/hat/dataDefinitions/labels.js:28
 #: src/components/raf/dataDefinitions/labels.js:15
@@ -438,7 +438,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:109
 #: src/components/art7/dataDefinitions/labels.js:123
 #: src/components/art7/dataDefinitions/labels.js:134
-#: src/components/common/dataDefinitions/labels.js:37
+#: src/components/common/dataDefinitions/labels.js:38
 #: src/components/hat/dataDefinitions/labels.js:16
 #: src/components/hat/dataDefinitions/labels.js:27
 #: src/components/raf/dataDefinitions/labels.js:14
@@ -453,7 +453,7 @@ msgstr ""
 msgid "Composition of"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:48
+#: src/components/common/dataDefinitions/labels.js:49
 msgid "Confirmed blanks"
 msgstr ""
 
@@ -549,7 +549,7 @@ msgstr ""
 msgid "Date"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:30
+#: src/components/common/dataDefinitions/labels.js:31
 #: src/components/common/dataDefinitions/tabSubInfo.js:116
 msgid "Date of submission"
 msgstr ""
@@ -575,7 +575,7 @@ msgstr ""
 msgid "Decision / type of use or remark"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:41
+#: src/components/common/dataDefinitions/labels.js:42
 msgid "Delete"
 msgstr ""
 
@@ -639,11 +639,11 @@ msgstr ""
 msgid "E-mail"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:57
+#: src/components/common/dataDefinitions/labels.js:58
 msgid "E/I"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:38
+#: src/components/common/dataDefinitions/labels.js:39
 msgid "Edit"
 msgstr ""
 
@@ -725,7 +725,7 @@ msgstr ""
 msgid "EXPORTS"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:58
+#: src/components/common/dataDefinitions/labels.js:59
 msgid "F"
 msgstr ""
 
@@ -781,6 +781,10 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:341
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:30
+msgid "Fill nomination"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:4
@@ -878,11 +882,11 @@ msgstr ""
 msgid "Group"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:46
+#: src/components/common/dataDefinitions/labels.js:47
 msgid "Has blanks"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:32
+#: src/components/common/dataDefinitions/labels.js:33
 #: src/views/lookupTables/Parties.vue:110
 msgid "HAT"
 msgstr ""
@@ -991,7 +995,7 @@ msgstr ""
 msgid "Information in columns 2 to 5 is excluded from the reporting requirements under Article 7 of the Protocol and is provided on a voluntary basis"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:35
+#: src/components/common/dataDefinitions/labels.js:36
 msgid "invalid"
 msgstr ""
 
@@ -1404,7 +1408,7 @@ msgid "Production for supply to Article 5 countries in accordance with Articles 
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:73
-#: src/components/common/dataDefinitions/labels.js:44
+#: src/components/common/dataDefinitions/labels.js:45
 msgid "Provisional"
 msgstr ""
 
@@ -1672,7 +1676,7 @@ msgstr ""
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:40
+#: src/components/common/dataDefinitions/labels.js:41
 msgid "Revise"
 msgstr ""
 
@@ -1760,7 +1764,7 @@ msgstr ""
 msgid "Submission deleted"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:33
+#: src/components/common/dataDefinitions/labels.js:34
 msgid "Submission format"
 msgstr ""
 
@@ -1843,7 +1847,7 @@ msgid "superseded"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:82
-#: src/components/common/dataDefinitions/labels.js:43
+#: src/components/common/dataDefinitions/labels.js:44
 msgid "Superseded"
 msgstr ""
 
@@ -1982,12 +1986,12 @@ msgid "User profile"
 msgstr ""
 
 #: src/components/common/SubmissionStatus.vue:4
-#: src/components/common/dataDefinitions/labels.js:34
+#: src/components/common/dataDefinitions/labels.js:35
 msgid "valid"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:76
-#: src/components/common/dataDefinitions/labels.js:47
+#: src/components/common/dataDefinitions/labels.js:48
 msgid "Valid"
 msgstr ""
 
@@ -2018,7 +2022,7 @@ msgid "Vienna Convention"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:20
-#: src/components/common/dataDefinitions/labels.js:39
+#: src/components/common/dataDefinitions/labels.js:40
 msgid "View"
 msgstr ""
 

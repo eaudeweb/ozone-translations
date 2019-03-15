@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-15 16:20+0000\n"
+"POT-Creation-Date: 2019-03-15 16:40+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -26,12 +26,12 @@ msgstr ""
 msgid "A blend with this name already exists!"
 msgstr "фиктивный текст!"
 
-#: src/components/common/dataDefinitions/labels.js:49
+#: src/components/common/dataDefinitions/labels.js:50
 #, fuzzy
 msgid "A/I"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:50
+#: src/components/common/dataDefinitions/labels.js:51
 msgid "A/II"
 msgstr ""
 
@@ -274,7 +274,7 @@ msgstr ""
 msgid "Article 5 party"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:31
+#: src/components/common/dataDefinitions/labels.js:32
 msgid "Article 7"
 msgstr "фиктивный текст"
 
@@ -298,15 +298,15 @@ msgstr ""
 msgid "Available for use"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:51
+#: src/components/common/dataDefinitions/labels.js:52
 msgid "B/I"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:52
+#: src/components/common/dataDefinitions/labels.js:53
 msgid "B/II"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:53
+#: src/components/common/dataDefinitions/labels.js:54
 msgid "B/III"
 msgstr ""
 
@@ -344,15 +344,15 @@ msgstr "фиктивный текст"
 msgid "Blends"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:54
+#: src/components/common/dataDefinitions/labels.js:55
 msgid "C/I"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:55
+#: src/components/common/dataDefinitions/labels.js:56
 msgid "C/II"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:56
+#: src/components/common/dataDefinitions/labels.js:57
 msgid "C/IIII"
 msgstr ""
 
@@ -384,7 +384,7 @@ msgstr "фиктивный текст"
 msgid "Change substance"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:45
+#: src/components/common/dataDefinitions/labels.js:46
 msgid "Checked blanks"
 msgstr "фиктивный текст"
 
@@ -435,7 +435,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/labels.js:108
 #: src/components/art7/dataDefinitions/labels.js:122
 #: src/components/art7/dataDefinitions/labels.js:133
-#: src/components/common/dataDefinitions/labels.js:36
+#: src/components/common/dataDefinitions/labels.js:37
 #: src/components/hat/dataDefinitions/labels.js:17
 #: src/components/hat/dataDefinitions/labels.js:28
 #: src/components/raf/dataDefinitions/labels.js:15
@@ -448,7 +448,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/labels.js:109
 #: src/components/art7/dataDefinitions/labels.js:123
 #: src/components/art7/dataDefinitions/labels.js:134
-#: src/components/common/dataDefinitions/labels.js:37
+#: src/components/common/dataDefinitions/labels.js:38
 #: src/components/hat/dataDefinitions/labels.js:16
 #: src/components/hat/dataDefinitions/labels.js:27
 #: src/components/raf/dataDefinitions/labels.js:14
@@ -463,7 +463,7 @@ msgstr "фиктивный текст"
 msgid "Composition of"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:48
+#: src/components/common/dataDefinitions/labels.js:49
 msgid "Confirmed blanks"
 msgstr "фиктивный текст"
 
@@ -560,7 +560,7 @@ msgstr "фиктивный текст"
 msgid "Date"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:30
+#: src/components/common/dataDefinitions/labels.js:31
 #: src/components/common/dataDefinitions/tabSubInfo.js:116
 msgid "Date of submission"
 msgstr "фиктивный текст"
@@ -586,7 +586,7 @@ msgstr "фиктивный текст"
 msgid "Decision / type of use or remark"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:41
+#: src/components/common/dataDefinitions/labels.js:42
 msgid "Delete"
 msgstr "фиктивный текст"
 
@@ -650,11 +650,11 @@ msgstr "фиктивный текст!"
 msgid "E-mail"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:57
+#: src/components/common/dataDefinitions/labels.js:58
 msgid "E/I"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:38
+#: src/components/common/dataDefinitions/labels.js:39
 msgid "Edit"
 msgstr "фиктивный текст"
 
@@ -736,7 +736,7 @@ msgstr "фиктивный текст"
 msgid "EXPORTS"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:58
+#: src/components/common/dataDefinitions/labels.js:59
 msgid "F"
 msgstr ""
 
@@ -792,6 +792,11 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:341
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
+msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/labels.js:30
+#, fuzzy
+msgid "Fill nomination"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:4
@@ -891,11 +896,11 @@ msgstr "фиктивный текст"
 msgid "Group"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:46
+#: src/components/common/dataDefinitions/labels.js:47
 msgid "Has blanks"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:32
+#: src/components/common/dataDefinitions/labels.js:33
 #: src/views/lookupTables/Parties.vue:110
 msgid "HAT"
 msgstr "фиктивный текст"
@@ -1005,7 +1010,7 @@ msgstr "фиктивный текст."
 msgid "Information in columns 2 to 5 is excluded from the reporting requirements under Article 7 of the Protocol and is provided on a voluntary basis"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:35
+#: src/components/common/dataDefinitions/labels.js:36
 msgid "invalid"
 msgstr "фиктивный текст"
 
@@ -1428,7 +1433,7 @@ msgid "Production for supply to Article 5 countries in accordance with Articles 
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:73
-#: src/components/common/dataDefinitions/labels.js:44
+#: src/components/common/dataDefinitions/labels.js:45
 msgid "Provisional"
 msgstr "фиктивный текст"
 
@@ -1699,7 +1704,7 @@ msgstr "фиктивный текст."
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:40
+#: src/components/common/dataDefinitions/labels.js:41
 msgid "Revise"
 msgstr "фиктивный текст"
 
@@ -1788,7 +1793,7 @@ msgstr "фиктивный текст"
 msgid "Submission deleted"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/labels.js:33
+#: src/components/common/dataDefinitions/labels.js:34
 #, fuzzy
 msgid "Submission format"
 msgstr "фиктивный текст"
@@ -1875,7 +1880,7 @@ msgid "superseded"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:82
-#: src/components/common/dataDefinitions/labels.js:43
+#: src/components/common/dataDefinitions/labels.js:44
 msgid "Superseded"
 msgstr "фиктивный текст"
 
@@ -2016,12 +2021,12 @@ msgid "User profile"
 msgstr ""
 
 #: src/components/common/SubmissionStatus.vue:4
-#: src/components/common/dataDefinitions/labels.js:34
+#: src/components/common/dataDefinitions/labels.js:35
 msgid "valid"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:76
-#: src/components/common/dataDefinitions/labels.js:47
+#: src/components/common/dataDefinitions/labels.js:48
 msgid "Valid"
 msgstr "фиктивный текст"
 
@@ -2052,7 +2057,7 @@ msgid "Vienna Convention"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:20
-#: src/components/common/dataDefinitions/labels.js:39
+#: src/components/common/dataDefinitions/labels.js:40
 msgid "View"
 msgstr "фиктивный текст"
 
