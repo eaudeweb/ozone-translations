@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-15 15:36+0000\n"
+"POT-Creation-Date: 2019-03-15 16:20+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1777,10 +1777,6 @@ msgstr "фиктивный текст"
 #: src/components/raf/dataDefinitions/form.js:111
 #: src/components/raf/dataDefinitions/labels.js:29
 msgid "Status"
-msgstr "фиктивный текст"
-
-#: src/components/art7/Save.vue:43 src/components/art7/Save.vue:44
-msgid "Submission cannot be saved before completing the questionnaire"
 msgstr "фиктивный текст"
 
 #: src/store/actions.js:70

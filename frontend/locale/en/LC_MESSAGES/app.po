@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-15 15:36+0000\n"
+"POT-Creation-Date: 2019-03-15 16:20+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -1751,10 +1751,6 @@ msgstr ""
 #: src/components/raf/dataDefinitions/form.js:111
 #: src/components/raf/dataDefinitions/labels.js:29
 msgid "Status"
-msgstr ""
-
-#: src/components/art7/Save.vue:43 src/components/art7/Save.vue:44
-msgid "Submission cannot be saved before completing the questionnaire"
 msgstr ""
 
 #: src/store/actions.js:70
