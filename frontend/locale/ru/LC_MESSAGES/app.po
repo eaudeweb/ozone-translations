@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-15 14:31+0000\n"
+"POT-Creation-Date: 2019-03-15 15:36+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1747,7 +1747,7 @@ msgstr "фиктивный текст"
 msgid "See definition of “non parties” in Instruction V."
 msgstr "фиктивный текст."
 
-#: src/components/common/form-components/Add.vue:173
+#: src/components/common/form-components/Add.vue:172
 #: src/components/common/form-components/AddBlend.vue:313
 msgid "select at least one country for each substance before adding it again"
 msgstr "фиктивный текст"
@@ -1895,7 +1895,7 @@ msgstr "фиктивный текст"
 msgid "The following blends were not added because they already exist"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/Add.vue:173
+#: src/components/common/form-components/Add.vue:172
 msgid "The following substances were not added because they already exist"
 msgstr "фиктивный текст"
 
