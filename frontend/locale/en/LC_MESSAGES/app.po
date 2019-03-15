@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-15 16:40+0000\n"
+"POT-Creation-Date: 2019-03-15 17:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -397,11 +397,11 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:135
 #: src/components/exemption/TabsManager.vue:66
 #: src/components/hat/TabsManager.vue:19 src/components/hat/TabsManager.vue:52
-#: src/components/hat/TabsManager.vue:96
+#: src/components/hat/TabsManager.vue:97
 #: src/components/letter/TabsManager.vue:64
 #: src/components/raf/FormTemplate.vue:231
 #: src/components/raf/TabsManager.vue:19 src/components/raf/TabsManager.vue:55
-#: src/components/raf/TabsManager.vue:99
+#: src/components/raf/TabsManager.vue:100
 msgid "Close"
 msgstr ""
 
@@ -522,10 +522,10 @@ msgid "Current State"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:214
-#: src/components/exemption/TabsManager.vue:140
-#: src/components/hat/TabsManager.vue:173
+#: src/components/exemption/TabsManager.vue:141
+#: src/components/hat/TabsManager.vue:174
 #: src/components/letter/TabsManager.vue:144
-#: src/components/raf/TabsManager.vue:176 src/views/Dashboard.vue:507
+#: src/components/raf/TabsManager.vue:177 src/views/Dashboard.vue:507
 msgid "Dashboard"
 msgstr ""
 
@@ -581,10 +581,10 @@ msgid "Delete"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:104
-#: src/components/exemption/TabsManager.vue:91
-#: src/components/hat/TabsManager.vue:86
+#: src/components/exemption/TabsManager.vue:92
+#: src/components/hat/TabsManager.vue:87
 #: src/components/letter/TabsManager.vue:97
-#: src/components/raf/TabsManager.vue:89
+#: src/components/raf/TabsManager.vue:90
 msgid "Delete Submission"
 msgstr ""
 
@@ -1144,9 +1144,9 @@ msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:199
-#: src/components/hat/TabsManager.vue:159
+#: src/components/hat/TabsManager.vue:160
 #: src/components/letter/TabsManager.vue:172
-#: src/components/raf/TabsManager.vue:162 src/views/Dashboard.vue:533
+#: src/components/raf/TabsManager.vue:163 src/views/Dashboard.vue:533
 msgid "New version created"
 msgstr ""
 
@@ -1312,10 +1312,10 @@ msgid "Please confirm"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:242
-#: src/components/exemption/TabsManager.vue:189
-#: src/components/hat/TabsManager.vue:192
+#: src/components/exemption/TabsManager.vue:190
+#: src/components/hat/TabsManager.vue:193
 #: src/components/letter/TabsManager.vue:197
-#: src/components/raf/TabsManager.vue:194
+#: src/components/raf/TabsManager.vue:195
 msgid "Please save before submitting"
 msgstr ""
 
@@ -2002,19 +2002,19 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:218
 #: src/components/common/SubmissionHistory.vue:110
-#: src/components/exemption/TabsManager.vue:144
-#: src/components/hat/TabsManager.vue:177
+#: src/components/exemption/TabsManager.vue:145
+#: src/components/hat/TabsManager.vue:178
 #: src/components/letter/TabsManager.vue:147
-#: src/components/raf/TabsManager.vue:179 src/views/Dashboard.vue:345
+#: src/components/raf/TabsManager.vue:180 src/views/Dashboard.vue:345
 #: src/views/Dashboard.vue:388
 msgid "Version"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:101
 #: src/components/exemption/TabsManager.vue:88
-#: src/components/hat/TabsManager.vue:83
+#: src/components/hat/TabsManager.vue:84
 #: src/components/letter/TabsManager.vue:94
-#: src/components/raf/TabsManager.vue:86
+#: src/components/raf/TabsManager.vue:87
 msgid "Versions"
 msgstr ""
 
@@ -2078,10 +2078,10 @@ msgid "party"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:111
-#: src/components/exemption/TabsManager.vue:98
-#: src/components/hat/TabsManager.vue:92
+#: src/components/exemption/TabsManager.vue:99
+#: src/components/hat/TabsManager.vue:93
 #: src/components/letter/TabsManager.vue:104
-#: src/components/raf/TabsManager.vue:95
+#: src/components/raf/TabsManager.vue:96
 msgid "Submission versions"
 msgstr ""
 
