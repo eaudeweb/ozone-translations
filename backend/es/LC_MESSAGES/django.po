@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-18 11:35+0300\n"
+"POT-Creation-Date: 2019-03-18 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -514,7 +514,7 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1175
+#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1174
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
@@ -537,37 +537,37 @@ msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:723
+#: ozone/core/models/reporting.py:722
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:780 ozone/core/serializers.py:444
+#: ozone/core/models/reporting.py:779 ozone/core/serializers.py:444
 #: ozone/core/serializers.py:449
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:919
+#: ozone/core/models/reporting.py:918
 #, python-brace-format
 msgid "There is already a Data Entry submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:943
+#: ozone/core/models/reporting.py:942
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:952
+#: ozone/core/models/reporting.py:951
 msgid "You can't clone a submission with this type of obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:965
+#: ozone/core/models/reporting.py:964
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1153
+#: ozone/core/models/reporting.py:1152
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1168
+#: ozone/core/models/reporting.py:1167
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
@@ -601,6 +601,10 @@ msgstr ""
 
 #: ozone/core/models/workflows/default.py:117
 msgid "Valid flag must be set before submission is finalized"
+msgstr ""
+
+#: ozone/core/models/workflows/default.py:128
+msgid "All questionnaire answers must be filled before submitting!"
 msgstr ""
 
 #: ozone/core/models/workflows/default_exemption.py:71
