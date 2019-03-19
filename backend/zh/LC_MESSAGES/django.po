@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-19 17:47+0300\n"
+"POT-Creation-Date: 2019-03-19 17:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,40 +24,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ozone/core/admin.py:82
+#: ozone/core/admin.py:84
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:97
+#: ozone/core/admin.py:99
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:100
+#: ozone/core/admin.py:102
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:103
+#: ozone/core/admin.py:105
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:276
+#: ozone/core/admin.py:278
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:279
+#: ozone/core/admin.py:281
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:281
+#: ozone/core/admin.py:283
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:287
+#: ozone/core/admin.py:289
 msgid "Login"
 msgstr ""
 
@@ -513,7 +513,7 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1210
+#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1213
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
@@ -525,52 +525,52 @@ msgstr ""
 msgid "Only one reporting channel can be set as default for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:618
+#: ozone/core/models/reporting.py:621
 #, python-brace-format
 msgid "Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:625
+#: ozone/core/models/reporting.py:628
 #, python-brace-format
 msgid "Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:634
+#: ozone/core/models/reporting.py:637
 msgid ""
 "Transition checks not satisfied or you may not have the necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:736
+#: ozone/core/models/reporting.py:739
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:793 ozone/core/serializers.py:444
+#: ozone/core/models/reporting.py:796 ozone/core/serializers.py:444
 #: ozone/core/serializers.py:449
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:949
+#: ozone/core/models/reporting.py:952
 #, python-brace-format
 msgid "There is already a Data Entry submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:973
+#: ozone/core/models/reporting.py:976
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:982
+#: ozone/core/models/reporting.py:985
 msgid "You can't clone a submission with this type of obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:995
+#: ozone/core/models/reporting.py:998
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1188
+#: ozone/core/models/reporting.py:1191
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1203
+#: ozone/core/models/reporting.py:1206
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
