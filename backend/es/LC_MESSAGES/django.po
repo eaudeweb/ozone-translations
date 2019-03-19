@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-19 16:55+0300\n"
+"POT-Creation-Date: 2019-03-19 17:47+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -514,7 +514,7 @@ msgstr ""
 msgid "End date has to be temporally after start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1197
+#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1210
 msgid "Submitted submissions cannot be modified."
 msgstr ""
 
@@ -550,28 +550,28 @@ msgstr ""
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/models/reporting.py:936
+#: ozone/core/models/reporting.py:949
 #, python-brace-format
 msgid "There is already a Data Entry submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:960
+#: ozone/core/models/reporting.py:973
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:969
+#: ozone/core/models/reporting.py:982
 msgid "You can't clone a submission with this type of obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:982
+#: ozone/core/models/reporting.py:995
 msgid "You can't clone a submission from a previous period if it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1175
+#: ozone/core/models/reporting.py:1188
 msgid "Submitted submissions cannot be deleted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1190
+#: ozone/core/models/reporting.py:1203
 msgid "Reporting cannot be performed for this reporting period."
 msgstr ""
 
