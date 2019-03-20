@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-19 17:58+0300\n"
+"POT-Creation-Date: 2019-03-20 17:43+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -479,7 +479,7 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:506
+#: ozone/core/api/views.py:508
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
@@ -546,8 +546,8 @@ msgstr ""
 msgid "User is not allowed to change this flag"
 msgstr ""
 
-#: ozone/core/models/reporting.py:796 ozone/core/serializers.py:444
-#: ozone/core/serializers.py:449
+#: ozone/core/models/reporting.py:796 ozone/core/serializers.py:445
+#: ozone/core/serializers.py:450
 msgid "User is not allowed to change this remark"
 msgstr ""
 
@@ -624,24 +624,24 @@ msgid ""
 "substances."
 msgstr ""
 
-#: ozone/core/serializers.py:94
+#: ozone/core/serializers.py:95
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:948
+#: ozone/core/serializers.py:949
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:959
+#: ozone/core/serializers.py:960
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1180
+#: ozone/core/serializers.py:1188
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1198
+#: ozone/core/serializers.py:1206
 msgid "Specified file id not found for this submission"
 msgstr ""
 
