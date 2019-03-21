@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-15 17:18+0000\n"
+"POT-Creation-Date: 2019-03-21 21:12+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -356,7 +356,7 @@ msgstr ""
 msgid "C/IIII"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:231
+#: src/components/art7/TabsManager.vue:234
 msgid "Can't find instructions for current form"
 msgstr "фиктивный текст"
 
@@ -403,6 +403,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:22
 #: src/components/art7/TabsManager.vue:69
 #: src/components/art7/TabsManager.vue:116
+#: src/components/common/TransitionQuestions.vue:11
 #: src/components/exemption/FormTemplate.vue:135
 #: src/components/exemption/TabsManager.vue:66
 #: src/components/hat/TabsManager.vue:19 src/components/hat/TabsManager.vue:52
@@ -531,11 +532,11 @@ msgstr "фиктивный текст"
 msgid "Current State"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:214
+#: src/components/art7/TabsManager.vue:217
 #: src/components/exemption/TabsManager.vue:141
-#: src/components/hat/TabsManager.vue:174
-#: src/components/letter/TabsManager.vue:144
-#: src/components/raf/TabsManager.vue:177 src/views/Dashboard.vue:507
+#: src/components/hat/TabsManager.vue:177
+#: src/components/letter/TabsManager.vue:148
+#: src/components/raf/TabsManager.vue:180 src/views/Dashboard.vue:507
 msgid "Dashboard"
 msgstr "фиктивный текст"
 
@@ -682,7 +683,7 @@ msgstr ""
 msgid "Emissions"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:126
+#: src/store/actions.js:138
 msgid "Error"
 msgstr ""
 
@@ -750,7 +751,7 @@ msgstr "фиктивный текст"
 msgid "Failed to create submission"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:273
+#: src/store/actions.js:287
 msgid "Failed to delete submission"
 msgstr "фиктивный текст"
 
@@ -1158,10 +1159,10 @@ msgstr "фиктивный текст"
 msgid "New production for use in split ducted air conditioners\t"
 msgstr "фиктивный текст\t"
 
-#: src/components/art7/TabsManager.vue:199
-#: src/components/hat/TabsManager.vue:160
-#: src/components/letter/TabsManager.vue:172
-#: src/components/raf/TabsManager.vue:163 src/views/Dashboard.vue:533
+#: src/components/art7/TabsManager.vue:202
+#: src/components/hat/TabsManager.vue:163
+#: src/components/letter/TabsManager.vue:176
+#: src/components/raf/TabsManager.vue:166 src/views/Dashboard.vue:533
 msgid "New version created"
 msgstr "фиктивный текст"
 
@@ -1332,11 +1333,11 @@ msgstr "фиктивный текст"
 msgid "Please confirm"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:242
+#: src/components/art7/TabsManager.vue:245
 #: src/components/exemption/TabsManager.vue:190
-#: src/components/hat/TabsManager.vue:193
-#: src/components/letter/TabsManager.vue:197
-#: src/components/raf/TabsManager.vue:195
+#: src/components/hat/TabsManager.vue:196
+#: src/components/letter/TabsManager.vue:201
+#: src/components/raf/TabsManager.vue:198
 msgid "Please save before submitting"
 msgstr "фиктивный текст"
 
@@ -1716,15 +1717,15 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:6
+#: src/components/common/mixins/SaveMixin.vue:7
 msgid "Save and continue"
 msgstr "фиктивный текст"
 
-#: src/components/common/mixins/SaveMixin.vue:198
+#: src/components/common/mixins/SaveMixin.vue:199
 msgid "Save failed"
 msgstr ""
 
-#: src/store/actions.js:121
+#: src/store/actions.js:133
 msgid "Saved"
 msgstr ""
 
@@ -1789,7 +1790,7 @@ msgstr "фиктивный текст"
 msgid "Submission created"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:266
+#: src/store/actions.js:280
 msgid "Submission deleted"
 msgstr "фиктивный текст"
 
@@ -1798,7 +1799,7 @@ msgstr "фиктивный текст"
 msgid "Submission format"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:160
+#: src/components/art7/TabsManager.vue:163
 #: src/components/common/SubmissionInfo.vue:19
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
 #: src/components/common/dataDefinitions/tabSubInfo.js:12
@@ -1807,7 +1808,7 @@ msgstr "фиктивный текст"
 msgid "Submission Info"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:234
+#: src/store/actions.js:248
 msgid "Submission state updated"
 msgstr "фиктивный текст"
 
@@ -2002,7 +2003,7 @@ msgstr "фиктивный текст"
 msgid "Type"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:240
+#: src/store/actions.js:254
 msgid "Unable to change the state of this submission"
 msgstr "фиктивный текст"
 
@@ -2034,12 +2035,12 @@ msgstr "фиктивный текст"
 msgid "Validation"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:218
+#: src/components/art7/TabsManager.vue:221
 #: src/components/common/SubmissionHistory.vue:110
 #: src/components/exemption/TabsManager.vue:145
-#: src/components/hat/TabsManager.vue:178
-#: src/components/letter/TabsManager.vue:147
-#: src/components/raf/TabsManager.vue:180 src/views/Dashboard.vue:345
+#: src/components/hat/TabsManager.vue:181
+#: src/components/letter/TabsManager.vue:151
+#: src/components/raf/TabsManager.vue:183 src/views/Dashboard.vue:345
 #: src/views/Dashboard.vue:388
 msgid "Version"
 msgstr "фиктивный текст"
