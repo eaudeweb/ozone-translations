@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 11:30+0000\n"
+"POT-Creation-Date: 2019-03-25 12:21+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -244,7 +244,7 @@ msgstr ""
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:34
+#: src/components/common/SubmissionStatus.vue:44
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
 
@@ -257,8 +257,10 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:51
+#: src/components/common/SubmissionStatus.vue:18
 #: src/components/exemption/dataDefinitions/form.js:52
+#: src/components/exemption/dataDefinitions/form.js:53
+#: src/components/exemption/dataDefinitions/form.js:69
 msgid "Approved"
 msgstr ""
 
@@ -270,8 +272,8 @@ msgstr ""
 msgid "Article 7"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:17
-#: src/components/common/SubmissionStatus.vue:23
+#: src/components/common/SubmissionStatus.vue:27
+#: src/components/common/SubmissionStatus.vue:33
 msgid "at"
 msgstr ""
 
@@ -394,7 +396,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:22
 #: src/components/art7/TabsManager.vue:69
 #: src/components/art7/TabsManager.vue:116
-#: src/components/common/TransitionQuestions.vue:11
+#: src/components/common/TransitionQuestions.vue:14
 #: src/components/exemption/FormTemplate.vue:135
 #: src/components/exemption/TabsManager.vue:66
 #: src/components/hat/TabsManager.vue:19 src/components/hat/TabsManager.vue:52
@@ -498,7 +500,7 @@ msgid "Create submission"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:113
-#: src/components/common/SubmissionStatus.vue:15 src/views/Dashboard.vue:324
+#: src/components/common/SubmissionStatus.vue:25 src/views/Dashboard.vue:324
 #: src/views/Dashboard.vue:365
 msgid "Created by"
 msgstr ""
@@ -523,7 +525,7 @@ msgid "Current State"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:217
-#: src/components/exemption/TabsManager.vue:141
+#: src/components/exemption/TabsManager.vue:145
 #: src/components/hat/TabsManager.vue:177
 #: src/components/letter/TabsManager.vue:148
 #: src/components/raf/TabsManager.vue:180 src/views/Dashboard.vue:481
@@ -785,10 +787,6 @@ msgstr ""
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:30
-msgid "Fill nomination"
-msgstr ""
-
 #: src/components/common/form-components/Add.vue:4
 msgid "Filter annex groups in order to select one or more substances. A row for each substance will be added in substances table. Substances can be deleted using table controls."
 msgstr ""
@@ -1024,7 +1022,7 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:21
+#: src/components/common/SubmissionStatus.vue:31
 msgid "Last changed by"
 msgstr ""
 
@@ -1155,8 +1153,8 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:36
 #: src/components/exemption/dataDefinitions/form.js:37
+#: src/components/exemption/dataDefinitions/form.js:38
 msgid "Nomination"
 msgstr ""
 
@@ -1168,7 +1166,12 @@ msgstr ""
 msgid "Nonparty"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:7
+#: src/components/common/SubmissionStatus.vue:21
+#: src/components/exemption/dataDefinitions/form.js:70
+msgid "Not approved"
+msgstr ""
+
+#: src/components/common/SubmissionStatus.vue:8
 msgid "not valid"
 msgstr ""
 
@@ -1313,7 +1316,7 @@ msgid "Please confirm"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:245
-#: src/components/exemption/TabsManager.vue:190
+#: src/components/exemption/TabsManager.vue:194
 #: src/components/hat/TabsManager.vue:196
 #: src/components/letter/TabsManager.vue:201
 #: src/components/raf/TabsManager.vue:198
@@ -1654,7 +1657,7 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:205
+#: src/components/common/SubmissionInfo.vue:207
 #: src/components/common/dataDefinitions/tabSubInfo.js:99
 #: src/components/common/dataDefinitions/tabSubInfo.js:106
 #: src/components/common/dataDefinitions/tabSubInfo.js:107
@@ -1797,6 +1800,10 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
+#: src/components/common/dataDefinitions/labels.js:30
+msgid "Submit nomination"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:12
 msgid "Submitted"
 msgstr ""
@@ -1844,7 +1851,7 @@ msgstr ""
 msgid "subtitle............"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:10
+#: src/components/common/SubmissionStatus.vue:11
 msgid "superseded"
 msgstr ""
 
@@ -1991,7 +1998,7 @@ msgstr ""
 msgid "User profile"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:4
+#: src/components/common/SubmissionStatus.vue:5
 #: src/components/common/dataDefinitions/labels.js:35
 msgid "valid"
 msgstr ""
@@ -2007,7 +2014,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:221
 #: src/components/common/SubmissionHistory.vue:110
-#: src/components/exemption/TabsManager.vue:145
+#: src/components/exemption/TabsManager.vue:149
 #: src/components/hat/TabsManager.vue:181
 #: src/components/letter/TabsManager.vue:151
 #: src/components/raf/TabsManager.vue:183 src/views/Dashboard.vue:318
@@ -2072,13 +2079,13 @@ msgstr ""
 msgid "Annex groups"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:17
-#: src/components/common/SubmissionStatus.vue:23
+#: src/components/common/SubmissionStatus.vue:27
+#: src/components/common/SubmissionStatus.vue:33
 msgid "secretariat"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:17
-#: src/components/common/SubmissionStatus.vue:23
+#: src/components/common/SubmissionStatus.vue:27
+#: src/components/common/SubmissionStatus.vue:33
 msgid "party"
 msgstr ""
 
