@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-26 16:34+0300\n"
+"POT-Creation-Date: 2019-03-26 16:57+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -596,15 +596,15 @@ msgstr "фиктивный текст."
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/user.py:45
+#: ozone/core/models/user.py:43
 msgid "email address"
 msgstr ""
 
-#: ozone/core/models/user.py:75
+#: ozone/core/models/user.py:73
 msgid "Secretariat users cannot belong to a Party"
 msgstr ""
 
-#: ozone/core/models/user.py:79
+#: ozone/core/models/user.py:77
 msgid "User needs to be either Secretariat or Party"
 msgstr ""
 
