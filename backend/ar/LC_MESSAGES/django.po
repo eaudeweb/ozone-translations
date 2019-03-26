@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-25 19:45+0300\n"
+"POT-Creation-Date: 2019-03-26 16:34+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -479,7 +479,7 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:508
+#: ozone/core/api/views.py:509
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
@@ -574,6 +574,10 @@ msgstr ""
 
 #: ozone/core/models/reporting.py:1206
 msgid "Reporting cannot be performed for this reporting period."
+msgstr ""
+
+#: ozone/core/models/reporting.py:1339
+msgid "Only one submission format can be set as default for "
 msgstr ""
 
 #: ozone/core/models/substance.py:290
