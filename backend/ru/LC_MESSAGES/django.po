@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-29 11:15+0300\n"
+"POT-Creation-Date: 2019-03-29 12:06+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -484,6 +484,12 @@ msgstr ""
 #: ozone/core/api/views.py:510
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
+
+#: ozone/core/api/views.py:1228
+#, fuzzy
+#| msgid "User is not allowed to change this flag"
+msgid "You are not allowed to upload files on this submission"
+msgstr "фиктивный текст"
 
 #: ozone/core/models/data.py:67 ozone/core/models/data.py:70
 msgid "Data should refer to one substance or one blend"

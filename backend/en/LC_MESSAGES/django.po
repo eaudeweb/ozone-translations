@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-29 11:15+0300\n"
+"POT-Creation-Date: 2019-03-29 12:06+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -481,6 +481,10 @@ msgstr ""
 
 #: ozone/core/api/views.py:510
 msgid "Invalid request: request body should contain 'transition' key."
+msgstr ""
+
+#: ozone/core/api/views.py:1228
+msgid "You are not allowed to upload files on this submission"
 msgstr ""
 
 #: ozone/core/models/data.py:67 ozone/core/models/data.py:70
