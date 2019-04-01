@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-01 15:00+0300\n"
+"POT-Creation-Date: 2019-04-01 16:37+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -584,11 +584,11 @@ msgstr ""
 msgid "Only one submission format can be set as default for "
 msgstr ""
 
-#: ozone/core/models/substance.py:296
+#: ozone/core/models/substance.py:298
 msgid "Non custom blends cannot be modified."
 msgstr ""
 
-#: ozone/core/models/substance.py:335 ozone/core/models/substance.py:338
+#: ozone/core/models/substance.py:337 ozone/core/models/substance.py:340
 msgid "Substance or component name must be set."
 msgstr ""
 
