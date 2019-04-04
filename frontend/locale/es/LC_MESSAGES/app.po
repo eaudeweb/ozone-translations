@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-29 13:09+0000\n"
+"POT-Creation-Date: 2019-04-04 16:16+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -104,7 +104,7 @@ msgstr ""
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:162
+#: src/components/art7/services/tableRowConstructorService.js:153
 msgid "Ammount generated and caputred for all uses (3a) must be greater or equal to (3b) + (3c)"
 msgstr ""
 
@@ -277,7 +277,7 @@ msgstr ""
 msgid "at"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:586
+#: src/components/art7/services/tableRowConstructorService.js:584
 msgid "At least one field from (4), (5), (6), (7) is required"
 msgstr ""
 
@@ -409,7 +409,7 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:461
+#: src/components/art7/services/tableRowConstructorService.js:459
 #: src/components/hat/services/tableRowConstructorService.js:60
 #: src/components/hat/services/tableRowConstructorService.js:111
 #: src/components/raf/services/tableRowConstructorService.js:133
@@ -819,19 +819,19 @@ msgstr ""
 msgid "For all uses"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:472
+#: src/components/art7/services/tableRowConstructorService.js:470
 msgid "For annex E, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + QPS"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:478
+#: src/components/art7/services/tableRowConstructorService.js:476
 msgid "For annex F, total production (3) should be >= feedstock (4) + exempted, critical, other (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:484
+#: src/components/art7/services/tableRowConstructorService.js:482
 msgid "For annex F2, total production (3) should be >= feedstock (4a) + destruction (4b) + exempted, critical, other (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:466
+#: src/components/art7/services/tableRowConstructorService.js:464
 msgid "For annexes A-C, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + Article 5 countries (7)"
 msgstr ""
 
@@ -1305,15 +1305,15 @@ msgstr ""
 msgid "Please complete the \"(3) Quantity\" field"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:145
+#: src/components/art7/services/tableRowConstructorService.js:136
 msgid "Please complete the \"Amount of generated emissions (6)\" field"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:141
+#: src/components/art7/services/tableRowConstructorService.js:132
 msgid "Please complete the \"Facility name or identifier (1)\" field"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:527
+#: src/components/art7/services/tableRowConstructorService.js:525
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
@@ -1709,7 +1709,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:205
+#: src/components/common/mixins/SaveMixin.vue:210
 msgid "Save failed"
 msgstr ""
 
@@ -1934,15 +1934,15 @@ msgstr ""
 msgid "Total amount generated"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:177
+#: src/components/art7/services/tableRowConstructorService.js:168
 msgid "Total amount generated (2) must be equal to its components (3a, 4, 5, 6)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:197
+#: src/components/art7/services/tableRowConstructorService.js:188
 msgid "Total amount generated (2) must be greater or equal to its components (3a, 4, 5, 6)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:155
+#: src/components/art7/services/tableRowConstructorService.js:146
 msgid "Total amount generated (2) must be higher than the sum of \"Amount generated and captured(3)\", \"Amount used for feedstock without prior capture(4)\", \"Amount destroyed without prior capture(5)\""
 msgstr ""
 
@@ -1980,12 +1980,16 @@ msgstr ""
 msgid "Total Quantity Imported for All Uses (recovered and reclaimed)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:336
+#: src/components/art7/services/tableRowConstructorService.js:327
 msgid "Total quantity imported for all uses is required"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:340
+#: src/components/art7/services/tableRowConstructorService.js:331
 msgid "Total quantity imported for all uses must be >= to the sum of individual components"
+msgstr ""
+
+#: src/components/art7/services/tableRowConstructorService.js:336
+msgid "Total quantity imported for all uses must be >= to the sum of individual components for all cumulated rows regarding this substance"
 msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:171
