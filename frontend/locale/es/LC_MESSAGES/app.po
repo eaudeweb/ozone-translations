@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-05 08:54+0000\n"
+"POT-Creation-Date: 2019-04-05 09:19+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -1860,7 +1860,7 @@ msgid "Substances"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:158
-msgid "Substances - captured"
+msgid "Substances - annex group F/II"
 msgstr ""
 
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
