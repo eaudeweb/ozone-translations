@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-04 16:16+0000\n"
+"POT-Creation-Date: 2019-04-05 08:54+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1359,7 +1359,7 @@ msgstr "фиктивный текст"
 msgid "Please use the form on the right sidebar to add blends"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:771
+#: src/components/art7/FormTemplate.vue:772
 #: src/components/common/mixins/FormTemplateMixin.vue:99
 #: src/components/common/mixins/FormTemplateMixin.vue:100
 msgid "Please use the form on the right sidebar to add substances"
@@ -1893,7 +1893,8 @@ msgid "Substances"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:158
-msgid "Substances - group FII"
+#, fuzzy
+msgid "Substances - captured"
 msgstr "фиктивный текст"
 
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-04 16:16+0000\n"
+"POT-Creation-Date: 2019-04-05 08:54+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -1337,7 +1337,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:771
+#: src/components/art7/FormTemplate.vue:772
 #: src/components/common/mixins/FormTemplateMixin.vue:99
 #: src/components/common/mixins/FormTemplateMixin.vue:100
 msgid "Please use the form on the right sidebar to add substances"
@@ -1859,7 +1859,7 @@ msgid "Substances"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:158
-msgid "Substances - group FII"
+msgid "Substances - captured"
 msgstr ""
 
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
