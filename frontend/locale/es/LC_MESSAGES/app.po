@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 13:09+0000\n"
+"POT-Creation-Date: 2019-04-08 13:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -757,6 +757,10 @@ msgstr ""
 
 #: src/store/actions.js:311
 msgid "Failed to delete submission"
+msgstr ""
+
+#: src/components/common/Files.vue:97
+msgid "File not uploaded yet"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabFiles.js:8
