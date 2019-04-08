@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 12:55+0000\n"
+"POT-Creation-Date: 2019-04-08 13:09+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -107,6 +107,10 @@ msgstr "фиктивный (%{totalRows} текст)"
 #: src/components/raf/FormTemplate.vue:169
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "фиктивный текст."
+
+#: src/components/common/Files.vue:75
+msgid "Allowed files extensions:"
+msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:153
 msgid "Ammount generated and caputred for all uses (3a) must be greater or equal to (3b) + (3c)"
@@ -396,7 +400,7 @@ msgstr "фиктивный текст"
 msgid "Clear"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:93
+#: src/components/common/Files.vue:96
 #, fuzzy
 msgid "Click to browse files"
 msgstr "фиктивный текст"

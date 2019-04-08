@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 12:55+0000\n"
+"POT-Creation-Date: 2019-04-08 13:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -101,6 +101,10 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:120
 #: src/components/raf/FormTemplate.vue:169
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
+msgstr ""
+
+#: src/components/common/Files.vue:75
+msgid "Allowed files extensions:"
 msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:153
@@ -386,7 +390,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#: src/components/common/Files.vue:93
+#: src/components/common/Files.vue:96
 msgid "Click to browse files"
 msgstr ""
 
