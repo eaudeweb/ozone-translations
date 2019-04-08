@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 15:01+0000\n"
+"POT-Creation-Date: 2019-04-08 15:11+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -84,6 +84,10 @@ msgstr "фиктивный текст"
 #: src/components/common/form-components/AsideTogglerModified.vue:3
 msgid "Add substances"
 msgstr "фиктивный текст"
+
+#: src/components/common/Header.vue:19
+msgid "Admin"
+msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:156
 msgid "Against each substance exported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
@@ -1081,7 +1085,7 @@ msgstr "фиктивный текст"
 msgid "Legend:"
 msgstr "фиктивный текст:"
 
-#: src/components/common/Header.vue:28
+#: src/components/common/Header.vue:32
 msgid "Logout"
 msgstr "фиктивный текст"
 
@@ -1637,7 +1641,7 @@ msgstr "фиктивный текст"
 msgid "Reinstate"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:27
+#: src/components/common/Header.vue:31
 msgid "Release"
 msgstr ""
 
@@ -1725,7 +1729,7 @@ msgstr "фиктивный текст"
 msgid "Required"
 msgstr ""
 
-#: src/components/common/Header.vue:23
+#: src/components/common/Header.vue:27
 msgid "Reset password"
 msgstr "фиктивный текст"
 
@@ -2079,7 +2083,7 @@ msgstr ""
 msgid "User name:"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:19 src/views/UserProfile.vue:64
+#: src/components/common/Header.vue:23 src/views/UserProfile.vue:64
 msgid "User profile"
 msgstr ""
 

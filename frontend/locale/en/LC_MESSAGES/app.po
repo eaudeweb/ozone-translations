@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 15:01+0000\n"
+"POT-Creation-Date: 2019-04-08 15:11+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -79,6 +79,10 @@ msgstr ""
 #: src/components/common/form-components/Add.vue:4
 #: src/components/common/form-components/AsideTogglerModified.vue:3
 msgid "Add substances"
+msgstr ""
+
+#: src/components/common/Header.vue:19
+msgid "Admin"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:156
@@ -1066,7 +1070,7 @@ msgstr ""
 msgid "Legend:"
 msgstr ""
 
-#: src/components/common/Header.vue:28
+#: src/components/common/Header.vue:32
 msgid "Logout"
 msgstr ""
 
@@ -1611,7 +1615,7 @@ msgstr ""
 msgid "Reinstate"
 msgstr ""
 
-#: src/components/common/Header.vue:27
+#: src/components/common/Header.vue:31
 msgid "Release"
 msgstr ""
 
@@ -1697,7 +1701,7 @@ msgstr ""
 msgid "Required"
 msgstr ""
 
-#: src/components/common/Header.vue:23
+#: src/components/common/Header.vue:27
 msgid "Reset password"
 msgstr ""
 
@@ -2039,7 +2043,7 @@ msgstr ""
 msgid "User name:"
 msgstr ""
 
-#: src/components/common/Header.vue:19 src/views/UserProfile.vue:64
+#: src/components/common/Header.vue:23 src/views/UserProfile.vue:64
 msgid "User profile"
 msgstr ""
 
