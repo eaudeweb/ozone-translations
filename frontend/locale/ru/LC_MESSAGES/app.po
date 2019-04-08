@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 12:39+0000\n"
+"POT-Creation-Date: 2019-04-08 12:55+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -396,7 +396,7 @@ msgstr "фиктивный текст"
 msgid "Clear"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:89
+#: src/components/common/Files.vue:93
 #, fuzzy
 msgid "Click to browse files"
 msgstr "фиктивный текст"
@@ -2052,7 +2052,7 @@ msgstr "фиктивный текст"
 msgid "Unable to change the state of this submission"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:69
+#: src/components/common/Files.vue:72
 msgid "Upload files"
 msgstr ""
 

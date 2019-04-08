@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 12:39+0000\n"
+"POT-Creation-Date: 2019-04-08 12:55+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -386,7 +386,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#: src/components/common/Files.vue:89
+#: src/components/common/Files.vue:93
 msgid "Click to browse files"
 msgstr ""
 
@@ -2012,7 +2012,7 @@ msgstr ""
 msgid "Unable to change the state of this submission"
 msgstr ""
 
-#: src/components/common/Files.vue:69
+#: src/components/common/Files.vue:72
 msgid "Upload files"
 msgstr ""
 
