@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 13:18+0000\n"
+"POT-Creation-Date: 2019-04-08 14:34+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -648,6 +648,10 @@ msgstr ""
 #: src/components/common/mixins/DataManagerMixin.vue:23
 #: src/components/common/mixins/DataManagerMixin.vue:24
 msgid "Do you really want to leave? you have unsaved changes!"
+msgstr ""
+
+#: src/components/common/Files.vue:98
+msgid "Download"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:38

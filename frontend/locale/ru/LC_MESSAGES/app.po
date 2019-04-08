@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 13:18+0000\n"
+"POT-Creation-Date: 2019-04-08 14:34+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -658,6 +658,10 @@ msgstr "фиктивный текст."
 #: src/components/common/mixins/DataManagerMixin.vue:24
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr "фиктивный текст!"
+
+#: src/components/common/Files.vue:98
+msgid "Download"
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:38
 #: src/components/letter/dataDefinitions/labels.js:133
