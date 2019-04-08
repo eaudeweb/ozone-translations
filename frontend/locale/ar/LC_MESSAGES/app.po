@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-05 09:19+0000\n"
+"POT-Creation-Date: 2019-04-08 11:12+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -11,15 +11,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
 
-#: src/components/common/SubmissionInfo.vue:42
+#: src/components/common/SubmissionInfo.vue:77
 msgid "({{info.form_fields['submitted_at'].validation}})"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:31
+#: src/components/common/SubmissionInfo.vue:53
 msgid "(required)"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:221
+#: src/components/common/form-components/AddBlend.vue:246
 msgid "A blend with this name already exists!"
 msgstr ""
 
@@ -31,52 +31,52 @@ msgstr ""
 msgid "A/II"
 msgstr ""
 
-#: src/components/common/Header.vue:7
+#: src/components/common/Header.vue:14
 msgid "Account"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:122 src/views/Dashboard.vue:326
-#: src/views/Dashboard.vue:367
+#: src/components/common/SubmissionHistory.vue:123 src/views/Dashboard.vue:401
+#: src/views/Dashboard.vue:442
 msgid "Actions"
 msgstr ""
 
-#: src/components/raf/AddParties.vue:20
+#: src/components/raf/AddParties.vue:29
 msgid "Add %{length} countries"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:29
-#: src/components/common/form-components/AddBlend.vue:60
-#: src/components/common/form-components/CloneField.vue:17
+#: src/components/common/form-components/Add.vue:44
+#: src/components/common/form-components/AddBlend.vue:71
+#: src/components/common/form-components/CloneField.vue:24
 msgid "Add %{length} rows"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:67
-#: src/components/common/form-components/AddBlend.vue:72
+#: src/components/common/form-components/AddBlend.vue:79
+#: src/components/common/form-components/AddBlend.vue:88
 msgid "Add custom blend"
 msgstr ""
 
-#: src/components/art7/EmissionsTemplate.vue:81
+#: src/components/art7/EmissionsTemplate.vue:91
 msgid "Add facility"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:68
+#: src/components/common/form-components/AddBlend.vue:82
 msgid "Add new blend"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:4
+#: src/components/common/form-components/AddBlend.vue:5
 msgid "Add predefined blends"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:116
+#: src/components/common/form-components/AddBlend.vue:141
 msgid "Add row"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:77
+#: src/components/common/form-components/AddBlend.vue:99
 msgid "Add substance"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:3
-#: src/components/common/form-components/AsideTogglerModified.vue:2
+#: src/components/common/form-components/Add.vue:4
+#: src/components/common/form-components/AsideTogglerModified.vue:3
 msgid "Add substances"
 msgstr ""
 
@@ -93,13 +93,13 @@ msgstr ""
 msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr ""
 
-#: src/views/Dashboard.vue:119
+#: src/views/Dashboard.vue:163
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:474
-#: src/components/exemption/FormTemplate.vue:102
-#: src/components/raf/FormTemplate.vue:156
+#: src/components/art7/FormTemplate.vue:536
+#: src/components/exemption/FormTemplate.vue:120
+#: src/components/raf/FormTemplate.vue:169
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
 
@@ -189,7 +189,7 @@ msgstr ""
 msgid "Amout generated and captured"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:75
+#: src/views/lookupTables/ControlledSubstances.vue:83
 msgid "Annex"
 msgstr ""
 
@@ -207,7 +207,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:107
+#: src/components/common/SubmissionInfo.vue:160
 msgid "Annex group reported in full"
 msgstr ""
 
@@ -243,7 +243,7 @@ msgstr ""
 msgid "Another submission already exists in Data Entry stage."
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:44
+#: src/components/common/SubmissionStatus.vue:74
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
 
@@ -256,14 +256,14 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:18
+#: src/components/common/SubmissionStatus.vue:40
 #: src/components/exemption/dataDefinitions/form.js:53
 #: src/components/exemption/dataDefinitions/form.js:54
 #: src/components/exemption/dataDefinitions/form.js:70
 msgid "Approved"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:106
+#: src/views/lookupTables/Parties.vue:108
 msgid "Article 5 party"
 msgstr ""
 
@@ -271,12 +271,12 @@ msgstr ""
 msgid "Article 7"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:27
-#: src/components/common/SubmissionStatus.vue:33
+#: src/components/common/SubmissionStatus.vue:53
+#: src/components/common/SubmissionStatus.vue:61
 msgid "at"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:584
+#: src/components/art7/services/tableRowConstructorService.js:580
 msgid "At least one field from (4), (5), (6), (7) is required"
 msgstr ""
 
@@ -302,7 +302,7 @@ msgstr ""
 msgid "B/III"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:134
+#: src/views/lookupTables/Parties.vue:136
 msgid "Beijing Amendment"
 msgstr ""
 
@@ -324,15 +324,15 @@ msgstr ""
 msgid "Blend"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:343
+#: src/components/common/form-components/AddBlend.vue:368
 msgid "Blend created"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:299
+#: src/components/art7/FormTemplate.vue:325
 #: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/hat/FormTemplate.vue:91
-#: src/components/raf/FormTemplate.vue:110
-#: src/views/lookupTables/Blends.vue:193
+#: src/components/hat/FormTemplate.vue:100
+#: src/components/raf/FormTemplate.vue:109
+#: src/views/lookupTables/Blends.vue:211
 msgid "Blends"
 msgstr ""
 
@@ -348,13 +348,13 @@ msgstr ""
 msgid "C/IIII"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:241
+#: src/components/art7/TabsManager.vue:280
 msgid "Can't find instructions for current form"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:31
-#: src/components/common/form-components/AddBlend.vue:119
-#: src/components/raf/AddParties.vue:22
+#: src/components/common/form-components/Add.vue:49
+#: src/components/common/form-components/AddBlend.vue:144
+#: src/components/raf/AddParties.vue:34
 msgid "Cancel"
 msgstr ""
 
@@ -370,9 +370,9 @@ msgstr ""
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:480
-#: src/components/exemption/FormTemplate.vue:108
-#: src/components/raf/FormTemplate.vue:162
+#: src/components/art7/FormTemplate.vue:546
+#: src/components/exemption/FormTemplate.vue:130
+#: src/components/raf/FormTemplate.vue:179
 msgid "Change substance"
 msgstr ""
 
@@ -380,9 +380,9 @@ msgstr ""
 msgid "Checked blanks"
 msgstr ""
 
-#: src/views/Dashboard.vue:71 src/views/Dashboard.vue:142
-#: src/views/lookupTables/Blends.vue:35
-#: src/views/lookupTables/ControlledSubstances.vue:24
+#: src/views/Dashboard.vue:105 src/views/Dashboard.vue:210
+#: src/views/lookupTables/Blends.vue:46
+#: src/views/lookupTables/ControlledSubstances.vue:29
 msgid "Clear"
 msgstr ""
 
@@ -391,35 +391,35 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:560
-#: src/components/art7/TabsManager.vue:22
-#: src/components/art7/TabsManager.vue:69
-#: src/components/art7/TabsManager.vue:123
+#: src/components/art7/FormTemplate.vue:638
+#: src/components/art7/TabsManager.vue:27
+#: src/components/art7/TabsManager.vue:99
+#: src/components/art7/TabsManager.vue:158
 #: src/components/common/TransitionQuestions.vue:14
-#: src/components/exemption/FormTemplate.vue:135
-#: src/components/exemption/TabsManager.vue:66
+#: src/components/exemption/FormTemplate.vue:162
+#: src/components/exemption/TabsManager.vue:90
 #: src/components/exemption/TransitionQuestions.vue:14
-#: src/components/hat/TabsManager.vue:19 src/components/hat/TabsManager.vue:52
-#: src/components/hat/TabsManager.vue:104
-#: src/components/letter/TabsManager.vue:64
-#: src/components/raf/FormTemplate.vue:231
-#: src/components/raf/TabsManager.vue:19 src/components/raf/TabsManager.vue:55
-#: src/components/raf/TabsManager.vue:107
+#: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
+#: src/components/hat/TabsManager.vue:133
+#: src/components/letter/TabsManager.vue:83
+#: src/components/raf/FormTemplate.vue:268
+#: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:76
+#: src/components/raf/TabsManager.vue:134
 msgid "Close"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:459
+#: src/components/art7/services/tableRowConstructorService.js:455
 #: src/components/hat/services/tableRowConstructorService.js:60
 #: src/components/hat/services/tableRowConstructorService.js:111
 #: src/components/raf/services/tableRowConstructorService.js:133
 msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
 msgstr ""
 
-#: src/components/art7/EmissionsTemplate.vue:85
-#: src/components/art7/FormTemplate.vue:444
-#: src/components/exemption/FormTemplate.vue:74
-#: src/components/hat/FormTemplate.vue:210
-#: src/components/raf/FormTemplate.vue:123
+#: src/components/art7/EmissionsTemplate.vue:97
+#: src/components/art7/FormTemplate.vue:493
+#: src/components/exemption/FormTemplate.vue:82
+#: src/components/hat/FormTemplate.vue:239
+#: src/components/raf/FormTemplate.vue:128
 msgid "Comments"
 msgstr ""
 
@@ -449,11 +449,11 @@ msgstr ""
 msgid "Comments (Secretariat)"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:127 src/views/lookupTables/Blends.vue:22
+#: src/views/lookupTables/Blends.vue:145 src/views/lookupTables/Blends.vue:22
 msgid "Components"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:44
+#: src/components/common/form-components/AddBlend.vue:52
 msgid "Composition of"
 msgstr ""
 
@@ -465,11 +465,11 @@ msgstr ""
 msgid "Consumption (imports)"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:123
+#: src/views/lookupTables/ControlledSubstances.vue:167
 msgid "Controlled substances"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:126
+#: src/views/lookupTables/Parties.vue:128
 msgid "Copenhagen Amendment"
 msgstr ""
 
@@ -487,21 +487,21 @@ msgstr ""
 msgid "Country of Destination of Exports"
 msgstr ""
 
-#: src/views/Dashboard.vue:40
+#: src/views/Dashboard.vue:55
 msgid "Create"
 msgstr ""
 
-#: src/views/Dashboard.vue:8
+#: src/views/Dashboard.vue:11
 msgid "Create a submission by specifying the obligation, the reporting period and the party name. All fields are mandatory."
 msgstr ""
 
-#: src/views/Dashboard.vue:6
+#: src/views/Dashboard.vue:7
 msgid "Create submission"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:113
-#: src/components/common/SubmissionStatus.vue:25 src/views/Dashboard.vue:324
-#: src/views/Dashboard.vue:365
+#: src/components/common/SubmissionHistory.vue:114
+#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:399
+#: src/views/Dashboard.vue:440
 msgid "Created by"
 msgstr ""
 
@@ -520,15 +520,15 @@ msgstr ""
 msgid "Critical use"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:119
+#: src/components/common/SubmissionHistory.vue:120
 msgid "Current State"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:224
-#: src/components/exemption/TabsManager.vue:145
-#: src/components/hat/TabsManager.vue:184
-#: src/components/letter/TabsManager.vue:148
-#: src/components/raf/TabsManager.vue:187 src/views/Dashboard.vue:481
+#: src/components/art7/TabsManager.vue:263
+#: src/components/exemption/TabsManager.vue:178
+#: src/components/hat/TabsManager.vue:218
+#: src/components/letter/TabsManager.vue:175
+#: src/components/raf/TabsManager.vue:219 src/views/Dashboard.vue:556
 msgid "Dashboard"
 msgstr ""
 
@@ -536,11 +536,11 @@ msgstr ""
 msgid "Data entry"
 msgstr ""
 
-#: src/views/Dashboard.vue:48
+#: src/views/Dashboard.vue:65
 msgid "Data entry submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/views/FormNotFound.vue:3
+#: src/views/FormNotFound.vue:4
 msgid "Data form for this obligation is not available yet"
 msgstr ""
 
@@ -583,11 +583,11 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:111
+#: src/components/art7/TabsManager.vue:141
 #: src/components/common/dataDefinitions/labels.js:17
-#: src/components/hat/TabsManager.vue:94
-#: src/components/letter/TabsManager.vue:97
-#: src/components/raf/TabsManager.vue:97
+#: src/components/hat/TabsManager.vue:116
+#: src/components/letter/TabsManager.vue:115
+#: src/components/raf/TabsManager.vue:117
 msgid "Delete Submission"
 msgstr ""
 
@@ -652,14 +652,14 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:470
-#: src/components/raf/FormTemplate.vue:152
+#: src/components/art7/FormTemplate.vue:529
+#: src/components/raf/FormTemplate.vue:162
 msgid "Edit %{name} blend"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:469
-#: src/components/exemption/FormTemplate.vue:98
-#: src/components/raf/FormTemplate.vue:151
+#: src/components/art7/FormTemplate.vue:525
+#: src/components/exemption/FormTemplate.vue:113
+#: src/components/raf/FormTemplate.vue:158
 msgid "Edit %{name} substance"
 msgstr ""
 
@@ -701,7 +701,7 @@ msgstr ""
 msgid "Essential use, other than L&A"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:102
+#: src/views/lookupTables/Parties.vue:104
 msgid "EU Member"
 msgstr ""
 
@@ -752,7 +752,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/tabFiles.js:8
 #: src/components/common/dataDefinitions/tabFiles.js:9
-#: src/components/letter/TabsManager.vue:36
+#: src/components/letter/TabsManager.vue:40
 msgid "Files"
 msgstr ""
 
@@ -790,11 +790,11 @@ msgstr ""
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:4
+#: src/components/common/form-components/Add.vue:7
 msgid "Filter annex groups in order to select one or more substances. A row for each substance will be added in substances table. Substances can be deleted using table controls."
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:5
+#: src/components/common/form-components/AddBlend.vue:8
 msgid "Filter by blend types in order to select one or more blends. A row for each blend will be added in blends table. Blends can be deleted using table controls."
 msgstr ""
 
@@ -807,7 +807,7 @@ msgstr ""
 msgid "Finalized"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:54
+#: src/components/common/SubmissionInfo.vue:100
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -818,19 +818,19 @@ msgstr ""
 msgid "For all uses"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:470
+#: src/components/art7/services/tableRowConstructorService.js:466
 msgid "For annex E, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + QPS"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:476
+#: src/components/art7/services/tableRowConstructorService.js:472
 msgid "For annex F, total production (3) should be >= feedstock (4) + exempted, critical, other (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:482
+#: src/components/art7/services/tableRowConstructorService.js:478
 msgid "For annex F2, total production (3) should be >= feedstock (4a) + destruction (4b) + exempted, critical, other (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:464
+#: src/components/art7/services/tableRowConstructorService.js:460
 msgid "For annexes A-C, total production (3) should be >= feedstock (4) + exempted, critical, other (5) + Article 5 countries (7)"
 msgstr ""
 
@@ -846,30 +846,30 @@ msgstr ""
 msgid "For feedstock use in your country"
 msgstr ""
 
-#: src/components/common/form-components/DefaultAside.vue:28
-#: src/components/exemption/TabsManager.vue:50
-#: src/components/letter/TabsManager.vue:48
+#: src/components/common/form-components/DefaultAside.vue:36
+#: src/components/exemption/TabsManager.vue:62
+#: src/components/letter/TabsManager.vue:55
 msgid "Form is curently being saved"
 msgstr ""
 
-#: src/components/common/form-components/DefaultAside.vue:31
-#: src/components/exemption/TabsManager.vue:53
-#: src/components/letter/TabsManager.vue:51
+#: src/components/common/form-components/DefaultAside.vue:40
+#: src/components/exemption/TabsManager.vue:66
+#: src/components/letter/TabsManager.vue:59
 msgid "Form save failed. Please check the validation"
 msgstr ""
 
-#: src/components/common/form-components/DefaultAside.vue:34
-#: src/components/exemption/TabsManager.vue:56
-#: src/components/letter/TabsManager.vue:54
+#: src/components/common/form-components/DefaultAside.vue:44
+#: src/components/exemption/TabsManager.vue:70
+#: src/components/letter/TabsManager.vue:63
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:83
+#: src/views/lookupTables/ControlledSubstances.vue:107
 #: src/views/lookupTables/ControlledSubstances.vue:18
 msgid "Formula"
 msgstr ""
 
-#: src/views/FormNotFound.vue:6
+#: src/views/FormNotFound.vue:8
 msgid "Go back to dashboard"
 msgstr ""
 
@@ -880,7 +880,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
-#: src/views/lookupTables/ControlledSubstances.vue:77
+#: src/views/lookupTables/ControlledSubstances.vue:89
 #: src/views/lookupTables/ControlledSubstances.vue:8
 msgid "Group"
 msgstr ""
@@ -890,7 +890,7 @@ msgid "Has blanks"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:43
-#: src/views/lookupTables/Parties.vue:110
+#: src/views/lookupTables/Parties.vue:112
 msgid "HAT"
 msgstr ""
 
@@ -913,7 +913,7 @@ msgstr ""
 msgid "High ambient temperature"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:73
+#: src/components/common/form-components/AddBlend.vue:91
 msgid "If a non-standard blend not listed above please indicate the blend name and the percentage by weight of each constituent controlled substance of the blend. Please pay attention to the percentage values before adding a new blend. For mistakes please contact secretariat to delete the blend."
 msgstr ""
 
@@ -1003,11 +1003,11 @@ msgstr ""
 msgid "invalid"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:79
+#: src/components/common/SubmissionHistory.vue:80
 msgid "Invalid"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:138
+#: src/views/lookupTables/Parties.vue:140
 msgid "Kigali Amendment"
 msgstr ""
 
@@ -1026,15 +1026,15 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:31
+#: src/components/common/SubmissionStatus.vue:59
 msgid "Last changed by"
 msgstr ""
 
-#: src/views/Dashboard.vue:322 src/views/Dashboard.vue:363
+#: src/views/Dashboard.vue:397 src/views/Dashboard.vue:438
 msgid "Last modified"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:116
+#: src/components/common/SubmissionHistory.vue:117
 msgid "Last Modified"
 msgstr ""
 
@@ -1042,45 +1042,45 @@ msgstr ""
 msgid "Legacy"
 msgstr ""
 
-#: src/components/common/form-components/DefaultAside.vue:24
-#: src/components/exemption/TabsManager.vue:46
-#: src/components/letter/TabsManager.vue:44
+#: src/components/common/form-components/DefaultAside.vue:30
+#: src/components/exemption/TabsManager.vue:56
+#: src/components/letter/TabsManager.vue:49
 msgid "Legend:"
 msgstr ""
 
-#: src/components/common/Header.vue:12
+#: src/components/common/Header.vue:28
 msgid "Logout"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:122
+#: src/views/lookupTables/Parties.vue:124
 msgid "London Amendment"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:193
-#: src/views/lookupTables/ControlledSubstances.vue:123
-#: src/views/lookupTables/Parties.vue:192
+#: src/views/lookupTables/Blends.vue:211
+#: src/views/lookupTables/ControlledSubstances.vue:166
+#: src/views/lookupTables/Parties.vue:194
 msgid "Lookup tables"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:89
+#: src/views/lookupTables/ControlledSubstances.vue:125
 msgid "MaxODP"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:87
+#: src/views/lookupTables/ControlledSubstances.vue:119
 msgid "MinODP"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:130
+#: src/views/lookupTables/Parties.vue:132
 msgid "Montreal Amendment"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:118
+#: src/views/lookupTables/Parties.vue:120
 msgid "Montreal Protocol"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:123 src/views/lookupTables/Blends.vue:132
-#: src/views/lookupTables/ControlledSubstances.vue:79
-#: src/views/lookupTables/Parties.vue:97 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/Blends.vue:141 src/views/lookupTables/Blends.vue:150
+#: src/views/lookupTables/ControlledSubstances.vue:95
+#: src/views/lookupTables/Parties.vue:99 src/views/lookupTables/Blends.vue:8
 #: src/views/lookupTables/ControlledSubstances.vue:13
 #: src/views/lookupTables/Parties.vue:8
 msgid "Name"
@@ -1146,10 +1146,10 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:209
-#: src/components/hat/TabsManager.vue:170
-#: src/components/letter/TabsManager.vue:176
-#: src/components/raf/TabsManager.vue:173 src/views/Dashboard.vue:507
+#: src/components/art7/TabsManager.vue:248
+#: src/components/hat/TabsManager.vue:204
+#: src/components/letter/TabsManager.vue:203
+#: src/components/raf/TabsManager.vue:205 src/views/Dashboard.vue:582
 msgid "New version created"
 msgstr ""
 
@@ -1171,26 +1171,26 @@ msgstr ""
 msgid "Nonparty"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:21
+#: src/components/common/SubmissionStatus.vue:47
 #: src/components/exemption/dataDefinitions/form.js:71
 msgid "Not approved"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:8
+#: src/components/common/SubmissionStatus.vue:19
 msgid "not valid"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:85
+#: src/views/lookupTables/ControlledSubstances.vue:113
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:312 src/views/Dashboard.vue:355
-#: src/views/Dashboard.vue:11 src/views/Dashboard.vue:56
-#: src/views/Dashboard.vue:129
+#: src/views/Dashboard.vue:387 src/views/Dashboard.vue:430
+#: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
+#: src/views/Dashboard.vue:181
 msgid "Obligation"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:81
+#: src/views/lookupTables/ControlledSubstances.vue:101
 msgid "ODP"
 msgstr ""
 
@@ -1208,7 +1208,7 @@ msgstr ""
 msgid "Only bulk gases for servicing of exempted equipment should be reported here, not gases imported inside pre-charged equipment."
 msgstr ""
 
-#: src/views/pages/Page404.vue:7
+#: src/views/pages/Page404.vue:8
 msgid "Oops! You're lost."
 msgstr ""
 
@@ -1217,7 +1217,7 @@ msgstr ""
 msgid "Organization"
 msgstr ""
 
-#: src/App.vue:12
+#: src/App.vue:18
 msgid "ORS (Ozone online reporting system)"
 msgstr ""
 
@@ -1225,7 +1225,7 @@ msgstr ""
 msgid "Other"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:125 src/views/lookupTables/Blends.vue:8
+#: src/views/lookupTables/Blends.vue:143 src/views/lookupTables/Blends.vue:8
 msgid "Other Names"
 msgstr ""
 
@@ -1256,20 +1256,20 @@ msgstr ""
 msgid "Paper"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:192
+#: src/views/lookupTables/Parties.vue:194
 msgid "Parties"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:300 src/views/Dashboard.vue:316
-#: src/views/Dashboard.vue:344 src/views/Dashboard.vue:359
-#: src/views/UserProfile.vue:31 src/views/Dashboard.vue:31
-#: src/views/Dashboard.vue:61 src/views/Dashboard.vue:132
+#: src/views/Dashboard.vue:375 src/views/Dashboard.vue:391
+#: src/views/Dashboard.vue:419 src/views/Dashboard.vue:434
+#: src/views/UserProfile.vue:36 src/views/Dashboard.vue:39
+#: src/views/Dashboard.vue:84 src/views/Dashboard.vue:188
 msgid "Party"
 msgstr ""
 
-#: src/views/UserProfile.vue:24
+#: src/views/UserProfile.vue:27
 msgid "Party:"
 msgstr ""
 
@@ -1286,12 +1286,12 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:99
 #: src/components/raf/dataDefinitions/labels.js:9
-#: src/views/lookupTables/Blends.vue:135
+#: src/views/lookupTables/Blends.vue:153
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:314 src/views/Dashboard.vue:357
-#: src/views/Dashboard.vue:20
+#: src/views/Dashboard.vue:389 src/views/Dashboard.vue:432
+#: src/views/Dashboard.vue:27
 msgid "Period"
 msgstr ""
 
@@ -1312,11 +1312,11 @@ msgstr ""
 msgid "Please complete the \"Facility name or identifier (1)\" field"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:525
+#: src/components/art7/services/tableRowConstructorService.js:521
 msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:261
+#: src/components/art7/TabsManager.vue:300
 msgid "Please complete the questionnaire submitting"
 msgstr ""
 
@@ -1324,11 +1324,11 @@ msgstr ""
 msgid "Please confirm"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:253
-#: src/components/exemption/TabsManager.vue:194
-#: src/components/hat/TabsManager.vue:203
-#: src/components/letter/TabsManager.vue:201
-#: src/components/raf/TabsManager.vue:205
+#: src/components/art7/TabsManager.vue:292
+#: src/components/exemption/TabsManager.vue:227
+#: src/components/hat/TabsManager.vue:237
+#: src/components/letter/TabsManager.vue:228
+#: src/components/raf/TabsManager.vue:237
 msgid "Please save before submitting"
 msgstr ""
 
@@ -1337,7 +1337,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:772
+#: src/components/art7/FormTemplate.vue:851
 #: src/components/common/mixins/FormTemplateMixin.vue:99
 #: src/components/common/mixins/FormTemplateMixin.vue:100
 msgid "Please use the form on the right sidebar to add substances"
@@ -1350,7 +1350,7 @@ msgstr ""
 msgid "Polyols"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:142
+#: src/components/art7/FormTemplate.vue:155
 msgid "Polyols quantity"
 msgstr ""
 
@@ -1422,7 +1422,7 @@ msgstr ""
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:73
+#: src/components/common/SubmissionHistory.vue:74
 #: src/components/common/dataDefinitions/labels.js:55
 msgid "Provisional"
 msgstr ""
@@ -1477,8 +1477,8 @@ msgstr ""
 msgid "Quantity of imports from non-parties (recovered)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:124
-#: src/components/art7/FormTemplate.vue:265
+#: src/components/art7/FormTemplate.vue:135
+#: src/components/art7/FormTemplate.vue:289
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
 msgstr ""
 
@@ -1520,7 +1520,7 @@ msgstr ""
 msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:282
+#: src/components/art7/FormTemplate.vue:308
 msgid "Quantity of Polyols"
 msgstr ""
 
@@ -1549,7 +1549,7 @@ msgstr ""
 msgid "Questionnaire"
 msgstr ""
 
-#: src/views/UserProfile.vue:32
+#: src/views/UserProfile.vue:38
 msgid "read-only"
 msgstr ""
 
@@ -1589,7 +1589,7 @@ msgstr ""
 msgid "Reinstate"
 msgstr ""
 
-#: src/components/common/Header.vue:11
+#: src/components/common/Header.vue:27
 msgid "Release"
 msgstr ""
 
@@ -1668,14 +1668,14 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:207
+#: src/components/common/SubmissionInfo.vue:269
 #: src/components/common/dataDefinitions/tabSubInfo.js:100
 #: src/components/common/dataDefinitions/tabSubInfo.js:107
 #: src/components/common/dataDefinitions/tabSubInfo.js:108
 msgid "Required"
 msgstr ""
 
-#: src/components/common/Header.vue:9
+#: src/components/common/Header.vue:23
 msgid "Reset password"
 msgstr ""
 
@@ -1696,19 +1696,19 @@ msgstr ""
 msgid "Revise"
 msgstr ""
 
-#: src/views/UserProfile.vue:28
+#: src/views/UserProfile.vue:33
 msgid "Role:"
 msgstr ""
 
-#: src/views/UserProfile.vue:37
+#: src/views/UserProfile.vue:43
 msgid "Save"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:7
+#: src/components/common/mixins/SaveMixin.vue:8
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:210
+#: src/components/common/mixins/SaveMixin.vue:211
 msgid "Save failed"
 msgstr ""
 
@@ -1716,21 +1716,21 @@ msgstr ""
 msgid "Saved"
 msgstr ""
 
-#: src/views/pages/Page404.vue:18 src/components/art7/FormTemplate.vue:12
-#: src/components/art7/FormTemplate.vue:161
-#: src/components/art7/FormTemplate.vue:302
-#: src/components/exemption/FormTemplate.vue:8
-#: src/components/hat/FormTemplate.vue:8
-#: src/components/hat/FormTemplate.vue:94
-#: src/components/raf/FormTemplate.vue:8
-#: src/components/raf/FormTemplate.vue:113 src/views/Dashboard.vue:53
-#: src/views/Dashboard.vue:126
+#: src/views/pages/Page404.vue:29 src/components/art7/FormTemplate.vue:15
+#: src/components/art7/FormTemplate.vue:176
+#: src/components/art7/FormTemplate.vue:329
+#: src/components/exemption/FormTemplate.vue:11
+#: src/components/hat/FormTemplate.vue:11
+#: src/components/hat/FormTemplate.vue:104
+#: src/components/raf/FormTemplate.vue:11
+#: src/components/raf/FormTemplate.vue:113 src/views/Dashboard.vue:73
+#: src/views/Dashboard.vue:178
 msgid "Search"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:300 src/views/Dashboard.vue:344
-#: src/views/UserProfile.vue:30
+#: src/views/Dashboard.vue:375 src/views/Dashboard.vue:419
+#: src/views/UserProfile.vue:35
 msgid "Secretariat"
 msgstr ""
 
@@ -1740,20 +1740,20 @@ msgstr ""
 msgid "See definition of “non parties” in Instruction V."
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:170
-#: src/components/common/form-components/AddBlend.vue:313
+#: src/components/common/form-components/Add.vue:189
+#: src/components/common/form-components/AddBlend.vue:338
 msgid "select at least one country for each substance before adding it again"
 msgstr ""
 
-#: src/views/Dashboard.vue:120
+#: src/views/Dashboard.vue:170
 msgid "Show all versions"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:26
+#: src/views/lookupTables/Blends.vue:31
 msgid "Sort"
 msgstr ""
 
-#: src/views/Dashboard.vue:320
+#: src/views/Dashboard.vue:395
 msgid "State"
 msgstr ""
 
@@ -1788,12 +1788,12 @@ msgstr ""
 msgid "Submission format"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:170
-#: src/components/common/SubmissionInfo.vue:19
+#: src/components/art7/TabsManager.vue:209
+#: src/components/common/SubmissionInfo.vue:30
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
 #: src/components/common/dataDefinitions/tabSubInfo.js:12
-#: src/components/letter/TabsManager.vue:29
-#: src/components/letter/TabsManager.vue:27
+#: src/components/letter/TabsManager.vue:33
+#: src/components/letter/TabsManager.vue:31
 msgid "Submission Info"
 msgstr ""
 
@@ -1801,17 +1801,17 @@ msgstr ""
 msgid "Submission state updated"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:135
+#: src/components/common/SubmissionInfo.vue:196
 msgid "Submission status"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:81
+#: src/components/art7/TabsManager.vue:106
 #: src/components/common/dataDefinitions/labels.js:9
-#: src/components/exemption/TabsManager.vue:78
-#: src/components/hat/TabsManager.vue:65
-#: src/components/letter/TabsManager.vue:76
+#: src/components/exemption/TabsManager.vue:97
+#: src/components/hat/TabsManager.vue:82
+#: src/components/letter/TabsManager.vue:90
 #: src/components/letter/dataDefinitions/labels.js:122
-#: src/components/raf/TabsManager.vue:68
+#: src/components/raf/TabsManager.vue:84
 msgid "Submit"
 msgstr ""
 
@@ -1838,27 +1838,27 @@ msgstr ""
 msgid "Substance"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:9
+#: src/components/art7/FormTemplate.vue:11
 #: src/components/art7/dataDefinitions/form.js:102
 #: src/components/art7/dataDefinitions/labels.js:7
 #: src/components/art7/dataDefinitions/labels.js:40
 #: src/components/art7/dataDefinitions/labels.js:94
 #: src/components/art7/dataDefinitions/labels.js:106
 #: src/components/common/form-components/DefaultAside.vue:6
-#: src/components/exemption/FormTemplate.vue:5
-#: src/components/hat/FormTemplate.vue:5
+#: src/components/exemption/FormTemplate.vue:7
+#: src/components/hat/FormTemplate.vue:7
 #: src/components/hat/dataDefinitions/labels.js:7
 #: src/components/hat/dataDefinitions/labels.js:23
 #: src/components/letter/dataDefinitions/labels.js:4
 #: src/components/letter/dataDefinitions/labels.js:33
 #: src/components/letter/dataDefinitions/labels.js:83
 #: src/components/letter/dataDefinitions/labels.js:93
-#: src/components/raf/FormTemplate.vue:5
-#: src/components/common/form-components/Add.vue:15
+#: src/components/raf/FormTemplate.vue:7
+#: src/components/common/form-components/Add.vue:23
 msgid "Substances"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:158
+#: src/components/art7/FormTemplate.vue:172
 msgid "Substances - annex group F/II"
 msgstr ""
 
@@ -1866,11 +1866,11 @@ msgstr ""
 msgid "subtitle............"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:11
+#: src/components/common/SubmissionStatus.vue:28
 msgid "superseded"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:82
+#: src/components/common/SubmissionHistory.vue:83
 #: src/components/common/dataDefinitions/labels.js:54
 msgid "Superseded"
 msgstr ""
@@ -1879,31 +1879,31 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/common/form-components/CloneField.vue:113
+#: src/components/common/form-components/CloneField.vue:120
 msgid "The fields for these countries were not added because they already exist"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:313
+#: src/components/common/form-components/AddBlend.vue:338
 msgid "The following blends were not added because they already exist"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:170
+#: src/components/common/form-components/Add.vue:189
 msgid "The following substances were not added because they already exist"
 msgstr ""
 
-#: src/components/common/form-components/DefaultAside.vue:37
-#: src/components/exemption/TabsManager.vue:59
-#: src/components/letter/TabsManager.vue:57
+#: src/components/common/form-components/DefaultAside.vue:50
+#: src/components/exemption/TabsManager.vue:76
+#: src/components/letter/TabsManager.vue:69
 msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
 msgstr ""
 
-#: src/views/pages/Page404.vue:8
+#: src/views/pages/Page404.vue:11
 msgid "The page you are looking for was not found."
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:476
-#: src/components/exemption/FormTemplate.vue:104
-#: src/components/raf/FormTemplate.vue:158
+#: src/components/art7/FormTemplate.vue:541
+#: src/components/exemption/FormTemplate.vue:125
+#: src/components/raf/FormTemplate.vue:174
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
@@ -1933,11 +1933,11 @@ msgstr ""
 msgid "Total amount generated"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:168
+#: src/components/art7/services/tableRowConstructorService.js:164
 msgid "Total amount generated (2) must be equal to its components (3a, 4, 5, 6)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:188
+#: src/components/art7/services/tableRowConstructorService.js:184
 msgid "Total amount generated (2) must be greater or equal to its components (3a, 4, 5, 6)"
 msgstr ""
 
@@ -1979,15 +1979,15 @@ msgstr ""
 msgid "Total Quantity Imported for All Uses (recovered and reclaimed)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:327
+#: src/components/art7/services/tableRowConstructorService.js:323
 msgid "Total quantity imported for all uses is required"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:331
+#: src/components/art7/services/tableRowConstructorService.js:327
 msgid "Total quantity imported for all uses must be >= to the sum of individual components"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:336
+#: src/components/art7/services/tableRowConstructorService.js:332
 msgid "Total quantity imported for all uses must be >= to the sum of individual components for all cumulated rows regarding this substance"
 msgstr ""
 
@@ -2004,7 +2004,7 @@ msgstr ""
 msgid "Unable to change the state of this submission"
 msgstr ""
 
-#: src/components/common/Files.vue:39
+#: src/components/common/Files.vue:55
 msgid "Upload files"
 msgstr ""
 
@@ -2013,20 +2013,20 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-#: src/views/UserProfile.vue:20
+#: src/views/UserProfile.vue:21
 msgid "User name:"
 msgstr ""
 
-#: src/components/common/Header.vue:8 src/views/UserProfile.vue:58
+#: src/components/common/Header.vue:19 src/views/UserProfile.vue:64
 msgid "User profile"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:5
+#: src/components/common/SubmissionStatus.vue:12
 #: src/components/common/dataDefinitions/labels.js:45
 msgid "valid"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:76
+#: src/components/common/SubmissionHistory.vue:77
 #: src/components/common/dataDefinitions/labels.js:58
 msgid "Valid"
 msgstr ""
@@ -2035,29 +2035,29 @@ msgstr ""
 msgid "Validation"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:228
-#: src/components/common/SubmissionHistory.vue:110
-#: src/components/exemption/TabsManager.vue:149
-#: src/components/hat/TabsManager.vue:188
-#: src/components/letter/TabsManager.vue:151
-#: src/components/raf/TabsManager.vue:190 src/views/Dashboard.vue:318
-#: src/views/Dashboard.vue:361
+#: src/components/art7/TabsManager.vue:267
+#: src/components/common/SubmissionHistory.vue:111
+#: src/components/exemption/TabsManager.vue:182
+#: src/components/hat/TabsManager.vue:222
+#: src/components/letter/TabsManager.vue:178
+#: src/components/raf/TabsManager.vue:222 src/views/Dashboard.vue:393
+#: src/views/Dashboard.vue:436
 msgid "Version"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:108
+#: src/components/art7/TabsManager.vue:133
 #: src/components/common/dataDefinitions/labels.js:18
-#: src/components/hat/TabsManager.vue:91
-#: src/components/letter/TabsManager.vue:94
-#: src/components/raf/TabsManager.vue:94
+#: src/components/hat/TabsManager.vue:108
+#: src/components/letter/TabsManager.vue:108
+#: src/components/raf/TabsManager.vue:110
 msgid "Versions"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:114
+#: src/views/lookupTables/Parties.vue:116
 msgid "Vienna Convention"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:20
+#: src/components/common/SubmissionHistory.vue:21
 #: src/components/common/dataDefinitions/labels.js:50
 msgid "View"
 msgstr ""
@@ -2074,79 +2074,79 @@ msgstr ""
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:512
+#: src/components/art7/FormTemplate.vue:582
 #: src/components/common/form-components/CloneField.vue:14
-#: src/components/raf/FormTemplate.vue:210
+#: src/components/raf/FormTemplate.vue:242
 msgid "Countries"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:8
-#: src/components/common/form-components/Add.vue:17
-#: src/components/common/form-components/AddBlend.vue:9
-#: src/components/common/form-components/AddBlend.vue:24
-#: src/components/common/form-components/fieldGenerator.vue:12
-#: src/components/raf/AddParties.vue:7 src/views/Dashboard.vue:13
-#: src/views/Dashboard.vue:22 src/views/Dashboard.vue:33
+#: src/components/common/form-components/Add.vue:14
+#: src/components/common/form-components/Add.vue:25
+#: src/components/common/form-components/AddBlend.vue:15
+#: src/components/common/form-components/AddBlend.vue:31
+#: src/components/common/form-components/fieldGenerator.vue:49
+#: src/components/raf/AddParties.vue:11 src/views/Dashboard.vue:19
+#: src/views/Dashboard.vue:29 src/views/Dashboard.vue:41
 msgid "Select option"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:98
+#: src/components/common/form-components/AddBlend.vue:121
 msgid "Press enter to use a new substance"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:99
+#: src/components/common/form-components/AddBlend.vue:122
 msgid "Controlled or new substance"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:6
+#: src/components/common/form-components/Add.vue:12
 msgid "Annex groups"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:27
-#: src/components/common/SubmissionStatus.vue:33
+#: src/components/common/SubmissionStatus.vue:53
+#: src/components/common/SubmissionStatus.vue:61
 msgid "secretariat"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:27
-#: src/components/common/SubmissionStatus.vue:33
+#: src/components/common/SubmissionStatus.vue:53
+#: src/components/common/SubmissionStatus.vue:61
 msgid "party"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:118
-#: src/components/exemption/TabsManager.vue:99
-#: src/components/hat/TabsManager.vue:100
-#: src/components/letter/TabsManager.vue:104
-#: src/components/raf/TabsManager.vue:103
+#: src/components/art7/TabsManager.vue:151
+#: src/components/exemption/TabsManager.vue:126
+#: src/components/hat/TabsManager.vue:126
+#: src/components/letter/TabsManager.vue:125
+#: src/components/raf/TabsManager.vue:127
 msgid "Submission versions"
 msgstr ""
 
-#: src/components/raf/AddParties.vue:5
+#: src/components/raf/AddParties.vue:8
 msgid "Add countries"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:490
-#: src/components/exemption/FormTemplate.vue:118
-#: src/components/raf/FormTemplate.vue:172
+#: src/components/art7/FormTemplate.vue:556
+#: src/components/exemption/FormTemplate.vue:140
+#: src/components/raf/FormTemplate.vue:189
 msgid "Select substance"
 msgstr ""
 
-#: src/components/art7/EmissionsTemplate.vue:11
+#: src/components/art7/EmissionsTemplate.vue:12
 msgid "Search all columns"
 msgstr ""
 
-#: src/views/Dashboard.vue:64 src/views/Dashboard.vue:135
+#: src/views/Dashboard.vue:91 src/views/Dashboard.vue:196
 msgid "From"
 msgstr ""
 
-#: src/views/Dashboard.vue:68 src/views/Dashboard.vue:139
+#: src/views/Dashboard.vue:97 src/views/Dashboard.vue:203
 msgid "To"
 msgstr ""
 
-#: src/views/Dashboard.vue:107 src/views/Dashboard.vue:180
+#: src/views/Dashboard.vue:146 src/views/Dashboard.vue:255
 msgid "Per page"
 msgstr ""
 
-#: src/views/pages/Page404.vue:17
+#: src/views/pages/Page404.vue:26
 msgid "What are you looking for?"
 msgstr ""
 
