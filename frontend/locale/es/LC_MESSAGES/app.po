@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 11:12+0000\n"
+"POT-Creation-Date: 2019-04-08 12:39+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -385,6 +385,10 @@ msgstr ""
 #: src/views/lookupTables/Blends.vue:46
 #: src/views/lookupTables/ControlledSubstances.vue:29
 msgid "Clear"
+msgstr ""
+
+#: src/components/common/Files.vue:89
+msgid "Click to browse files"
 msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:21
@@ -1156,6 +1160,10 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "No"
+msgstr ""
+
+#: src/components/common/Files.vue:3
+msgid "No files uploaded"
 msgstr ""
 
 #: src/components/exemption/dataDefinitions/form.js:38
@@ -2005,7 +2013,7 @@ msgstr ""
 msgid "Unable to change the state of this submission"
 msgstr ""
 
-#: src/components/common/Files.vue:55
+#: src/components/common/Files.vue:69
 msgid "Upload files"
 msgstr ""
 
