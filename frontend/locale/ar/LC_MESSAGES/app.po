@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-09 10:22+0000\n"
+"POT-Creation-Date: 2019-04-09 11:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -35,8 +35,8 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:123 src/views/Dashboard.vue:401
-#: src/views/Dashboard.vue:442
+#: src/components/common/SubmissionHistory.vue:123 src/views/Dashboard.vue:403
+#: src/views/Dashboard.vue:444
 msgid "Actions"
 msgstr ""
 
@@ -513,8 +513,8 @@ msgid "Create submission"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:114
-#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:399
-#: src/views/Dashboard.vue:440
+#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:401
+#: src/views/Dashboard.vue:442
 msgid "Created by"
 msgstr ""
 
@@ -538,10 +538,10 @@ msgid "Current State"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:264
-#: src/components/exemption/TabsManager.vue:178
-#: src/components/hat/TabsManager.vue:218
-#: src/components/letter/TabsManager.vue:175
-#: src/components/raf/TabsManager.vue:219 src/views/Dashboard.vue:556
+#: src/components/exemption/TabsManager.vue:180
+#: src/components/hat/TabsManager.vue:219
+#: src/components/letter/TabsManager.vue:177
+#: src/components/raf/TabsManager.vue:220 src/views/Dashboard.vue:558
 msgid "Dashboard"
 msgstr ""
 
@@ -1065,7 +1065,7 @@ msgstr ""
 msgid "Last changed by"
 msgstr ""
 
-#: src/views/Dashboard.vue:397 src/views/Dashboard.vue:438
+#: src/views/Dashboard.vue:399 src/views/Dashboard.vue:440
 msgid "Last modified"
 msgstr ""
 
@@ -1184,9 +1184,7 @@ msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:4
-#: src/components/hat/TabsManager.vue:204
-#: src/components/letter/TabsManager.vue:203
-#: src/components/raf/TabsManager.vue:205 src/views/Dashboard.vue:582
+#: src/components/common/dataDefinitions/alerts.js:17
 msgid "New version created"
 msgstr ""
 
@@ -1225,7 +1223,7 @@ msgstr ""
 msgid "Number of Isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:387 src/views/Dashboard.vue:430
+#: src/views/Dashboard.vue:389 src/views/Dashboard.vue:432
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
 #: src/views/Dashboard.vue:181
 msgid "Obligation"
@@ -1307,8 +1305,8 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:375 src/views/Dashboard.vue:391
-#: src/views/Dashboard.vue:419 src/views/Dashboard.vue:434
+#: src/views/Dashboard.vue:377 src/views/Dashboard.vue:393
+#: src/views/Dashboard.vue:421 src/views/Dashboard.vue:436
 #: src/views/UserProfile.vue:36 src/views/Dashboard.vue:39
 #: src/views/Dashboard.vue:84 src/views/Dashboard.vue:188
 msgid "Party"
@@ -1335,7 +1333,7 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:389 src/views/Dashboard.vue:432
+#: src/views/Dashboard.vue:391 src/views/Dashboard.vue:434
 #: src/views/Dashboard.vue:27
 msgid "Period"
 msgstr ""
@@ -1370,10 +1368,7 @@ msgid "Please confirm"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:6
-#: src/components/exemption/TabsManager.vue:227
-#: src/components/hat/TabsManager.vue:237
-#: src/components/letter/TabsManager.vue:228
-#: src/components/raf/TabsManager.vue:237
+#: src/components/common/dataDefinitions/alerts.js:16
 msgid "Please save before submitting"
 msgstr ""
 
@@ -1764,7 +1759,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:211
+#: src/components/common/dataDefinitions/alerts.js:15
 msgid "Save failed"
 msgstr ""
 
@@ -1785,7 +1780,7 @@ msgid "Search"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:375 src/views/Dashboard.vue:419
+#: src/views/Dashboard.vue:377 src/views/Dashboard.vue:421
 #: src/views/UserProfile.vue:35
 msgid "Secretariat"
 msgstr ""
@@ -1812,7 +1807,7 @@ msgstr ""
 msgid "Sort"
 msgstr ""
 
-#: src/views/Dashboard.vue:395
+#: src/views/Dashboard.vue:397
 msgid "State"
 msgstr ""
 
@@ -1942,7 +1937,7 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/common/form-components/CloneField.vue:120
+#: src/components/common/dataDefinitions/alerts.js:14
 msgid "The fields for these countries were not added because they already exist"
 msgstr ""
 
@@ -2103,11 +2098,11 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:268
 #: src/components/common/SubmissionHistory.vue:111
-#: src/components/exemption/TabsManager.vue:182
-#: src/components/hat/TabsManager.vue:222
-#: src/components/letter/TabsManager.vue:178
-#: src/components/raf/TabsManager.vue:222 src/views/Dashboard.vue:393
-#: src/views/Dashboard.vue:436
+#: src/components/exemption/TabsManager.vue:184
+#: src/components/hat/TabsManager.vue:223
+#: src/components/letter/TabsManager.vue:180
+#: src/components/raf/TabsManager.vue:223 src/views/Dashboard.vue:395
+#: src/views/Dashboard.vue:438
 msgid "Version"
 msgstr ""
 
