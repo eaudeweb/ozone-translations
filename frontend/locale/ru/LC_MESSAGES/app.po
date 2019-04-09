@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 15:11+0000\n"
+"POT-Creation-Date: 2019-04-09 08:29+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -106,7 +106,7 @@ msgstr "фиктивный текст."
 msgid "All submissions (%{totalRows} records)"
 msgstr "фиктивный (%{totalRows} текст)"
 
-#: src/components/art7/FormTemplate.vue:536
+#: src/components/art7/FormTemplate.vue:554
 #: src/components/exemption/FormTemplate.vue:120
 #: src/components/raf/FormTemplate.vue:169
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
@@ -346,7 +346,7 @@ msgstr "фиктивный текст"
 msgid "Blend created"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:325
+#: src/components/art7/FormTemplate.vue:343
 #: src/components/common/form-components/DefaultAside.vue:12
 #: src/components/hat/FormTemplate.vue:100
 #: src/components/raf/FormTemplate.vue:109
@@ -388,7 +388,7 @@ msgstr "фиктивный текст"
 msgid "Captured for feedstock uses within your country"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:546
+#: src/components/art7/FormTemplate.vue:564
 #: src/components/exemption/FormTemplate.vue:130
 #: src/components/raf/FormTemplate.vue:179
 msgid "Change substance"
@@ -414,7 +414,7 @@ msgstr "фиктивный текст"
 msgid "Click to edit"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:638
+#: src/components/art7/FormTemplate.vue:656
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:99
 #: src/components/art7/TabsManager.vue:158
@@ -439,7 +439,7 @@ msgid "Column (3) should not be empty (total production for all uses / captured 
 msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:97
-#: src/components/art7/FormTemplate.vue:493
+#: src/components/art7/FormTemplate.vue:511
 #: src/components/exemption/FormTemplate.vue:82
 #: src/components/hat/FormTemplate.vue:239
 #: src/components/raf/FormTemplate.vue:128
@@ -680,12 +680,12 @@ msgstr ""
 msgid "Edit"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:529
+#: src/components/art7/FormTemplate.vue:547
 #: src/components/raf/FormTemplate.vue:162
 msgid "Edit %{name} blend"
 msgstr "фиктивный %{name} текст"
 
-#: src/components/art7/FormTemplate.vue:525
+#: src/components/art7/FormTemplate.vue:543
 #: src/components/exemption/FormTemplate.vue:113
 #: src/components/raf/FormTemplate.vue:158
 msgid "Edit %{name} substance"
@@ -732,6 +732,11 @@ msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:104
 msgid "EU Member"
+msgstr "фиктивный текст"
+
+#: src/components/art7/dataDefinitions/form.js:118
+#, fuzzy
+msgid "Export for feedstock"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:243
@@ -972,6 +977,11 @@ msgstr "фиктивный текст."
 #: src/components/art7/dataDefinitions/questionnaireFields.js:51
 msgid "If No, ignore data form 5. If Yes, please complete data form 5. Please read Instruction V of the document carefully, and, particularly, the definition of non-Parties before filling in the form."
 msgstr "фиктивный текст."
+
+#: src/components/art7/dataDefinitions/form.js:255
+#, fuzzy
+msgid "Import for feedstock"
+msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:217
 #: src/components/common/dataDefinitions/labels.js:19
@@ -1385,7 +1395,7 @@ msgstr "фиктивный текст"
 msgid "Please use the form on the right sidebar to add blends"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:851
+#: src/components/art7/FormTemplate.vue:869
 #: src/components/common/mixins/FormTemplateMixin.vue:99
 #: src/components/common/mixins/FormTemplateMixin.vue:100
 msgid "Please use the form on the right sidebar to add substances"
@@ -1398,7 +1408,7 @@ msgstr "фиктивный текст"
 msgid "Polyols"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:155
+#: src/components/art7/FormTemplate.vue:164
 msgid "Polyols quantity"
 msgstr "фиктивный текст"
 
@@ -1528,8 +1538,8 @@ msgstr "фиктивный текст"
 msgid "Quantity of imports from non-parties (recovered)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:135
-#: src/components/art7/FormTemplate.vue:289
+#: src/components/art7/FormTemplate.vue:143
+#: src/components/art7/FormTemplate.vue:306
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
 msgstr "фиктивный текст"
 
@@ -1548,11 +1558,11 @@ msgstr "фиктивный текст"
 msgid "Quantity of new substance imported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr "фиктивный текст"
 
-#: src/components/art7/dataDefinitions/form.js:118
+#: src/components/art7/dataDefinitions/form.js:151
 msgid "Quantity of new substances exported as feedstock"
 msgstr "фиктивный текст"
 
-#: src/components/art7/dataDefinitions/form.js:255
+#: src/components/art7/dataDefinitions/form.js:287
 #: src/components/art7/dataDefinitions/labels.js:14
 #: src/components/art7/dataDefinitions/labels.js:49
 msgid "Quantity of new substances imported as feedstock"
@@ -1571,7 +1581,7 @@ msgstr "фиктивный текст"
 msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:308
+#: src/components/art7/FormTemplate.vue:326
 msgid "Quantity of Polyols"
 msgstr "фиктивный текст"
 
@@ -1771,8 +1781,8 @@ msgid "Saved"
 msgstr ""
 
 #: src/views/pages/Page404.vue:29 src/components/art7/FormTemplate.vue:15
-#: src/components/art7/FormTemplate.vue:176
-#: src/components/art7/FormTemplate.vue:329
+#: src/components/art7/FormTemplate.vue:185
+#: src/components/art7/FormTemplate.vue:347
 #: src/components/exemption/FormTemplate.vue:11
 #: src/components/hat/FormTemplate.vue:11
 #: src/components/hat/FormTemplate.vue:104
@@ -1918,7 +1928,7 @@ msgstr "фиктивный текст"
 msgid "Substances"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:172
+#: src/components/art7/FormTemplate.vue:181
 #, fuzzy
 msgid "Substances - annex group F/II"
 msgstr "фиктивный текст"
@@ -1963,7 +1973,7 @@ msgstr "фиктивный текст"
 msgid "The page you are looking for was not found."
 msgstr "фиктивный текст."
 
-#: src/components/art7/FormTemplate.vue:541
+#: src/components/art7/FormTemplate.vue:559
 #: src/components/exemption/FormTemplate.vue:125
 #: src/components/raf/FormTemplate.vue:174
 msgid "The values are saved automatically in the table, as you type."
@@ -2141,7 +2151,7 @@ msgstr "фиктивный текст"
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr "фиктивный текст?"
 
-#: src/components/art7/FormTemplate.vue:582
+#: src/components/art7/FormTemplate.vue:600
 #: src/components/common/form-components/CloneField.vue:14
 #: src/components/raf/FormTemplate.vue:242
 msgid "Countries"
@@ -2194,7 +2204,7 @@ msgstr "фиктивный текст"
 msgid "Add countries"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:556
+#: src/components/art7/FormTemplate.vue:574
 #: src/components/exemption/FormTemplate.vue:140
 #: src/components/raf/FormTemplate.vue:189
 msgid "Select substance"
