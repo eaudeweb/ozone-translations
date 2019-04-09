@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-09 15:19+0000\n"
+"POT-Creation-Date: 2019-04-09 15:22+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -78,7 +78,6 @@ msgid "Add substance"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:4
-#: src/components/common/form-components/AsideTogglerModified.vue:3
 msgid "Add substances"
 msgstr ""
 
