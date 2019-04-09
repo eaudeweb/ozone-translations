@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-09 16:29+0300\n"
+"POT-Creation-Date: 2019-04-09 17:27+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -487,9 +487,9 @@ msgstr "фиктивный текст."
 
 #: ozone/core/api/views.py:1228
 #, fuzzy
-#| msgid "User is not allowed to change this flag"
-msgid "You are not allowed to upload files on this submission"
-msgstr "фиктивный текст"
+#| msgid "You do not have permission to perform this action."
+msgid "You do not have permission to upload files for this submission"
+msgstr "фиктивный текст."
 
 #: ozone/core/models/data.py:67 ozone/core/models/data.py:70
 msgid "Data should refer to one substance or one blend"
@@ -520,43 +520,60 @@ msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
 #: ozone/core/models/legal.py:72
-msgid "End date has to be temporally after start date."
+#, fuzzy
+#| msgid "End date has to be temporally after start date."
+msgid "The end date must be greater than the start date."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1213
-msgid "Submitted submissions cannot be modified."
-msgstr "фиктивный текст."
+#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1214
+msgid "Unable to change submission because it is already submitted."
+msgstr ""
 
 #: ozone/core/models/reporting.py:136
-msgid "Only one obligation can be set as default."
+msgid ""
+"Unable to set default obligation. Another obligation is already set as "
+"default."
 msgstr ""
 
 #: ozone/core/models/reporting.py:189
-msgid "Only one reporting channel can be set as default for "
+msgid ""
+"Unable to set reporting channel. Another reporting channel is already set as "
+"default for "
 msgstr ""
 
 #: ozone/core/models/reporting.py:621
-#, python-brace-format
-msgid "Transition {trans_name} does not exist in this workflow"
+#, fuzzy, python-brace-format
+#| msgid "Transition {trans_name} does not exist in this workflow"
+msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
 #: ozone/core/models/reporting.py:628
-#, python-brace-format
-msgid "Transition {trans_name} does not start from current state"
+#, fuzzy, python-brace-format
+#| msgid "Transition {trans_name} does not start from current state"
+msgid ""
+"Workflow error. Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
 #: ozone/core/models/reporting.py:637
+#, fuzzy
+#| msgid ""
+#| "Transition checks not satisfied or you may not have the necessary "
+#| "permissions"
 msgid ""
-"Transition checks not satisfied or you may not have the necessary permissions"
+"Workflow error. Transition checks not satisfied or you may not have the "
+"necessary permissions"
 msgstr "фиктивный текст"
 
 #: ozone/core/models/reporting.py:739
-msgid "User is not allowed to change this flag"
+#, fuzzy
+#| msgid "User is not allowed to change this flag"
+msgid "User do not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:796 ozone/core/serializers.py:445
-#: ozone/core/serializers.py:450
-msgid "User is not allowed to change this remark"
+#: ozone/core/models/reporting.py:796
+#, fuzzy
+#| msgid "User is not allowed to change this remark"
+msgid "User do not have permission to change this remark."
 msgstr "фиктивный текст"
 
 #: ozone/core/models/reporting.py:952
@@ -564,39 +581,50 @@ msgstr "фиктивный текст"
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
 #| "obligation combination."
-msgid "There is already a Data Entry submission created by {actor} for "
+msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:976
+#: ozone/core/models/reporting.py:977
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:985
+#: ozone/core/models/reporting.py:986
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
-msgid "You can't clone a submission with this type of obligation"
+msgid ""
+"You cannot create a new version of this submission with this type of "
+"obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:998
-msgid "You can't clone a submission from a previous period if it's superseded."
+#: ozone/core/models/reporting.py:999
+#, fuzzy
+#| msgid ""
+#| "You can't clone a submission from a previous period if it's superseded."
+msgid ""
+"You cannot create a new version of this submission from a previous period if "
+"it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1191
-msgid "Submitted submissions cannot be deleted."
-msgstr "фиктивный текст."
+#: ozone/core/models/reporting.py:1192
+msgid "Unable to delete submission because it is submitted."
+msgstr ""
 
-#: ozone/core/models/reporting.py:1206
-msgid "Reporting cannot be performed for this reporting period."
-msgstr "фиктивный текст."
+#: ozone/core/models/reporting.py:1207
+msgid "Unable to start reporting for this period."
+msgstr ""
 
-#: ozone/core/models/reporting.py:1342
-msgid "Only one submission format can be set as default for "
+#: ozone/core/models/reporting.py:1343
+msgid ""
+"Unable to set default submission format. Another submission format is "
+"already set as default for "
 msgstr ""
 
 #: ozone/core/models/substance.py:298
-msgid "Non custom blends cannot be modified."
-msgstr "фиктивный текст."
+#, fuzzy
+#| msgid "Substance rows derived from blends cannot be changed!"
+msgid "Predefined blends composition cannot be changed."
+msgstr "фиктивный текст!"
 
 #: ozone/core/models/substance.py:337 ozone/core/models/substance.py:340
 msgid "Substance or component name must be set."
@@ -627,7 +655,7 @@ msgid "Valid flag must be set before submission is finalized"
 msgstr ""
 
 #: ozone/core/models/workflows/default.py:128
-msgid "All questionnaire answers must be filled before submitting!"
+msgid "Questionnaire form must be completed before submitting."
 msgstr ""
 
 #: ozone/core/models/workflows/default_exemption.py:71
@@ -646,6 +674,10 @@ msgstr ""
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
+
+#: ozone/core/serializers.py:445 ozone/core/serializers.py:450
+msgid "User is not allowed to change this remark"
+msgstr "фиктивный текст"
 
 #: ozone/core/serializers.py:949
 msgid "User is not allowed to change the reporting channel"
@@ -735,6 +767,23 @@ msgstr ""
 #: weblate/ozone.py:24
 msgid "Authentication has been forbidden by server."
 msgstr "фиктивный текст."
+
+#, fuzzy
+#~| msgid "User is not allowed to change this flag"
+#~ msgid "You are not allowed to upload files on this submission"
+#~ msgstr "фиктивный текст"
+
+#~ msgid "Submitted submissions cannot be modified."
+#~ msgstr "фиктивный текст."
+
+#~ msgid "Submitted submissions cannot be deleted."
+#~ msgstr "фиктивный текст."
+
+#~ msgid "Reporting cannot be performed for this reporting period."
+#~ msgstr "фиктивный текст."
+
+#~ msgid "Non custom blends cannot be modified."
+#~ msgstr "фиктивный текст."
 
 #, fuzzy
 #~| msgid ""
