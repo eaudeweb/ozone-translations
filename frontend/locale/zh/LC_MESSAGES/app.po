@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-09 11:38+0000\n"
+"POT-Creation-Date: 2019-04-09 13:11+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -19,8 +19,9 @@ msgstr ""
 msgid "(required)"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:10
-msgid "A blend with this name already exists!"
+#: src/components/common/dataDefinitions/alerts.js:4
+#: src/components/common/dataDefinitions/alerts.js:17
+msgid "A clone of this submission has been added."
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:61
@@ -247,10 +248,6 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/store/actions.js:61
-msgid "Another submission already exists in Data Entry stage."
-msgstr ""
-
 #: src/components/common/SubmissionStatus.vue:74
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
@@ -330,10 +327,6 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:34
 #: src/components/letter/dataDefinitions/labels.js:105
 msgid "Blend"
-msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:13
-msgid "Blend created"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:343
@@ -535,6 +528,10 @@ msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:120
 msgid "Current State"
+msgstr ""
+
+#: src/components/common/dataDefinitions/alerts.js:13
+msgid "Custom blend added successfully."
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:264
@@ -766,14 +763,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:126
 #: src/components/letter/dataDefinitions/labels.js:109
 msgid "Facility name or identifier"
-msgstr ""
-
-#: src/store/actions.js:81
-msgid "Failed to create submission"
-msgstr ""
-
-#: src/store/actions.js:311
-msgid "Failed to delete submission"
 msgstr ""
 
 #: src/components/common/Files.vue:97
@@ -1183,11 +1172,6 @@ msgstr ""
 msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:4
-#: src/components/common/dataDefinitions/alerts.js:17
-msgid "New version created"
-msgstr ""
-
 #: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "No"
 msgstr ""
@@ -1360,7 +1344,7 @@ msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:7
-msgid "Please complete the questionnaire submitting"
+msgid "Please complete the Questionnaire form before submitting."
 msgstr ""
 
 #: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:37
@@ -1368,8 +1352,11 @@ msgid "Please confirm"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:6
+msgid "Please save before submitting."
+msgstr ""
+
 #: src/components/common/dataDefinitions/alerts.js:16
-msgid "Please save before submitting"
+msgid "Please save the document before submitting."
 msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:140
@@ -1759,10 +1746,6 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:15
-msgid "Save failed"
-msgstr ""
-
 #: src/store/actions.js:157
 msgid "Saved"
 msgstr ""
@@ -1792,11 +1775,11 @@ msgid "See definition of “non parties” in Instruction V."
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:12
-msgid "select at least one country for each blend before adding it again"
+msgid "select at least one country for each blend before adding."
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:9
-msgid "select at least one country for each substance before adding it again"
+msgid "select at least one country for each substance before adding."
 msgstr ""
 
 #: src/views/Dashboard.vue:170
@@ -1831,11 +1814,11 @@ msgid "Subission info"
 msgstr ""
 
 #: src/store/actions.js:72
-msgid "Submission created"
+msgid "Submission added successfully."
 msgstr ""
 
 #: src/store/actions.js:304
-msgid "Submission deleted"
+msgid "Submission deleted successfully."
 msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:51
@@ -1855,12 +1838,12 @@ msgstr ""
 msgid "Submission Info"
 msgstr ""
 
-#: src/store/actions.js:272
-msgid "Submission state updated"
-msgstr ""
-
 #: src/components/common/SubmissionInfo.vue:196
 msgid "Submission status"
+msgstr ""
+
+#: src/store/actions.js:272
+msgid "Submission status updated successfully."
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:106
@@ -1935,18 +1918,6 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:91
 msgid "The date indicated on the submitted document"
-msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:14
-msgid "The fields for these countries were not added because they already exist"
-msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:11
-msgid "The following blends were not added because they already exist"
-msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:8
-msgid "The following substances were not added because they already exist"
 msgstr ""
 
 #: src/components/exemption/TabsManager.vue:76
@@ -2057,8 +2028,40 @@ msgstr ""
 msgid "Type of use"
 msgstr ""
 
+#: src/components/common/dataDefinitions/alerts.js:10
+msgid "Unable to add blend. Another blend with this name already exists."
+msgstr ""
+
+#: src/components/common/dataDefinitions/alerts.js:14
+msgid "Unable to add fields for the following countries because they already exist"
+msgstr ""
+
+#: src/store/actions.js:81
+msgid "Unable to add submission."
+msgstr ""
+
+#: src/store/actions.js:61
+msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
+msgstr ""
+
+#: src/components/common/dataDefinitions/alerts.js:11
+msgid "Unable to add the following blends because they already exist"
+msgstr ""
+
+#: src/components/common/dataDefinitions/alerts.js:8
+msgid "Unable to add the following substances because they already exist"
+msgstr ""
+
+#: src/store/actions.js:311
+msgid "Unable to delete submission."
+msgstr ""
+
+#: src/components/common/dataDefinitions/alerts.js:15
+msgid "Unable to save submission. Please try again."
+msgstr ""
+
 #: src/store/actions.js:278
-msgid "Unable to change the state of this submission"
+msgid "Unable to update submission status."
 msgstr ""
 
 #: src/components/common/Files.vue:72

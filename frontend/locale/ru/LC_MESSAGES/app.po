@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-09 11:38+0000\n"
+"POT-Creation-Date: 2019-04-09 13:11+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -22,9 +22,10 @@ msgstr ""
 msgid "(required)"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:10
-msgid "A blend with this name already exists!"
-msgstr "фиктивный текст!"
+#: src/components/common/dataDefinitions/alerts.js:4
+#: src/components/common/dataDefinitions/alerts.js:17
+msgid "A clone of this submission has been added."
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:61
 #, fuzzy
@@ -256,10 +257,6 @@ msgstr "фиктивный текст"
 msgid "Annexes A, B, C and E substances"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:61
-msgid "Another submission already exists in Data Entry stage."
-msgstr "фиктивный текст."
-
 #: src/components/common/SubmissionStatus.vue:74
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
@@ -340,10 +337,6 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:34
 #: src/components/letter/dataDefinitions/labels.js:105
 msgid "Blend"
-msgstr "фиктивный текст"
-
-#: src/components/common/dataDefinitions/alerts.js:13
-msgid "Blend created"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:343
@@ -548,6 +541,10 @@ msgstr "фиктивный текст"
 #: src/components/common/SubmissionHistory.vue:120
 msgid "Current State"
 msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/alerts.js:13
+msgid "Custom blend added successfully."
+msgstr ""
 
 #: src/components/art7/TabsManager.vue:264
 #: src/components/exemption/TabsManager.vue:180
@@ -779,14 +776,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:126
 #: src/components/letter/dataDefinitions/labels.js:109
 msgid "Facility name or identifier"
-msgstr "фиктивный текст"
-
-#: src/store/actions.js:81
-msgid "Failed to create submission"
-msgstr "фиктивный текст"
-
-#: src/store/actions.js:311
-msgid "Failed to delete submission"
 msgstr "фиктивный текст"
 
 #: src/components/common/Files.vue:97
@@ -1202,11 +1191,6 @@ msgstr "фиктивный текст"
 msgid "New production for use in split ducted air conditioners\t"
 msgstr "фиктивный текст\t"
 
-#: src/components/common/dataDefinitions/alerts.js:4
-#: src/components/common/dataDefinitions/alerts.js:17
-msgid "New version created"
-msgstr "фиктивный текст"
-
 #: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "No"
 msgstr "фиктивный текст"
@@ -1386,7 +1370,7 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/alerts.js:7
 #, fuzzy
-msgid "Please complete the questionnaire submitting"
+msgid "Please complete the Questionnaire form before submitting."
 msgstr "фиктивный текст"
 
 #: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:37
@@ -1394,8 +1378,13 @@ msgid "Please confirm"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:6
+#, fuzzy
+msgid "Please save before submitting."
+msgstr "фиктивный текст"
+
 #: src/components/common/dataDefinitions/alerts.js:16
-msgid "Please save before submitting"
+#, fuzzy
+msgid "Please save the document before submitting."
 msgstr "фиктивный текст"
 
 #: src/components/common/mixins/FormTemplateMixin.vue:140
@@ -1791,10 +1780,6 @@ msgstr ""
 msgid "Save and continue"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/alerts.js:15
-msgid "Save failed"
-msgstr ""
-
 #: src/store/actions.js:157
 msgid "Saved"
 msgstr ""
@@ -1825,11 +1810,12 @@ msgstr "фиктивный текст."
 
 #: src/components/common/dataDefinitions/alerts.js:12
 #, fuzzy
-msgid "select at least one country for each blend before adding it again"
+msgid "select at least one country for each blend before adding."
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/alerts.js:9
-msgid "select at least one country for each substance before adding it again"
+#, fuzzy
+msgid "select at least one country for each substance before adding."
 msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:170
@@ -1865,12 +1851,12 @@ msgid "Subission info"
 msgstr "фиктивный текст"
 
 #: src/store/actions.js:72
-#, fuzzy
-msgid "Submission created"
-msgstr "фиктивный текст"
+msgid "Submission added successfully."
+msgstr ""
 
 #: src/store/actions.js:304
-msgid "Submission deleted"
+#, fuzzy
+msgid "Submission deleted successfully."
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/DefaultAside.vue:51
@@ -1892,13 +1878,14 @@ msgstr "фиктивный текст"
 msgid "Submission Info"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:272
-msgid "Submission state updated"
-msgstr "фиктивный текст"
-
 #: src/components/common/SubmissionInfo.vue:196
 #, fuzzy
 msgid "Submission status"
+msgstr "фиктивный текст"
+
+#: src/store/actions.js:272
+#, fuzzy
+msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:106
@@ -1978,18 +1965,6 @@ msgstr "фиктивный текст"
 #: src/components/common/dataDefinitions/tabSubInfo.js:91
 msgid "The date indicated on the submitted document"
 msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:14
-msgid "The fields for these countries were not added because they already exist"
-msgstr "фиктивный текст"
-
-#: src/components/common/dataDefinitions/alerts.js:11
-msgid "The following blends were not added because they already exist"
-msgstr "фиктивный текст"
-
-#: src/components/common/dataDefinitions/alerts.js:8
-msgid "The following substances were not added because they already exist"
-msgstr "фиктивный текст"
 
 #: src/components/exemption/TabsManager.vue:76
 #: src/components/letter/TabsManager.vue:69
@@ -2102,8 +2077,47 @@ msgstr "фиктивный текст"
 msgid "Type of use"
 msgstr "фиктивный текст"
 
+#: src/components/common/dataDefinitions/alerts.js:10
+#, fuzzy
+msgid "Unable to add blend. Another blend with this name already exists."
+msgstr "фиктивный текст!"
+
+#: src/components/common/dataDefinitions/alerts.js:14
+#, fuzzy
+msgid "Unable to add fields for the following countries because they already exist"
+msgstr "фиктивный текст"
+
+#: src/store/actions.js:81
+#, fuzzy
+msgid "Unable to add submission."
+msgstr "фиктивный текст"
+
+#: src/store/actions.js:61
+msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
+msgstr ""
+
+#: src/components/common/dataDefinitions/alerts.js:11
+#, fuzzy
+msgid "Unable to add the following blends because they already exist"
+msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/alerts.js:8
+#, fuzzy
+msgid "Unable to add the following substances because they already exist"
+msgstr "фиктивный текст"
+
+#: src/store/actions.js:311
+#, fuzzy
+msgid "Unable to delete submission."
+msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/alerts.js:15
+msgid "Unable to save submission. Please try again."
+msgstr ""
+
 #: src/store/actions.js:278
-msgid "Unable to change the state of this submission"
+#, fuzzy
+msgid "Unable to update submission status."
 msgstr "фиктивный текст"
 
 #: src/components/common/Files.vue:72
