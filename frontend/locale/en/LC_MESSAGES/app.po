@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-09 13:11+0000\n"
+"POT-Creation-Date: 2019-04-09 13:29+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:4
 #: src/components/common/dataDefinitions/alerts.js:17
-msgid "A clone of this submission has been added."
+msgid "A new version of this submission has been added."
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:61
@@ -349,10 +349,6 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:68
 msgid "C/IIII"
-msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:5
-msgid "Can't find instructions for current form"
 msgstr ""
 
 #: src/components/common/TransitionQuestions.vue:15
@@ -1177,6 +1173,10 @@ msgstr ""
 msgid "No"
 msgstr ""
 
+#: src/components/common/dataDefinitions/alerts.js:5
+msgid "No detailed instructions for the current form are available."
+msgstr ""
+
 #: src/components/common/Files.vue:3
 msgid "No files uploaded"
 msgstr ""
@@ -1345,19 +1345,11 @@ msgid "Please complete the \"Quantity destroyed (3)\" field"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:7
-msgid "Please complete the Questionnaire form before submitting."
+msgid "Please complete the Questionnaire before submitting."
 msgstr ""
 
 #: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:37
 msgid "Please confirm"
-msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:6
-msgid "Please save before submitting."
-msgstr ""
-
-#: src/components/common/dataDefinitions/alerts.js:16
-msgid "Please save the document before submitting."
 msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:140
@@ -2034,7 +2026,7 @@ msgid "Unable to add blend. Another blend with this name already exists."
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:14
-msgid "Unable to add fields for the following countries because they already exist"
+msgid "Unable to add rows for the following countries because they already exist"
 msgstr ""
 
 #: src/store/actions.js:81
@@ -2153,6 +2145,11 @@ msgstr ""
 
 #: src/components/common/transitionQuestions/Reinstate.vue:2
 msgid "You are about to reinstate this submission, which will supersede (replace) any previous version."
+msgstr ""
+
+#: src/components/common/dataDefinitions/alerts.js:6
+#: src/components/common/dataDefinitions/alerts.js:16
+msgid "You have unsaved changes. Please save the submission first."
 msgstr ""
 
 #: src/components/art7/Save.vue:7
