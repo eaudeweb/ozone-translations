@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-10 13:05+0000\n"
+"POT-Creation-Date: 2019-04-10 13:11+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -409,10 +409,6 @@ msgstr ""
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:76
 #: src/components/raf/TabsManager.vue:134
 msgid "Close"
-msgstr ""
-
-#: src/components/raf/services/tableRowConstructorService.js:133
-msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
 msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:97
@@ -1344,6 +1340,10 @@ msgstr ""
 #: src/components/hat/services/tableRowConstructorService.js:60
 #: src/components/hat/services/tableRowConstructorService.js:111
 msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
+msgstr ""
+
+#: src/components/raf/services/tableRowConstructorService.js:133
+msgid "Please fill-in column On hand end of year (13)"
 msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:521
