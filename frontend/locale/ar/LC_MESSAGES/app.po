@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-10 10:26+0000\n"
+"POT-Creation-Date: 2019-04-10 10:31+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -1539,19 +1539,16 @@ msgstr ""
 msgid "Quantity of new substance imported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:154
-msgid "Quantity of new substances exported as feedstock"
-msgstr ""
-
 #: src/components/art7/dataDefinitions/form.js:293
 #: src/components/art7/dataDefinitions/labels.js:14
 #: src/components/art7/dataDefinitions/labels.js:49
-msgid "Quantity of new substances imported as feedstock"
-msgstr ""
-
 #: src/components/letter/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:40
-msgid "Quantity of New Substances Imported as Feedstock"
+msgid "Quantity of new substance imported for feedstock uses"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:154
+msgid "Quantity of new substances exported as feedstock"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:101
