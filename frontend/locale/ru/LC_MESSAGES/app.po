@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-09 15:22+0000\n"
+"POT-Creation-Date: 2019-04-10 10:26+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -333,9 +333,9 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
-#: src/components/common/mixins/FormTemplateMixin.vue:164
-#: src/components/common/mixins/FormTemplateMixin.vue:171
-#: src/components/common/mixins/FormTemplateMixin.vue:178
+#: src/components/common/mixins/FormTemplateMixin.vue:163
+#: src/components/common/mixins/FormTemplateMixin.vue:170
+#: src/components/common/mixins/FormTemplateMixin.vue:177
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
@@ -1394,14 +1394,14 @@ msgstr "фиктивный текст"
 msgid "Please confirm"
 msgstr ""
 
+#: src/components/common/mixins/FormTemplateMixin.vue:139
 #: src/components/common/mixins/FormTemplateMixin.vue:140
-#: src/components/common/mixins/FormTemplateMixin.vue:141
 msgid "Please use the form on the right sidebar to add blends"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:889
+#: src/components/art7/FormTemplate.vue:888
+#: src/components/common/mixins/FormTemplateMixin.vue:98
 #: src/components/common/mixins/FormTemplateMixin.vue:99
-#: src/components/common/mixins/FormTemplateMixin.vue:100
 msgid "Please use the form on the right sidebar to add substances"
 msgstr "фиктивный текст"
 
@@ -1980,10 +1980,10 @@ msgstr "фиктивный текст."
 msgid "The values are saved automatically in the table, as you type."
 msgstr "фиктивный текст."
 
+#: src/components/common/mixins/FormTemplateMixin.vue:96
+#: src/components/common/mixins/FormTemplateMixin.vue:137
 #: src/components/common/mixins/FormTemplateMixin.vue:97
 #: src/components/common/mixins/FormTemplateMixin.vue:138
-#: src/components/common/mixins/FormTemplateMixin.vue:98
-#: src/components/common/mixins/FormTemplateMixin.vue:139
 msgid "There are no records to show"
 msgstr "фиктивный текст"
 
@@ -2066,8 +2066,8 @@ msgstr "фиктивный текст"
 msgid "Total quantity imported for all uses must be >= to the sum of individual components for all cumulated rows regarding this substance"
 msgstr "фиктивный текст"
 
-#: src/components/common/mixins/FormTemplateMixin.vue:187
-#: src/components/common/mixins/FormTemplateMixin.vue:194
+#: src/components/common/mixins/FormTemplateMixin.vue:186
+#: src/components/common/mixins/FormTemplateMixin.vue:193
 msgid "Type"
 msgstr "фиктивный текст"
 
