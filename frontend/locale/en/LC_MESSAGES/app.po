@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-10 13:57+0000\n"
+"POT-Creation-Date: 2019-04-10 14:01+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -526,7 +526,7 @@ msgid "Custom blend added successfully."
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:264
-#: src/components/exemption/TabsManager.vue:180
+#: src/components/exemption/TabsManager.vue:213
 #: src/components/hat/TabsManager.vue:219
 #: src/components/letter/TabsManager.vue:177
 #: src/components/raf/TabsManager.vue:220 src/views/Dashboard.vue:558
@@ -2106,7 +2106,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:268
 #: src/components/common/SubmissionHistory.vue:111
-#: src/components/exemption/TabsManager.vue:184
+#: src/components/exemption/TabsManager.vue:217
 #: src/components/hat/TabsManager.vue:223
 #: src/components/letter/TabsManager.vue:180
 #: src/components/raf/TabsManager.vue:223 src/views/Dashboard.vue:395
