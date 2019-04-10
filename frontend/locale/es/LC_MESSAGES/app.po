@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-10 12:56+0000\n"
+"POT-Creation-Date: 2019-04-10 13:05+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -411,8 +411,6 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: src/components/hat/services/tableRowConstructorService.js:60
-#: src/components/hat/services/tableRowConstructorService.js:111
 #: src/components/raf/services/tableRowConstructorService.js:133
 msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
 msgstr ""
@@ -1341,6 +1339,11 @@ msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:132
 msgid "Please fill-in column Facility name or identifier (1)"
+msgstr ""
+
+#: src/components/hat/services/tableRowConstructorService.js:60
+#: src/components/hat/services/tableRowConstructorService.js:111
+msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
 msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:521

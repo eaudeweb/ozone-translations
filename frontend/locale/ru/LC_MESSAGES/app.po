@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-10 12:56+0000\n"
+"POT-Creation-Date: 2019-04-10 13:05+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -423,8 +423,6 @@ msgstr "фиктивный текст"
 msgid "Close"
 msgstr "фиктивный текст"
 
-#: src/components/hat/services/tableRowConstructorService.js:60
-#: src/components/hat/services/tableRowConstructorService.js:111
 #: src/components/raf/services/tableRowConstructorService.js:133
 msgid "Column (3) should not be empty (total production for all uses / captured for all uses for FII)"
 msgstr "фиктивный текст"
@@ -1371,6 +1369,12 @@ msgstr "фиктивный текст"
 #: src/components/art7/services/tableRowConstructorService.js:132
 #, fuzzy
 msgid "Please fill-in column Facility name or identifier (1)"
+msgstr "фиктивный текст"
+
+#: src/components/hat/services/tableRowConstructorService.js:60
+#: src/components/hat/services/tableRowConstructorService.js:111
+#, fuzzy
+msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
 msgstr "фиктивный текст"
 
 #: src/components/art7/services/tableRowConstructorService.js:521
