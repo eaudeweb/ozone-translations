@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-11 16:00+0000\n"
+"POT-Creation-Date: 2019-04-11 16:11+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -1739,15 +1739,9 @@ msgstr ""
 msgid "Saved"
 msgstr ""
 
-#: src/views/pages/Page404.vue:29 src/components/art7/FormTemplate.vue:15
-#: src/components/art7/FormTemplate.vue:194
-#: src/components/art7/FormTemplate.vue:367
-#: src/components/exemption/FormTemplate.vue:11
-#: src/components/hat/FormTemplate.vue:11
-#: src/components/hat/FormTemplate.vue:104
-#: src/components/raf/FormTemplate.vue:11
-#: src/components/raf/FormTemplate.vue:113 src/views/Dashboard.vue:73
-#: src/views/Dashboard.vue:178 src/views/lookupTables/Blends.vue:9
+#: src/views/pages/Page404.vue:29 src/components/raf/FormTemplate.vue:113
+#: src/views/Dashboard.vue:73 src/views/Dashboard.vue:178
+#: src/views/lookupTables/Blends.vue:9
 msgid "Search"
 msgstr ""
 
@@ -2208,6 +2202,16 @@ msgstr ""
 #: src/components/letter/TabsManager.vue:125
 #: src/components/raf/TabsManager.vue:127
 msgid "Submission versions"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:15
+#: src/components/art7/FormTemplate.vue:194
+#: src/components/art7/FormTemplate.vue:367
+#: src/components/exemption/FormTemplate.vue:11
+#: src/components/hat/FormTemplate.vue:11
+#: src/components/hat/FormTemplate.vue:104
+#: src/components/raf/FormTemplate.vue:11
+msgid "Filter"
 msgstr ""
 
 #: src/components/raf/AddParties.vue:8
