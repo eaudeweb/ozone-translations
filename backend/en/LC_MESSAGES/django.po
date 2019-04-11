@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-11 09:39+0300\n"
+"POT-Creation-Date: 2019-04-11 12:43+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -483,35 +483,35 @@ msgstr ""
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1228
+#: ozone/core/api/views.py:1244
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
-#: ozone/core/models/data.py:67 ozone/core/models/data.py:70
+#: ozone/core/models/data.py:68 ozone/core/models/data.py:71
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:78 ozone/core/models/data.py:81
+#: ozone/core/models/data.py:79 ozone/core/models/data.py:82
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:93
+#: ozone/core/models/data.py:94
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:99
+#: ozone/core/models/data.py:100
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:161
+#: ozone/core/models/data.py:162
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:579
+#: ozone/core/models/data.py:723
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:591
+#: ozone/core/models/data.py:735
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
@@ -519,87 +519,87 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:59 ozone/core/models/reporting.py:1214
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1254
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:136
+#: ozone/core/models/reporting.py:138
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:189
+#: ozone/core/models/reporting.py:191
 msgid ""
 "Unable to set reporting channel. Another reporting channel is already set as "
 "default for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:621
+#: ozone/core/models/reporting.py:636
 #, python-brace-format
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:628
+#: ozone/core/models/reporting.py:643
 #, python-brace-format
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:637
+#: ozone/core/models/reporting.py:652
 msgid ""
 "Workflow error. Transition checks not satisfied or you may not have the "
 "necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:739
+#: ozone/core/models/reporting.py:754
 msgid "User do not have permission to change this flag."
 msgstr ""
 
-#: ozone/core/models/reporting.py:796
+#: ozone/core/models/reporting.py:811
 msgid "User do not have permission to change this remark."
 msgstr ""
 
-#: ozone/core/models/reporting.py:952
+#: ozone/core/models/reporting.py:967
 #, python-brace-format
 msgid "Another submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:977
+#: ozone/core/models/reporting.py:992
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:986
+#: ozone/core/models/reporting.py:1001
 msgid ""
 "You cannot create a new version of this submission with this type of "
 "obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:999
+#: ozone/core/models/reporting.py:1014
 msgid ""
 "You cannot create a new version of this submission from a previous period if "
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1192
+#: ozone/core/models/reporting.py:1232
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1207
+#: ozone/core/models/reporting.py:1247
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1343
+#: ozone/core/models/reporting.py:1383
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
 msgstr ""
 
-#: ozone/core/models/substance.py:298
+#: ozone/core/models/substance.py:301
 msgid "Predefined blends composition cannot be changed."
 msgstr ""
 
-#: ozone/core/models/substance.py:337 ozone/core/models/substance.py:340
+#: ozone/core/models/substance.py:340 ozone/core/models/substance.py:343
 msgid "Substance or component name must be set."
 msgstr ""
 
