@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-11 12:43+0300\n"
+"POT-Creation-Date: 2019-04-11 17:07+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -511,11 +511,11 @@ msgstr "фиктивный текст!"
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:723
+#: ozone/core/models/data.py:734
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:735
+#: ozone/core/models/data.py:746
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
@@ -525,7 +525,7 @@ msgstr "фиктивный текст."
 msgid "The end date must be greater than the start date."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1254
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1250
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -606,15 +606,15 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1232
+#: ozone/core/models/reporting.py:1228
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1247
+#: ozone/core/models/reporting.py:1243
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1383
+#: ozone/core/models/reporting.py:1379
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
