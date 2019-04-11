@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-11 14:16+0000\n"
+"POT-Creation-Date: 2019-04-11 16:00+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1443,6 +1443,12 @@ msgstr ""
 msgid "PRODUCTION"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/form.js:387
+#: src/components/art7/dataDefinitions/labels.js:93
+#: src/components/letter/dataDefinitions/labels.js:82
+msgid "Production for BDN for A5 Parties"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:410
 #: src/components/art7/dataDefinitions/form.js:441
 #: src/components/art7/dataDefinitions/labels.js:95
@@ -1454,15 +1460,6 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:92
 #: src/components/letter/dataDefinitions/labels.js:81
 msgid "Production for feedstock uses within your country"
-msgstr ""
-
-#: src/components/art7/dataDefinitions/labels.js:93
-msgid "Production for supply to article 5 countries in accordance with articles 2a 2h and 5"
-msgstr ""
-
-#: src/components/art7/dataDefinitions/form.js:387
-#: src/components/letter/dataDefinitions/labels.js:82
-msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:74
