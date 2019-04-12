@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-12 09:32+0300\n"
+"POT-Creation-Date: 2019-04-12 10:28+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -478,39 +478,39 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:510
+#: ozone/core/api/views.py:508
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1244
+#: ozone/core/api/views.py:1231
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
-#: ozone/core/models/data.py:68 ozone/core/models/data.py:71
+#: ozone/core/models/data.py:67 ozone/core/models/data.py:70
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:79 ozone/core/models/data.py:82
+#: ozone/core/models/data.py:78 ozone/core/models/data.py:81
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:94
+#: ozone/core/models/data.py:93
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:100
+#: ozone/core/models/data.py:99
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:162
+#: ozone/core/models/data.py:161
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:734
+#: ozone/core/models/data.py:733
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:746
+#: ozone/core/models/data.py:745
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
@@ -594,11 +594,11 @@ msgid ""
 "already set as default for "
 msgstr ""
 
-#: ozone/core/models/substance.py:301
+#: ozone/core/models/substance.py:303
 msgid "Predefined blends composition cannot be changed."
 msgstr ""
 
-#: ozone/core/models/substance.py:340 ozone/core/models/substance.py:343
+#: ozone/core/models/substance.py:342 ozone/core/models/substance.py:345
 msgid "Substance or component name must be set."
 msgstr ""
 
@@ -642,28 +642,28 @@ msgid ""
 "substances."
 msgstr ""
 
-#: ozone/core/serializers.py:95
+#: ozone/core/serializers.py:94
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:445 ozone/core/serializers.py:450
+#: ozone/core/serializers.py:444 ozone/core/serializers.py:449
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:949
+#: ozone/core/serializers.py:948
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:960
+#: ozone/core/serializers.py:959
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1188
+#: ozone/core/serializers.py:1180
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1206
+#: ozone/core/serializers.py:1198
 msgid "Specified file id not found for this submission"
 msgstr ""
 
