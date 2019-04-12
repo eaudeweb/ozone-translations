@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-12 18:52+0300\n"
+"POT-Creation-Date: 2019-04-12 22:33+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -28,40 +28,40 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:94
+#: ozone/core/admin.py:69
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr "фиктивный текст! %(username)s фиктивный текст."
 
-#: ozone/core/admin.py:109
+#: ozone/core/admin.py:84
 msgid "ORS"
 msgstr "ORS"
 
-#: ozone/core/admin.py:112
+#: ozone/core/admin.py:87
 msgid "Ozone Reporting System"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:115
+#: ozone/core/admin.py:90
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:288
+#: ozone/core/admin.py:284
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:291
+#: ozone/core/admin.py:287
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:293
+#: ozone/core/admin.py:289
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:299
+#: ozone/core/admin.py:295
 msgid "Login"
 msgstr ""
 
@@ -697,14 +697,6 @@ msgstr ""
 msgid "Specified file id not found for this submission"
 msgstr ""
 
-#: ozone/templates/admin/import_export/change_list_export_item.html:6
-msgid "Export"
-msgstr "фиктивный текст"
-
-#: ozone/templates/admin/import_export/change_list_import_item.html:5
-msgid "Import"
-msgstr "фиктивный текст"
-
 #: ozone/templates/registration/account_activated_email.html:2
 #, python-format
 msgid ""
@@ -767,6 +759,12 @@ msgstr ""
 #: weblate/ozone.py:24
 msgid "Authentication has been forbidden by server."
 msgstr "фиктивный текст."
+
+#~ msgid "Export"
+#~ msgstr "фиктивный текст"
+
+#~ msgid "Import"
+#~ msgstr "фиктивный текст"
 
 #, fuzzy
 #~| msgid "User is not allowed to change this flag"
