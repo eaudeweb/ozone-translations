@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-11 16:11+0000\n"
+"POT-Creation-Date: 2019-04-12 12:20+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -1792,10 +1792,6 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#: src/components/common/dataDefinitions/labels.js:20
-msgid "Subission info"
-msgstr ""
-
 #: src/store/actions.js:72
 msgid "Submission added successfully."
 msgstr ""
@@ -1810,6 +1806,10 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:45
 msgid "Submission format"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:20
+msgid "Submission info"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:210
