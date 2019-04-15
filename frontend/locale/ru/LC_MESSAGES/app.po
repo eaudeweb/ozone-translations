@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-15 12:36+0000\n"
+"POT-Creation-Date: 2019-04-15 13:02+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -212,7 +212,7 @@ msgstr ""
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
 msgstr "фиктивный текст."
 
-#: src/views/lookupTables/ControlledSubstances.vue:82
+#: src/views/lookupTables/ControlledSubstances.vue:83
 msgid "Annex"
 msgstr "фиктивный текст"
 
@@ -474,7 +474,7 @@ msgstr "фиктивный текст"
 msgid "Consumption (imports)"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:166
+#: src/views/lookupTables/ControlledSubstances.vue:167
 msgid "Controlled substances"
 msgstr "фиктивный текст"
 
@@ -883,7 +883,7 @@ msgstr "фиктивный текст"
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:106
+#: src/views/lookupTables/ControlledSubstances.vue:107
 #: src/views/lookupTables/ControlledSubstances.vue:19
 msgid "Formula"
 msgstr "фиктивный текст"
@@ -899,7 +899,7 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
-#: src/views/lookupTables/ControlledSubstances.vue:88
+#: src/views/lookupTables/ControlledSubstances.vue:89
 #: src/views/lookupTables/ControlledSubstances.vue:9
 msgid "Group"
 msgstr "фиктивный текст"
@@ -1091,16 +1091,16 @@ msgid "London Amendment"
 msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:210
-#: src/views/lookupTables/ControlledSubstances.vue:165
+#: src/views/lookupTables/ControlledSubstances.vue:166
 #: src/views/lookupTables/Parties.vue:193
 msgid "Lookup tables"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:124
+#: src/views/lookupTables/ControlledSubstances.vue:125
 msgid "MaxODP"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:118
+#: src/views/lookupTables/ControlledSubstances.vue:119
 msgid "MinODP"
 msgstr "фиктивный текст"
 
@@ -1113,7 +1113,7 @@ msgid "Montreal Protocol"
 msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:140 src/views/lookupTables/Blends.vue:149
-#: src/views/lookupTables/ControlledSubstances.vue:94
+#: src/views/lookupTables/ControlledSubstances.vue:95
 #: src/views/lookupTables/Parties.vue:98
 #: src/views/lookupTables/ControlledSubstances.vue:14
 msgid "Name"
@@ -1218,7 +1218,7 @@ msgstr ""
 msgid "not valid"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:112
+#: src/views/lookupTables/ControlledSubstances.vue:113
 msgid "Number of Isomers"
 msgstr "фиктивный текст"
 
@@ -1228,7 +1228,7 @@ msgstr "фиктивный текст"
 msgid "Obligation"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:100
+#: src/views/lookupTables/ControlledSubstances.vue:101
 msgid "ODP"
 msgstr "фиктивный текст"
 
