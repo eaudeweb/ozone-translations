@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-15 11:54+0000\n"
+"POT-Creation-Date: 2019-04-15 12:36+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1747,7 +1747,7 @@ msgstr ""
 
 #: src/views/pages/Page404.vue:29 src/components/raf/FormTemplate.vue:113
 #: src/views/Dashboard.vue:73 src/views/Dashboard.vue:178
-#: src/views/lookupTables/Blends.vue:9
+#: src/views/lookupTables/Blends.vue:9 src/views/lookupTables/Parties.vue:9
 msgid "Search"
 msgstr ""
 
@@ -2246,10 +2246,6 @@ msgstr ""
 
 #: src/views/Dashboard.vue:146 src/views/Dashboard.vue:255
 msgid "Per page"
-msgstr ""
-
-#: src/views/lookupTables/Parties.vue:9
-msgid "Search by name"
 msgstr ""
 
 #: src/views/pages/Page404.vue:26
