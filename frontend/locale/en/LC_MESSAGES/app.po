@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-12 12:20+0000\n"
+"POT-Creation-Date: 2019-04-15 11:54+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -1355,7 +1355,7 @@ msgstr ""
 msgid "Please fill-in column Total production for all uses (3)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:323
+#: src/components/art7/services/tableRowConstructorService.js:324
 msgid "Please fill-in column Total quantity imported for all uses (3 or 4)"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-12 12:20+0000\n"
+"POT-Creation-Date: 2019-04-15 11:54+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1389,7 +1389,7 @@ msgstr "фиктивный текст"
 msgid "Please fill-in column Total production for all uses (3)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:323
+#: src/components/art7/services/tableRowConstructorService.js:324
 #, fuzzy
 msgid "Please fill-in column Total quantity imported for all uses (3 or 4)"
 msgstr "фиктивный текст"
