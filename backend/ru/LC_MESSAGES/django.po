@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-16 19:02+0300\n"
+"POT-Creation-Date: 2019-04-16 19:08+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -525,36 +525,36 @@ msgstr "фиктивный текст."
 msgid "The end date must be greater than the start date."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1274
+#: ozone/core/models/reporting.py:60 ozone/core/models/reporting.py:1273
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:138
+#: ozone/core/models/reporting.py:137
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:191
+#: ozone/core/models/reporting.py:190
 msgid ""
 "Unable to set reporting channel. Another reporting channel is already set as "
 "default for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:636
+#: ozone/core/models/reporting.py:635
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not exist in this workflow"
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:643
+#: ozone/core/models/reporting.py:642
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not start from current state"
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:652
+#: ozone/core/models/reporting.py:651
 #, fuzzy
 #| msgid ""
 #| "Transition checks not satisfied or you may not have the necessary "
@@ -564,19 +564,19 @@ msgid ""
 "necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:754
+#: ozone/core/models/reporting.py:753
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User do not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:811
+#: ozone/core/models/reporting.py:810
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
 msgid "User do not have permission to change this remark."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:967
+#: ozone/core/models/reporting.py:966
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -584,11 +584,11 @@ msgstr "фиктивный текст"
 msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:992
+#: ozone/core/models/reporting.py:991
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1001
+#: ozone/core/models/reporting.py:1000
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -597,7 +597,7 @@ msgid ""
 "obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1014
+#: ozone/core/models/reporting.py:1013
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -606,19 +606,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1251
+#: ozone/core/models/reporting.py:1250
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1266
+#: ozone/core/models/reporting.py:1265
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1282
+#: ozone/core/models/reporting.py:1281
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1412
+#: ozone/core/models/reporting.py:1411
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
