@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-15 17:03+0000\n"
+"POT-Creation-Date: 2019-04-16 12:44+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -246,6 +246,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:453
 #: src/components/art7/dataDefinitions/form.js:538
 #: src/components/art7/dataDefinitions/form.js:603
+#: src/components/common/AggregationsTable.vue:49
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:154
@@ -320,6 +321,17 @@ msgstr ""
 msgid "B/III"
 msgstr ""
 
+#: src/components/common/AggregationsTable.vue:51
+#: src/components/common/AggregationsTable.vue:54
+#: src/components/common/AggregationsTable.vue:57
+msgid "Baseline"
+msgstr ""
+
+#: src/components/common/AggregationsTable.vue:40
+#, fuzzy
+msgid "BDN Article 5"
+msgstr "фиктивный текст"
+
 #: src/views/lookupTables/Parties.vue:135
 msgid "Beijing Amendment"
 msgstr "фиктивный текст"
@@ -360,6 +372,12 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:68
 msgid "C/IIII"
+msgstr ""
+
+#: src/components/common/AggregationsTable.vue:50
+#: src/components/common/AggregationsTable.vue:53
+#: src/components/common/AggregationsTable.vue:56
+msgid "Calculated"
 msgstr ""
 
 #: src/components/common/TransitionQuestions.vue:15
@@ -410,7 +428,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/FormTemplate.vue:675
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:99
-#: src/components/art7/TabsManager.vue:158
+#: src/components/art7/TabsManager.vue:159
 #: src/components/exemption/FormTemplate.vue:162
 #: src/components/exemption/TabsManager.vue:90
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -467,6 +485,11 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:60
 msgid "Confirmed blanks"
+msgstr "фиктивный текст"
+
+#: src/components/common/AggregationsTable.vue:37
+#, fuzzy
+msgid "Consumption"
 msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:48
@@ -538,7 +561,7 @@ msgstr "фиктивный текст"
 msgid "Custom blend added successfully."
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:264
+#: src/components/art7/TabsManager.vue:267
 #: src/components/exemption/TabsManager.vue:213
 #: src/components/hat/TabsManager.vue:219
 #: src/components/letter/TabsManager.vue:177
@@ -609,7 +632,7 @@ msgstr "фиктивный текст"
 msgid "Delete"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:141
+#: src/components/art7/TabsManager.vue:142
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:116
 #: src/components/letter/TabsManager.vue:115
@@ -1093,6 +1116,12 @@ msgstr "фиктивный текст:"
 msgid "Legend:"
 msgstr "фиктивный текст:"
 
+#: src/components/common/AggregationsTable.vue:52
+#: src/components/common/AggregationsTable.vue:55
+#: src/components/common/AggregationsTable.vue:58
+msgid "Limit"
+msgstr ""
+
 #: src/components/common/Header.vue:32
 msgid "Logout"
 msgstr "фиктивный текст"
@@ -1477,6 +1506,7 @@ msgid "Processing"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:346
+#: src/components/common/AggregationsTable.vue:34
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:141
 msgid "Production"
@@ -1873,7 +1903,7 @@ msgstr "фиктивный текст"
 msgid "Submission info"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:210
+#: src/components/art7/TabsManager.vue:213
 #: src/components/common/SubmissionInfo.vue:30
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
 #: src/components/common/dataDefinitions/tabSubInfo.js:12
@@ -1892,7 +1922,7 @@ msgstr "фиктивный текст"
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:106
+#: src/components/art7/TabsManager.vue:107
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:97
 #: src/components/hat/TabsManager.vue:82
@@ -2176,7 +2206,7 @@ msgstr "фиктивный текст"
 msgid "Validation errors"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:268
+#: src/components/art7/TabsManager.vue:271
 #: src/components/common/SubmissionHistory.vue:111
 #: src/components/exemption/TabsManager.vue:217
 #: src/components/hat/TabsManager.vue:223
@@ -2186,7 +2216,7 @@ msgstr "фиктивный текст"
 msgid "Version"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:133
+#: src/components/art7/TabsManager.vue:134
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:108
 #: src/components/letter/TabsManager.vue:108
@@ -2283,7 +2313,7 @@ msgstr "фиктивный текст"
 msgid "party"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:151
+#: src/components/art7/TabsManager.vue:152
 #: src/components/exemption/TabsManager.vue:126
 #: src/components/hat/TabsManager.vue:126
 #: src/components/letter/TabsManager.vue:125
