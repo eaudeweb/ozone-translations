@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 20:17+0300\n"
+"POT-Creation-Date: 2019-04-16 12:41+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -483,7 +483,7 @@ msgstr ""
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1284
+#: ozone/core/api/views.py:1278
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -507,11 +507,11 @@ msgstr ""
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:730
+#: ozone/core/models/data.py:750
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:742
+#: ozone/core/models/data.py:762
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
@@ -519,7 +519,7 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1251
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1274
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -581,19 +581,19 @@ msgid ""
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1228
+#: ozone/core/models/reporting.py:1251
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1243
+#: ozone/core/models/reporting.py:1266
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1259
+#: ozone/core/models/reporting.py:1282
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1389
+#: ozone/core/models/reporting.py:1412
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
