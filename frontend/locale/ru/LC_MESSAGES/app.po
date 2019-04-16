@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-16 12:44+0000\n"
+"POT-Creation-Date: 2019-04-16 12:56+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -2272,6 +2272,11 @@ msgstr "фиктивный текст"
 #, fuzzy
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr "фиктивный текст?"
+
+#: src/components/common/AggregationsModal.vue:4
+#, fuzzy
+msgid "Aggregation"
+msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:619
 #: src/components/common/form-components/CloneField.vue:14

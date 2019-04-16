@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-16 12:44+0000\n"
+"POT-Creation-Date: 2019-04-16 12:56+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -2195,6 +2195,10 @@ msgstr ""
 
 #: src/components/art7/Save.vue:7
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
+msgstr ""
+
+#: src/components/common/AggregationsModal.vue:4
+msgid "Aggregation"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:619
