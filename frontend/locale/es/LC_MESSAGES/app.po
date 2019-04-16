@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-16 12:56+0000\n"
+"POT-Creation-Date: 2019-04-16 13:14+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -237,7 +237,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:453
 #: src/components/art7/dataDefinitions/form.js:538
 #: src/components/art7/dataDefinitions/form.js:603
-#: src/components/common/AggregationsTable.vue:49
+#: src/components/common/AggregationsTable.vue:50
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:154
@@ -316,7 +316,7 @@ msgstr ""
 msgid "Baseline"
 msgstr ""
 
-#: src/components/common/AggregationsTable.vue:40
+#: src/components/common/AggregationsTable.vue:41
 msgid "BDN Article 5"
 msgstr ""
 
@@ -362,10 +362,14 @@ msgstr ""
 msgid "C/IIII"
 msgstr ""
 
-#: src/components/common/AggregationsTable.vue:50
-#: src/components/common/AggregationsTable.vue:53
-#: src/components/common/AggregationsTable.vue:56
+#: src/components/common/AggregationsTable.vue:52
+#: src/components/common/AggregationsTable.vue:55
+#: src/components/common/AggregationsTable.vue:58
 msgid "Calculated"
+msgstr ""
+
+#: src/components/common/AggregationsModal.vue:2
+msgid "Calculated amounts"
 msgstr ""
 
 #: src/components/common/TransitionQuestions.vue:15
@@ -416,6 +420,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:99
 #: src/components/art7/TabsManager.vue:159
+#: src/components/common/AggregationsModal.vue:6
 #: src/components/exemption/FormTemplate.vue:162
 #: src/components/exemption/TabsManager.vue:90
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -474,7 +479,7 @@ msgstr ""
 msgid "Confirmed blanks"
 msgstr ""
 
-#: src/components/common/AggregationsTable.vue:37
+#: src/components/common/AggregationsTable.vue:38
 msgid "Consumption"
 msgstr ""
 
@@ -1093,9 +1098,9 @@ msgstr ""
 msgid "Legend:"
 msgstr ""
 
-#: src/components/common/AggregationsTable.vue:52
-#: src/components/common/AggregationsTable.vue:55
-#: src/components/common/AggregationsTable.vue:58
+#: src/components/common/AggregationsTable.vue:53
+#: src/components/common/AggregationsTable.vue:56
+#: src/components/common/AggregationsTable.vue:59
 msgid "Limit"
 msgstr ""
 
@@ -1465,7 +1470,7 @@ msgid "Processing"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:346
-#: src/components/common/AggregationsTable.vue:34
+#: src/components/common/AggregationsTable.vue:35
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:141
 msgid "Production"
@@ -2198,7 +2203,7 @@ msgid "You have unsaved data that will be deleted because of the \"No\" selected
 msgstr ""
 
 #: src/components/common/AggregationsModal.vue:4
-msgid "Aggregation"
+msgid "Calculated production and consumption"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:619
