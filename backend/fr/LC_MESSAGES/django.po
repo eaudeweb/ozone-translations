@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-16 19:49+0300\n"
+"POT-Creation-Date: 2019-04-16 20:05+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -462,19 +462,19 @@ msgstr ""
 msgid "2.2 Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:326
+#: ozone/core/api/export_pdf/util.py:331
 msgid "Comments (Party)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:328
+#: ozone/core/api/export_pdf/util.py:333
 msgid "No comments (party)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:330
+#: ozone/core/api/export_pdf/util.py:335
 msgid "Comments (Secretariat)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:332
+#: ozone/core/api/export_pdf/util.py:337
 msgid "No comments (secretariat)"
 msgstr ""
 
