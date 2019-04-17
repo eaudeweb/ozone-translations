@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 10:54+0000\n"
+"POT-Creation-Date: 2019-04-17 13:23+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -272,7 +272,7 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:44
+#: src/components/common/SubmissionStatus.vue:40
 #: src/components/exemption/dataDefinitions/form.js:53
 #: src/components/exemption/dataDefinitions/form.js:54
 #: src/components/exemption/dataDefinitions/form.js:70
@@ -287,8 +287,8 @@ msgstr ""
 msgid "Article 7"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:57
-#: src/components/common/SubmissionStatus.vue:65
+#: src/components/common/SubmissionStatus.vue:61
+#: src/components/common/SubmissionStatus.vue:67
 msgid "at"
 msgstr ""
 
@@ -528,7 +528,7 @@ msgid "Create submission"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:114
-#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:401
+#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:401
 #: src/views/Dashboard.vue:442
 msgid "Created by"
 msgstr ""
@@ -1072,7 +1072,7 @@ msgstr ""
 msgid "Laboratory and analytical"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:63
+#: src/components/common/SubmissionStatus.vue:65
 msgid "Last changed by"
 msgstr ""
 
@@ -1224,13 +1224,13 @@ msgstr ""
 msgid "Nonparty"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:51
+#: src/components/common/SubmissionStatus.vue:47
 #: src/components/exemption/dataDefinitions/form.js:71
 msgid "Not approved"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:23
-msgid "not valid"
+#: src/components/common/SubmissionStatus.vue:19
+msgid "Not valid"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:111
@@ -1838,6 +1838,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:558
 #: src/components/art7/dataDefinitions/form.js:639
 #: src/components/art7/dataDefinitions/form.js:759
+#: src/components/common/SubmissionStatus.vue:51
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
 #: src/components/hat/dataDefinitions/form.js:182
@@ -1954,11 +1955,8 @@ msgstr ""
 msgid "subtitle............"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:32
-msgid "superseded"
-msgstr ""
-
 #: src/components/common/SubmissionHistory.vue:83
+#: src/components/common/SubmissionStatus.vue:28
 #: src/components/common/dataDefinitions/labels.js:55
 msgid "Superseded"
 msgstr ""
@@ -2139,12 +2137,12 @@ msgstr ""
 msgid "User profile"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:16
 #: src/components/common/dataDefinitions/labels.js:46
 msgid "valid"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:77
+#: src/components/common/SubmissionStatus.vue:12
 #: src/components/common/dataDefinitions/labels.js:59
 msgid "Valid"
 msgstr ""
@@ -2157,7 +2155,8 @@ msgstr ""
 msgid "Validation errors"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:111 src/views/Dashboard.vue:395
+#: src/components/common/SubmissionHistory.vue:111
+#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:395
 #: src/views/Dashboard.vue:438
 msgid "Version"
 msgstr ""
@@ -2248,13 +2247,13 @@ msgstr ""
 msgid "Annex groups"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:57
-#: src/components/common/SubmissionStatus.vue:65
+#: src/components/common/SubmissionStatus.vue:61
+#: src/components/common/SubmissionStatus.vue:67
 msgid "secretariat"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:57
-#: src/components/common/SubmissionStatus.vue:65
+#: src/components/common/SubmissionStatus.vue:61
+#: src/components/common/SubmissionStatus.vue:67
 msgid "party"
 msgstr ""
 
