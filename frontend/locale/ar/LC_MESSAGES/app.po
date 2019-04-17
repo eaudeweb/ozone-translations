@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-16 16:52+0000\n"
+"POT-Creation-Date: 2019-04-17 07:11+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -244,6 +244,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:154
+#: src/views/lookupTables/Consumption.vue:77
 msgid "Annex/Group"
 msgstr ""
 
@@ -316,6 +317,7 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:52
 #: src/components/common/AggregationsTable.vue:55
 #: src/components/common/AggregationsTable.vue:58
+#: src/views/lookupTables/Consumption.vue:82
 msgid "Baseline"
 msgstr ""
 
@@ -404,6 +406,7 @@ msgstr ""
 
 #: src/views/Dashboard.vue:105 src/views/Dashboard.vue:210
 #: src/views/lookupTables/Blends.vue:47
+#: src/views/lookupTables/Consumption.vue:24
 #: src/views/lookupTables/ControlledSubstances.vue:30
 msgid "Clear"
 msgstr ""
@@ -481,6 +484,7 @@ msgid "Confirmed blanks"
 msgstr ""
 
 #: src/components/common/AggregationsTable.vue:39
+#: src/views/lookupTables/Consumption.vue:4
 msgid "Consumption"
 msgstr ""
 
@@ -1098,7 +1102,12 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:54
 #: src/components/common/AggregationsTable.vue:57
 #: src/components/common/AggregationsTable.vue:60
+#: src/views/lookupTables/Consumption.vue:80
 msgid "Limit"
+msgstr ""
+
+#: src/views/lookupTables/Consumption.vue:79
+msgid "Limit type"
 msgstr ""
 
 #: src/components/common/Header.vue:32
@@ -1324,8 +1333,9 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
 #: src/views/Dashboard.vue:377 src/views/Dashboard.vue:393
 #: src/views/Dashboard.vue:421 src/views/Dashboard.vue:436
-#: src/views/UserProfile.vue:36 src/views/Dashboard.vue:39
-#: src/views/Dashboard.vue:84 src/views/Dashboard.vue:188
+#: src/views/UserProfile.vue:36 src/views/lookupTables/Consumption.vue:76
+#: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
+#: src/views/Dashboard.vue:188
 msgid "Party"
 msgstr ""
 
@@ -1730,12 +1740,20 @@ msgstr ""
 msgid "Remarks (Secretariat)"
 msgstr ""
 
+#: src/views/lookupTables/Consumption.vue:81
+msgid "Reported"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:38
 msgid "Reporting channel"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:101
 msgid "Reporting officer"
+msgstr ""
+
+#: src/views/lookupTables/Consumption.vue:78
+msgid "Reporting period"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:24
@@ -2294,6 +2312,7 @@ msgid "To"
 msgstr ""
 
 #: src/views/Dashboard.vue:146 src/views/Dashboard.vue:255
+#: src/views/lookupTables/Consumption.vue:57
 msgid "Per page"
 msgstr ""
 
