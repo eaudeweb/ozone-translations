@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 16:49+0000\n"
+"POT-Creation-Date: 2019-04-17 17:05+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -437,7 +437,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/FormTemplate.vue:675
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:99
-#: src/components/art7/TabsManager.vue:159
+#: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:9
 #: src/components/exemption/FormTemplate.vue:162
 #: src/components/exemption/TabsManager.vue:62
@@ -639,7 +639,7 @@ msgstr "фиктивный текст"
 msgid "Delete"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:142
+#: src/components/art7/TabsManager.vue:143
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:116
 #: src/components/letter/TabsManager.vue:115
@@ -1919,7 +1919,7 @@ msgstr "фиктивный текст"
 msgid "Submission edited. Please save before closing the form"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:265
+#: src/components/art7/TabsManager.vue:266
 #: src/components/exemption/TabsManager.vue:184
 #: src/components/hat/TabsManager.vue:222
 #: src/components/letter/TabsManager.vue:176
@@ -1938,7 +1938,7 @@ msgstr "фиктивный текст"
 msgid "Submission info"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:213
+#: src/components/art7/TabsManager.vue:214
 #: src/components/common/SubmissionInfo.vue:6
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
 #: src/components/letter/TabsManager.vue:33
@@ -1960,7 +1960,7 @@ msgstr "фиктивный текст"
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:107
+#: src/components/art7/TabsManager.vue:120
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:69
 #: src/components/hat/TabsManager.vue:82
@@ -2245,7 +2245,7 @@ msgstr "фиктивный текст"
 msgid "Version"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:134
+#: src/components/art7/TabsManager.vue:111
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:108
 #: src/components/letter/TabsManager.vue:108
@@ -2342,7 +2342,7 @@ msgstr "фиктивный текст"
 msgid "party"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:152
+#: src/components/art7/TabsManager.vue:153
 #: src/components/exemption/TabsManager.vue:98
 #: src/components/hat/TabsManager.vue:126
 #: src/components/letter/TabsManager.vue:125
