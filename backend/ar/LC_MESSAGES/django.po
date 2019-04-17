@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-17 18:06+0300\n"
+"POT-Creation-Date: 2019-04-17 18:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -679,7 +679,7 @@ msgstr ""
 #: ozone/templates/registration/account_activated_email.html:2
 #, python-format
 msgid ""
-"User %(account)s has successfully activate the account and can now begin "
+"User %(account)s has successfully activated the account and can now begin "
 "using %(site_name)s."
 msgstr ""
 
