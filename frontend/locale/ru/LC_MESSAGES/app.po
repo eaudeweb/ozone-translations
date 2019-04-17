@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 15:38+0000\n"
+"POT-Creation-Date: 2019-04-17 15:55+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -274,7 +274,7 @@ msgstr "фиктивный текст"
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:43
+#: src/components/common/dataDefinitions/tabSubInfo.js:46
 msgid "API"
 msgstr "фиктивный текст"
 
@@ -603,7 +603,7 @@ msgid "Date"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:42
-#: src/components/common/dataDefinitions/tabSubInfo.js:117
+#: src/components/common/dataDefinitions/tabSubInfo.js:122
 msgid "Date of submission"
 msgstr "фиктивный текст"
 
@@ -730,12 +730,12 @@ msgstr "фиктивный %{name} текст"
 msgid "Edit %{name} substance"
 msgstr "фиктивный %{name} текст"
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:40
+#: src/components/common/dataDefinitions/tabSubInfo.js:43
 #: src/views/UserProfile.vue:10
 msgid "Email"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:109
+#: src/components/common/dataDefinitions/tabSubInfo.js:114
 msgid "Email/Address"
 msgstr ""
 
@@ -1107,7 +1107,7 @@ msgstr "фиктивный текст"
 msgid "Last Modified"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:41
+#: src/components/common/dataDefinitions/tabSubInfo.js:44
 msgid "Legacy"
 msgstr "фиктивный текст"
 
@@ -1335,7 +1335,7 @@ msgstr "фиктивный текст"
 msgid "Ozone depletig substances"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:42
+#: src/components/common/dataDefinitions/tabSubInfo.js:45
 msgid "Paper"
 msgstr "фиктивный текст"
 
@@ -1783,7 +1783,7 @@ msgstr "фиктивный текст"
 msgid "Reporting channel"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:101
+#: src/components/common/dataDefinitions/tabSubInfo.js:106
 #, fuzzy
 msgid "Reporting officer"
 msgstr "фиктивный текст"
@@ -1797,10 +1797,10 @@ msgstr "фиктивный текст"
 msgid "Reporting Period"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:245
-#: src/components/common/dataDefinitions/tabSubInfo.js:100
-#: src/components/common/dataDefinitions/tabSubInfo.js:107
-#: src/components/common/dataDefinitions/tabSubInfo.js:108
+#: src/components/common/SubmissionInfo.vue:249
+#: src/components/common/dataDefinitions/tabSubInfo.js:105
+#: src/components/common/dataDefinitions/tabSubInfo.js:112
+#: src/components/common/dataDefinitions/tabSubInfo.js:113
 msgid "Required"
 msgstr ""
 
@@ -2021,7 +2021,7 @@ msgstr ""
 msgid "Superseded"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:91
+#: src/components/common/dataDefinitions/tabSubInfo.js:94
 msgid "The date indicated on the submitted document"
 msgstr ""
 
@@ -2254,7 +2254,7 @@ msgstr "фиктивный текст"
 msgid "View"
 msgstr "фиктивный текст"
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:39
+#: src/components/common/dataDefinitions/tabSubInfo.js:42
 msgid "Web form"
 msgstr "фиктивный текст"
 
