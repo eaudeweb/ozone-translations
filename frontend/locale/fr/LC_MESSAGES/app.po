@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 15:06+0000\n"
+"POT-Creation-Date: 2019-04-17 15:38+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1865,11 +1865,11 @@ msgstr ""
 msgid "Submission edited. Please save before closing the form"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:261
+#: src/components/art7/TabsManager.vue:265
 #: src/components/exemption/TabsManager.vue:184
-#: src/components/hat/TabsManager.vue:218
+#: src/components/hat/TabsManager.vue:222
 #: src/components/letter/TabsManager.vue:176
-#: src/components/raf/TabsManager.vue:219
+#: src/components/raf/TabsManager.vue:223
 msgid "submission for"
 msgstr ""
 
