@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 07:11+0000\n"
+"POT-Creation-Date: 2019-04-17 10:24+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -216,7 +216,7 @@ msgstr ""
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
 msgstr "фиктивный текст."
 
-#: src/views/lookupTables/ControlledSubstances.vue:83
+#: src/views/lookupTables/ControlledSubstances.vue:81
 msgid "Annex"
 msgstr "фиктивный текст"
 
@@ -254,7 +254,7 @@ msgstr "фиктивный текст"
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:154
-#: src/views/lookupTables/Consumption.vue:77
+#: src/views/lookupTables/Consumption.vue:74
 #, fuzzy
 msgid "Annex/Group"
 msgstr "фиктивный текст"
@@ -290,7 +290,7 @@ msgstr "фиктивный текст."
 msgid "Approved"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:107
+#: src/views/lookupTables/Parties.vue:105
 msgid "Article 5 party"
 msgstr "фиктивный текст"
 
@@ -329,7 +329,7 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:52
 #: src/components/common/AggregationsTable.vue:55
 #: src/components/common/AggregationsTable.vue:58
-#: src/views/lookupTables/Consumption.vue:82
+#: src/views/lookupTables/Consumption.vue:79
 msgid "Baseline"
 msgstr ""
 
@@ -338,7 +338,7 @@ msgstr ""
 msgid "BDN Article 5"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:135
+#: src/views/lookupTables/Parties.vue:133
 msgid "Beijing Amendment"
 msgstr "фиктивный текст"
 
@@ -362,7 +362,8 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:363
 #: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/hat/FormTemplate.vue:99 src/views/lookupTables/Blends.vue:4
+#: src/components/hat/FormTemplate.vue:99
+#: src/views/lookupTables/Blends.vue:204
 msgid "Blends"
 msgstr "фиктивный текст"
 
@@ -418,9 +419,9 @@ msgid "Checked blanks"
 msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:105 src/views/Dashboard.vue:210
-#: src/views/lookupTables/Blends.vue:47
-#: src/views/lookupTables/Consumption.vue:24
-#: src/views/lookupTables/ControlledSubstances.vue:30
+#: src/views/lookupTables/Blends.vue:43
+#: src/views/lookupTables/Consumption.vue:21
+#: src/views/lookupTables/ControlledSubstances.vue:28
 msgid "Clear"
 msgstr "фиктивный текст"
 
@@ -485,7 +486,7 @@ msgstr "фиктивный текст"
 msgid "Comments (Secretariat)"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:141 src/views/lookupTables/Blends.vue:23
+#: src/views/lookupTables/Blends.vue:136 src/views/lookupTables/Blends.vue:19
 msgid "Components"
 msgstr "фиктивный текст"
 
@@ -498,7 +499,7 @@ msgid "Confirmed blanks"
 msgstr "фиктивный текст"
 
 #: src/components/common/AggregationsTable.vue:39
-#: src/views/lookupTables/Consumption.vue:4
+#: src/views/lookupTables/Consumption.vue:165
 #, fuzzy
 msgid "Consumption"
 msgstr "фиктивный текст"
@@ -507,11 +508,11 @@ msgstr "фиктивный текст"
 msgid "Consumption (imports)"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:4
+#: src/views/lookupTables/ControlledSubstances.vue:163
 msgid "Controlled substances"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:127
+#: src/views/lookupTables/Parties.vue:125
 msgid "Copenhagen Amendment"
 msgstr "фиктивный текст"
 
@@ -777,7 +778,7 @@ msgstr "фиктивный текст"
 msgid "Essential use, other than L&A"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:103
+#: src/views/lookupTables/Parties.vue:101
 msgid "EU Member"
 msgstr "фиктивный текст"
 
@@ -924,8 +925,8 @@ msgstr "фиктивный текст"
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:107
-#: src/views/lookupTables/ControlledSubstances.vue:19
+#: src/views/lookupTables/ControlledSubstances.vue:105
+#: src/views/lookupTables/ControlledSubstances.vue:17
 msgid "Formula"
 msgstr "фиктивный текст"
 
@@ -940,8 +941,8 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
-#: src/views/lookupTables/ControlledSubstances.vue:89
-#: src/views/lookupTables/ControlledSubstances.vue:9
+#: src/views/lookupTables/ControlledSubstances.vue:87
+#: src/views/lookupTables/ControlledSubstances.vue:7
 msgid "Group"
 msgstr "фиктивный текст"
 
@@ -950,7 +951,7 @@ msgid "Has blanks"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:44
-#: src/views/lookupTables/Parties.vue:111
+#: src/views/lookupTables/Parties.vue:109
 msgid "HAT"
 msgstr "фиктивный текст"
 
@@ -1078,7 +1079,7 @@ msgstr "фиктивный текст"
 msgid "Invalid"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:139
+#: src/views/lookupTables/Parties.vue:137
 msgid "Kigali Amendment"
 msgstr "фиктивный текст"
 
@@ -1126,11 +1127,11 @@ msgstr "фиктивный текст:"
 #: src/components/common/AggregationsTable.vue:54
 #: src/components/common/AggregationsTable.vue:57
 #: src/components/common/AggregationsTable.vue:60
-#: src/views/lookupTables/Consumption.vue:80
+#: src/views/lookupTables/Consumption.vue:77
 msgid "Limit"
 msgstr ""
 
-#: src/views/lookupTables/Consumption.vue:79
+#: src/views/lookupTables/Consumption.vue:76
 msgid "Limit type"
 msgstr ""
 
@@ -1138,45 +1139,30 @@ msgstr ""
 msgid "Logout"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:123
+#: src/views/lookupTables/Parties.vue:121
 msgid "London Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:209
-#, fuzzy
-msgid "Lookup tables for blends"
-msgstr "фиктивный текст"
-
-#: src/views/lookupTables/ControlledSubstances.vue:165
-#, fuzzy
-msgid "Lookup tables for controlled substances"
-msgstr "фиктивный текст"
-
-#: src/views/lookupTables/Parties.vue:193
-#, fuzzy
-msgid "Lookup tables for parties"
-msgstr "фиктивный текст"
-
-#: src/views/lookupTables/ControlledSubstances.vue:125
+#: src/views/lookupTables/ControlledSubstances.vue:123
 msgid "MaxODP"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:119
+#: src/views/lookupTables/ControlledSubstances.vue:117
 msgid "MinODP"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:131
+#: src/views/lookupTables/Parties.vue:129
 msgid "Montreal Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:119
+#: src/views/lookupTables/Parties.vue:117
 msgid "Montreal Protocol"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:139 src/views/lookupTables/Blends.vue:148
-#: src/views/lookupTables/ControlledSubstances.vue:95
-#: src/views/lookupTables/Parties.vue:98
-#: src/views/lookupTables/ControlledSubstances.vue:14
+#: src/views/lookupTables/Blends.vue:134 src/views/lookupTables/Blends.vue:143
+#: src/views/lookupTables/ControlledSubstances.vue:93
+#: src/views/lookupTables/Parties.vue:96
+#: src/views/lookupTables/ControlledSubstances.vue:12
 msgid "Name"
 msgstr "фиктивный текст"
 
@@ -1279,7 +1265,7 @@ msgstr ""
 msgid "not valid"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:113
+#: src/views/lookupTables/ControlledSubstances.vue:111
 msgid "Number of Isomers"
 msgstr "фиктивный текст"
 
@@ -1289,7 +1275,7 @@ msgstr "фиктивный текст"
 msgid "Obligation"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:101
+#: src/views/lookupTables/ControlledSubstances.vue:99
 msgid "ODP"
 msgstr "фиктивный текст"
 
@@ -1325,7 +1311,7 @@ msgstr "фиктивный текст"
 msgid "Other"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:143
+#: src/views/lookupTables/Blends.vue:138
 msgid "Other Names"
 msgstr "фиктивный текст"
 
@@ -1357,7 +1343,7 @@ msgstr "фиктивный текст"
 msgid "Paper"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:4
+#: src/views/lookupTables/Parties.vue:191
 msgid "Parties"
 msgstr "фиктивный текст"
 
@@ -1365,7 +1351,7 @@ msgstr "фиктивный текст"
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
 #: src/views/Dashboard.vue:377 src/views/Dashboard.vue:393
 #: src/views/Dashboard.vue:421 src/views/Dashboard.vue:436
-#: src/views/UserProfile.vue:36 src/views/lookupTables/Consumption.vue:76
+#: src/views/UserProfile.vue:36 src/views/lookupTables/Consumption.vue:73
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
 #: src/views/Dashboard.vue:188
 msgid "Party"
@@ -1389,7 +1375,7 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:99
 #: src/components/raf/dataDefinitions/labels.js:9
-#: src/views/lookupTables/Blends.vue:151
+#: src/views/lookupTables/Blends.vue:146
 msgid "Percentage"
 msgstr "фиктивный текст"
 
@@ -1788,7 +1774,7 @@ msgstr "фиктивный текст"
 msgid "Remarks (Secretariat)"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Consumption.vue:81
+#: src/views/lookupTables/Consumption.vue:78
 #, fuzzy
 msgid "Reported"
 msgstr "фиктивный текст"
@@ -1802,7 +1788,7 @@ msgstr "фиктивный текст"
 msgid "Reporting officer"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Consumption.vue:78
+#: src/views/lookupTables/Consumption.vue:75
 #, fuzzy
 msgid "Reporting period"
 msgstr "фиктивный текст"
@@ -1856,8 +1842,8 @@ msgid "Saved"
 msgstr ""
 
 #: src/views/pages/Page404.vue:29 src/views/Dashboard.vue:73
-#: src/views/Dashboard.vue:178 src/views/lookupTables/Blends.vue:9
-#: src/views/lookupTables/Parties.vue:9
+#: src/views/Dashboard.vue:178 src/views/lookupTables/Blends.vue:5
+#: src/views/lookupTables/Parties.vue:7
 msgid "Search"
 msgstr "фиктивный текст"
 
@@ -1887,7 +1873,7 @@ msgstr "фиктивный текст"
 msgid "Show all versions"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:32
+#: src/views/lookupTables/Blends.vue:28
 msgid "Sort"
 msgstr "фиктивный текст"
 
@@ -2262,7 +2248,7 @@ msgstr "фиктивный текст"
 msgid "Versions"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:115
+#: src/views/lookupTables/Parties.vue:113
 msgid "Vienna Convention"
 msgstr "фиктивный текст"
 
@@ -2398,7 +2384,7 @@ msgid "To"
 msgstr ""
 
 #: src/views/Dashboard.vue:146 src/views/Dashboard.vue:255
-#: src/views/lookupTables/Consumption.vue:57
+#: src/views/lookupTables/Consumption.vue:54
 msgid "Per page"
 msgstr "фиктивный текст"
 
