@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 16:42+0000\n"
+"POT-Creation-Date: 2019-04-17 16:49+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -324,10 +324,6 @@ msgstr ""
 msgid "Baseline"
 msgstr ""
 
-#: src/components/common/AggregationsTable.vue:42
-msgid "BDN Article 5"
-msgstr ""
-
 #: src/views/lookupTables/Parties.vue:133
 msgid "Beijing Amendment"
 msgstr ""
@@ -379,6 +375,10 @@ msgstr ""
 msgid "Calculated amounts"
 msgstr ""
 
+#: src/components/common/AggregationsModal.vue:5
+msgid "Calculated production and consumption"
+msgstr ""
+
 #: src/components/common/TransitionQuestions.vue:15
 #: src/components/common/form-components/Add.vue:50
 #: src/components/common/form-components/AddBlend.vue:144
@@ -428,7 +428,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:99
 #: src/components/art7/TabsManager.vue:159
-#: src/components/common/AggregationsModal.vue:6
+#: src/components/common/AggregationsModal.vue:9
 #: src/components/exemption/FormTemplate.vue:162
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -1482,6 +1482,10 @@ msgstr ""
 msgid "PRODUCTION"
 msgstr ""
 
+#: src/components/common/AggregationsTable.vue:42
+msgid "Production allowance for BDN of Article 5 Parties"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:386
 #: src/components/art7/dataDefinitions/labels.js:93
 #: src/components/letter/dataDefinitions/labels.js:82
@@ -2225,10 +2229,6 @@ msgstr ""
 
 #: src/components/art7/Save.vue:7
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
-msgstr ""
-
-#: src/components/common/AggregationsModal.vue:4
-msgid "Calculated production and consumption"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:619

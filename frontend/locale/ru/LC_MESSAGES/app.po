@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 16:42+0000\n"
+"POT-Creation-Date: 2019-04-17 16:49+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -333,11 +333,6 @@ msgstr ""
 msgid "Baseline"
 msgstr ""
 
-#: src/components/common/AggregationsTable.vue:42
-#, fuzzy
-msgid "BDN Article 5"
-msgstr "фиктивный текст"
-
 #: src/views/lookupTables/Parties.vue:133
 msgid "Beijing Amendment"
 msgstr "фиктивный текст"
@@ -387,6 +382,10 @@ msgstr ""
 
 #: src/components/common/AggregationsModal.vue:2
 msgid "Calculated amounts"
+msgstr ""
+
+#: src/components/common/AggregationsModal.vue:5
+msgid "Calculated production and consumption"
 msgstr ""
 
 #: src/components/common/TransitionQuestions.vue:15
@@ -439,7 +438,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:99
 #: src/components/art7/TabsManager.vue:159
-#: src/components/common/AggregationsModal.vue:6
+#: src/components/common/AggregationsModal.vue:9
 #: src/components/exemption/FormTemplate.vue:162
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -1518,6 +1517,10 @@ msgstr "фиктивный текст"
 msgid "PRODUCTION"
 msgstr "фиктивный текст"
 
+#: src/components/common/AggregationsTable.vue:42
+msgid "Production allowance for BDN of Article 5 Parties"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:386
 #: src/components/art7/dataDefinitions/labels.js:93
 #: src/components/letter/dataDefinitions/labels.js:82
@@ -2298,10 +2301,6 @@ msgstr "фиктивный текст"
 #, fuzzy
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr "фиктивный текст?"
-
-#: src/components/common/AggregationsModal.vue:4
-msgid "Calculated production and consumption"
-msgstr ""
 
 #: src/components/art7/FormTemplate.vue:619
 #: src/components/common/form-components/CloneField.vue:14
