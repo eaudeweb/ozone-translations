@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-17 10:10+0300\n"
+"POT-Creation-Date: 2019-04-17 10:32+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -669,6 +669,10 @@ msgstr ""
 
 #: ozone/core/serializers.py:1217
 msgid "Specified file id not found for this submission"
+msgstr ""
+
+#: ozone/templates/admin/login.html:24
+msgid "Ozone Secretariat reporting tool"
 msgstr ""
 
 #: ozone/templates/registration/account_activated_email.html:2
