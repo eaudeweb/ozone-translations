@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 15:55+0000\n"
+"POT-Creation-Date: 2019-04-17 16:42+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -115,7 +115,7 @@ msgstr ""
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 
-#: src/components/common/Files.vue:75
+#: src/components/common/Files.vue:73
 msgid "Allowed files extensions:"
 msgstr ""
 
@@ -415,7 +415,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#: src/components/common/Files.vue:96
+#: src/components/common/Files.vue:94
 msgid "Click to browse files"
 msgstr ""
 
@@ -683,7 +683,7 @@ msgstr ""
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr ""
 
-#: src/components/common/Files.vue:98
+#: src/components/common/Files.vue:96
 msgid "Download"
 msgstr ""
 
@@ -809,7 +809,7 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/components/common/Files.vue:97
+#: src/components/common/Files.vue:95
 msgid "File not uploaded yet"
 msgstr ""
 
@@ -1825,6 +1825,10 @@ msgstr ""
 msgid "select at least one country for each substance before adding."
 msgstr ""
 
+#: src/components/common/Files.vue:20
+msgid "Selected for upload:"
+msgstr ""
+
 #: src/views/Dashboard.vue:170
 msgid "Show all versions"
 msgstr ""
@@ -2128,7 +2132,7 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr ""
 
-#: src/components/common/Files.vue:72
+#: src/components/common/Files.vue:70
 msgid "Upload files"
 msgstr ""
 
