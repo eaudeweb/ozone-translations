@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 14:38+0000\n"
+"POT-Creation-Date: 2019-04-17 15:06+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:573
 #: src/components/exemption/FormTemplate.vue:120
-#: src/components/raf/FormTemplate.vue:212
+#: src/components/raf/FormTemplate.vue:210
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
 
@@ -397,7 +397,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:583
 #: src/components/exemption/FormTemplate.vue:130
-#: src/components/raf/FormTemplate.vue:222
+#: src/components/raf/FormTemplate.vue:220
 msgid "Change substance"
 msgstr ""
 
@@ -432,7 +432,7 @@ msgstr ""
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
 #: src/components/hat/TabsManager.vue:133
 #: src/components/letter/TabsManager.vue:83
-#: src/components/raf/FormTemplate.vue:311
+#: src/components/raf/FormTemplate.vue:309
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:76
 #: src/components/raf/TabsManager.vue:134
 msgid "Close"
@@ -704,13 +704,13 @@ msgid "Edit"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:566
-#: src/components/raf/FormTemplate.vue:205
+#: src/components/raf/FormTemplate.vue:203
 msgid "Edit %{name} blend"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:562
 #: src/components/exemption/FormTemplate.vue:113
-#: src/components/raf/FormTemplate.vue:201
+#: src/components/raf/FormTemplate.vue:199
 msgid "Edit %{name} substance"
 msgstr ""
 
@@ -1247,7 +1247,7 @@ msgstr ""
 msgid "ODP"
 msgstr ""
 
-#: src/components/raf/FormTemplate.vue:435
+#: src/components/raf/FormTemplate.vue:433
 #: src/components/raf/dataDefinitions/form.js:109
 #: src/components/raf/dataDefinitions/labels.js:29
 msgid "On hand end of year"
@@ -1975,7 +1975,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:578
 #: src/components/exemption/FormTemplate.vue:125
-#: src/components/raf/FormTemplate.vue:217
+#: src/components/raf/FormTemplate.vue:215
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
@@ -2221,7 +2221,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:619
 #: src/components/common/form-components/CloneField.vue:14
-#: src/components/raf/FormTemplate.vue:285
+#: src/components/raf/FormTemplate.vue:283
 msgid "Countries"
 msgstr ""
 
@@ -2282,7 +2282,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:593
 #: src/components/exemption/FormTemplate.vue:140
-#: src/components/raf/FormTemplate.vue:232
+#: src/components/raf/FormTemplate.vue:230
 msgid "Select substance"
 msgstr ""
 
