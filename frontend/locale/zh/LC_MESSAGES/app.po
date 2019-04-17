@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 10:24+0000\n"
+"POT-Creation-Date: 2019-04-17 10:50+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -427,7 +427,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:159
 #: src/components/common/AggregationsModal.vue:6
 #: src/components/exemption/FormTemplate.vue:162
-#: src/components/exemption/TabsManager.vue:90
+#: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
 #: src/components/hat/TabsManager.vue:133
@@ -890,17 +890,14 @@ msgstr ""
 msgid "For feedstock use in your country"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:62
 #: src/components/letter/TabsManager.vue:55
 msgid "Form is curently being saved"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:66
 #: src/components/letter/TabsManager.vue:59
 msgid "Form save failed. Please check the validation"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:70
 #: src/components/letter/TabsManager.vue:63
 msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
@@ -1095,7 +1092,6 @@ msgstr ""
 msgid "Legend"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:56
 #: src/components/letter/TabsManager.vue:49
 msgid "Legend:"
 msgstr ""
@@ -1859,7 +1855,7 @@ msgid "Submission edited. Please save before closing the form"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:261
-#: src/components/exemption/TabsManager.vue:212
+#: src/components/exemption/TabsManager.vue:184
 #: src/components/hat/TabsManager.vue:218
 #: src/components/letter/TabsManager.vue:176
 #: src/components/raf/TabsManager.vue:219
@@ -1896,7 +1892,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:107
 #: src/components/common/dataDefinitions/labels.js:9
-#: src/components/exemption/TabsManager.vue:97
+#: src/components/exemption/TabsManager.vue:69
 #: src/components/hat/TabsManager.vue:82
 #: src/components/letter/TabsManager.vue:90
 #: src/components/letter/dataDefinitions/labels.js:122
@@ -1967,7 +1963,6 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:76
 #: src/components/letter/TabsManager.vue:69
 msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
 msgstr ""
@@ -2260,7 +2255,7 @@ msgid "party"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:152
-#: src/components/exemption/TabsManager.vue:126
+#: src/components/exemption/TabsManager.vue:98
 #: src/components/hat/TabsManager.vue:126
 #: src/components/letter/TabsManager.vue:125
 #: src/components/raf/TabsManager.vue:127
