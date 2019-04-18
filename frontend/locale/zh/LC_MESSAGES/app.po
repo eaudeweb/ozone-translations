@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 11:06+0000\n"
+"POT-Creation-Date: 2019-04-18 11:36+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -108,8 +108,8 @@ msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:566
-#: src/components/exemption/FormTemplate.vue:120
-#: src/components/raf/FormTemplate.vue:210
+#: src/components/exemption/FormTemplate.vue:116
+#: src/components/raf/FormTemplate.vue:206
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
 
@@ -397,8 +397,8 @@ msgid "Captured for feedstock uses within your country"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:576
-#: src/components/exemption/FormTemplate.vue:130
-#: src/components/raf/FormTemplate.vue:220
+#: src/components/exemption/FormTemplate.vue:126
+#: src/components/raf/FormTemplate.vue:216
 msgid "Change substance"
 msgstr ""
 
@@ -427,22 +427,16 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:99
 #: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:9
-#: src/components/exemption/FormTemplate.vue:162
+#: src/components/exemption/FormTemplate.vue:158
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
 #: src/components/hat/TabsManager.vue:133
-#: src/components/letter/TabsManager.vue:83
-#: src/components/raf/FormTemplate.vue:309
+#: src/components/letter/TabsManager.vue:55
+#: src/components/raf/FormTemplate.vue:305
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:76
 #: src/components/raf/TabsManager.vue:134
 msgid "Close"
-msgstr ""
-
-#: src/components/exemption/FormTemplate.vue:82
-#: src/components/hat/FormTemplate.vue:237
-#: src/components/raf/FormTemplate.vue:172
-msgid "Comments"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:37
@@ -627,7 +621,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:143
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:116
-#: src/components/letter/TabsManager.vue:115
+#: src/components/letter/TabsManager.vue:87
 #: src/components/raf/TabsManager.vue:117
 msgid "Delete Submission"
 msgstr ""
@@ -708,13 +702,13 @@ msgid "Edit"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:559
-#: src/components/raf/FormTemplate.vue:203
+#: src/components/raf/FormTemplate.vue:199
 msgid "Edit %{name} blend"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:555
-#: src/components/exemption/FormTemplate.vue:113
-#: src/components/raf/FormTemplate.vue:199
+#: src/components/exemption/FormTemplate.vue:109
+#: src/components/raf/FormTemplate.vue:195
 msgid "Edit %{name} substance"
 msgstr ""
 
@@ -900,18 +894,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:731
 msgid "For feedstock use in your country"
-msgstr ""
-
-#: src/components/letter/TabsManager.vue:55
-msgid "Form is curently being saved"
-msgstr ""
-
-#: src/components/letter/TabsManager.vue:59
-msgid "Form save failed. Please check the validation"
-msgstr ""
-
-#: src/components/letter/TabsManager.vue:63
-msgid "Form was saved or no modifications were made. Current form data is synced with the data on the server"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:105
@@ -1104,10 +1086,6 @@ msgstr ""
 msgid "Legend"
 msgstr ""
 
-#: src/components/letter/TabsManager.vue:49
-msgid "Legend:"
-msgstr ""
-
 #: src/components/common/AggregationsTable.vue:54
 #: src/components/common/AggregationsTable.vue:57
 #: src/components/common/AggregationsTable.vue:60
@@ -1255,7 +1233,7 @@ msgstr ""
 msgid "ODP"
 msgstr ""
 
-#: src/components/raf/FormTemplate.vue:433
+#: src/components/raf/FormTemplate.vue:429
 #: src/components/raf/dataDefinitions/form.js:109
 #: src/components/raf/dataDefinitions/labels.js:29
 msgid "On hand end of year"
@@ -1878,7 +1856,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:266
 #: src/components/exemption/TabsManager.vue:184
 #: src/components/hat/TabsManager.vue:222
-#: src/components/letter/TabsManager.vue:176
+#: src/components/letter/TabsManager.vue:148
 #: src/components/raf/TabsManager.vue:223
 msgid "submission for"
 msgstr ""
@@ -1914,7 +1892,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:69
 #: src/components/hat/TabsManager.vue:82
-#: src/components/letter/TabsManager.vue:90
+#: src/components/letter/TabsManager.vue:62
 #: src/components/letter/dataDefinitions/labels.js:122
 #: src/components/raf/TabsManager.vue:84
 msgid "Submit"
@@ -1980,17 +1958,13 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/letter/TabsManager.vue:69
-msgid "The form was edited and the data is not yet saved on the server. Please save before closing the form"
-msgstr ""
-
 #: src/views/pages/Page404.vue:11
 msgid "The page you are looking for was not found."
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:571
-#: src/components/exemption/FormTemplate.vue:125
-#: src/components/raf/FormTemplate.vue:215
+#: src/components/exemption/FormTemplate.vue:121
+#: src/components/raf/FormTemplate.vue:211
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
@@ -2183,7 +2157,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:111
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:108
-#: src/components/letter/TabsManager.vue:108
+#: src/components/letter/TabsManager.vue:80
 #: src/components/raf/TabsManager.vue:110
 msgid "Versions"
 msgstr ""
@@ -2240,7 +2214,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:612
 #: src/components/common/form-components/CloneField.vue:14
-#: src/components/raf/FormTemplate.vue:283
+#: src/components/raf/FormTemplate.vue:279
 msgid "Countries"
 msgstr ""
 
@@ -2279,7 +2253,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:153
 #: src/components/exemption/TabsManager.vue:98
 #: src/components/hat/TabsManager.vue:126
-#: src/components/letter/TabsManager.vue:125
+#: src/components/letter/TabsManager.vue:97
 #: src/components/raf/TabsManager.vue:127
 msgid "Submission versions"
 msgstr ""
@@ -2300,8 +2274,8 @@ msgid "Add countries"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:586
-#: src/components/exemption/FormTemplate.vue:140
-#: src/components/raf/FormTemplate.vue:230
+#: src/components/exemption/FormTemplate.vue:136
+#: src/components/raf/FormTemplate.vue:226
 msgid "Select substance"
 msgstr ""
 
