@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 14:02+0000\n"
+"POT-Creation-Date: 2019-04-18 14:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -141,7 +141,7 @@ msgstr ""
 msgid "Amount acquired by production"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:778
+#: src/components/art7/dataDefinitions/form.js:779
 msgid "Amount converted to other substances in the facility. The sum of these amounts is not to be reported under data form 3"
 msgstr ""
 
@@ -155,11 +155,11 @@ msgstr ""
 msgid "Amount Destroyed"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:782
+#: src/components/art7/dataDefinitions/form.js:783
 msgid "Amount destroyed in the facility"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:743
+#: src/components/art7/dataDefinitions/form.js:744
 msgid "Amount destroyed without prior capture"
 msgstr ""
 
@@ -173,7 +173,7 @@ msgstr ""
 msgid "Amount exported"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:772
+#: src/components/art7/dataDefinitions/form.js:773
 msgid "Amount generated and captured"
 msgstr ""
 
@@ -189,7 +189,7 @@ msgstr ""
 msgid "Amount of Emissions"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:747
+#: src/components/art7/dataDefinitions/form.js:748
 msgid "Amount of generated emissions"
 msgstr ""
 
@@ -201,7 +201,7 @@ msgstr ""
 msgid "Amount Used for Feedstock"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:739
+#: src/components/art7/dataDefinitions/form.js:740
 msgid "Amount used for feedstock without prior capture"
 msgstr ""
 
@@ -262,7 +262,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:350
 #: src/components/art7/dataDefinitions/form.js:531
 #: src/components/art7/dataDefinitions/form.js:596
-#: src/components/art7/dataDefinitions/form.js:711
+#: src/components/art7/dataDefinitions/form.js:712
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
@@ -500,15 +500,6 @@ msgstr ""
 msgid "Copenhagen Amendment"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:107
-#: src/components/art7/dataDefinitions/labels.js:46
-msgid "Country of destination of exports"
-msgstr ""
-
-#: src/components/letter/dataDefinitions/labels.js:37
-msgid "Country of Destination of Exports"
-msgstr ""
-
 #: src/views/Dashboard.vue:55
 msgid "Create"
 msgstr ""
@@ -571,7 +562,7 @@ msgstr ""
 msgid "Data is valid and saved"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:707
+#: src/components/art7/dataDefinitions/form.js:708
 msgid "DATA ON QUANTITY OF EMISSIONS OF HFC 23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
 msgstr ""
 
@@ -646,6 +637,12 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:31
 #: src/components/letter/dataDefinitions/labels.js:127
 msgid "Designation"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:107
+#: src/components/art7/dataDefinitions/labels.js:46
+#: src/components/letter/dataDefinitions/labels.js:37
+msgid "Destination country/region/territory"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:527
@@ -734,7 +731,7 @@ msgstr ""
 msgid "Emergency"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:706
+#: src/components/art7/dataDefinitions/form.js:707
 #: src/components/common/dataDefinitions/labels.js:16
 msgid "Emissions"
 msgstr ""
@@ -779,19 +776,16 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:247
 #: src/components/art7/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:8
-msgid "Exporting party for quantities reported as imports"
+msgid "Exporting country/region/territory"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:611
-msgid "Exporting party for quantities reported as imports <br> <b>OR</b> <br> Country of destination of exports"
+#: src/components/letter/dataDefinitions/labels.js:106
+msgid "Exporting or destination country/region/territory"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:121
-msgid "Exporting party for quantities reported as imports or country of destination of exports"
-msgstr ""
-
-#: src/components/letter/dataDefinitions/labels.js:106
-msgid "Exporting party for quantities reported as imports OR Country of destination of exports"
+msgid "Exporting or importing country/region/territory"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:88
@@ -807,7 +801,7 @@ msgstr ""
 msgid "F"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:719
+#: src/components/art7/dataDefinitions/form.js:720
 #: src/components/art7/dataDefinitions/labels.js:126
 #: src/components/letter/dataDefinitions/labels.js:109
 msgid "Facility name or identifier"
@@ -835,7 +829,7 @@ msgstr ""
 msgid "Fill in this form only if your country destroyed CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:709
+#: src/components/art7/dataDefinitions/form.js:710
 msgid "Fill in this form only if your country generated HFC 23 from any facility that produced (manufactured) Annex C Group I or Annex F substances"
 msgstr ""
 
@@ -889,11 +883,11 @@ msgstr ""
 msgid "Flags"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:727
+#: src/components/art7/dataDefinitions/form.js:728
 msgid "For all uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:735
+#: src/components/art7/dataDefinitions/form.js:736
 msgid "For destruction"
 msgstr ""
 
@@ -901,7 +895,7 @@ msgstr ""
 msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:731
+#: src/components/art7/dataDefinitions/form.js:732
 msgid "For feedstock use in your country"
 msgstr ""
 
@@ -1023,11 +1017,11 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:348
 #: src/components/art7/dataDefinitions/form.js:530
 #: src/components/art7/dataDefinitions/form.js:595
-#: src/components/art7/dataDefinitions/form.js:710
+#: src/components/art7/dataDefinitions/form.js:711
 msgid "in metric tonnes (not ODP tonnes)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:707
+#: src/components/art7/dataDefinitions/form.js:708
 msgid "In metric tons, not ODP or CO2-equivalent tonnes."
 msgstr ""
 
@@ -1044,7 +1038,7 @@ msgstr ""
 msgid "Includes re exports. Ref. decisions IV/14 and XVII/16, paragraph 4."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:708
+#: src/components/art7/dataDefinitions/form.js:709
 msgid "Information in columns 2 to 5 is excluded from the reporting requirements under Article 7 of the Protocol and is provided on a voluntary basis"
 msgstr ""
 
@@ -1529,7 +1523,7 @@ msgstr ""
 msgid "Quantity destroyed"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:660
+#: src/components/art7/dataDefinitions/form.js:661
 msgid "Quantity of exports to non-parties"
 msgstr ""
 
@@ -1543,7 +1537,7 @@ msgstr ""
 msgid "Quantity of exports to non-parties (recovered)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:655
+#: src/components/art7/dataDefinitions/form.js:656
 msgid "Quantity of imports from non-parties"
 msgstr ""
 
@@ -1651,8 +1645,8 @@ msgstr ""
 msgid "Recovered and reclaimed imports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:769
-#: src/components/art7/dataDefinitions/form.js:773
+#: src/components/art7/dataDefinitions/form.js:770
+#: src/components/art7/dataDefinitions/form.js:774
 msgid "Refers to the total amount whether captured or not. The sum of these amounts is not to be reported under data form 3"
 msgstr ""
 
@@ -1682,7 +1676,7 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:550
 #: src/components/art7/dataDefinitions/form.js:631
-#: src/components/art7/dataDefinitions/form.js:751
+#: src/components/art7/dataDefinitions/form.js:752
 msgid "Remarks (party)"
 msgstr ""
 
@@ -1705,7 +1699,7 @@ msgid "Remarks (Party)"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:554
-#: src/components/art7/dataDefinitions/form.js:755
+#: src/components/art7/dataDefinitions/form.js:756
 #: src/components/hat/dataDefinitions/form.js:88
 #: src/components/hat/dataDefinitions/form.js:178
 msgid "Remarks (secretariat)"
@@ -1809,8 +1803,8 @@ msgid "Secretariat"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:593
-#: src/components/art7/dataDefinitions/form.js:657
-#: src/components/art7/dataDefinitions/form.js:662
+#: src/components/art7/dataDefinitions/form.js:658
+#: src/components/art7/dataDefinitions/form.js:663
 msgid "See definition of “non parties” in Instruction V."
 msgstr ""
 
@@ -1836,7 +1830,7 @@ msgstr "Sort"
 #: src/components/art7/dataDefinitions/form.js:480
 #: src/components/art7/dataDefinitions/form.js:558
 #: src/components/art7/dataDefinitions/form.js:639
-#: src/components/art7/dataDefinitions/form.js:759
+#: src/components/art7/dataDefinitions/form.js:760
 #: src/components/common/SubmissionStatus.vue:51
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
@@ -1987,7 +1981,7 @@ msgstr ""
 msgid "Total acquired"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:723
+#: src/components/art7/dataDefinitions/form.js:724
 msgid "Total amount generated"
 msgstr ""
 
