@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 09:55+0000\n"
+"POT-Creation-Date: 2019-04-18 10:55+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -40,7 +40,7 @@ msgstr ""
 msgid "Account"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:127
+#: src/components/common/Files.vue:120
 #: src/components/common/SubmissionHistory.vue:123 src/views/Dashboard.vue:403
 #: src/views/Dashboard.vue:444
 msgid "Actions"
@@ -118,7 +118,7 @@ msgstr "фиктивный (%{totalRows} текст)"
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "фиктивный текст."
 
-#: src/components/common/Files.vue:97
+#: src/components/common/Files.vue:91
 msgid "Allowed files extensions:"
 msgstr ""
 
@@ -425,7 +425,7 @@ msgstr "фиктивный текст"
 msgid "Clear"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:120
+#: src/components/common/Files.vue:113
 #, fuzzy
 msgid "Click to browse files"
 msgstr "фиктивный текст"
@@ -595,7 +595,7 @@ msgstr ""
 msgid "DATA ON QUANTITY OF EMISSIONS OF HFC 23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:126
+#: src/components/common/Files.vue:119
 #: src/components/common/dataDefinitions/labels.js:40
 #: src/components/letter/dataDefinitions/labels.js:134
 msgid "Date"
@@ -647,7 +647,7 @@ msgstr "фиктивный текст"
 msgid "Delete Submission"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:125
+#: src/components/common/Files.vue:118
 #, fuzzy
 msgid "Description"
 msgstr "фиктивный текст"
@@ -700,7 +700,7 @@ msgstr "фиктивный текст."
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr "фиктивный текст!"
 
-#: src/components/common/Files.vue:122
+#: src/components/common/Files.vue:115
 msgid "Download"
 msgstr ""
 
@@ -828,12 +828,12 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:124
+#: src/components/common/Files.vue:117
 #, fuzzy
 msgid "File Name"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:121
+#: src/components/common/Files.vue:114
 msgid "File not uploaded yet"
 msgstr ""
 
@@ -843,7 +843,7 @@ msgstr ""
 msgid "Files"
 msgstr ""
 
-#: src/components/common/Files.vue:54
+#: src/components/common/Files.vue:38
 msgid "Files to be uploaded"
 msgstr ""
 
@@ -2211,11 +2211,11 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:94
+#: src/components/common/Files.vue:88
 msgid "Upload files"
 msgstr ""
 
-#: src/components/common/Files.vue:4
+#: src/components/common/Files.vue:3
 msgid "Uploaded files"
 msgstr ""
 
@@ -2315,7 +2315,7 @@ msgstr "фиктивный текст"
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr "фиктивный текст?"
 
-#: src/components/common/Files.vue:10 src/components/common/Files.vue:61
+#: src/components/common/Files.vue:8 src/components/common/Files.vue:55
 msgid "No files uploaded"
 msgstr ""
 
