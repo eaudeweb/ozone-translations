@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 08:39+0000\n"
+"POT-Creation-Date: 2019-04-18 09:42+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -40,6 +40,7 @@ msgstr ""
 msgid "Account"
 msgstr "фиктивный текст"
 
+#: src/components/common/Files.vue:131
 #: src/components/common/SubmissionHistory.vue:123 src/views/Dashboard.vue:403
 #: src/views/Dashboard.vue:444
 msgid "Actions"
@@ -117,7 +118,7 @@ msgstr "фиктивный (%{totalRows} текст)"
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "фиктивный текст."
 
-#: src/components/common/Files.vue:73
+#: src/components/common/Files.vue:101
 msgid "Allowed files extensions:"
 msgstr ""
 
@@ -424,7 +425,7 @@ msgstr "фиктивный текст"
 msgid "Clear"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:94
+#: src/components/common/Files.vue:124
 #, fuzzy
 msgid "Click to browse files"
 msgstr "фиктивный текст"
@@ -594,6 +595,7 @@ msgstr ""
 msgid "DATA ON QUANTITY OF EMISSIONS OF HFC 23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
 msgstr "фиктивный текст"
 
+#: src/components/common/Files.vue:130
 #: src/components/common/dataDefinitions/labels.js:40
 #: src/components/letter/dataDefinitions/labels.js:134
 msgid "Date"
@@ -645,6 +647,11 @@ msgstr "фиктивный текст"
 msgid "Delete Submission"
 msgstr "фиктивный текст"
 
+#: src/components/common/Files.vue:129
+#, fuzzy
+msgid "Description"
+msgstr "фиктивный текст"
+
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:15
 msgid "description..............."
 msgstr ""
@@ -693,7 +700,7 @@ msgstr "фиктивный текст."
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr "фиктивный текст!"
 
-#: src/components/common/Files.vue:96
+#: src/components/common/Files.vue:126
 msgid "Download"
 msgstr ""
 
@@ -821,7 +828,12 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:95
+#: src/components/common/Files.vue:128
+#, fuzzy
+msgid "File Name"
+msgstr "фиктивный текст"
+
+#: src/components/common/Files.vue:125
 msgid "File not uploaded yet"
 msgstr ""
 
@@ -829,6 +841,10 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabFiles.js:9
 #: src/components/letter/TabsManager.vue:40
 msgid "Files"
+msgstr ""
+
+#: src/components/common/Files.vue:60
+msgid "Files to be uploaded"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:529
@@ -1227,10 +1243,6 @@ msgstr "фиктивный текст"
 #, fuzzy
 msgid "No detailed instructions for the current form are available."
 msgstr "фиктивный текст"
-
-#: src/components/common/Files.vue:3
-msgid "No files uploaded"
-msgstr ""
 
 #: src/components/exemption/dataDefinitions/form.js:38
 #: src/components/exemption/dataDefinitions/form.js:39
@@ -1875,11 +1887,6 @@ msgstr "фиктивный текст"
 msgid "select at least one country for each substance before adding."
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:20
-#, fuzzy
-msgid "Selected for upload:"
-msgstr "фиктивный текст"
-
 #: src/views/Dashboard.vue:170
 msgid "Show all versions"
 msgstr "фиктивный текст"
@@ -2204,8 +2211,12 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:70
+#: src/components/common/Files.vue:98
 msgid "Upload files"
+msgstr ""
+
+#: src/components/common/Files.vue:4
+msgid "Uploaded files"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:97
@@ -2303,6 +2314,10 @@ msgstr "фиктивный текст"
 #, fuzzy
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr "фиктивный текст?"
+
+#: src/components/common/Files.vue:10 src/components/common/Files.vue:67
+msgid "No files uploaded"
+msgstr ""
 
 #: src/components/art7/FormTemplate.vue:612
 #: src/components/common/form-components/CloneField.vue:14
