@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 13:50+0000\n"
+"POT-Creation-Date: 2019-04-18 14:02+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -572,6 +572,14 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:707
 msgid "DATA ON QUANTITY OF EMISSIONS OF HFC 23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:266
+#: src/components/exemption/TabsManager.vue:184
+#: src/components/hat/TabsManager.vue:222
+#: src/components/letter/TabsManager.vue:148
+#: src/components/raf/TabsManager.vue:223
+msgid "data submission for"
 msgstr ""
 
 #: src/components/common/Files.vue:108
@@ -1847,14 +1855,6 @@ msgstr ""
 
 #: src/components/common/form-components/DefaultAside.vue:51
 msgid "Submission edited. Please save before closing the form"
-msgstr ""
-
-#: src/components/art7/TabsManager.vue:266
-#: src/components/exemption/TabsManager.vue:184
-#: src/components/hat/TabsManager.vue:222
-#: src/components/letter/TabsManager.vue:148
-#: src/components/raf/TabsManager.vue:223
-msgid "submission for"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:45
