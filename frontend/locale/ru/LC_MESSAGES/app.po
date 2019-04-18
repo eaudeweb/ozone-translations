@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 11:36+0000\n"
+"POT-Creation-Date: 2019-04-18 13:43+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -85,6 +85,12 @@ msgstr "фиктивный текст"
 #: src/components/common/form-components/Add.vue:4
 #: src/components/common/form-components/AsideTogglerModified.vue:3
 msgid "Add substances"
+msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/labels.js:36
+#: src/components/letter/dataDefinitions/labels.js:131
+#, fuzzy
+msgid "Address country"
 msgstr "фиктивный текст"
 
 #: src/components/common/Header.vue:19
@@ -506,11 +512,6 @@ msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Parties.vue:125
 msgid "Copenhagen Amendment"
-msgstr "фиктивный текст"
-
-#: src/components/common/dataDefinitions/labels.js:36
-#: src/components/letter/dataDefinitions/labels.js:131
-msgid "Country"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:107

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 11:36+0000\n"
+"POT-Creation-Date: 2019-04-18 13:43+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -80,6 +80,11 @@ msgstr ""
 #: src/components/common/form-components/Add.vue:4
 #: src/components/common/form-components/AsideTogglerModified.vue:3
 msgid "Add substances"
+msgstr ""
+
+#: src/components/common/dataDefinitions/labels.js:36
+#: src/components/letter/dataDefinitions/labels.js:131
+msgid "Address country"
 msgstr ""
 
 #: src/components/common/Header.vue:19
@@ -492,11 +497,6 @@ msgstr ""
 
 #: src/views/lookupTables/Parties.vue:125
 msgid "Copenhagen Amendment"
-msgstr ""
-
-#: src/components/common/dataDefinitions/labels.js:36
-#: src/components/letter/dataDefinitions/labels.js:131
-msgid "Country"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:107
