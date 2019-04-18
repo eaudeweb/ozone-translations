@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-17 17:05+0000\n"
+"POT-Creation-Date: 2019-04-18 07:28+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Generated-By: easygettext\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/components/common/SubmissionInfo.vue:53
+#: src/components/common/SubmissionInfo.vue:49
 msgid "({{info.form_fields['submitted_at'].validation}})"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:29
+#: src/components/common/SubmissionInfo.vue:25
 msgid "(required)"
 msgstr ""
 
@@ -57,7 +57,7 @@ msgstr ""
 msgid "Add custom blend"
 msgstr ""
 
-#: src/components/art7/EmissionsTemplate.vue:91
+#: src/components/art7/EmissionsTemplate.vue:90
 msgid "Add facility"
 msgstr ""
 
@@ -100,14 +100,14 @@ msgid "Against each substance produced for exempted essential, critical or other
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:54
-msgid "All fields are manadatory"
+msgid "All fields are mandatory"
 msgstr ""
 
 #: src/views/Dashboard.vue:163
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:573
+#: src/components/art7/FormTemplate.vue:567
 #: src/components/exemption/FormTemplate.vue:120
 #: src/components/raf/FormTemplate.vue:210
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
@@ -226,8 +226,8 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:136
-msgid "Annex group reported in full"
+#: src/components/common/SubmissionInfo.vue:130
+msgid "Annex groups reported in full"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:64
@@ -396,7 +396,7 @@ msgstr ""
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:583
+#: src/components/art7/FormTemplate.vue:577
 #: src/components/exemption/FormTemplate.vue:130
 #: src/components/raf/FormTemplate.vue:220
 msgid "Change substance"
@@ -422,7 +422,7 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:675
+#: src/components/art7/FormTemplate.vue:669
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:99
 #: src/components/art7/TabsManager.vue:160
@@ -439,8 +439,6 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: src/components/art7/EmissionsTemplate.vue:97
-#: src/components/art7/FormTemplate.vue:532
 #: src/components/exemption/FormTemplate.vue:82
 #: src/components/hat/FormTemplate.vue:237
 #: src/components/raf/FormTemplate.vue:172
@@ -704,12 +702,12 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:566
+#: src/components/art7/FormTemplate.vue:560
 #: src/components/raf/FormTemplate.vue:203
 msgid "Edit %{name} blend"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:562
+#: src/components/art7/FormTemplate.vue:556
 #: src/components/exemption/FormTemplate.vue:113
 #: src/components/raf/FormTemplate.vue:199
 msgid "Edit %{name} substance"
@@ -868,7 +866,7 @@ msgstr ""
 msgid "Finalized"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:76
+#: src/components/common/SubmissionInfo.vue:71
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1397,6 +1395,10 @@ msgstr ""
 msgid "Please fill-in column Total quantity imported for all uses (3 or 4)"
 msgstr ""
 
+#: src/components/common/dataDefinitions/tabSubInfo.js:12
+msgid "Please fill-in mandatory fields"
+msgstr ""
+
 #: src/components/art7/services/tableRowConstructorService.js:580
 msgid "Please fill-in one of columns New imports (4), Recovered and reclaimed imports (5), New exports (6) or Recovered and reclaimed exports (7)"
 msgstr ""
@@ -1406,7 +1408,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:887
+#: src/components/art7/FormTemplate.vue:881
 #: src/components/common/mixins/FormTemplateMixin.vue:98
 #: src/components/common/mixins/FormTemplateMixin.vue:99
 msgid "Please use the form on the right sidebar to add substances"
@@ -1754,7 +1756,7 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:249
+#: src/components/common/SubmissionInfo.vue:244
 #: src/components/common/dataDefinitions/tabSubInfo.js:105
 #: src/components/common/dataDefinitions/tabSubInfo.js:112
 #: src/components/common/dataDefinitions/tabSubInfo.js:113
@@ -1885,7 +1887,6 @@ msgid "Submission info"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:214
-#: src/components/common/SubmissionInfo.vue:6
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
 #: src/components/letter/TabsManager.vue:33
 #: src/components/letter/TabsManager.vue:31
@@ -1896,7 +1897,7 @@ msgstr ""
 msgid "SUBMISSION INFO"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:172
+#: src/components/common/SubmissionInfo.vue:167
 msgid "Submission status"
 msgstr ""
 
@@ -1982,7 +1983,7 @@ msgstr ""
 msgid "The page you are looking for was not found."
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:578
+#: src/components/art7/FormTemplate.vue:572
 #: src/components/exemption/FormTemplate.vue:125
 #: src/components/raf/FormTemplate.vue:215
 msgid "The values are saved automatically in the table, as you type."
@@ -2224,7 +2225,7 @@ msgstr ""
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:619
+#: src/components/art7/FormTemplate.vue:613
 #: src/components/common/form-components/CloneField.vue:14
 #: src/components/raf/FormTemplate.vue:283
 msgid "Countries"
@@ -2285,7 +2286,7 @@ msgstr ""
 msgid "Add countries"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:593
+#: src/components/art7/FormTemplate.vue:587
 #: src/components/exemption/FormTemplate.vue:140
 #: src/components/raf/FormTemplate.vue:230
 msgid "Select substance"
