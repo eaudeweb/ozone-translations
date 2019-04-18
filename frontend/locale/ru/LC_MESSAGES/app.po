@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 13:43+0000\n"
+"POT-Creation-Date: 2019-04-18 13:50+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1874,10 +1874,6 @@ msgstr "фиктивный текст"
 msgid "Sort"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:397
-msgid "State"
-msgstr "фиктивный текст"
-
 #: src/components/art7/dataDefinitions/form.js:132
 #: src/components/art7/dataDefinitions/form.js:271
 #: src/components/art7/dataDefinitions/form.js:390
@@ -1890,7 +1886,7 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/form.js:92
 #: src/components/hat/dataDefinitions/form.js:182
 #: src/components/raf/dataDefinitions/form.js:116
-#: src/components/raf/dataDefinitions/labels.js:30
+#: src/components/raf/dataDefinitions/labels.js:30 src/views/Dashboard.vue:397
 msgid "Status"
 msgstr "фиктивный текст"
 
