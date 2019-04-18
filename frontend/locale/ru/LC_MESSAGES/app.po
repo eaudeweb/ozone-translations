@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 07:59+0000\n"
+"POT-Creation-Date: 2019-04-18 08:39+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1521,7 +1521,7 @@ msgid "PRODUCTION"
 msgstr "фиктивный текст"
 
 #: src/components/common/AggregationsTable.vue:42
-msgid "Production allowance for BDN of Article 5 Parties"
+msgid "Production allowance for BDN of Article 5 parties"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:386
