@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 10:55+0000\n"
+"POT-Creation-Date: 2019-04-18 11:06+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -39,7 +39,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/components/common/Files.vue:120
+#: src/components/common/Files.vue:109
 #: src/components/common/SubmissionHistory.vue:123 src/views/Dashboard.vue:403
 #: src/views/Dashboard.vue:444
 msgid "Actions"
@@ -116,7 +116,7 @@ msgstr ""
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 
-#: src/components/common/Files.vue:91
+#: src/components/common/Files.vue:80
 msgid "Allowed files extensions:"
 msgstr ""
 
@@ -416,7 +416,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#: src/components/common/Files.vue:113
+#: src/components/common/Files.vue:102
 msgid "Click to browse files"
 msgstr ""
 
@@ -583,7 +583,7 @@ msgstr ""
 msgid "DATA ON QUANTITY OF EMISSIONS OF HFC 23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
 msgstr ""
 
-#: src/components/common/Files.vue:119
+#: src/components/common/Files.vue:108
 #: src/components/common/dataDefinitions/labels.js:40
 #: src/components/letter/dataDefinitions/labels.js:134
 msgid "Date"
@@ -635,7 +635,7 @@ msgstr ""
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/common/Files.vue:118
+#: src/components/common/Files.vue:107
 msgid "Description"
 msgstr ""
 
@@ -687,7 +687,7 @@ msgstr ""
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr ""
 
-#: src/components/common/Files.vue:115
+#: src/components/common/Files.vue:104
 msgid "Download"
 msgstr ""
 
@@ -813,11 +813,11 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/components/common/Files.vue:117
+#: src/components/common/Files.vue:106
 msgid "File Name"
 msgstr ""
 
-#: src/components/common/Files.vue:114
+#: src/components/common/Files.vue:103
 msgid "File not uploaded yet"
 msgstr ""
 
@@ -827,7 +827,7 @@ msgstr ""
 msgid "Files"
 msgstr ""
 
-#: src/components/common/Files.vue:38
+#: src/components/common/Files.vue:27
 msgid "Files to be uploaded"
 msgstr ""
 
@@ -2143,7 +2143,7 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr ""
 
-#: src/components/common/Files.vue:88
+#: src/components/common/Files.vue:77
 msgid "Upload files"
 msgstr ""
 
@@ -2242,7 +2242,7 @@ msgstr ""
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr ""
 
-#: src/components/common/Files.vue:8 src/components/common/Files.vue:55
+#: src/components/common/Files.vue:8 src/components/common/Files.vue:44
 msgid "No files uploaded"
 msgstr ""
 
