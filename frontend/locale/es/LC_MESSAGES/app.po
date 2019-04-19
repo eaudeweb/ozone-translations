@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 14:38+0000\n"
+"POT-Creation-Date: 2019-04-19 09:51+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -37,7 +37,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/components/common/Files.vue:109
+#: src/components/common/Files.vue:106
 #: src/components/common/SubmissionHistory.vue:123 src/views/Dashboard.vue:403
 #: src/views/Dashboard.vue:444
 msgid "Actions"
@@ -119,7 +119,7 @@ msgstr ""
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
 
-#: src/components/common/Files.vue:80
+#: src/components/common/Files.vue:56
 msgid "Allowed files extensions:"
 msgstr ""
 
@@ -419,7 +419,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#: src/components/common/Files.vue:102
+#: src/components/common/Files.vue:99
 msgid "Click to browse files"
 msgstr ""
 
@@ -574,7 +574,7 @@ msgstr ""
 msgid "data submission for"
 msgstr ""
 
-#: src/components/common/Files.vue:108
+#: src/components/common/Files.vue:105
 #: src/components/common/dataDefinitions/labels.js:40
 #: src/components/letter/dataDefinitions/labels.js:134
 msgid "Date"
@@ -626,7 +626,7 @@ msgstr ""
 msgid "Delete Submission"
 msgstr ""
 
-#: src/components/common/Files.vue:107
+#: src/components/common/Files.vue:104
 msgid "Description"
 msgstr ""
 
@@ -684,7 +684,7 @@ msgstr ""
 msgid "Do you really want to leave? you have unsaved changes!"
 msgstr ""
 
-#: src/components/common/Files.vue:104
+#: src/components/common/Files.vue:101
 msgid "Download"
 msgstr ""
 
@@ -807,11 +807,11 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr ""
 
-#: src/components/common/Files.vue:106
+#: src/components/common/Files.vue:103
 msgid "File Name"
 msgstr ""
 
-#: src/components/common/Files.vue:103
+#: src/components/common/Files.vue:100
 msgid "File not uploaded yet"
 msgstr ""
 
@@ -821,7 +821,7 @@ msgstr ""
 msgid "Files"
 msgstr ""
 
-#: src/components/common/Files.vue:27
+#: src/components/common/Files.vue:4
 msgid "Files to be uploaded"
 msgstr ""
 
@@ -2100,11 +2100,11 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr ""
 
-#: src/components/common/Files.vue:77
+#: src/components/common/Files.vue:53
 msgid "Upload files"
 msgstr ""
 
-#: src/components/common/Files.vue:3
+#: src/components/common/Files.vue:60
 msgid "Uploaded files"
 msgstr ""
 
@@ -2199,7 +2199,7 @@ msgstr ""
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr ""
 
-#: src/components/common/Files.vue:8 src/components/common/Files.vue:44
+#: src/components/common/Files.vue:21 src/components/common/Files.vue:65
 msgid "No files uploaded"
 msgstr ""
 
