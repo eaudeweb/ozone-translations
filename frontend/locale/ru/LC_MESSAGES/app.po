@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-19 13:58+0000\n"
+"POT-Creation-Date: 2019-04-19 15:06+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -124,7 +124,7 @@ msgstr "фиктивный (%{totalRows} текст)"
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr "фиктивный текст."
 
-#: src/components/common/Files.vue:56
+#: src/components/common/Files.vue:17
 msgid "Allowed files extensions:"
 msgstr ""
 
@@ -842,8 +842,8 @@ msgstr ""
 msgid "Files"
 msgstr ""
 
-#: src/components/common/Files.vue:4
-msgid "Files to be uploaded"
+#: src/components/common/Files.vue:20
+msgid "Files to be upoaded"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:529
@@ -1878,6 +1878,10 @@ msgstr "фиктивный текст"
 msgid "Sort"
 msgstr "фиктивный текст"
 
+#: src/components/common/Files.vue:57
+msgid "Start upload"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:132
 #: src/components/art7/dataDefinitions/form.js:271
 #: src/components/art7/dataDefinitions/form.js:390
@@ -2177,10 +2181,6 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:53
-msgid "Upload files"
-msgstr ""
-
 #: src/components/common/Files.vue:60
 msgid "Uploaded files"
 msgstr ""
@@ -2281,7 +2281,12 @@ msgstr "фиктивный текст"
 msgid "You have unsaved data that will be deleted because of the \"No\" selected in questionnaire for that specific section. Are you sure yo want to save that form ?"
 msgstr "фиктивный текст?"
 
-#: src/components/common/Files.vue:21 src/components/common/Files.vue:65
+#: src/components/common/Files.vue:27
+#, fuzzy
+msgid "Click the Browse button to add files"
+msgstr "фиктивный текст"
+
+#: src/components/common/Files.vue:65
 msgid "No files uploaded"
 msgstr ""
 
