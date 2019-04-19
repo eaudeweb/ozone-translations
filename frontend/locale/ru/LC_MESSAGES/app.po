@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-19 09:51+0000\n"
+"POT-Creation-Date: 2019-04-19 13:58+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -698,7 +698,8 @@ msgstr "фиктивный текст."
 
 #: src/components/common/mixins/DataManagerMixin.vue:23
 #: src/components/common/mixins/DataManagerMixin.vue:24
-msgid "Do you really want to leave? you have unsaved changes!"
+#, fuzzy
+msgid "Do you really want to leave this page? You have unsaved changes!"
 msgstr "фиктивный текст!"
 
 #: src/components/common/Files.vue:101
@@ -1797,7 +1798,7 @@ msgstr "фиктивный текст"
 msgid "Reporting Period"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:244
+#: src/components/common/SubmissionInfo.vue:247
 #: src/components/common/dataDefinitions/tabSubInfo.js:105
 #: src/components/common/dataDefinitions/tabSubInfo.js:112
 #: src/components/common/dataDefinitions/tabSubInfo.js:113

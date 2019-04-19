@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-19 09:51+0000\n"
+"POT-Creation-Date: 2019-04-19 13:58+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -681,7 +681,7 @@ msgstr ""
 
 #: src/components/common/mixins/DataManagerMixin.vue:23
 #: src/components/common/mixins/DataManagerMixin.vue:24
-msgid "Do you really want to leave? you have unsaved changes!"
+msgid "Do you really want to leave this page? You have unsaved changes!"
 msgstr ""
 
 #: src/components/common/Files.vue:101
@@ -1746,7 +1746,7 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:244
+#: src/components/common/SubmissionInfo.vue:247
 #: src/components/common/dataDefinitions/tabSubInfo.js:105
 #: src/components/common/dataDefinitions/tabSubInfo.js:112
 #: src/components/common/dataDefinitions/tabSubInfo.js:113
