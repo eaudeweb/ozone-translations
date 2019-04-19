@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-19 15:37+0000\n"
+"POT-Creation-Date: 2019-04-19 16:36+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:170
 #: src/components/art7/FormTemplate.vue:341
-msgid "Amounts contained in pre-blended polyols"
+msgid "Amounts contained in pre-blended polyols, not to be included in the amount of total imports"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:437
