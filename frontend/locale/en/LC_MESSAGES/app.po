@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-22 15:27+0000\n"
+"POT-Creation-Date: 2019-04-22 16:04+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -750,7 +750,7 @@ msgstr ""
 msgid "Emissions"
 msgstr ""
 
-#: src/store/actions.js:154
+#: src/store/actions.js:161
 msgid "Error"
 msgstr ""
 
@@ -1800,7 +1800,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/store/actions.js:149
+#: src/store/actions.js:156
 msgid "Saved"
 msgstr ""
 
@@ -1850,7 +1850,7 @@ msgstr ""
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:296
+#: src/store/actions.js:303
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -1881,7 +1881,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:264
+#: src/store/actions.js:271
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2094,7 +2094,7 @@ msgstr ""
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:303
+#: src/store/actions.js:310
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2102,7 +2102,7 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:270
+#: src/store/actions.js:277
 msgid "Unable to update submission status."
 msgstr ""
 
