@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-22 15:07+0000\n"
+"POT-Creation-Date: 2019-04-22 15:27+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -278,7 +278,7 @@ msgstr ""
 msgid "Annexes A, B, C and E substances"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:80
+#: src/components/common/SubmissionStatus.vue:81
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
 
