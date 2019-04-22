@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-22 16:04+0000\n"
+"POT-Creation-Date: 2019-04-22 16:25+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -708,8 +708,8 @@ msgstr "фиктивный текст?"
 msgid "Do not deduct from total production in column 3 of data form 3 (data on production)."
 msgstr "фиктивный текст."
 
-#: src/components/common/mixins/DataManagerMixin.vue:23
-#: src/components/common/mixins/DataManagerMixin.vue:24
+#: src/components/common/mixins/DataManagerMixin.vue:17
+#: src/components/common/mixins/DataManagerMixin.vue:18
 #, fuzzy
 msgid "Do you really want to leave this page? You have unsaved changes!"
 msgstr "фиктивный текст!"
