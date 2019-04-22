@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-22 14:50+0000\n"
+"POT-Creation-Date: 2019-04-22 15:07+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -838,7 +838,7 @@ msgid "Files"
 msgstr ""
 
 #: src/components/common/Files.vue:20
-msgid "Files ready for upload:"
+msgid "files ready for upload:"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:529
