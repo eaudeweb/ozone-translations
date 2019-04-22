@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-22 16:25+0000\n"
+"POT-Creation-Date: 2019-04-22 16:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -10,14 +10,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-
-#: src/components/common/SubmissionInfo.vue:49
-msgid "({{info.form_fields['submitted_at'].validation}})"
-msgstr ""
-
-#: src/components/common/SubmissionInfo.vue:25
-msgid "(required)"
-msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:4
 #: src/components/common/dataDefinitions/alerts.js:17
@@ -243,7 +235,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:130
+#: src/components/common/SubmissionInfo.vue:127
 msgid "Annex groups reported in full"
 msgstr ""
 
@@ -732,12 +724,9 @@ msgid "Edit %{name} substance"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:43
+#: src/components/common/dataDefinitions/tabSubInfo.js:115
 #: src/views/UserProfile.vue:10
 msgid "Email"
-msgstr ""
-
-#: src/components/common/dataDefinitions/tabSubInfo.js:114
-msgid "Email/Address"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:112
@@ -889,7 +878,7 @@ msgstr ""
 msgid "Finalized"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:71
+#: src/components/common/SubmissionInfo.vue:68
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1747,7 +1736,7 @@ msgstr ""
 msgid "Reporting channel"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:106
+#: src/components/common/dataDefinitions/tabSubInfo.js:108
 msgid "Reporting officer"
 msgstr ""
 
@@ -1759,10 +1748,15 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:247
-#: src/components/common/dataDefinitions/tabSubInfo.js:105
-#: src/components/common/dataDefinitions/tabSubInfo.js:112
-#: src/components/common/dataDefinitions/tabSubInfo.js:113
+#: src/components/common/dataDefinitions/tabSubInfo.js:54
+#: src/components/common/dataDefinitions/tabSubInfo.js:90
+#: src/components/common/dataDefinitions/tabSubInfo.js:101
+msgid "required"
+msgstr ""
+
+#: src/components/common/SubmissionInfo.vue:244
+#: src/components/common/dataDefinitions/tabSubInfo.js:107
+#: src/components/common/dataDefinitions/tabSubInfo.js:114
 msgid "Required"
 msgstr ""
 
@@ -1876,7 +1870,7 @@ msgstr ""
 msgid "SUBMISSION INFO"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:167
+#: src/components/common/SubmissionInfo.vue:164
 msgid "Submission status"
 msgstr ""
 
@@ -1950,7 +1944,7 @@ msgstr ""
 msgid "Superseded"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:94
+#: src/components/common/dataDefinitions/tabSubInfo.js:95
 msgid "The date indicated on the submitted document"
 msgstr ""
 
