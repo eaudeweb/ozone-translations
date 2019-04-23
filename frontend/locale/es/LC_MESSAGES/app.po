@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-22 17:48+0000\n"
+"POT-Creation-Date: 2019-04-23 08:21+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -551,11 +551,11 @@ msgid "Dashboard"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:11
-msgid "Data entry"
+msgid "Data entry in progress"
 msgstr ""
 
 #: src/views/Dashboard.vue:65
-msgid "Data entry submissions (%{totalRows} records)"
+msgid "Data entry in progress submissions (%{totalRows} records)"
 msgstr ""
 
 #: src/views/FormNotFound.vue:4
