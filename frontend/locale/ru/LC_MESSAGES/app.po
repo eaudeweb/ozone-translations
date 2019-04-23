@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-23 10:21+0000\n"
+"POT-Creation-Date: 2019-04-23 12:48+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -122,7 +122,7 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr "фиктивный (%{totalRows} текст)"
 
-#: src/components/art7/FormTemplate.vue:614
+#: src/components/art7/FormTemplate.vue:662
 #: src/components/exemption/FormTemplate.vue:125
 #: src/components/raf/FormTemplate.vue:220
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
@@ -189,7 +189,7 @@ msgstr "фиктивный текст"
 msgid "Amount generated and captured"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:157
+#: src/components/art7/services/tableRowConstructorService.js:158
 #, fuzzy
 msgid "Amount generated and captured for all uses (3a) must be greater than or equal to the sum of Amount generated and captured for feedstock use in your country (3b) and Amount generated and captured for destruction (3c)"
 msgstr "фиктивный текст"
@@ -218,8 +218,8 @@ msgstr "фиктивный текст"
 msgid "Amount used for feedstock without prior capture"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:186
-#: src/components/art7/FormTemplate.vue:374
+#: src/components/art7/FormTemplate.vue:197
+#: src/components/art7/FormTemplate.vue:409
 msgid "Amounts contained in pre-blended polyols, not to be included in the amount of total imports"
 msgstr ""
 
@@ -366,7 +366,7 @@ msgstr "фиктивный текст"
 msgid "Blend"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:395
+#: src/components/art7/FormTemplate.vue:443
 #: src/components/common/form-components/DefaultAside.vue:12
 #: src/components/hat/FormTemplate.vue:111
 #: src/views/lookupTables/Blends.vue:204
@@ -418,7 +418,7 @@ msgstr "фиктивный текст"
 msgid "Captured for feedstock uses within your country"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:624
+#: src/components/art7/FormTemplate.vue:672
 #: src/components/exemption/FormTemplate.vue:135
 #: src/components/raf/FormTemplate.vue:230
 msgid "Change substance"
@@ -440,12 +440,12 @@ msgstr "фиктивный текст"
 msgid "Click to browse files"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:21
+#: src/components/art7/services/tableRowConstructorService.js:22
 #: src/components/raf/services/tableRowConstructorService.js:17
 msgid "Click to edit"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:716
+#: src/components/art7/FormTemplate.vue:764
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:159
@@ -629,16 +629,16 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:11
 #: src/components/art7/FormTemplate.vue:14
-#: src/components/art7/FormTemplate.vue:209
-#: src/components/art7/FormTemplate.vue:398
+#: src/components/art7/FormTemplate.vue:232
+#: src/components/art7/FormTemplate.vue:446
 #: src/components/common/dataDefinitions/labels.js:53
 #: src/components/exemption/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
 #: src/components/raf/FormTemplate.vue:10
 #: src/components/art7/FormTemplate.vue:113
-#: src/components/art7/FormTemplate.vue:302
-#: src/components/art7/FormTemplate.vue:509
+#: src/components/art7/FormTemplate.vue:325
+#: src/components/art7/FormTemplate.vue:557
 #: src/components/exemption/FormTemplate.vue:77
 #: src/components/hat/FormTemplate.vue:96
 #: src/components/hat/FormTemplate.vue:215
@@ -730,8 +730,8 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:50
 #: src/components/art7/FormTemplate.vue:106
-#: src/components/art7/FormTemplate.vue:295
-#: src/components/art7/FormTemplate.vue:502
+#: src/components/art7/FormTemplate.vue:318
+#: src/components/art7/FormTemplate.vue:550
 #: src/components/exemption/FormTemplate.vue:70
 #: src/components/hat/FormTemplate.vue:89
 #: src/components/hat/FormTemplate.vue:208
@@ -740,12 +740,12 @@ msgstr ""
 msgid "Edit"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:607
+#: src/components/art7/FormTemplate.vue:655
 #: src/components/raf/FormTemplate.vue:213
 msgid "Edit %{name} blend"
 msgstr "фиктивный %{name} текст"
 
-#: src/components/art7/FormTemplate.vue:603
+#: src/components/art7/FormTemplate.vue:651
 #: src/components/exemption/FormTemplate.vue:118
 #: src/components/raf/FormTemplate.vue:209
 msgid "Edit %{name} substance"
@@ -1403,12 +1403,12 @@ msgstr "фиктивный текст"
 msgid "Please confirm"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:140
+#: src/components/art7/services/tableRowConstructorService.js:141
 #, fuzzy
 msgid "Please fill-in column Amount of generated emissions (6)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:136
+#: src/components/art7/services/tableRowConstructorService.js:137
 #, fuzzy
 msgid "Please fill-in column Facility name or identifier (1)"
 msgstr "фиктивный текст"
@@ -1424,17 +1424,17 @@ msgstr "фиктивный текст"
 msgid "Please fill-in column On hand end of year (13)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:537
+#: src/components/art7/services/tableRowConstructorService.js:538
 #, fuzzy
 msgid "Please fill-in column Quantity destroyed (2)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:467
+#: src/components/art7/services/tableRowConstructorService.js:468
 #, fuzzy
 msgid "Please fill-in column Total production for all uses (3)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:332
+#: src/components/art7/services/tableRowConstructorService.js:333
 #, fuzzy
 msgid "Please fill-in column Total quantity imported for all uses (3 or 4)"
 msgstr "фиктивный текст"
@@ -1444,7 +1444,7 @@ msgstr "фиктивный текст"
 msgid "Please fill-in mandatory fields"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:600
+#: src/components/art7/services/tableRowConstructorService.js:601
 msgid "Please fill-in one of columns New imports (4), Recovered and reclaimed imports (5), New exports (6) or Recovered and reclaimed exports (7)"
 msgstr ""
 
@@ -1453,7 +1453,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:931
+#: src/components/art7/FormTemplate.vue:979
 #: src/components/common/mixins/FormTemplateMixin.vue:106
 #: src/components/common/mixins/FormTemplateMixin.vue:107
 msgid "Please use the form on the right sidebar to add substances"
@@ -1464,6 +1464,12 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/labels.js:44
 #: src/components/art7/dataDefinitions/labels.js:45
 msgid "Polyols"
+msgstr "фиктивный текст"
+
+#: src/components/art7/FormTemplate.vue:210
+#: src/components/art7/FormTemplate.vue:422
+#, fuzzy
+msgid "Polyols decision"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:35
@@ -1559,6 +1565,12 @@ msgstr ""
 msgid "Provisional"
 msgstr "фиктивный текст"
 
+#: src/components/art7/FormTemplate.vue:170
+#: src/components/art7/FormTemplate.vue:382
+#, fuzzy
+msgid "QPS decision"
+msgstr "фиктивный текст"
+
 #: src/components/art7/dataDefinitions/form.js:124
 #: src/components/art7/dataDefinitions/form.js:266
 #: src/components/art7/dataDefinitions/form.js:384
@@ -1609,8 +1621,8 @@ msgstr "фиктивный текст"
 msgid "Quantity of imports from non-parties (recovered)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:157
-#: src/components/art7/FormTemplate.vue:346
+#: src/components/art7/FormTemplate.vue:156
+#: src/components/art7/FormTemplate.vue:368
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
 msgstr "фиктивный текст"
 
@@ -1889,8 +1901,8 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:11
 #: src/components/art7/FormTemplate.vue:14
-#: src/components/art7/FormTemplate.vue:209
-#: src/components/art7/FormTemplate.vue:398
+#: src/components/art7/FormTemplate.vue:232
+#: src/components/art7/FormTemplate.vue:446
 #: src/components/exemption/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
@@ -2013,7 +2025,7 @@ msgstr "фиктивный текст"
 msgid "Substances"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:206
+#: src/components/art7/FormTemplate.vue:229
 #, fuzzy
 msgid "Substances - annex group F/II"
 msgstr "фиктивный текст"
@@ -2036,7 +2048,7 @@ msgstr ""
 msgid "The page you are looking for was not found."
 msgstr "фиктивный текст."
 
-#: src/components/art7/FormTemplate.vue:619
+#: src/components/art7/FormTemplate.vue:667
 #: src/components/exemption/FormTemplate.vue:130
 #: src/components/raf/FormTemplate.vue:225
 msgid "The values are saved automatically in the table, as you type."
@@ -2069,17 +2081,17 @@ msgstr "фиктивный текст"
 msgid "Total amount generated"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:168
+#: src/components/art7/services/tableRowConstructorService.js:169
 #, fuzzy
 msgid "Total amount generated (2) must be equal to the sum of its components Amount generated and captured for all uses (3a), Amount used for feedstock without prior capture (4), Amount destroyed without prior capture (5) and Amount of generated emissions (6)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:188
+#: src/components/art7/services/tableRowConstructorService.js:189
 #, fuzzy
 msgid "Total amount generated (2) must be greater than or equal to the sum of its components Amount generated and captured for all uses (3a), Amount used for feedstock without prior capture (4), Amount destroyed without prior capture (5) and Amount of generated emissions (6)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:150
+#: src/components/art7/services/tableRowConstructorService.js:151
 #, fuzzy
 msgid "Total amount generated (2) must be greater than the sum of Amount generated and captured (3), Amount used for feedstock without prior capture (4) and Amount destroyed without prior capture (5)"
 msgstr "фиктивный текст"
@@ -2090,19 +2102,19 @@ msgstr "фиктивный текст"
 msgid "Total production for all uses"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:484
+#: src/components/art7/services/tableRowConstructorService.js:485
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4) and Exempted amounts (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:472
+#: src/components/art7/services/tableRowConstructorService.js:473
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4), Exempted amounts (5) and Production for BDN of Article 5 countries (7)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:478
+#: src/components/art7/services/tableRowConstructorService.js:479
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4), Exempted amounts (5) and QPS"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:490
+#: src/components/art7/services/tableRowConstructorService.js:491
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4a), Amounts destroyed (4b) and Exempted amounts (5)"
 msgstr ""
 
@@ -2114,12 +2126,12 @@ msgstr "фиктивный текст"
 msgid "Total Quantity Imported for All Uses"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:335
+#: src/components/art7/services/tableRowConstructorService.js:336
 #, fuzzy
 msgid "Total quantity imported for all uses (3+4) must be greater than or equal to the sum of its individual components (6)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:340
+#: src/components/art7/services/tableRowConstructorService.js:341
 #, fuzzy
 msgid "Total quantity imported for all uses (3+4) must be greater than or equal to the sum of its individual components for all exporting parties"
 msgstr "фиктивный текст"
@@ -2306,7 +2318,7 @@ msgstr "фиктивный текст"
 msgid "No files uploaded"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:660
+#: src/components/art7/FormTemplate.vue:708
 #: src/components/common/form-components/CloneField.vue:13
 #: src/components/raf/FormTemplate.vue:293
 msgid "Countries"
@@ -2355,8 +2367,8 @@ msgid "Submission versions"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:18
-#: src/components/art7/FormTemplate.vue:214
-#: src/components/art7/FormTemplate.vue:402
+#: src/components/art7/FormTemplate.vue:237
+#: src/components/art7/FormTemplate.vue:450
 #: src/components/exemption/FormTemplate.vue:14
 #: src/components/hat/FormTemplate.vue:14
 #: src/components/hat/FormTemplate.vue:118
@@ -2370,7 +2382,7 @@ msgstr ""
 msgid "Add countries"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:634
+#: src/components/art7/FormTemplate.vue:682
 #: src/components/exemption/FormTemplate.vue:145
 #: src/components/raf/FormTemplate.vue:240
 msgid "Select substance"
