@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-23 12:48+0000\n"
+"POT-Creation-Date: 2019-04-23 14:10+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -509,6 +509,11 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/form.js:48
 msgid "Consumption (imports)"
 msgstr "фиктивный текст"
+
+#: src/components/art7/dataDefinitions/labels.js:30
+#: src/components/art7/dataDefinitions/labels.js:31
+msgid "Contained in polyols"
+msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:163
 msgid "Controlled substances"
@@ -1459,8 +1464,6 @@ msgstr "фиктивный текст"
 msgid "Please use the form on the right sidebar to add substances"
 msgstr "фиктивный текст"
 
-#: src/components/art7/dataDefinitions/labels.js:30
-#: src/components/art7/dataDefinitions/labels.js:31
 #: src/components/art7/dataDefinitions/labels.js:44
 #: src/components/art7/dataDefinitions/labels.js:45
 msgid "Polyols"

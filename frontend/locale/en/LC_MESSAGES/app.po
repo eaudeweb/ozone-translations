@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-23 12:48+0000\n"
+"POT-Creation-Date: 2019-04-23 14:10+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -494,6 +494,11 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:48
 msgid "Consumption (imports)"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:30
+#: src/components/art7/dataDefinitions/labels.js:31
+msgid "Contained in polyols"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:163
@@ -1415,8 +1420,6 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/labels.js:30
-#: src/components/art7/dataDefinitions/labels.js:31
 #: src/components/art7/dataDefinitions/labels.js:44
 #: src/components/art7/dataDefinitions/labels.js:45
 msgid "Polyols"
