@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-23 18:11+0300\n"
+"POT-Creation-Date: 2019-04-23 18:18+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -519,81 +519,81 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:60 ozone/core/models/reporting.py:1338
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1367
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:142
+#: ozone/core/models/reporting.py:143
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:195
+#: ozone/core/models/reporting.py:196
 msgid ""
 "Unable to set reporting channel. Another reporting channel is already set as "
 "default for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:668
+#: ozone/core/models/reporting.py:673
 #, python-brace-format
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:675
+#: ozone/core/models/reporting.py:680
 #, python-brace-format
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:684
+#: ozone/core/models/reporting.py:689
 msgid ""
 "Workflow error. Transition checks not satisfied or you may not have the "
 "necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:786
+#: ozone/core/models/reporting.py:791
 msgid "User do not have permission to change this flag."
 msgstr ""
 
-#: ozone/core/models/reporting.py:843
+#: ozone/core/models/reporting.py:848
 msgid "User do not have permission to change this remark."
 msgstr ""
 
-#: ozone/core/models/reporting.py:999
+#: ozone/core/models/reporting.py:1004
 #, python-brace-format
 msgid "Another submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:1024
+#: ozone/core/models/reporting.py:1029
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1033
+#: ozone/core/models/reporting.py:1038
 msgid ""
 "You cannot create a new version of this submission with this type of "
 "obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1046
+#: ozone/core/models/reporting.py:1051
 msgid ""
 "You cannot create a new version of this submission from a previous period if "
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1315
+#: ozone/core/models/reporting.py:1344
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1330
+#: ozone/core/models/reporting.py:1359
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1346
+#: ozone/core/models/reporting.py:1375
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1482
+#: ozone/core/models/reporting.py:1511
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -627,11 +627,11 @@ msgstr ""
 msgid "An emergency exemption should have at least oneapproved substance."
 msgstr ""
 
-#: ozone/core/models/workflows/default.py:117
+#: ozone/core/models/workflows/default.py:118
 msgid "Valid flag must be set before submission is finalized"
 msgstr ""
 
-#: ozone/core/models/workflows/default.py:128
+#: ozone/core/models/workflows/default.py:129
 msgid "Questionnaire form must be completed before submitting."
 msgstr ""
 
