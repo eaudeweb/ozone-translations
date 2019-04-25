@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-25 16:11+0000\n"
+"POT-Creation-Date: 2019-04-25 16:25+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -98,15 +98,15 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:158
+#: src/components/art7/dataDefinitions/form.js:161
 msgid "Against each substance exported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:300
+#: src/components/art7/dataDefinitions/form.js:303
 msgid "Against each substance imported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:417
+#: src/components/art7/dataDefinitions/form.js:420
 #: src/components/art7/dataDefinitions/form.js:452
 msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
 msgstr ""
@@ -147,7 +147,7 @@ msgstr ""
 msgid "Amount acquired by production"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:791
+#: src/components/art7/dataDefinitions/form.js:794
 msgid "Amount converted to other substances in the facility. The sum of these amounts is not to be reported under data form 3"
 msgstr ""
 
@@ -161,7 +161,7 @@ msgstr ""
 msgid "Amount Destroyed"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:795
+#: src/components/art7/dataDefinitions/form.js:798
 msgid "Amount destroyed in the facility"
 msgstr ""
 
@@ -179,7 +179,7 @@ msgstr ""
 msgid "Amount exported"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:785
+#: src/components/art7/dataDefinitions/form.js:788
 msgid "Amount generated and captured"
 msgstr ""
 
@@ -280,8 +280,8 @@ msgstr ""
 msgid "API"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:145
-#: src/components/art7/dataDefinitions/form.js:287
+#: src/components/art7/dataDefinitions/form.js:148
+#: src/components/art7/dataDefinitions/form.js:290
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
@@ -696,8 +696,8 @@ msgstr ""
 msgid "Did your country produce CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:153
-#: src/components/art7/dataDefinitions/form.js:295
+#: src/components/art7/dataDefinitions/form.js:156
+#: src/components/art7/dataDefinitions/form.js:298
 msgid "Do not deduct from total production in column 3 of data form 3 (data on production)."
 msgstr ""
 
@@ -1512,7 +1512,7 @@ msgstr ""
 msgid "Production for BDN for A5 Parties"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:415
+#: src/components/art7/dataDefinitions/form.js:418
 #: src/components/art7/dataDefinitions/form.js:450
 #: src/components/art7/dataDefinitions/labels.js:95
 #: src/components/letter/dataDefinitions/labels.js:84
@@ -1525,7 +1525,7 @@ msgstr ""
 msgid "Production for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:421
+#: src/components/art7/dataDefinitions/form.js:424
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
 
@@ -1561,7 +1561,7 @@ msgstr ""
 msgid "Quantity destroyed"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:670
+#: src/components/art7/dataDefinitions/form.js:673
 msgid "Quantity of exports to non-parties"
 msgstr ""
 
@@ -1575,7 +1575,7 @@ msgstr ""
 msgid "Quantity of exports to non-parties (recovered)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:665
+#: src/components/art7/dataDefinitions/form.js:668
 msgid "Quantity of imports from non-parties"
 msgstr ""
 
@@ -1594,7 +1594,7 @@ msgstr ""
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:156
+#: src/components/art7/dataDefinitions/form.js:159
 #: src/components/art7/dataDefinitions/labels.js:50
 msgid "Quantity of new substance exported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
@@ -1603,13 +1603,13 @@ msgstr ""
 msgid "Quantity of new substance Exported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:298
+#: src/components/art7/dataDefinitions/form.js:301
 #: src/components/art7/dataDefinitions/labels.js:15
 #: src/components/letter/dataDefinitions/labels.js:12
 msgid "Quantity of new substance imported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:295
+#: src/components/art7/dataDefinitions/form.js:298
 #: src/components/art7/dataDefinitions/labels.js:14
 #: src/components/art7/dataDefinitions/labels.js:49
 #: src/components/letter/dataDefinitions/labels.js:11
@@ -1617,7 +1617,7 @@ msgstr ""
 msgid "Quantity of new substance imported for feedstock uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:153
+#: src/components/art7/dataDefinitions/form.js:156
 msgid "Quantity of new substances exported as feedstock"
 msgstr ""
 
@@ -1683,8 +1683,8 @@ msgstr ""
 msgid "Recovered and reclaimed imports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:782
-#: src/components/art7/dataDefinitions/form.js:786
+#: src/components/art7/dataDefinitions/form.js:785
+#: src/components/art7/dataDefinitions/form.js:789
 msgid "Refers to the total amount whether captured or not. The sum of these amounts is not to be reported under data form 3"
 msgstr ""
 
@@ -1842,8 +1842,8 @@ msgid "Secretariat"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:602
-#: src/components/art7/dataDefinitions/form.js:667
-#: src/components/art7/dataDefinitions/form.js:672
+#: src/components/art7/dataDefinitions/form.js:670
+#: src/components/art7/dataDefinitions/form.js:675
 msgid "See definition of “non parties” in Instruction V."
 msgstr ""
 
@@ -2061,11 +2061,11 @@ msgstr ""
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4a), Amounts destroyed (4b) and Exempted amounts (5)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:148
+#: src/components/art7/dataDefinitions/form.js:151
 msgid "Total Quantity Exported for All Uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:290
+#: src/components/art7/dataDefinitions/form.js:293
 msgid "Total Quantity Imported for All Uses"
 msgstr ""
 
