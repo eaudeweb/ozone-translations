@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-25 16:56+0300\n"
+"POT-Creation-Date: 2019-04-25 17:16+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -519,7 +519,7 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1374
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1415
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -556,48 +556,48 @@ msgid ""
 "necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:798
+#: ozone/core/models/reporting.py:818
 msgid "User do not have permission to change this flag."
 msgstr ""
 
-#: ozone/core/models/reporting.py:855
+#: ozone/core/models/reporting.py:885
 msgid "User do not have permission to change this remark."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1011
+#: ozone/core/models/reporting.py:1052
 #, python-brace-format
 msgid "Another submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:1036
+#: ozone/core/models/reporting.py:1077
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1045
+#: ozone/core/models/reporting.py:1086
 msgid ""
 "You cannot create a new version of this submission with this type of "
 "obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1058
+#: ozone/core/models/reporting.py:1099
 msgid ""
 "You cannot create a new version of this submission from a previous period if "
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1351
+#: ozone/core/models/reporting.py:1392
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1366
+#: ozone/core/models/reporting.py:1407
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1382
+#: ozone/core/models/reporting.py:1423
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1518
+#: ozone/core/models/reporting.py:1559
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -623,11 +623,11 @@ msgstr ""
 msgid "User needs to be either Secretariat or Party"
 msgstr ""
 
-#: ozone/core/models/workflows/accelerated_exemption.py:53
+#: ozone/core/models/workflows/accelerated_exemption.py:54
 msgid "An emergency exemption needs to have its emergency flagset."
 msgstr ""
 
-#: ozone/core/models/workflows/accelerated_exemption.py:61
+#: ozone/core/models/workflows/accelerated_exemption.py:62
 msgid "An emergency exemption should have at least oneapproved substance."
 msgstr ""
 
@@ -639,13 +639,13 @@ msgstr ""
 msgid "Questionnaire form must be completed before submitting."
 msgstr ""
 
-#: ozone/core/models/workflows/default_exemption.py:71
+#: ozone/core/models/workflows/default_exemption.py:72
 msgid ""
 "An exemption cannot be marked as approved without anyactual approved "
 "substances."
 msgstr ""
 
-#: ozone/core/models/workflows/default_exemption.py:82
+#: ozone/core/models/workflows/default_exemption.py:83
 msgid ""
 "An exemption cannot be marked as not approved while havingapproved "
 "substances."
@@ -668,11 +668,11 @@ msgstr ""
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1211
+#: ozone/core/serializers.py:1212
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1229
+#: ozone/core/serializers.py:1230
 msgid "Specified file id not found for this submission"
 msgstr ""
 
