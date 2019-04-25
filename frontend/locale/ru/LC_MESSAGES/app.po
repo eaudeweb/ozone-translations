@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-25 15:34+0000\n"
+"POT-Creation-Date: 2019-04-25 16:11+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -40,13 +40,13 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:648
 #: src/components/art7/dataDefinitions/form.js:772
 #: src/components/common/Files.vue:107
-#: src/components/common/SubmissionHistory.vue:123
+#: src/components/common/SubmissionHistory.vue:124
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
 #: src/components/hat/dataDefinitions/form.js:182
 #: src/components/raf/dataDefinitions/form.js:116
-#: src/components/raf/dataDefinitions/labels.js:30 src/views/Dashboard.vue:403
-#: src/views/Dashboard.vue:444
+#: src/components/raf/dataDefinitions/labels.js:30 src/views/Dashboard.vue:404
+#: src/views/Dashboard.vue:445
 msgid "Actions"
 msgstr "фиктивный текст"
 
@@ -538,9 +538,9 @@ msgstr "фиктивный текст."
 msgid "Create submission"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:114
-#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:401
-#: src/views/Dashboard.vue:442
+#: src/components/common/SubmissionHistory.vue:115
+#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:402
+#: src/views/Dashboard.vue:443
 #, fuzzy
 msgid "Created by"
 msgstr "фиктивный текст"
@@ -561,7 +561,7 @@ msgstr "фиктивный текст"
 msgid "Critical use"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:120
+#: src/components/common/SubmissionHistory.vue:121
 msgid "Current State"
 msgstr "фиктивный текст"
 
@@ -569,7 +569,7 @@ msgstr "фиктивный текст"
 msgid "Custom blend added successfully."
 msgstr ""
 
-#: src/views/Dashboard.vue:583
+#: src/views/Dashboard.vue:584
 msgid "Dashboard"
 msgstr "фиктивный текст"
 
@@ -1091,7 +1091,7 @@ msgstr "фиктивный текст"
 msgid "invalid"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:80
+#: src/components/common/SubmissionHistory.vue:81
 #, fuzzy
 msgid "Invalid"
 msgstr "фиктивный текст"
@@ -1119,11 +1119,11 @@ msgstr "фиктивный текст"
 msgid "Last changed by"
 msgstr ""
 
-#: src/views/Dashboard.vue:399 src/views/Dashboard.vue:440
+#: src/views/Dashboard.vue:400 src/views/Dashboard.vue:441
 msgid "Last modified"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:117
+#: src/components/common/SubmissionHistory.vue:118
 msgid "Last Modified"
 msgstr "фиктивный текст"
 
@@ -1274,7 +1274,7 @@ msgstr "фиктивный текст"
 msgid "Number of Isomers"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:389 src/views/Dashboard.vue:432
+#: src/views/Dashboard.vue:390 src/views/Dashboard.vue:433
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
 #: src/views/Dashboard.vue:181
 msgid "Obligation"
@@ -1354,8 +1354,8 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:377 src/views/Dashboard.vue:393
-#: src/views/Dashboard.vue:421 src/views/Dashboard.vue:436
+#: src/views/Dashboard.vue:378 src/views/Dashboard.vue:394
+#: src/views/Dashboard.vue:422 src/views/Dashboard.vue:437
 #: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:84
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
 #: src/views/Dashboard.vue:188
@@ -1384,7 +1384,7 @@ msgstr "фиктивный текст"
 msgid "Percentage"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:391 src/views/Dashboard.vue:434
+#: src/views/Dashboard.vue:392 src/views/Dashboard.vue:435
 #: src/views/Dashboard.vue:27
 msgid "Period"
 msgstr "фиктивный текст"
@@ -1572,7 +1572,7 @@ msgstr "фиктивный текст"
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:74
+#: src/components/common/SubmissionHistory.vue:75
 #: src/components/common/dataDefinitions/labels.js:56
 msgid "Provisional"
 msgstr "фиктивный текст"
@@ -1885,7 +1885,7 @@ msgid "Search"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:377 src/views/Dashboard.vue:421
+#: src/views/Dashboard.vue:378 src/views/Dashboard.vue:422
 #: src/views/UserProfile.vue:35
 msgid "Secretariat"
 msgstr "фиктивный текст"
@@ -1929,7 +1929,7 @@ msgstr "фиктивный текст"
 msgid "Start upload"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:397
+#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:398
 msgid "Status"
 msgstr "фиктивный текст"
 
@@ -2041,7 +2041,7 @@ msgstr "фиктивный текст"
 msgid "subtitle............"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:83
+#: src/components/common/SubmissionHistory.vue:84
 #: src/components/common/SubmissionStatus.vue:28
 #: src/components/common/dataDefinitions/labels.js:55
 msgid "Superseded"
@@ -2238,7 +2238,7 @@ msgstr ""
 msgid "valid"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:77
+#: src/components/common/SubmissionHistory.vue:78
 #: src/components/common/SubmissionStatus.vue:12
 #: src/components/common/dataDefinitions/labels.js:59
 msgid "Valid"
@@ -2253,9 +2253,9 @@ msgstr "фиктивный текст"
 msgid "Validation errors"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:111
-#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:395
-#: src/views/Dashboard.vue:438
+#: src/components/common/SubmissionHistory.vue:112
+#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:396
+#: src/views/Dashboard.vue:439
 msgid "Version"
 msgstr "фиктивный текст"
 
