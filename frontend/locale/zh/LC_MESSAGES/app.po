@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-23 14:10+0000\n"
+"POT-Creation-Date: 2019-04-25 15:34+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -235,7 +235,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:127
+#: src/components/common/SubmissionInfo.vue:119
 msgid "Annex groups reported in full"
 msgstr ""
 
@@ -254,7 +254,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:154
-#: src/views/lookupTables/Consumption.vue:74
+#: src/views/reports/Consumption.vue:85
 msgid "Annex/Group"
 msgstr ""
 
@@ -327,7 +327,8 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:52
 #: src/components/common/AggregationsTable.vue:55
 #: src/components/common/AggregationsTable.vue:58
-#: src/views/lookupTables/Consumption.vue:79
+#: src/views/reports/Consumption.vue:87 src/views/reports/Consumption.vue:90
+#: src/views/reports/Consumption.vue:93
 msgid "Baseline"
 msgstr ""
 
@@ -375,6 +376,8 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:53
 #: src/components/common/AggregationsTable.vue:56
 #: src/components/common/AggregationsTable.vue:59
+#: src/views/reports/Consumption.vue:88 src/views/reports/Consumption.vue:91
+#: src/views/reports/Consumption.vue:94
 msgid "Calculated"
 msgstr ""
 
@@ -417,8 +420,8 @@ msgstr ""
 
 #: src/views/Dashboard.vue:105 src/views/Dashboard.vue:210
 #: src/views/lookupTables/Blends.vue:43
-#: src/views/lookupTables/Consumption.vue:21
 #: src/views/lookupTables/ControlledSubstances.vue:28
+#: src/views/reports/Consumption.vue:21
 msgid "Clear"
 msgstr ""
 
@@ -487,7 +490,7 @@ msgid "Confirmed blanks"
 msgstr ""
 
 #: src/components/common/AggregationsTable.vue:39
-#: src/views/lookupTables/Consumption.vue:165
+#: src/views/reports/Consumption.vue:135
 msgid "Consumption"
 msgstr ""
 
@@ -1107,12 +1110,9 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:54
 #: src/components/common/AggregationsTable.vue:57
 #: src/components/common/AggregationsTable.vue:60
-#: src/views/lookupTables/Consumption.vue:77
+#: src/views/reports/Consumption.vue:89 src/views/reports/Consumption.vue:92
+#: src/views/reports/Consumption.vue:95
 msgid "Limit"
-msgstr ""
-
-#: src/views/lookupTables/Consumption.vue:76
-msgid "Limit type"
 msgstr ""
 
 #: src/components/common/Header.vue:32
@@ -1322,7 +1322,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
 #: src/views/Dashboard.vue:377 src/views/Dashboard.vue:393
 #: src/views/Dashboard.vue:421 src/views/Dashboard.vue:436
-#: src/views/UserProfile.vue:36 src/views/lookupTables/Consumption.vue:73
+#: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:84
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
 #: src/views/Dashboard.vue:188
 msgid "Party"
@@ -1478,6 +1478,7 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:36
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:141
+#: src/views/reports/Consumption.vue:132
 msgid "Production"
 msgstr ""
 
@@ -1489,6 +1490,14 @@ msgstr ""
 
 #: src/components/common/AggregationsTable.vue:42
 msgid "Production allowance for BDN of Article 5 parties"
+msgstr ""
+
+#: src/views/reports/Consumption.vue:138
+msgid "Production allowance for BDN of Article 5 Parties"
+msgstr ""
+
+#: src/views/reports/Consumption.vue:235
+msgid "Production and consumption"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:392
@@ -1749,10 +1758,6 @@ msgstr ""
 msgid "Remarks (Secretariat)"
 msgstr ""
 
-#: src/views/lookupTables/Consumption.vue:78
-msgid "Reported"
-msgstr ""
-
 #: src/components/common/dataDefinitions/labels.js:38
 msgid "Reporting channel"
 msgstr ""
@@ -1761,7 +1766,7 @@ msgstr ""
 msgid "Reporting officer"
 msgstr ""
 
-#: src/views/lookupTables/Consumption.vue:75
+#: src/views/reports/Consumption.vue:86
 msgid "Reporting period"
 msgstr ""
 
@@ -1775,7 +1780,7 @@ msgstr ""
 msgid "required"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:244
+#: src/components/common/SubmissionInfo.vue:236
 #: src/components/common/dataDefinitions/tabSubInfo.js:107
 #: src/components/common/dataDefinitions/tabSubInfo.js:114
 msgid "Required"
@@ -1902,7 +1907,7 @@ msgstr ""
 msgid "SUBMISSION INFO"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:164
+#: src/components/common/SubmissionInfo.vue:156
 msgid "Submission status"
 msgstr ""
 
@@ -2314,7 +2319,7 @@ msgid "To"
 msgstr ""
 
 #: src/views/Dashboard.vue:146 src/views/Dashboard.vue:255
-#: src/views/lookupTables/Consumption.vue:54
+#: src/views/reports/Consumption.vue:63
 msgid "Per page"
 msgstr ""
 
