@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-06 09:15+0000\n"
+"POT-Creation-Date: 2019-05-06 13:20+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1394,11 +1394,11 @@ msgstr ""
 msgid "Please fill-in column On hand end of year (13)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:538
+#: src/components/art7/services/tableRowConstructorService.js:547
 msgid "Please fill-in column Quantity destroyed (2)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:468
+#: src/components/art7/services/tableRowConstructorService.js:477
 msgid "Please fill-in column Total production for all uses (3)"
 msgstr ""
 
@@ -1410,7 +1410,7 @@ msgstr ""
 msgid "Please fill-in mandatory fields"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:601
+#: src/components/art7/services/tableRowConstructorService.js:610
 msgid "Please fill-in one of columns New imports (4), Recovered and reclaimed imports (5), New exports (6) or Recovered and reclaimed exports (7)"
 msgstr ""
 
@@ -1995,6 +1995,11 @@ msgstr ""
 msgid "The page you are looking for was not found."
 msgstr ""
 
+#: src/components/art7/services/tableRowConstructorService.js:343
+#: src/components/art7/services/tableRowConstructorService.js:349
+msgid "The row cannot be empty. Please fill in any column"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:667
 #: src/components/exemption/FormTemplate.vue:130
 #: src/components/raf/FormTemplate.vue:225
@@ -2045,19 +2050,19 @@ msgstr ""
 msgid "Total production for all uses"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:485
+#: src/components/art7/services/tableRowConstructorService.js:494
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4) and Exempted amounts (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:473
+#: src/components/art7/services/tableRowConstructorService.js:482
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4), Exempted amounts (5) and Production for BDN of Article 5 countries (7)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:479
+#: src/components/art7/services/tableRowConstructorService.js:488
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4), Exempted amounts (5) and QPS"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:491
+#: src/components/art7/services/tableRowConstructorService.js:500
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4a), Amounts destroyed (4b) and Exempted amounts (5)"
 msgstr ""
 
