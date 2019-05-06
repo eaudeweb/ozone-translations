@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 14:08+0300\n"
+"POT-Creation-Date: 2019-05-06 15:36+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -491,31 +491,31 @@ msgstr "фиктивный текст."
 msgid "You do not have permission to upload files for this submission"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:66 ozone/core/models/data.py:69
+#: ozone/core/models/data.py:67 ozone/core/models/data.py:70
 msgid "Data should refer to one substance or one blend"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/data.py:77 ozone/core/models/data.py:80
+#: ozone/core/models/data.py:78 ozone/core/models/data.py:81
 msgid "Data should not refer to both a substance and a blend"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/data.py:92
+#: ozone/core/models/data.py:93
 msgid "This blend is for a different party!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:98
+#: ozone/core/models/data.py:99
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:160
+#: ozone/core/models/data.py:161
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:739
+#: ozone/core/models/data.py:741
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:754
+#: ozone/core/models/data.py:756
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
