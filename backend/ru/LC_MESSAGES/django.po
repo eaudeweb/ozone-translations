@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-07 15:08+0300\n"
+"POT-Creation-Date: 2019-05-07 15:27+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -525,7 +525,7 @@ msgstr "фиктивный текст."
 msgid "The end date must be greater than the start date."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1415
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1417
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -533,32 +533,32 @@ msgstr ""
 msgid "Unable to delete data because submission is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:150
+#: ozone/core/models/reporting.py:152
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:203
+#: ozone/core/models/reporting.py:205
 msgid ""
 "Unable to set reporting channel. Another reporting channel is already set as "
 "default for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:680
+#: ozone/core/models/reporting.py:682
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not exist in this workflow"
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:687
+#: ozone/core/models/reporting.py:689
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not start from current state"
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:696
+#: ozone/core/models/reporting.py:698
 #, fuzzy
 #| msgid ""
 #| "Transition checks not satisfied or you may not have the necessary "
@@ -568,19 +568,19 @@ msgid ""
 "necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:818
+#: ozone/core/models/reporting.py:820
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User do not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:885
+#: ozone/core/models/reporting.py:887
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
 msgid "User do not have permission to change this remark."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1052
+#: ozone/core/models/reporting.py:1054
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -588,11 +588,11 @@ msgstr "фиктивный текст"
 msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1077
+#: ozone/core/models/reporting.py:1079
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1086
+#: ozone/core/models/reporting.py:1088
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -601,7 +601,7 @@ msgid ""
 "obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1099
+#: ozone/core/models/reporting.py:1101
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -610,19 +610,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1392
+#: ozone/core/models/reporting.py:1394
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1407
+#: ozone/core/models/reporting.py:1409
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1423
+#: ozone/core/models/reporting.py:1425
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1559
+#: ozone/core/models/reporting.py:1561
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
