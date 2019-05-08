@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-07 18:52+0300\n"
+"POT-Creation-Date: 2019-05-08 11:24+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -481,11 +481,11 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:611
+#: ozone/core/api/views.py:612
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:1328
+#: ozone/core/api/views.py:1329
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
