@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-07 11:54+0000\n"
+"POT-Creation-Date: 2019-05-09 08:34+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -1307,7 +1307,7 @@ msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:68
 #: src/components/raf/dataDefinitions/labels.js:18
-msgid "Ozone depletig substances"
+msgid "Ozone depleting substances"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:45
