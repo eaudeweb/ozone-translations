@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-09 17:19+0300\n"
+"POT-Creation-Date: 2019-05-09 18:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -517,7 +517,7 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1417
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1425
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -583,19 +583,19 @@ msgid ""
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1394
+#: ozone/core/models/reporting.py:1402
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1409
+#: ozone/core/models/reporting.py:1417
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1425
+#: ozone/core/models/reporting.py:1433
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1561
+#: ozone/core/models/reporting.py:1569
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
