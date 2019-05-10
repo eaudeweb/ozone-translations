@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-10 11:52+0300\n"
+"POT-Creation-Date: 2019-05-10 14:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,40 +25,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ozone/core/admin.py:70
+#: ozone/core/admin.py:69
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:85
+#: ozone/core/admin.py:84
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:88
+#: ozone/core/admin.py:87
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:91
+#: ozone/core/admin.py:90
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:288
+#: ozone/core/admin.py:301
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:291
+#: ozone/core/admin.py:304
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:293
+#: ozone/core/admin.py:306
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:299
+#: ozone/core/admin.py:312
 msgid "Login"
 msgstr ""
 
