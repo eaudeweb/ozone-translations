@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-09 18:41+0300\n"
+"POT-Creation-Date: 2019-05-10 11:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -477,39 +477,39 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:612
+#: ozone/core/api/views.py:627
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1329
+#: ozone/core/api/views.py:1344
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
-#: ozone/core/models/data.py:67 ozone/core/models/data.py:70
+#: ozone/core/models/data.py:64 ozone/core/models/data.py:67
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:78 ozone/core/models/data.py:81
+#: ozone/core/models/data.py:75 ozone/core/models/data.py:78
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:93
+#: ozone/core/models/data.py:90
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:99
+#: ozone/core/models/data.py:96
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:161
+#: ozone/core/models/data.py:158
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:741
+#: ozone/core/models/data.py:711
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:756
+#: ozone/core/models/data.py:726
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
@@ -601,11 +601,11 @@ msgid ""
 "already set as default for "
 msgstr ""
 
-#: ozone/core/models/substance.py:303
+#: ozone/core/models/substance.py:370
 msgid "Predefined blends composition cannot be changed."
 msgstr ""
 
-#: ozone/core/models/substance.py:342 ozone/core/models/substance.py:345
+#: ozone/core/models/substance.py:409 ozone/core/models/substance.py:412
 msgid "Substance or component name must be set."
 msgstr ""
 
