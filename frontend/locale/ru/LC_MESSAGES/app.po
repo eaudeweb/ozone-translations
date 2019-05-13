@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-13 15:20+0000\n"
+"POT-Creation-Date: 2019-05-13 16:09+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -250,7 +250,6 @@ msgstr "фиктивный текст"
 msgid "Annex groups reported in full"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:64
 #: src/components/raf/dataDefinitions/labels.js:17
 msgid "Annex/group"
 msgstr "фиктивный текст"
@@ -1280,7 +1279,7 @@ msgstr "фиктивный текст"
 msgid "ODP"
 msgstr "фиктивный текст"
 
-#: src/components/raf/FormTemplate.vue:443
+#: src/components/raf/FormTemplate.vue:448
 #: src/components/raf/dataDefinitions/form.js:109
 #: src/components/raf/dataDefinitions/labels.js:29
 msgid "On hand end of year"
@@ -2284,6 +2283,10 @@ msgstr "фиктивный текст"
 #: src/components/common/dataDefinitions/tabSubInfo.js:42
 msgid "Web form"
 msgstr "фиктивный текст"
+
+#: src/components/raf/dataDefinitions/form.js:64
+msgid "Year"
+msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:1
 msgid "Yes"
