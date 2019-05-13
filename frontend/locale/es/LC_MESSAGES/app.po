@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-13 12:03+0000\n"
+"POT-Creation-Date: 2019-05-13 12:19+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -552,10 +552,6 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:13
 msgid "Custom blend added successfully."
-msgstr ""
-
-#: src/views/Dashboard.vue:588
-msgid "Dashboard"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:11
@@ -1261,6 +1257,10 @@ msgstr ""
 #: src/components/raf/dataDefinitions/form.js:89
 #: src/components/raf/dataDefinitions/labels.js:24
 msgid "On hand start of the year"
+msgstr ""
+
+#: src/views/Dashboard.vue:588
+msgid "Online Reporting Tool"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:103
