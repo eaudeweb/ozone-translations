@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-14 13:52+0300\n"
+"POT-Creation-Date: 2019-05-14 15:50+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -472,11 +472,11 @@ msgstr ""
 msgid "No comments (secretariat)"
 msgstr ""
 
-#: ozone/core/api/views.py:627
+#: ozone/core/api/views.py:628
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1344
+#: ozone/core/api/views.py:1355
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -500,11 +500,11 @@ msgstr ""
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:736
+#: ozone/core/models/data.py:823
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:751
+#: ozone/core/models/data.py:838
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
@@ -512,7 +512,7 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1438
+#: ozone/core/models/reporting.py:61 ozone/core/models/reporting.py:1480
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -532,65 +532,65 @@ msgid ""
 "default for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:685
+#: ozone/core/models/reporting.py:687
 #, python-brace-format
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:692
+#: ozone/core/models/reporting.py:694
 #, python-brace-format
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:701
+#: ozone/core/models/reporting.py:703
 msgid ""
 "Workflow error. Transition checks not satisfied or you may not have the "
 "necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:823
+#: ozone/core/models/reporting.py:825
 msgid "User do not have permission to change this flag."
 msgstr ""
 
-#: ozone/core/models/reporting.py:890
+#: ozone/core/models/reporting.py:892
 msgid "User do not have permission to change this remark."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1057
+#: ozone/core/models/reporting.py:1059
 #, python-brace-format
 msgid "Another submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:1082
+#: ozone/core/models/reporting.py:1084
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1091
+#: ozone/core/models/reporting.py:1093
 msgid ""
 "You cannot create a new version of this submission with this type of "
 "obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1104
+#: ozone/core/models/reporting.py:1106
 msgid ""
 "You cannot create a new version of this submission from a previous period if "
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1415
+#: ozone/core/models/reporting.py:1457
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1430
+#: ozone/core/models/reporting.py:1472
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1446
+#: ozone/core/models/reporting.py:1488
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1592
+#: ozone/core/models/reporting.py:1634
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -644,28 +644,28 @@ msgid ""
 "substances."
 msgstr ""
 
-#: ozone/core/serializers.py:96
+#: ozone/core/serializers.py:97
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:448 ozone/core/serializers.py:453
+#: ozone/core/serializers.py:449 ozone/core/serializers.py:454
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:980
+#: ozone/core/serializers.py:981
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:991
+#: ozone/core/serializers.py:992
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1213
+#: ozone/core/serializers.py:1214
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1231
+#: ozone/core/serializers.py:1232
 msgid "Specified file id not found for this submission"
 msgstr ""
 
