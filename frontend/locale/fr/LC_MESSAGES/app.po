@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-15 12:19+0000\n"
+"POT-Creation-Date: 2019-05-15 12:47+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -256,7 +256,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:19
 #: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:154
-#: src/views/reports/Consumption.vue:85
+#: src/views/reports/Consumption.vue:87
 msgid "Annex/Group"
 msgstr ""
 
@@ -329,8 +329,8 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:52
 #: src/components/common/AggregationsTable.vue:55
 #: src/components/common/AggregationsTable.vue:58
-#: src/views/reports/Consumption.vue:87 src/views/reports/Consumption.vue:90
-#: src/views/reports/Consumption.vue:93
+#: src/views/reports/Consumption.vue:89 src/views/reports/Consumption.vue:92
+#: src/views/reports/Consumption.vue:95
 msgid "Baseline"
 msgstr ""
 
@@ -378,8 +378,8 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:53
 #: src/components/common/AggregationsTable.vue:56
 #: src/components/common/AggregationsTable.vue:59
-#: src/views/reports/Consumption.vue:88 src/views/reports/Consumption.vue:91
-#: src/views/reports/Consumption.vue:94
+#: src/views/reports/Consumption.vue:90 src/views/reports/Consumption.vue:93
+#: src/views/reports/Consumption.vue:96
 msgid "Calculated"
 msgstr ""
 
@@ -492,7 +492,7 @@ msgid "Confirmed blanks"
 msgstr ""
 
 #: src/components/common/AggregationsTable.vue:39
-#: src/views/reports/Consumption.vue:135
+#: src/views/reports/Consumption.vue:141
 msgid "Consumption"
 msgstr ""
 
@@ -1111,8 +1111,8 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:54
 #: src/components/common/AggregationsTable.vue:57
 #: src/components/common/AggregationsTable.vue:60
-#: src/views/reports/Consumption.vue:89 src/views/reports/Consumption.vue:92
-#: src/views/reports/Consumption.vue:95
+#: src/views/reports/Consumption.vue:91 src/views/reports/Consumption.vue:94
+#: src/views/reports/Consumption.vue:97
 msgid "Limit"
 msgstr ""
 
@@ -1327,7 +1327,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
 #: src/views/Dashboard.vue:381 src/views/Dashboard.vue:397
 #: src/views/Dashboard.vue:425 src/views/Dashboard.vue:440
-#: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:84
+#: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
 #: src/views/Dashboard.vue:191
 msgid "Party"
@@ -1483,7 +1483,7 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:36
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:141
-#: src/views/reports/Consumption.vue:132
+#: src/views/reports/Consumption.vue:138
 msgid "Production"
 msgstr ""
 
@@ -1497,11 +1497,11 @@ msgstr ""
 msgid "Production allowance for BDN of Article 5 parties"
 msgstr ""
 
-#: src/views/reports/Consumption.vue:138
+#: src/views/reports/Consumption.vue:144
 msgid "Production allowance for BDN of Article 5 Parties"
 msgstr ""
 
-#: src/views/reports/Consumption.vue:227
+#: src/views/reports/Consumption.vue:237
 msgid "Production and consumption"
 msgstr ""
 
@@ -1771,7 +1771,7 @@ msgstr ""
 msgid "Reporting officer"
 msgstr ""
 
-#: src/views/reports/Consumption.vue:86
+#: src/views/reports/Consumption.vue:88
 msgid "Reporting period"
 msgstr ""
 
@@ -2335,7 +2335,7 @@ msgid "To"
 msgstr ""
 
 #: src/views/Dashboard.vue:149 src/views/Dashboard.vue:258
-#: src/views/reports/Consumption.vue:63
+#: src/views/reports/Consumption.vue:65
 msgid "Per page"
 msgstr ""
 
