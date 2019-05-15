@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-15 15:49+0300\n"
+"POT-Creation-Date: 2019-05-15 16:46+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -485,31 +485,31 @@ msgstr "фиктивный текст."
 msgid "You do not have permission to upload files for this submission"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:64 ozone/core/models/data.py:67
+#: ozone/core/models/data.py:65 ozone/core/models/data.py:68
 msgid "Data should refer to one substance or one blend"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/data.py:75 ozone/core/models/data.py:78
+#: ozone/core/models/data.py:76 ozone/core/models/data.py:79
 msgid "Data should not refer to both a substance and a blend"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/data.py:90
+#: ozone/core/models/data.py:91
 msgid "This blend is for a different party!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:96
+#: ozone/core/models/data.py:97
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:158
+#: ozone/core/models/data.py:159
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:823
+#: ozone/core/models/data.py:824
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:838
+#: ozone/core/models/data.py:839
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
@@ -689,21 +689,21 @@ msgstr "фиктивный текст! {field_value}"
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:981
+#: ozone/core/serializers.py:985
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:992
+#: ozone/core/serializers.py:996
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User is not allowed to change date of submission."
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1214
+#: ozone/core/serializers.py:1218
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1232
+#: ozone/core/serializers.py:1236
 msgid "Specified file id not found for this submission"
 msgstr ""
 
