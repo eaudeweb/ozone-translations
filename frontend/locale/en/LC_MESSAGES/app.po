@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-15 12:02+0000\n"
+"POT-Creation-Date: 2019-05-15 12:19+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -1496,7 +1496,7 @@ msgstr ""
 msgid "Production allowance for BDN of Article 5 Parties"
 msgstr ""
 
-#: src/views/reports/Consumption.vue:235
+#: src/views/reports/Consumption.vue:227
 msgid "Production and consumption"
 msgstr ""
 
