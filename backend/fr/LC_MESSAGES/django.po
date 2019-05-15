@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-14 17:40+0300\n"
+"POT-Creation-Date: 2019-05-15 11:10+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -596,11 +596,19 @@ msgid ""
 "already set as default for "
 msgstr ""
 
-#: ozone/core/models/substance.py:373
+#: ozone/core/models/substance.py:58
+msgid "Alternate name"
+msgstr ""
+
+#: ozone/core/models/substance.py:65
+msgid "Alternate description"
+msgstr ""
+
+#: ozone/core/models/substance.py:376
 msgid "Predefined blends composition cannot be changed."
 msgstr ""
 
-#: ozone/core/models/substance.py:412 ozone/core/models/substance.py:415
+#: ozone/core/models/substance.py:415 ozone/core/models/substance.py:418
 msgid "Substance or component name must be set."
 msgstr ""
 
