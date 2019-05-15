@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-15 12:51+0000\n"
+"POT-Creation-Date: 2019-05-15 16:06+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -42,7 +42,9 @@ msgstr ""
 #: src/components/hat/dataDefinitions/form.js:92
 #: src/components/hat/dataDefinitions/form.js:182
 #: src/components/raf/dataDefinitions/form.js:116
-#: src/components/raf/dataDefinitions/labels.js:30 src/views/Dashboard.vue:407
+#: src/components/raf/dataDefinitions/form.js:168
+#: src/components/raf/dataDefinitions/labels.js:31
+#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:407
 #: src/views/Dashboard.vue:448
 msgid "Actions"
 msgstr ""
@@ -136,12 +138,16 @@ msgid "Amount [Generated] (tonnes)"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:80
+#: src/components/raf/dataDefinitions/form.js:132
 #: src/components/raf/dataDefinitions/labels.js:21
+#: src/components/raf/dataDefinitions/labels.js:47
 msgid "Amount acquired by import & countries of manufacture"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:76
+#: src/components/raf/dataDefinitions/form.js:128
 #: src/components/raf/dataDefinitions/labels.js:20
+#: src/components/raf/dataDefinitions/labels.js:46
 msgid "Amount acquired by production"
 msgstr ""
 
@@ -151,7 +157,9 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:129
 #: src/components/raf/dataDefinitions/form.js:105
+#: src/components/raf/dataDefinitions/form.js:157
 #: src/components/raf/dataDefinitions/labels.js:28
+#: src/components/raf/dataDefinitions/labels.js:54
 msgid "Amount destroyed"
 msgstr ""
 
@@ -168,12 +176,14 @@ msgid "Amount destroyed without prior capture"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:72
+#: src/components/raf/dataDefinitions/form.js:124
 #: src/components/raf/dataDefinitions/labels.js:19
+#: src/components/raf/dataDefinitions/labels.js:45
 msgid "Amount exempted"
 msgstr ""
 
-#: src/components/raf/dataDefinitions/form.js:101
-#: src/components/raf/dataDefinitions/labels.js:27
+#: src/components/raf/dataDefinitions/form.js:153
+#: src/components/raf/dataDefinitions/labels.js:53
 msgid "Amount exported"
 msgstr ""
 
@@ -195,6 +205,10 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:760
 msgid "Amount of generated emissions"
+msgstr ""
+
+#: src/components/raf/dataDefinitions/form.js:149
+msgid "Amount used for critical use"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:128
@@ -241,6 +255,7 @@ msgid "Annex groups reported in full"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/labels.js:17
+#: src/components/raf/dataDefinitions/labels.js:43
 msgid "Annex/group"
 msgstr ""
 
@@ -303,12 +318,16 @@ msgid "at"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:86
+#: src/components/raf/dataDefinitions/form.js:138
 #: src/components/raf/dataDefinitions/labels.js:23
+#: src/components/raf/dataDefinitions/labels.js:49
 msgid "Authorized but not acquired"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:93
+#: src/components/raf/dataDefinitions/form.js:145
 #: src/components/raf/dataDefinitions/labels.js:25
+#: src/components/raf/dataDefinitions/labels.js:51
 msgid "Available for use"
 msgstr ""
 
@@ -447,7 +466,7 @@ msgstr ""
 #: src/components/letter/TabsManager.vue:55
 #: src/components/raf/FormTemplate.vue:319
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
-#: src/components/raf/TabsManager.vue:132
+#: src/components/raf/TabsManager.vue:124
 msgid "Close"
 msgstr ""
 
@@ -461,6 +480,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/labels.js:17
 #: src/components/hat/dataDefinitions/labels.js:28
 #: src/components/raf/dataDefinitions/labels.js:16
+#: src/components/raf/dataDefinitions/labels.js:42
 msgid "Comments (Party)"
 msgstr ""
 
@@ -474,6 +494,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/labels.js:16
 #: src/components/hat/dataDefinitions/labels.js:27
 #: src/components/raf/dataDefinitions/labels.js:15
+#: src/components/raf/dataDefinitions/labels.js:41
 msgid "Comments (Secretariat)"
 msgstr ""
 
@@ -577,7 +598,7 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:184
 #: src/components/hat/TabsManager.vue:222
 #: src/components/letter/TabsManager.vue:168
-#: src/components/raf/TabsManager.vue:221
+#: src/components/raf/TabsManager.vue:213
 msgid "data submission for"
 msgstr ""
 
@@ -637,7 +658,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:116
 #: src/components/letter/TabsManager.vue:87
-#: src/components/raf/TabsManager.vue:115
+#: src/components/raf/TabsManager.vue:107
 msgid "Delete Submission"
 msgstr ""
 
@@ -742,6 +763,9 @@ msgid "Email"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:112
+#: src/components/raf/dataDefinitions/form.js:164
+#: src/components/raf/dataDefinitions/labels.js:30
+#: src/components/raf/dataDefinitions/labels.js:57
 msgid "Emergency"
 msgstr ""
 
@@ -757,6 +781,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:34
 #: src/components/raf/dataDefinitions/form.js:47
 #: src/components/raf/dataDefinitions/labels.js:11
+#: src/components/raf/dataDefinitions/labels.js:37
 msgid "Essential and critical uses"
 msgstr ""
 
@@ -1181,6 +1206,7 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/labels.js:26
 #: src/components/raf/dataDefinitions/labels.js:14
+#: src/components/raf/dataDefinitions/labels.js:40
 msgid "New production for use in ducted commercial packaged (self-contained) air conditioners\t"
 msgstr ""
 
@@ -1190,6 +1216,7 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/labels.js:24
 #: src/components/raf/dataDefinitions/labels.js:12
+#: src/components/raf/dataDefinitions/labels.js:38
 msgid "New production for use in multi-split air conditioners\t"
 msgstr ""
 
@@ -1199,6 +1226,7 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/labels.js:25
 #: src/components/raf/dataDefinitions/labels.js:13
+#: src/components/raf/dataDefinitions/labels.js:39
 msgid "New production for use in split ducted air conditioners\t"
 msgstr ""
 
@@ -1247,14 +1275,17 @@ msgstr ""
 msgid "ODP"
 msgstr ""
 
-#: src/components/raf/FormTemplate.vue:448
 #: src/components/raf/dataDefinitions/form.js:109
+#: src/components/raf/dataDefinitions/form.js:161
 #: src/components/raf/dataDefinitions/labels.js:29
+#: src/components/raf/dataDefinitions/labels.js:55
 msgid "On hand end of year"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:89
+#: src/components/raf/dataDefinitions/form.js:141
 #: src/components/raf/dataDefinitions/labels.js:24
+#: src/components/raf/dataDefinitions/labels.js:50
 msgid "On hand start of the year"
 msgstr ""
 
@@ -1307,6 +1338,7 @@ msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:68
 #: src/components/raf/dataDefinitions/labels.js:18
+#: src/components/raf/dataDefinitions/labels.js:44
 msgid "Ozone depleting substances"
 msgstr ""
 
@@ -1345,6 +1377,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:99
 #: src/components/raf/dataDefinitions/labels.js:9
+#: src/components/raf/dataDefinitions/labels.js:35
 #: src/views/lookupTables/Blends.vue:146
 msgid "Percentage"
 msgstr ""
@@ -1549,6 +1582,11 @@ msgstr ""
 msgid "Quantity"
 msgstr ""
 
+#: src/components/raf/dataDefinitions/form.js:101
+#: src/components/raf/dataDefinitions/labels.js:27
+msgid "Quantity contained in exported product"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:555
 #: src/components/art7/dataDefinitions/labels.js:105
 #: src/components/letter/dataDefinitions/labels.js:92
@@ -1727,6 +1765,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:98
 #: src/components/letter/dataDefinitions/labels.js:115
 #: src/components/raf/dataDefinitions/labels.js:8
+#: src/components/raf/dataDefinitions/labels.js:34
 msgid "Remarks (Party)"
 msgstr ""
 
@@ -1755,6 +1794,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:97
 #: src/components/letter/dataDefinitions/labels.js:114
 #: src/components/raf/dataDefinitions/labels.js:7
+#: src/components/raf/dataDefinitions/labels.js:33
 msgid "Remarks (Secretariat)"
 msgstr ""
 
@@ -2018,7 +2058,9 @@ msgid "tooltipForTitleHtml................................"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:83
+#: src/components/raf/dataDefinitions/form.js:135
 #: src/components/raf/dataDefinitions/labels.js:22
+#: src/components/raf/dataDefinitions/labels.js:48
 msgid "Total acquired"
 msgstr ""
 
@@ -2102,6 +2144,7 @@ msgid "Type"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/labels.js:10
+#: src/components/raf/dataDefinitions/labels.js:36
 msgid "Type of use"
 msgstr ""
 
@@ -2145,9 +2188,13 @@ msgstr ""
 msgid "Uploaded files"
 msgstr ""
 
-#: src/components/raf/dataDefinitions/form.js:97
 #: src/components/raf/dataDefinitions/labels.js:26
+#: src/components/raf/dataDefinitions/labels.js:52
 msgid "Used"
+msgstr ""
+
+#: src/components/raf/dataDefinitions/form.js:97
+msgid "Used for essential use"
 msgstr ""
 
 #: src/views/UserProfile.vue:21
@@ -2186,7 +2233,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:108
 #: src/components/letter/TabsManager.vue:80
-#: src/components/raf/TabsManager.vue:108
+#: src/components/raf/TabsManager.vue:100
 msgid "Versions"
 msgstr ""
 
@@ -2204,6 +2251,7 @@ msgid "Web form"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:64
+#: src/components/raf/dataDefinitions/form.js:120
 msgid "Year"
 msgstr ""
 
@@ -2290,7 +2338,7 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:98
 #: src/components/hat/TabsManager.vue:126
 #: src/components/letter/TabsManager.vue:97
-#: src/components/raf/TabsManager.vue:125
+#: src/components/raf/TabsManager.vue:117
 msgid "Submission versions"
 msgstr ""
 
