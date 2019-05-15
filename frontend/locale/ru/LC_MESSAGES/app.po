@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-13 16:09+0000\n"
+"POT-Creation-Date: 2019-05-15 12:02+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -28,7 +28,7 @@ msgstr "фиктивный текст"
 msgid "A/II"
 msgstr ""
 
-#: src/components/common/Header.vue:14
+#: src/components/common/Header.vue:23
 msgid "Account"
 msgstr "фиктивный текст"
 
@@ -97,7 +97,7 @@ msgstr "фиктивный текст"
 msgid "Address country"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:19
+#: src/components/common/Header.vue:28
 msgid "Admin"
 msgstr ""
 
@@ -1139,7 +1139,7 @@ msgstr "фиктивный текст:"
 msgid "Limit"
 msgstr ""
 
-#: src/components/common/Header.vue:32
+#: src/components/common/Header.vue:41
 msgid "Logout"
 msgstr "фиктивный текст"
 
@@ -1742,7 +1742,7 @@ msgstr "фиктивный текст"
 msgid "Reinstate"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:31
+#: src/components/common/Header.vue:40
 msgid "Release"
 msgstr ""
 
@@ -1840,7 +1840,7 @@ msgstr ""
 msgid "Required"
 msgstr ""
 
-#: src/components/common/Header.vue:27
+#: src/components/common/Header.vue:36
 msgid "Reset password"
 msgstr "фиктивный текст"
 
@@ -2234,7 +2234,7 @@ msgstr ""
 msgid "User name:"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:23 src/views/UserProfile.vue:64
+#: src/components/common/Header.vue:32 src/views/UserProfile.vue:64
 msgid "User profile"
 msgstr ""
 
