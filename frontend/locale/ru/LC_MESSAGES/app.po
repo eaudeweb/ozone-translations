@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-16 13:22+0000\n"
+"POT-Creation-Date: 2019-05-16 13:56+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1666,7 +1666,8 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:156
 #: src/components/art7/FormTemplate.vue:368
-msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications"
+#, fuzzy
+msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications within your country"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:159
