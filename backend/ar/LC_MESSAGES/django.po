@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-16 16:20+0300\n"
+"POT-Creation-Date: 2019-05-16 16:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -506,15 +506,15 @@ msgstr ""
 msgid "PRODUCTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:354 ozone/core/api/export_pdf/util.py:357
+#: ozone/core/api/export_pdf/util.py:360 ozone/core/api/export_pdf/util.py:363
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:354
+#: ozone/core/api/export_pdf/util.py:360
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:357
+#: ozone/core/api/export_pdf/util.py:363
 msgid "secretariat"
 msgstr ""
 
