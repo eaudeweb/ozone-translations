@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-16 10:02+0000\n"
+"POT-Creation-Date: 2019-05-16 13:22+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -612,10 +612,7 @@ msgstr ""
 msgid "Date of submission"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/labels.js:32
 #: src/components/art7/dataDefinitions/labels.js:51
-#: src/components/art7/dataDefinitions/labels.js:66
-#: src/components/art7/dataDefinitions/labels.js:96
 #: src/components/letter/dataDefinitions/labels.js:27
 #: src/components/letter/dataDefinitions/labels.js:42
 #: src/components/letter/dataDefinitions/labels.js:57
@@ -631,6 +628,12 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:128
 #: src/components/art7/dataDefinitions/form.js:270
 msgid "Decision / type of use or remark"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/labels.js:32
+#: src/components/art7/dataDefinitions/labels.js:66
+#: src/components/art7/dataDefinitions/labels.js:96
+msgid "Decision or remark"
 msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:11
@@ -1456,11 +1459,6 @@ msgstr ""
 msgid "Polyols"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:210
-#: src/components/art7/FormTemplate.vue:422
-msgid "Polyols decision"
-msgstr ""
-
 #: src/components/common/dataDefinitions/labels.js:35
 #: src/components/letter/dataDefinitions/labels.js:130
 msgid "Postal address"
@@ -1558,11 +1556,6 @@ msgstr ""
 #: src/components/common/SubmissionHistory.vue:75
 #: src/components/common/dataDefinitions/labels.js:56
 msgid "Provisional"
-msgstr ""
-
-#: src/components/art7/FormTemplate.vue:170
-#: src/components/art7/FormTemplate.vue:382
-msgid "QPS decision"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:124
@@ -1730,6 +1723,13 @@ msgstr ""
 
 #: src/components/common/Header.vue:40
 msgid "Release"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:170
+#: src/components/art7/FormTemplate.vue:210
+#: src/components/art7/FormTemplate.vue:382
+#: src/components/art7/FormTemplate.vue:422
+msgid "Remark"
 msgstr ""
 
 #: src/components/exemption/dataDefinitions/labels.js:8

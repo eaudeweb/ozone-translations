@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-16 10:02+0000\n"
+"POT-Creation-Date: 2019-05-16 13:22+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -631,10 +631,7 @@ msgstr "фиктивный текст"
 msgid "Date of submission"
 msgstr "фиктивный текст"
 
-#: src/components/art7/dataDefinitions/labels.js:32
 #: src/components/art7/dataDefinitions/labels.js:51
-#: src/components/art7/dataDefinitions/labels.js:66
-#: src/components/art7/dataDefinitions/labels.js:96
 #: src/components/letter/dataDefinitions/labels.js:27
 #: src/components/letter/dataDefinitions/labels.js:42
 #: src/components/letter/dataDefinitions/labels.js:57
@@ -650,6 +647,13 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:128
 #: src/components/art7/dataDefinitions/form.js:270
 msgid "Decision / type of use or remark"
+msgstr "фиктивный текст"
+
+#: src/components/art7/dataDefinitions/labels.js:32
+#: src/components/art7/dataDefinitions/labels.js:66
+#: src/components/art7/dataDefinitions/labels.js:96
+#, fuzzy
+msgid "Decision or remark"
 msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:11
@@ -1502,12 +1506,6 @@ msgstr "фиктивный текст"
 msgid "Polyols"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:210
-#: src/components/art7/FormTemplate.vue:422
-#, fuzzy
-msgid "Polyols decision"
-msgstr "фиктивный текст"
-
 #: src/components/common/dataDefinitions/labels.js:35
 #: src/components/letter/dataDefinitions/labels.js:130
 #, fuzzy
@@ -1608,12 +1606,6 @@ msgstr ""
 #: src/components/common/SubmissionHistory.vue:75
 #: src/components/common/dataDefinitions/labels.js:56
 msgid "Provisional"
-msgstr "фиктивный текст"
-
-#: src/components/art7/FormTemplate.vue:170
-#: src/components/art7/FormTemplate.vue:382
-#, fuzzy
-msgid "QPS decision"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:124
@@ -1785,6 +1777,14 @@ msgstr "фиктивный текст"
 #: src/components/common/Header.vue:40
 msgid "Release"
 msgstr ""
+
+#: src/components/art7/FormTemplate.vue:170
+#: src/components/art7/FormTemplate.vue:210
+#: src/components/art7/FormTemplate.vue:382
+#: src/components/art7/FormTemplate.vue:422
+#, fuzzy
+msgid "Remark"
+msgstr "фиктивный текст"
 
 #: src/components/exemption/dataDefinitions/labels.js:8
 #: src/components/exemption/dataDefinitions/labels.js:15
