@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-17 11:32+0000\n"
+"POT-Creation-Date: 2019-05-17 16:12+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -119,7 +119,7 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:662
+#: src/components/art7/FormTemplate.vue:703
 #: src/components/exemption/FormTemplate.vue:125
 #: src/components/raf/FormTemplate.vue:220
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
@@ -427,7 +427,7 @@ msgstr ""
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:672
+#: src/components/art7/FormTemplate.vue:713
 #: src/components/exemption/FormTemplate.vue:135
 #: src/components/raf/FormTemplate.vue:230
 msgid "Change substance"
@@ -453,7 +453,7 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:764
+#: src/components/art7/FormTemplate.vue:805
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:159
@@ -748,12 +748,12 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:655
+#: src/components/art7/FormTemplate.vue:696
 #: src/components/raf/FormTemplate.vue:213
 msgid "Edit %{name} blend"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:651
+#: src/components/art7/FormTemplate.vue:692
 #: src/components/exemption/FormTemplate.vue:118
 #: src/components/raf/FormTemplate.vue:209
 msgid "Edit %{name} substance"
@@ -1449,7 +1449,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:979
+#: src/components/art7/FormTemplate.vue:1026
 #: src/components/common/mixins/FormTemplateMixin.vue:106
 #: src/components/common/mixins/FormTemplateMixin.vue:107
 msgid "Please use the form on the right sidebar to add substances"
@@ -1616,7 +1616,8 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:156
 #: src/components/art7/FormTemplate.vue:368
-msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications within your country"
+#: src/components/art7/FormTemplate.vue:600
+msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications within your country %{production}"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:159
@@ -1730,6 +1731,7 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:210
 #: src/components/art7/FormTemplate.vue:382
 #: src/components/art7/FormTemplate.vue:422
+#: src/components/art7/FormTemplate.vue:614
 msgid "Remark"
 msgstr ""
 
@@ -2034,7 +2036,7 @@ msgstr ""
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:667
+#: src/components/art7/FormTemplate.vue:708
 #: src/components/exemption/FormTemplate.vue:130
 #: src/components/raf/FormTemplate.vue:225
 msgid "The values are saved automatically in the table, as you type."
@@ -2292,7 +2294,7 @@ msgstr ""
 msgid "No files uploaded"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:708
+#: src/components/art7/FormTemplate.vue:749
 #: src/components/common/form-components/CloneField.vue:13
 #: src/components/raf/FormTemplate.vue:293
 msgid "Countries"
@@ -2353,7 +2355,7 @@ msgstr ""
 msgid "Add countries"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:682
+#: src/components/art7/FormTemplate.vue:723
 #: src/components/exemption/FormTemplate.vue:145
 #: src/components/raf/FormTemplate.vue:240
 msgid "Select substance"
