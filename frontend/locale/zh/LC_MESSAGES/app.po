@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-20 06:24+0000\n"
+"POT-Creation-Date: 2019-05-20 11:58+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -118,7 +118,7 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:703
+#: src/components/art7/FormTemplate.vue:701
 #: src/components/exemption/FormTemplate.vue:125
 #: src/components/raf/FormTemplate.vue:220
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
@@ -426,7 +426,7 @@ msgstr ""
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:713
+#: src/components/art7/FormTemplate.vue:711
 #: src/components/exemption/FormTemplate.vue:135
 #: src/components/raf/FormTemplate.vue:230
 msgid "Change substance"
@@ -452,7 +452,7 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:805
+#: src/components/art7/FormTemplate.vue:803
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:159
@@ -746,12 +746,12 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:696
+#: src/components/art7/FormTemplate.vue:694
 #: src/components/raf/FormTemplate.vue:213
 msgid "Edit %{name} blend"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:692
+#: src/components/art7/FormTemplate.vue:690
 #: src/components/exemption/FormTemplate.vue:118
 #: src/components/raf/FormTemplate.vue:209
 msgid "Edit %{name} substance"
@@ -1447,7 +1447,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:1026
+#: src/components/art7/FormTemplate.vue:1024
 #: src/components/common/mixins/FormTemplateMixin.vue:106
 #: src/components/common/mixins/FormTemplateMixin.vue:107
 msgid "Please use the form on the right sidebar to add substances"
@@ -2034,7 +2034,7 @@ msgstr ""
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:708
+#: src/components/art7/FormTemplate.vue:706
 #: src/components/exemption/FormTemplate.vue:130
 #: src/components/raf/FormTemplate.vue:225
 msgid "The values are saved automatically in the table, as you type."
@@ -2288,7 +2288,7 @@ msgstr ""
 msgid "No files uploaded"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:749
+#: src/components/art7/FormTemplate.vue:747
 #: src/components/common/form-components/CloneField.vue:13
 #: src/components/raf/FormTemplate.vue:293
 msgid "Countries"
@@ -2349,7 +2349,7 @@ msgstr ""
 msgid "Add countries"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:723
+#: src/components/art7/FormTemplate.vue:721
 #: src/components/exemption/FormTemplate.vue:145
 #: src/components/raf/FormTemplate.vue:240
 msgid "Select substance"
