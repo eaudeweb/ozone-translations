@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 16:31+0300\n"
+"POT-Creation-Date: 2019-05-20 17:07+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -487,39 +487,39 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:643
+#: ozone/core/api/views.py:656
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1406
+#: ozone/core/api/views.py:1419
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
-#: ozone/core/models/data.py:64 ozone/core/models/data.py:67
+#: ozone/core/models/data.py:63 ozone/core/models/data.py:66
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:75 ozone/core/models/data.py:78
+#: ozone/core/models/data.py:74 ozone/core/models/data.py:77
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:90
+#: ozone/core/models/data.py:89
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:96
+#: ozone/core/models/data.py:95
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:158
+#: ozone/core/models/data.py:157
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:827
+#: ozone/core/models/data.py:826
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:844
+#: ozone/core/models/data.py:843
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
@@ -692,19 +692,19 @@ msgstr ""
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:994
+#: ozone/core/serializers.py:990
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1005
+#: ozone/core/serializers.py:1001
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1227
+#: ozone/core/serializers.py:1223
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1245
+#: ozone/core/serializers.py:1241
 msgid "Specified file id not found for this submission"
 msgstr ""
 
