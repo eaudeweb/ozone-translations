@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-17 17:04+0000\n"
+"POT-Creation-Date: 2019-05-20 06:24+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -98,16 +98,16 @@ msgid "Admin"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:161
-msgid "Against each substance exported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
+msgid "Against each substance exported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:303
-msgid "Against each substance imported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
+msgid "Against each substance imported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:420
 #: src/components/art7/dataDefinitions/form.js:452
-msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use. Should the column space be insufficient, further information can be provided in the “comments” box above."
+msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:54
@@ -593,7 +593,6 @@ msgstr ""
 msgid "DATA ON QUANTITY OF EMISSIONS OF HFC 23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:265
 #: src/components/exemption/TabsManager.vue:184
 #: src/components/hat/TabsManager.vue:222
 #: src/components/letter/TabsManager.vue:168
@@ -933,7 +932,7 @@ msgid "For destruction"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:192
-msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector. Should the column space be insufficient, further information can be provided in the “comments” box above."
+msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:744
