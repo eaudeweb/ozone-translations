@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 10:26+0300\n"
+"POT-Creation-Date: 2019-05-20 11:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -449,39 +449,39 @@ msgstr ""
 msgid "PRODUCTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:194
+#: ozone/core/api/export_pdf/util.py:188
 msgid "Laboratory and analytical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:195
+#: ozone/core/api/export_pdf/util.py:189
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:196
+#: ozone/core/api/export_pdf/util.py:190
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:197
+#: ozone/core/api/export_pdf/util.py:191
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:198
+#: ozone/core/api/export_pdf/util.py:192
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:199
+#: ozone/core/api/export_pdf/util.py:193
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:265 ozone/core/api/export_pdf/util.py:268
+#: ozone/core/api/export_pdf/util.py:259 ozone/core/api/export_pdf/util.py:262
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:265
+#: ozone/core/api/export_pdf/util.py:259
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:268
+#: ozone/core/api/export_pdf/util.py:262
 msgid "secretariat"
 msgstr ""
 
