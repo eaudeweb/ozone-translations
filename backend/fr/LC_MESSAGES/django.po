@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 11:40+0300\n"
+"POT-Creation-Date: 2019-05-20 12:02+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -65,8 +65,8 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:35
 #: ozone/core/api/export_pdf/art7/section_emission.py:42
-#: ozone/core/api/export_pdf/art7/section_impexp.py:178
-#: ozone/core/api/export_pdf/art7/section_impexp.py:193
+#: ozone/core/api/export_pdf/art7/section_impexp.py:180
+#: ozone/core/api/export_pdf/art7/section_impexp.py:195
 #: ozone/core/api/export_pdf/art7/section_production.py:102
 msgid "metric tonnes"
 msgstr ""
@@ -89,6 +89,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:43
 #: ozone/core/api/export_pdf/art7/section_emission.py:56
+#: ozone/core/api/export_pdf/art7/section_impexp.py:140
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:67
 #: ozone/core/api/export_pdf/art7/section_production.py:129
 msgid "Remarks"
@@ -143,74 +144,74 @@ msgstr ""
 msgid "Substance"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:145
+#: ozone/core/api/export_pdf/art7/section_impexp.py:146
 msgid "New"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:146
+#: ozone/core/api/export_pdf/art7/section_impexp.py:147
 msgid "Recovered and reclaimed"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:148
+#: ozone/core/api/export_pdf/art7/section_impexp.py:149
 #: ozone/core/api/export_pdf/art7/section_production.py:137
 msgid "Quantity"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:149
+#: ozone/core/api/export_pdf/art7/section_impexp.py:150
 msgid "Decision / type of use or remark"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:178
+#: ozone/core/api/export_pdf/art7/section_impexp.py:180
 #: ozone/core/api/export_pdf/art7/section_info.py:18
 msgid "Imports"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:179
+#: ozone/core/api/export_pdf/art7/section_impexp.py:181
 msgid "Exporting country/region/territory"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:180
+#: ozone/core/api/export_pdf/art7/section_impexp.py:182
 msgid "Total quantity imported for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:181
+#: ozone/core/api/export_pdf/art7/section_impexp.py:183
 msgid ""
 "Quantity of new substance imported for exempted essential,critical, high-"
 "ambient-temperature or other uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:183
+#: ozone/core/api/export_pdf/art7/section_impexp.py:185
 msgid "Import for feedstock"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:184
+#: ozone/core/api/export_pdf/art7/section_impexp.py:186
 msgid "Amount imported for QPS applications within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:193
+#: ozone/core/api/export_pdf/art7/section_impexp.py:195
 #: ozone/core/api/export_pdf/art7/section_info.py:19
 msgid "Exports"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:194
+#: ozone/core/api/export_pdf/art7/section_impexp.py:196
 msgid "Importing country/region/territory"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:195
+#: ozone/core/api/export_pdf/art7/section_impexp.py:197
 msgid "Total quantity exported for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:196
+#: ozone/core/api/export_pdf/art7/section_impexp.py:198
 msgid ""
 "Quantity of new substance exported for exempted essential,critical, high-"
 "ambient-temperature or other uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:198
+#: ozone/core/api/export_pdf/art7/section_impexp.py:200
 msgid "Export for feedstock"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:199
+#: ozone/core/api/export_pdf/art7/section_impexp.py:201
 msgid "Amount exported for QPS applications"
 msgstr ""
 
