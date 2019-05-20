@@ -3,9 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#: ozone/core/api/export_pdf/art7/imp_exp_helper.py:30
-#: ozone/core/api/export_pdf/art7/section_destruction.py:29
-#: ozone/core/api/export_pdf/art7/section_destruction.py:30
 #: ozone/core/api/export_pdf/hat/hat_helper.py:87
 #: ozone/core/api/export_pdf/hat/hat_helper.py:88
 #: ozone/core/api/export_pdf/hat/hat_helper.py:92
@@ -15,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-17 20:04+0300\n"
+"POT-Creation-Date: 2019-05-20 09:23+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,385 +59,313 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:13
-msgid "Annex/Group reported in full?"
+#: ozone/core/api/export_pdf/art7/section_destruction.py:34
+msgid "Destroyed"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:16
-#: ozone/core/api/export_pdf/art7/section_imports.py:49
-msgid "Imports"
+#: ozone/core/api/export_pdf/art7/section_destruction.py:34
+#: ozone/core/api/export_pdf/art7/section_emission.py:42
+#: ozone/core/api/export_pdf/art7/section_impexp.py:177
+#: ozone/core/api/export_pdf/art7/section_impexp.py:192
+#: ozone/core/api/export_pdf/art7/section_production.py:101
+msgid "metric tonnes"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:17
-#: ozone/core/api/export_pdf/art7/section_exports.py:48
-msgid "Exports"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:18
-#: ozone/core/api/export_pdf/art7/section_production.py:82
-msgid "Production"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:19
-msgid "Destruction"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:20
-msgid "Non-party trade"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:21
-msgid "Emissions"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:22
-msgid "A/I"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:23
-msgid "A/II"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:24
-msgid "B/I"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:25
-msgid "B/II"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:26
-msgid "B/III"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:27
-msgid "C/I"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:28
-msgid "C/II"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:29
-msgid "C/III"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:30
-msgid "E/I"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:31
-msgid "F"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:47
-#: ozone/core/api/export_pdf/art7/constants.py:219
-#: ozone/core/api/export_pdf/art7/constants.py:245
-#: ozone/core/api/export_pdf/hat/hat_helper.py:12
-msgid "Type"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:48
-#: ozone/core/api/export_pdf/art7/constants.py:220
-#: ozone/core/api/export_pdf/art7/constants.py:246
-#: ozone/core/api/export_pdf/hat/hat_helper.py:13
-msgid "Blend"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:49
-msgid ""
-"{\"Exporting\" if type==\"import\" else \"Destination\"} country/region/"
-"territory"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:50
-msgid "Total Quantity {type.capitalize()}ed for All Uses"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:52
-msgid "{type.capitalize()} for feedstock"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:53
-#: ozone/core/api/export_pdf/art7/constants.py:111
-#, python-brace-format
-msgid ""
-"Quantity of new substance {type}ed for exempted essential,critical, high-"
-"ambient-temperature or other uses"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:61
-msgid "New"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:62
-msgid "Recovered and reclaimed"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:64
-#: ozone/core/api/export_pdf/art7/constants.py:136
-#: ozone/core/api/export_pdf/art7/constants.py:159
-msgid "Quantity"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:65
-msgid "Decision / type of use or remark"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:106
-#: ozone/core/api/export_pdf/art7/constants.py:211
-#: ozone/core/api/export_pdf/art7/constants.py:229
-#: ozone/core/api/export_pdf/hat/hat_helper.py:60
-msgid "Substances"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:107
-#: ozone/core/api/export_pdf/art7/constants.py:212
-#: ozone/core/api/export_pdf/art7/constants.py:230
-#: ozone/core/api/export_pdf/hat/hat_helper.py:61
-msgid "Percentage"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:108
-msgid "Total quantity imported for all uses (new)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:109
-msgid "Total quantity imported for all uses (recovered and reclaimed)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:110
-msgid "Quantity of new substance imported for feedstock uses"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:117
-#: ozone/core/api/export_pdf/art7/constants.py:194
-#: ozone/core/api/export_pdf/art7/constants.py:268
-#: ozone/core/api/export_pdf/art7/constants.py:332
-#: ozone/core/api/export_pdf/hat/hat_helper.py:49
-msgid "No data."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:121
-#: ozone/core/api/export_pdf/art7/constants.py:144
+#: ozone/core/api/export_pdf/art7/section_destruction.py:39
+#: ozone/core/api/export_pdf/art7/section_impexp.py:131
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:59
+#: ozone/core/api/export_pdf/art7/section_production.py:118
 msgid "Annex/Group"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:122
-#: ozone/core/api/export_pdf/art7/constants.py:145
+#: ozone/core/api/export_pdf/art7/section_destruction.py:40
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:60
+msgid "Substance or mixture"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_destruction.py:41
+msgid "Quantity destroyed"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_destruction.py:42
+#: ozone/core/api/export_pdf/art7/section_emission.py:56
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:66
+#: ozone/core/api/export_pdf/art7/section_production.py:128
+msgid "Remarks"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:42
+msgid "Emissions of HFC-23"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:48
+msgid "Facility name or identifier"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:49
+msgid "Total amount generated"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:50
+msgid "Amount generated and captured"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:53
+msgid "Amount used for feedstock without prior capture"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:54
+msgid "Amount destroyed without prior capture"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:55
+msgid "Amount of generated emissions"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:61
+msgid "For all uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:62
+msgid "For feedstock use in your country"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_emission.py:63
+msgid "For destruction"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:99
+msgid "Polyols containing"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:132
+#: ozone/core/api/export_pdf/art7/section_production.py:119
 msgid "Substance"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:123
+#: ozone/core/api/export_pdf/art7/section_impexp.py:144
+msgid "New"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:145
+msgid "Recovered and reclaimed"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:147
+#: ozone/core/api/export_pdf/art7/section_production.py:136
+msgid "Quantity"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:148
+msgid "Decision / type of use or remark"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:177
+#: ozone/core/api/export_pdf/art7/section_info.py:18
+msgid "Imports"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:178
+msgid "Exporting country/region/territory"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:179
+msgid "Total quantity imported for all uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:180
+msgid ""
+"Quantity of new substance imported for exempted essential,critical, high-"
+"ambient-temperature or other uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:182
+msgid "Import for feedstock"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:183
+msgid "Amount imported for QPS applications within your country"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:192
+#: ozone/core/api/export_pdf/art7/section_info.py:19
+msgid "Exports"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:193
+msgid "Importing country/region/territory"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:194
+msgid "Total quantity exported for all uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:195
+msgid ""
+"Quantity of new substance exported for exempted essential,critical, high-"
+"ambient-temperature or other uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:197
+msgid "Export for feedstock"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:198
+msgid "Amount exported for QPS applications within your country"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:15
+msgid "Annex/Group reported in full?"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:20
+#: ozone/core/api/export_pdf/art7/section_production.py:101
+msgid "Production"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:21
+msgid "Destruction"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:22
+msgid "Non-party trade"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:23
+msgid "Emissions"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:24
+msgid "A/I"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:25
+msgid "A/II"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:26
+msgid "B/I"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:27
+msgid "B/II"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:28
+msgid "B/III"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:29
+msgid "C/I"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:30
+msgid "C/II"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:31
+msgid "C/III"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:32
+msgid "E/I"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:33
+msgid "F"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:55
+msgid "Date of reporting"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:88
+msgid "Yes"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:88
+msgid "No"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:53
+msgid "Imports from and/or exports to non-parties"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:61
+msgid "Exporting or destination country/region/territory"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:62
+msgid "Quantity of imports from non-parties"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:64
+msgid "Quantity of exports from non-parties"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:72
+msgid "New imports"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:73
+msgid "Recovered and reclaimed imports"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:74
+msgid "New exports"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:75
+msgid "Recovered and reclaimed exports"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_production.py:61
+msgid "Amount produced for QPS applications within your country and for export"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_production.py:120
 msgid "Total production for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:124
+#: ozone/core/api/export_pdf/art7/section_production.py:121
 msgid "Production for feedstock uses within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:125
-#: ozone/core/api/export_pdf/art7/constants.py:149
+#: ozone/core/api/export_pdf/art7/section_production.py:124
 msgid ""
 "Production for exempted essential, critical or other uses within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:128
-msgid ""
-"Production for supply to Article 5 countries in accordance with Articles 2A "
-"2H and 5"
+#: ozone/core/api/export_pdf/art7/section_production.py:127
+msgid "Production for supply to Article 5 countries"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:137
-#: ozone/core/api/export_pdf/art7/constants.py:160
+#: ozone/core/api/export_pdf/art7/section_production.py:137
 msgid "Decision / type of use"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:146
+#: ozone/core/api/export_pdf/art7/section_production.py:173
 msgid "Captured for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:147
+#: ozone/core/api/export_pdf/art7/section_production.py:174
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:148
+#: ozone/core/api/export_pdf/art7/section_production.py:175
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:213
-#: ozone/core/api/export_pdf/art7/constants.py:221
-msgid "Quantity destroyed"
+#: ozone/core/api/export_pdf/export.py:21
+msgid "Page"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:222
-#: ozone/core/api/export_pdf/art7/constants.py:252
-#: ozone/core/api/export_pdf/art7/constants.py:299
-#: ozone/core/api/export_pdf/hat/hat_helper.py:20
-msgid "Remarks (party)"
+#: ozone/core/api/export_pdf/hat/hat_helper.py:12
+msgid "Type"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/constants.py:223
-#: ozone/core/api/export_pdf/art7/constants.py:253
-#: ozone/core/api/export_pdf/art7/constants.py:300
-#: ozone/core/api/export_pdf/hat/hat_helper.py:21
-msgid "Remarks (secretariat)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:231
-msgid "Quantity of imports from non-parties (new)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:232
-msgid "Quantity of imports from non-parties (recovered)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:233
-msgid "Quantity of exports from non-parties (new)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:234
-msgid "Quantity of exports from non-parties (recovered)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:247
-msgid "Exporting or destination country/region/territory"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:248
-msgid "Quantity of imports from non-parties"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:250
-msgid "Quantity of exports from non-parties"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:259
-msgid "New imports"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:260
-msgid "Recovered and reclaimed imports"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:261
-msgid "New exports"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:262
-msgid "Recovered and reclaimed exports"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:291
-msgid "Facility name or identifier"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:292
-msgid "Total amount generated"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:293
-msgid "Amount generated and captured"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:296
-msgid "Amount used for feedstock without prior capture"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:297
-msgid "Amount destroyed without prior capture"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:298
-msgid "Amount of generated emissions"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:305
-msgid "For all uses"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:306
-msgid "For feedstock use in your country"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/constants.py:307
-msgid "For destruction"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_destruction.py:58
-msgid "No controlled substances destroyed."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_destruction.py:66
-msgid "No blends destroyed."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_destruction.py:71
-msgid "Destroyed"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_destruction.py:71
-#: ozone/core/api/export_pdf/art7/section_exports.py:48
-#: ozone/core/api/export_pdf/art7/section_imports.py:49
-#: ozone/core/api/export_pdf/art7/section_production.py:82
-msgid "metric tonnes"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_emission.py:36
-msgid "No emissions."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_emission.py:41
-#, python-format
-msgid "%s (%s)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_exports.py:35
-msgid "No exported substances."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_exports.py:43
-msgid "No exported blends."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_imports.py:36
-msgid "No imported substances."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_imports.py:44
-msgid "No imported blends."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_info.py:17
-msgid "Date of reporting"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_info.py:43
-msgid "Yes"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_info.py:43
-msgid "No"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_nonparty.py:68
-msgid "No substances."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_nonparty.py:76
-msgid "No blends."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_nonparty.py:81
-msgid "Imports from and/or exports to non-parties"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_production.py:69
-msgid "No F/I substances produced."
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_production.py:77
-msgid "No F/II substances produced."
+#: ozone/core/api/export_pdf/hat/hat_helper.py:13
+msgid "Blend"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/hat_helper.py:14
@@ -450,10 +375,30 @@ msgid ""
 "high-ambient-temperature exemption applies"
 msgstr ""
 
+#: ozone/core/api/export_pdf/hat/hat_helper.py:20
+msgid "Remarks (party)"
+msgstr ""
+
+#: ozone/core/api/export_pdf/hat/hat_helper.py:21
+msgid "Remarks (secretariat)"
+msgstr ""
+
 #: ozone/core/api/export_pdf/hat/hat_helper.py:26
 #: ozone/core/api/export_pdf/hat/hat_helper.py:28
 #: ozone/core/api/export_pdf/hat/hat_helper.py:30
 msgid "New {type+\"s\" if type==\"import\" else type+\"tion\"} for use in "
+msgstr ""
+
+#: ozone/core/api/export_pdf/hat/hat_helper.py:49
+msgid "No data."
+msgstr ""
+
+#: ozone/core/api/export_pdf/hat/hat_helper.py:60
+msgid "Substances"
+msgstr ""
+
+#: ozone/core/api/export_pdf/hat/hat_helper.py:61
+msgid "Percentage"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/hat_helper.py:62
@@ -505,15 +450,39 @@ msgstr ""
 msgid "PRODUCTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:360 ozone/core/api/export_pdf/util.py:363
+#: ozone/core/api/export_pdf/util.py:194
+msgid "Laboratory and analytical uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:195
+msgid "Essential uses, other than L&A"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:196
+msgid "Critical uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:197
+msgid "High ambient temperature"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:198
+msgid "Process agent uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:199
+msgid "Other/unspecified uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:257 ozone/core/api/export_pdf/util.py:260
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:360
+#: ozone/core/api/export_pdf/util.py:257
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:363
+#: ozone/core/api/export_pdf/util.py:260
 msgid "secretariat"
 msgstr ""
 
@@ -545,11 +514,11 @@ msgstr ""
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:824
+#: ozone/core/models/data.py:827
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:839
+#: ozone/core/models/data.py:844
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
