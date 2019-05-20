@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 11:31+0300\n"
+"POT-Creation-Date: 2019-05-20 11:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,14 +67,14 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_emission.py:42
 #: ozone/core/api/export_pdf/art7/section_impexp.py:178
 #: ozone/core/api/export_pdf/art7/section_impexp.py:193
-#: ozone/core/api/export_pdf/art7/section_production.py:101
+#: ozone/core/api/export_pdf/art7/section_production.py:102
 msgid "metric tonnes"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:40
 #: ozone/core/api/export_pdf/art7/section_impexp.py:132
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:60
-#: ozone/core/api/export_pdf/art7/section_production.py:118
+#: ozone/core/api/export_pdf/art7/section_production.py:119
 msgid "Annex/Group"
 msgstr ""
 
@@ -90,7 +90,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_destruction.py:43
 #: ozone/core/api/export_pdf/art7/section_emission.py:56
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:67
-#: ozone/core/api/export_pdf/art7/section_production.py:128
+#: ozone/core/api/export_pdf/art7/section_production.py:129
 msgid "Remarks"
 msgstr ""
 
@@ -139,7 +139,7 @@ msgid "Polyols containing"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:133
-#: ozone/core/api/export_pdf/art7/section_production.py:119
+#: ozone/core/api/export_pdf/art7/section_production.py:120
 msgid "Substance"
 msgstr ""
 
@@ -152,7 +152,7 @@ msgid "Recovered and reclaimed"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:148
-#: ozone/core/api/export_pdf/art7/section_production.py:136
+#: ozone/core/api/export_pdf/art7/section_production.py:137
 msgid "Quantity"
 msgstr ""
 
@@ -219,7 +219,7 @@ msgid "Annex/Group reported in full?"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:20
-#: ozone/core/api/export_pdf/art7/section_production.py:101
+#: ozone/core/api/export_pdf/art7/section_production.py:102
 msgid "Production"
 msgstr ""
 
@@ -319,40 +319,40 @@ msgstr ""
 msgid "Recovered and reclaimed exports"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:61
+#: ozone/core/api/export_pdf/art7/section_production.py:62
 msgid "Amount produced for QPS applications within your country and for export"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:120
+#: ozone/core/api/export_pdf/art7/section_production.py:121
 msgid "Total production for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:121
+#: ozone/core/api/export_pdf/art7/section_production.py:122
 msgid "Production for feedstock uses within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:124
+#: ozone/core/api/export_pdf/art7/section_production.py:125
 msgid ""
 "Production for exempted essential, critical or other uses within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:127
+#: ozone/core/api/export_pdf/art7/section_production.py:128
 msgid "Production for supply to Article 5 countries"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:137
+#: ozone/core/api/export_pdf/art7/section_production.py:138
 msgid "Decision / type of use"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:173
+#: ozone/core/api/export_pdf/art7/section_production.py:174
 msgid "Captured for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:174
+#: ozone/core/api/export_pdf/art7/section_production.py:175
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_production.py:175
+#: ozone/core/api/export_pdf/art7/section_production.py:176
 msgid "Captured for destruction"
 msgstr ""
 
