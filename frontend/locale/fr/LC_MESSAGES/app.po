@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-20 11:58+0000\n"
+"POT-Creation-Date: 2019-05-21 09:56+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -778,7 +778,7 @@ msgstr ""
 msgid "Emissions"
 msgstr ""
 
-#: src/store/actions.js:164
+#: src/store/actions.js:165
 msgid "Error"
 msgstr ""
 
@@ -1407,7 +1407,7 @@ msgstr ""
 msgid "Please complete the Questionnaire before submitting."
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:39
+#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:40
 msgid "Please confirm"
 msgstr ""
 
@@ -1865,7 +1865,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/store/actions.js:159
+#: src/store/actions.js:160
 msgid "Saved"
 msgstr ""
 
@@ -1922,11 +1922,11 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#: src/store/actions.js:74
+#: src/store/actions.js:75
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:307
+#: src/store/actions.js:308
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -1957,7 +1957,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:275
+#: src/store/actions.js:276
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2160,11 +2160,11 @@ msgstr "Un melange avec ce nom existe déjà!"
 msgid "Unable to add rows for the following countries because they already exist"
 msgstr "Un melange avec ce nom existe déjà!"
 
-#: src/store/actions.js:83
+#: src/store/actions.js:84
 msgid "Unable to add submission."
 msgstr ""
 
-#: src/store/actions.js:63
+#: src/store/actions.js:64
 msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
 msgstr ""
 
@@ -2176,7 +2176,7 @@ msgstr ""
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:314
+#: src/store/actions.js:315
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2184,7 +2184,7 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:281
+#: src/store/actions.js:282
 msgid "Unable to update submission status."
 msgstr ""
 

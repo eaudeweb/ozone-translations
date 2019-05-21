@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-20 11:58+0000\n"
+"POT-Creation-Date: 2019-05-21 09:56+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -800,7 +800,7 @@ msgstr ""
 msgid "Emissions"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:164
+#: src/store/actions.js:165
 msgid "Error"
 msgstr ""
 
@@ -1444,7 +1444,7 @@ msgstr "фиктивный текст"
 msgid "Please complete the Questionnaire before submitting."
 msgstr "фиктивный текст"
 
-#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:39
+#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:40
 msgid "Please confirm"
 msgstr ""
 
@@ -1921,7 +1921,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:159
+#: src/store/actions.js:160
 msgid "Saved"
 msgstr ""
 
@@ -1980,11 +1980,11 @@ msgstr ""
 msgid "Status"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:74
+#: src/store/actions.js:75
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:307
+#: src/store/actions.js:308
 #, fuzzy
 msgid "Submission deleted successfully."
 msgstr "фиктивный текст"
@@ -2020,7 +2020,7 @@ msgstr ""
 msgid "Submission status"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:275
+#: src/store/actions.js:276
 #, fuzzy
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
@@ -2233,12 +2233,12 @@ msgstr "фиктивный текст!"
 msgid "Unable to add rows for the following countries because they already exist"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:83
+#: src/store/actions.js:84
 #, fuzzy
 msgid "Unable to add submission."
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:63
+#: src/store/actions.js:64
 msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
 msgstr ""
 
@@ -2252,7 +2252,7 @@ msgstr "фиктивный текст"
 msgid "Unable to add the following substances because they already exist"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:314
+#: src/store/actions.js:315
 #, fuzzy
 msgid "Unable to delete submission."
 msgstr "фиктивный текст"
@@ -2261,7 +2261,7 @@ msgstr "фиктивный текст"
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:281
+#: src/store/actions.js:282
 #, fuzzy
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
