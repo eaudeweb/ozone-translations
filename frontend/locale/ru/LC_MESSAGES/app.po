@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-21 10:30+0000\n"
+"POT-Creation-Date: 2019-05-21 13:04+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -44,8 +44,8 @@ msgstr "фиктивный текст"
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
 #: src/components/hat/dataDefinitions/form.js:182
-#: src/components/raf/dataDefinitions/form.js:116
-#: src/components/raf/dataDefinitions/form.js:168
+#: src/components/raf/dataDefinitions/form.js:117
+#: src/components/raf/dataDefinitions/form.js:169
 #: src/components/raf/dataDefinitions/labels.js:31
 #: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:407
 #: src/views/Dashboard.vue:448
@@ -60,6 +60,7 @@ msgstr "фиктивный %{length} текст"
 #: src/components/common/form-components/Add.vue:45
 #: src/components/common/form-components/AddBlend.vue:71
 #: src/components/common/form-components/CloneField.vue:23
+#: src/components/raf/form-components/Add.vue:45
 msgid "Add %{length} rows"
 msgstr "фиктивный %{length} текст"
 
@@ -90,6 +91,7 @@ msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:4
 #: src/components/common/form-components/AsideTogglerModified.vue:3
+#: src/components/raf/form-components/Add.vue:4
 msgid "Add substances"
 msgstr "фиктивный текст"
 
@@ -145,15 +147,15 @@ msgstr "фиктивный текст"
 msgid "Amount [Generated] (tonnes)"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:80
-#: src/components/raf/dataDefinitions/form.js:132
+#: src/components/raf/dataDefinitions/form.js:81
+#: src/components/raf/dataDefinitions/form.js:133
 #: src/components/raf/dataDefinitions/labels.js:21
 #: src/components/raf/dataDefinitions/labels.js:47
 msgid "Amount acquired by import & countries of manufacture"
 msgstr ""
 
-#: src/components/raf/dataDefinitions/form.js:76
-#: src/components/raf/dataDefinitions/form.js:128
+#: src/components/raf/dataDefinitions/form.js:77
+#: src/components/raf/dataDefinitions/form.js:129
 #: src/components/raf/dataDefinitions/labels.js:20
 #: src/components/raf/dataDefinitions/labels.js:46
 msgid "Amount acquired by production"
@@ -164,8 +166,8 @@ msgid "Amount converted to other substances in the facility. The sum of these am
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:129
-#: src/components/raf/dataDefinitions/form.js:105
-#: src/components/raf/dataDefinitions/form.js:157
+#: src/components/raf/dataDefinitions/form.js:106
+#: src/components/raf/dataDefinitions/form.js:158
 #: src/components/raf/dataDefinitions/labels.js:28
 #: src/components/raf/dataDefinitions/labels.js:54
 msgid "Amount destroyed"
@@ -183,15 +185,15 @@ msgstr "фиктивный текст"
 msgid "Amount destroyed without prior capture"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:72
-#: src/components/raf/dataDefinitions/form.js:124
+#: src/components/raf/dataDefinitions/form.js:73
+#: src/components/raf/dataDefinitions/form.js:125
 #: src/components/raf/dataDefinitions/labels.js:19
 #: src/components/raf/dataDefinitions/labels.js:45
 #, fuzzy
 msgid "Amount exempted"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:153
+#: src/components/raf/dataDefinitions/form.js:154
 #: src/components/raf/dataDefinitions/labels.js:53
 #, fuzzy
 msgid "Amount exported"
@@ -219,7 +221,7 @@ msgstr "фиктивный текст"
 msgid "Amount of generated emissions"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:149
+#: src/components/raf/dataDefinitions/form.js:150
 #, fuzzy
 msgid "Amount used for critical use"
 msgstr "фиктивный текст"
@@ -259,7 +261,7 @@ msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:48
 #: src/components/hat/dataDefinitions/form.js:142
-#: src/components/raf/dataDefinitions/form.js:48
+#: src/components/raf/dataDefinitions/form.js:49
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
@@ -333,15 +335,15 @@ msgstr "фиктивный текст"
 msgid "at"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:86
-#: src/components/raf/dataDefinitions/form.js:138
+#: src/components/raf/dataDefinitions/form.js:87
+#: src/components/raf/dataDefinitions/form.js:139
 #: src/components/raf/dataDefinitions/labels.js:23
 #: src/components/raf/dataDefinitions/labels.js:49
 msgid "Authorized but not acquired"
 msgstr ""
 
-#: src/components/raf/dataDefinitions/form.js:93
-#: src/components/raf/dataDefinitions/form.js:145
+#: src/components/raf/dataDefinitions/form.js:94
+#: src/components/raf/dataDefinitions/form.js:146
 #: src/components/raf/dataDefinitions/labels.js:25
 #: src/components/raf/dataDefinitions/labels.js:51
 msgid "Available for use"
@@ -428,6 +430,7 @@ msgstr ""
 #: src/components/common/form-components/Add.vue:50
 #: src/components/common/form-components/AddBlend.vue:145
 #: src/components/raf/AddParties.vue:34
+#: src/components/raf/form-components/Add.vue:50
 msgid "Cancel"
 msgstr "фиктивный текст"
 
@@ -788,8 +791,8 @@ msgstr "фиктивный %{name} текст"
 msgid "Email"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:112
-#: src/components/raf/dataDefinitions/form.js:164
+#: src/components/raf/dataDefinitions/form.js:113
+#: src/components/raf/dataDefinitions/form.js:165
 #: src/components/raf/dataDefinitions/labels.js:30
 #: src/components/raf/dataDefinitions/labels.js:57
 msgid "Emergency"
@@ -805,7 +808,7 @@ msgid "Error"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:34
-#: src/components/raf/dataDefinitions/form.js:47
+#: src/components/raf/dataDefinitions/form.js:48
 #: src/components/raf/dataDefinitions/labels.js:11
 #: src/components/raf/dataDefinitions/labels.js:37
 msgid "Essential and critical uses"
@@ -919,7 +922,7 @@ msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:49
 #: src/components/hat/dataDefinitions/form.js:143
-#: src/components/raf/dataDefinitions/form.js:49
+#: src/components/raf/dataDefinitions/form.js:50
 msgid "Fill in this form only if your country is listed in appendix II to decision XXVIII/2, has formally notified the Secretariat of its intention to use the high-ambient-temperature exemption, and produced HFCs for its own use in the subsectors contained in appendix I to decision XXVIII/2"
 msgstr "фиктивный текст"
 
@@ -928,6 +931,7 @@ msgid "Fill in this form only if your country produced CFCs, halons, carbon tetr
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:7
+#: src/components/raf/form-components/Add.vue:7
 msgid "Filter annex groups in order to select one or more substances. A row for each substance will be added in substances table. Substances can be deleted using table controls."
 msgstr "фиктивный текст."
 
@@ -1080,7 +1084,7 @@ msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:48
 #: src/components/hat/dataDefinitions/form.js:142
-#: src/components/raf/dataDefinitions/form.js:48
+#: src/components/raf/dataDefinitions/form.js:49
 msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
 msgstr "фиктивный текст"
 
@@ -1315,15 +1319,15 @@ msgstr "фиктивный текст"
 msgid "ODP"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:109
-#: src/components/raf/dataDefinitions/form.js:161
+#: src/components/raf/dataDefinitions/form.js:110
+#: src/components/raf/dataDefinitions/form.js:162
 #: src/components/raf/dataDefinitions/labels.js:29
 #: src/components/raf/dataDefinitions/labels.js:55
 msgid "On hand end of year"
 msgstr ""
 
-#: src/components/raf/dataDefinitions/form.js:89
-#: src/components/raf/dataDefinitions/form.js:141
+#: src/components/raf/dataDefinitions/form.js:90
+#: src/components/raf/dataDefinitions/form.js:142
 #: src/components/raf/dataDefinitions/labels.js:24
 #: src/components/raf/dataDefinitions/labels.js:50
 msgid "On hand start of the year"
@@ -1376,7 +1380,7 @@ msgstr "фиктивный текст"
 msgid "Other/Unspecified"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:68
+#: src/components/raf/dataDefinitions/form.js:69
 #: src/components/raf/dataDefinitions/labels.js:18
 #: src/components/raf/dataDefinitions/labels.js:44
 #, fuzzy
@@ -1567,7 +1571,7 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:352
 #: src/components/hat/dataDefinitions/form.js:142
-#: src/components/raf/dataDefinitions/form.js:48
+#: src/components/raf/dataDefinitions/form.js:49
 msgid "PRODUCTION"
 msgstr "фиктивный текст"
 
@@ -1627,7 +1631,7 @@ msgstr "фиктивный текст"
 msgid "Quantity"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:101
+#: src/components/raf/dataDefinitions/form.js:102
 #: src/components/raf/dataDefinitions/labels.js:27
 #, fuzzy
 msgid "Quantity contained in exported product"
@@ -1901,7 +1905,7 @@ msgstr "фиктивный текст."
 #: src/components/art7/dataDefinitions/form.js:55
 #: src/components/art7/dataDefinitions/form.js:89
 #: src/components/hat/dataDefinitions/form.js:36
-#: src/components/raf/dataDefinitions/form.js:35
+#: src/components/raf/dataDefinitions/form.js:36
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr "фиктивный текст"
 
@@ -1984,7 +1988,7 @@ msgstr "фиктивный текст"
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:308
+#: src/store/actions.js:310
 #, fuzzy
 msgid "Submission deleted successfully."
 msgstr "фиктивный текст"
@@ -2020,7 +2024,7 @@ msgstr ""
 msgid "Submission status"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:276
+#: src/store/actions.js:278
 #, fuzzy
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
@@ -2076,6 +2080,7 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:83
 #: src/components/letter/dataDefinitions/labels.js:93
 #: src/components/common/form-components/Add.vue:24
+#: src/components/raf/form-components/Add.vue:24
 msgid "Substances"
 msgstr "фиктивный текст"
 
@@ -2130,8 +2135,8 @@ msgstr "фиктивный текст."
 msgid "tooltipForTitleHtml................................"
 msgstr ""
 
-#: src/components/raf/dataDefinitions/form.js:83
-#: src/components/raf/dataDefinitions/form.js:135
+#: src/components/raf/dataDefinitions/form.js:84
+#: src/components/raf/dataDefinitions/form.js:136
 #: src/components/raf/dataDefinitions/labels.js:22
 #: src/components/raf/dataDefinitions/labels.js:48
 #, fuzzy
@@ -2252,7 +2257,7 @@ msgstr "фиктивный текст"
 msgid "Unable to add the following substances because they already exist"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:315
+#: src/store/actions.js:317
 #, fuzzy
 msgid "Unable to delete submission."
 msgstr "фиктивный текст"
@@ -2261,7 +2266,7 @@ msgstr "фиктивный текст"
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:282
+#: src/store/actions.js:284
 #, fuzzy
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
@@ -2275,7 +2280,7 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-#: src/components/raf/dataDefinitions/form.js:97
+#: src/components/raf/dataDefinitions/form.js:98
 #, fuzzy
 msgid "Used for essential use"
 msgstr "фиктивный текст"
@@ -2335,8 +2340,8 @@ msgstr "фиктивный текст"
 msgid "Web form"
 msgstr "фиктивный текст"
 
-#: src/components/raf/dataDefinitions/form.js:64
-#: src/components/raf/dataDefinitions/form.js:120
+#: src/components/raf/dataDefinitions/form.js:65
+#: src/components/raf/dataDefinitions/form.js:121
 msgid "Year"
 msgstr ""
 
@@ -2391,7 +2396,9 @@ msgstr "фиктивный текст"
 #: src/components/common/form-components/AddBlend.vue:15
 #: src/components/common/form-components/AddBlend.vue:31
 #: src/components/common/form-components/fieldGenerator.vue:51
-#: src/components/raf/AddParties.vue:11 src/views/Dashboard.vue:19
+#: src/components/raf/AddParties.vue:11
+#: src/components/raf/form-components/Add.vue:14
+#: src/components/raf/form-components/Add.vue:26 src/views/Dashboard.vue:19
 #: src/views/Dashboard.vue:29 src/views/Dashboard.vue:41
 msgid "Select option"
 msgstr "фиктивный текст"
@@ -2405,6 +2412,7 @@ msgid "Controlled or new substance"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/Add.vue:12
+#: src/components/raf/form-components/Add.vue:12
 msgid "Annex groups"
 msgstr "фиктивный текст"
 
