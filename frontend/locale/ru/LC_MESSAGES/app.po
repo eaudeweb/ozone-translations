@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-21 13:04+0000\n"
+"POT-Creation-Date: 2019-05-22 11:35+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -477,7 +477,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:159
-#: src/components/common/AggregationsModal.vue:9
+#: src/components/common/AggregationsModal.vue:17
 #: src/components/exemption/FormTemplate.vue:167
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -841,6 +841,11 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:120
 #, fuzzy
 msgid "Export for feedstock"
+msgstr "фиктивный текст"
+
+#: src/components/common/AggregationsModal.vue:9
+#, fuzzy
+msgid "Export PDF"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:250

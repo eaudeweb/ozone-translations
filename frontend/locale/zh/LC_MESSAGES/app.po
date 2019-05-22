@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-21 13:04+0000\n"
+"POT-Creation-Date: 2019-05-22 11:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -459,7 +459,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:159
-#: src/components/common/AggregationsModal.vue:9
+#: src/components/common/AggregationsModal.vue:17
 #: src/components/exemption/FormTemplate.vue:167
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -814,6 +814,10 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:120
 msgid "Export for feedstock"
+msgstr ""
+
+#: src/components/common/AggregationsModal.vue:9
+msgid "Export PDF"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:250
