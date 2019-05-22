@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-22 09:52+0300\n"
+"POT-Creation-Date: 2019-05-22 10:08+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -59,6 +59,68 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
+#: ozone/core/api/export_pdf/art7/others.py:47
+#, python-brace-format
+msgid ""
+"Production and Consumption for {period}\n"
+"    - Comparison with Base Year"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:58
+#, python-brace-format
+msgid ""
+"Date Reported: {date_reported}\n"
+"                    {party_type} {party_region} - Population*: {population}"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:83
+msgid ""
+"Production and Consumption of ODSs -\n"
+"    Comparison with Base Year (ODP Tonnes)"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:118
+msgid ""
+"Production and Consumption of HFCs -\n"
+"    Comparison with Base Year (CO2-equivalent tonnes)"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:161
+#: ozone/core/api/export_pdf/art7/section_destruction.py:40
+#: ozone/core/api/export_pdf/art7/section_impexp.py:132
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:60
+#: ozone/core/api/export_pdf/art7/section_production.py:119
+msgid "Annex/Group"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:162
+#: ozone/core/api/export_pdf/hat/section_production.py:53
+msgid "PRODUCTION"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:166
+msgid "CONSUMPTION"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:175
+#: ozone/core/api/export_pdf/art7/others.py:179
+msgid "Base"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:176
+#: ozone/core/api/export_pdf/art7/others.py:180
+msgid "% Chng"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:177
+#: ozone/core/api/export_pdf/art7/others.py:181
+msgid "Limit"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/others.py:182
+msgid "Per Cap. Cons."
+msgstr ""
+
 #: ozone/core/api/export_pdf/art7/section_destruction.py:35
 msgid "Destroyed"
 msgstr ""
@@ -69,13 +131,6 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_impexp.py:195
 #: ozone/core/api/export_pdf/art7/section_production.py:102
 msgid "metric tonnes"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_destruction.py:40
-#: ozone/core/api/export_pdf/art7/section_impexp.py:132
-#: ozone/core/api/export_pdf/art7/section_nonparty.py:60
-#: ozone/core/api/export_pdf/art7/section_production.py:119
-msgid "Annex/Group"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:41
@@ -357,8 +412,28 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:21
+#: ozone/core/api/export_pdf/export.py:22
 msgid "Page"
+msgstr ""
+
+#: ozone/core/api/export_pdf/export.py:31
+msgid ""
+"* Population in thousands <br/>\n"
+"    ** Consumption and Production numbers are rounded to a uniform number of "
+"decimal places. <br/><br/>\n"
+"    - = Data Not Reported and Party has no Obligation to have Reported that "
+"data at this time. <br/>\n"
+"    N.R. = Data Not Reported but Party is required to have reported | \n"
+"    DIV0 = Division was not evaluated due to a zero or negative base.\n"
+"    AFR = Africa | \n"
+"    ASIA = Asia | \n"
+"    EEUR = Eastern Europe | \n"
+"    LAC = Latin America & the Caribbean | \n"
+"    WEUR = Western Europe & others\n"
+"    A5 = Article 5 Party | \n"
+"    CEIT = Country with Economy in Transition | \n"
+"    EU = Member of the European Union | \n"
+"    Non-A5 = Non-Article 5 Party"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/hat_helper.py:12
@@ -447,43 +522,39 @@ msgstr ""
 msgid "2.2 Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_production.py:53
-msgid "PRODUCTION"
-msgstr ""
-
-#: ozone/core/api/export_pdf/util.py:188
+#: ozone/core/api/export_pdf/util.py:191
 msgid "Laboratory and analytical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:189
+#: ozone/core/api/export_pdf/util.py:192
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:190
+#: ozone/core/api/export_pdf/util.py:193
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:191
+#: ozone/core/api/export_pdf/util.py:194
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:192
+#: ozone/core/api/export_pdf/util.py:195
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:193
+#: ozone/core/api/export_pdf/util.py:196
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:259 ozone/core/api/export_pdf/util.py:262
+#: ozone/core/api/export_pdf/util.py:262 ozone/core/api/export_pdf/util.py:265
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:259
+#: ozone/core/api/export_pdf/util.py:262
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:262
+#: ozone/core/api/export_pdf/util.py:265
 msgid "secretariat"
 msgstr ""
 
@@ -491,7 +562,7 @@ msgstr ""
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1419
+#: ozone/core/api/views.py:1416
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
