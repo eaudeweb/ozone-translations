@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-22 11:35+0000\n"
+"POT-Creation-Date: 2019-05-23 08:13+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -282,7 +282,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:540
 #: src/components/art7/dataDefinitions/form.js:605
 #: src/components/art7/dataDefinitions/form.js:724
-msgid "Annexes A, B, C and E substances"
+msgid "Annexes A, B, C, E and F substances"
 msgstr ""
 
 #: src/components/common/SubmissionStatus.vue:81
