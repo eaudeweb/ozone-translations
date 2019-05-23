@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-23 12:06+0300\n"
+"POT-Creation-Date: 2019-05-23 12:41+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -598,83 +598,83 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/reporting.py:62 ozone/core/models/reporting.py:1510
+#: ozone/core/models/reporting.py:63 ozone/core/models/reporting.py:1519
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:69
+#: ozone/core/models/reporting.py:70
 msgid "Unable to delete data because submission is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:177
+#: ozone/core/models/reporting.py:178
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:230
+#: ozone/core/models/reporting.py:231
 msgid "Unable to set reporting channel. Another reporting "
 msgstr ""
 
-#: ozone/core/models/reporting.py:712
+#: ozone/core/models/reporting.py:720
 #, python-brace-format
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:719
+#: ozone/core/models/reporting.py:727
 #, python-brace-format
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:728
+#: ozone/core/models/reporting.py:736
 msgid ""
 "Workflow error. Transition checks not satisfied or you may not have the "
 "necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:850
+#: ozone/core/models/reporting.py:858
 msgid "User do not have permission to change this flag."
 msgstr ""
 
-#: ozone/core/models/reporting.py:917
+#: ozone/core/models/reporting.py:925
 msgid "User do not have permission to change this remark."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1084
+#: ozone/core/models/reporting.py:1093
 #, python-brace-format
 msgid "Another submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:1109
+#: ozone/core/models/reporting.py:1118
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1118
+#: ozone/core/models/reporting.py:1127
 msgid ""
 "You cannot create a new version of this submission with this type of "
 "obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1131
+#: ozone/core/models/reporting.py:1140
 msgid ""
 "You cannot create a new version of this submission from a previous period if "
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1487
+#: ozone/core/models/reporting.py:1496
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1502
+#: ozone/core/models/reporting.py:1511
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1518
+#: ozone/core/models/reporting.py:1527
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1662
+#: ozone/core/models/reporting.py:1671
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -703,7 +703,7 @@ msgid ""
 msgstr ""
 
 #: ozone/core/models/transfer.py:150
-msgid "Destination party submission should be a Transfersubmission."
+msgid "Destination party submission should be a Transfer submission."
 msgstr ""
 
 #: ozone/core/models/transfer.py:161
@@ -711,7 +711,7 @@ msgid "Source party submission should belong to the transfer's source party"
 msgstr ""
 
 #: ozone/core/models/transfer.py:170
-msgid "Source party submission should be a Transfersubmission."
+msgid "Source party submission should be a Transfer submission."
 msgstr ""
 
 #: ozone/core/models/user.py:43
@@ -771,11 +771,11 @@ msgstr ""
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1223
+#: ozone/core/serializers.py:1225
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1241
+#: ozone/core/serializers.py:1243
 msgid "Specified file id not found for this submission"
 msgstr ""
 
