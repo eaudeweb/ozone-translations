@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-23 13:42+0300\n"
+"POT-Creation-Date: 2019-05-23 13:57+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,33 +58,34 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:47
+#: ozone/core/api/export_pdf/art7/others.py:52
 #, python-brace-format
 msgid ""
-"Production and Consumption for {period}\n"
-"    - Comparison with Base Year"
+"Production and Consumption for {period1} - Comparison with {period2} Year"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:58
+#: ozone/core/api/export_pdf/art7/others.py:63
 #, python-brace-format
 msgid ""
 "Date Reported: {date_reported}\n"
 "                    {party_type} {party_region} - Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:83
+#: ozone/core/api/export_pdf/art7/others.py:89
+#, python-brace-format
 msgid ""
-"Production and Consumption of ODSs -\n"
-"    Comparison with Base Year (ODP Tonnes)"
+"Production and Consumption of ODSs - Comparison with {compared_period} Year "
+"(ODP Tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:118
+#: ozone/core/api/export_pdf/art7/others.py:128
+#, python-brace-format
 msgid ""
-"Production and Consumption of HFCs -\n"
-"    Comparison with Base Year (CO2-equivalent tonnes)"
+"Production and Consumption of HFCs - Comparison with {compared_period} Year "
+"(CO2-equivalent tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:161
+#: ozone/core/api/export_pdf/art7/others.py:178
 #: ozone/core/api/export_pdf/art7/section_destruction.py:40
 #: ozone/core/api/export_pdf/art7/section_impexp.py:132
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:60
@@ -92,31 +93,26 @@ msgstr ""
 msgid "Annex/Group"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:162
+#: ozone/core/api/export_pdf/art7/others.py:179
 #: ozone/core/api/export_pdf/hat/section_production.py:53
 msgid "PRODUCTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:166
+#: ozone/core/api/export_pdf/art7/others.py:183
 msgid "CONSUMPTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:175
-#: ozone/core/api/export_pdf/art7/others.py:179
-msgid "Base"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:176
-#: ozone/core/api/export_pdf/art7/others.py:180
+#: ozone/core/api/export_pdf/art7/others.py:193
+#: ozone/core/api/export_pdf/art7/others.py:197
 msgid "% Chng"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:177
-#: ozone/core/api/export_pdf/art7/others.py:181
+#: ozone/core/api/export_pdf/art7/others.py:194
+#: ozone/core/api/export_pdf/art7/others.py:198
 msgid "Limit"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:182
+#: ozone/core/api/export_pdf/art7/others.py:199
 msgid "Per Cap. Cons."
 msgstr ""
 
@@ -521,39 +517,39 @@ msgstr ""
 msgid "2.2 Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:191
+#: ozone/core/api/export_pdf/util.py:193
 msgid "Laboratory and analytical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:192
+#: ozone/core/api/export_pdf/util.py:194
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:193
+#: ozone/core/api/export_pdf/util.py:195
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:194
+#: ozone/core/api/export_pdf/util.py:196
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:195
+#: ozone/core/api/export_pdf/util.py:197
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:196
+#: ozone/core/api/export_pdf/util.py:198
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:262 ozone/core/api/export_pdf/util.py:265
+#: ozone/core/api/export_pdf/util.py:264 ozone/core/api/export_pdf/util.py:267
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:262
+#: ozone/core/api/export_pdf/util.py:264
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:265
+#: ozone/core/api/export_pdf/util.py:267
 msgid "secretariat"
 msgstr ""
 
