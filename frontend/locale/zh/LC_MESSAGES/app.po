@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-23 08:13+0000\n"
+"POT-Creation-Date: 2019-05-23 09:08+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -37,7 +37,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:772
 #: src/components/common/Files.vue:107
 #: src/components/common/SubmissionHistory.vue:124
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:42
 #: src/components/hat/dataDefinitions/form.js:92
 #: src/components/hat/dataDefinitions/form.js:182
 #: src/components/raf/dataDefinitions/form.js:117
@@ -80,13 +80,16 @@ msgstr ""
 msgid "Add row"
 msgstr ""
 
+#: src/components/raf/form-components/Add.vue:4
+msgid "Add ssfasfsaubstances"
+msgstr ""
+
 #: src/components/common/form-components/AddBlend.vue:99
 msgid "Add substance"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:4
 #: src/components/common/form-components/AsideTogglerModified.vue:3
-#: src/components/raf/form-components/Add.vue:4
 msgid "Add substances"
 msgstr ""
 
@@ -766,6 +769,9 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/labels.js:7
+#: src/components/exemption/dataDefinitions/labels.js:15
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
 #: src/components/raf/dataDefinitions/form.js:113
 #: src/components/raf/dataDefinitions/form.js:165
 #: src/components/raf/dataDefinitions/labels.js:30
@@ -959,7 +965,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:9
 #: src/components/art7/dataDefinitions/labels.js:43
 #: src/components/exemption/dataDefinitions/labels.js:6
-#: src/components/exemption/dataDefinitions/labels.js:13
+#: src/components/exemption/dataDefinitions/labels.js:14
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
@@ -1043,8 +1049,8 @@ msgstr ""
 msgid "In case changes are necessary, another version will need to be submitted."
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:7
-#: src/components/exemption/dataDefinitions/labels.js:14
+#: src/components/exemption/dataDefinitions/labels.js:8
+#: src/components/exemption/dataDefinitions/labels.js:16
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:27
 msgid "in metric tonnes"
 msgstr ""
@@ -1261,6 +1267,10 @@ msgstr ""
 msgid "Nonparty"
 msgstr ""
 
+#: src/components/raf/form-components/Add.vue:191
+msgid "not added because two entries already exist."
+msgstr ""
+
 #: src/components/common/SubmissionStatus.vue:47
 #: src/components/exemption/dataDefinitions/form.js:71
 msgid "Not approved"
@@ -1401,7 +1411,7 @@ msgstr ""
 msgid "Phone"
 msgstr ""
 
-#: src/components/exemption/services/tableRowConstructorService.js:39
+#: src/components/exemption/services/tableRowConstructorService.js:43
 msgid "Please complete the \"(3) Quantity\" field"
 msgstr ""
 
@@ -1426,7 +1436,7 @@ msgstr ""
 msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
 msgstr ""
 
-#: src/components/raf/services/tableRowConstructorService.js:137
+#: src/components/raf/services/tableRowConstructorService.js:138
 msgid "Please fill-in column On hand end of year (13)"
 msgstr ""
 
@@ -1572,8 +1582,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:33
 #: src/components/art7/dataDefinitions/labels.js:67
 #: src/components/art7/dataDefinitions/labels.js:97
-#: src/components/exemption/dataDefinitions/labels.js:7
-#: src/components/exemption/dataDefinitions/labels.js:14
+#: src/components/exemption/dataDefinitions/labels.js:8
+#: src/components/exemption/dataDefinitions/labels.js:16
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:27
 #: src/components/letter/dataDefinitions/labels.js:28
 #: src/components/letter/dataDefinitions/labels.js:58
@@ -1741,9 +1751,9 @@ msgstr ""
 msgid "Remark"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/labels.js:8
-#: src/components/exemption/dataDefinitions/labels.js:15
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
+#: src/components/exemption/dataDefinitions/labels.js:9
+#: src/components/exemption/dataDefinitions/labels.js:17
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 msgid "Remarks"
 msgstr ""
 
@@ -1792,7 +1802,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:113
 #: src/components/art7/dataDefinitions/labels.js:132
 #: src/components/exemption/dataDefinitions/labels.js:4
-#: src/components/exemption/dataDefinitions/labels.js:11
+#: src/components/exemption/dataDefinitions/labels.js:12
 #: src/components/hat/dataDefinitions/labels.js:11
 #: src/components/hat/dataDefinitions/labels.js:20
 #: src/components/letter/dataDefinitions/labels.js:29
@@ -1988,7 +1998,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:616
 #: src/components/art7/dataDefinitions/labels.js:119
 #: src/components/exemption/dataDefinitions/labels.js:5
-#: src/components/exemption/dataDefinitions/labels.js:12
+#: src/components/exemption/dataDefinitions/labels.js:13
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:23
 #: src/components/hat/dataDefinitions/form.js:66
 #: src/components/hat/dataDefinitions/form.js:158
@@ -2058,7 +2068,7 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:185
 #: src/components/art7/dataDefinitions/form.js:314
-#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:53
+#: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:58
 msgid "Tonne = Metric ton."
 msgstr ""
 
