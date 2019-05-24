@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-23 10:10+0000\n"
+"POT-Creation-Date: 2019-05-24 11:41+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -56,6 +56,7 @@ msgstr ""
 #: src/components/common/form-components/Add.vue:45
 #: src/components/common/form-components/AddBlend.vue:71
 #: src/components/common/form-components/CloneField.vue:23
+#: src/components/exemption/form-components/Add.vue:45
 #: src/components/raf/form-components/Add.vue:45
 msgid "Add %{length} rows"
 msgstr ""
@@ -81,6 +82,7 @@ msgstr ""
 msgid "Add row"
 msgstr ""
 
+#: src/components/exemption/form-components/Add.vue:4
 #: src/components/raf/form-components/Add.vue:4
 msgid "Add ssfasfsaubstances"
 msgstr ""
@@ -416,6 +418,7 @@ msgstr ""
 #: src/components/common/TransitionQuestions.vue:15
 #: src/components/common/form-components/Add.vue:50
 #: src/components/common/form-components/AddBlend.vue:145
+#: src/components/exemption/form-components/Add.vue:50
 #: src/components/raf/AddParties.vue:34
 #: src/components/raf/form-components/Add.vue:50
 msgid "Cancel"
@@ -914,6 +917,7 @@ msgid "Fill in this form only if your country produced CFCs, halons, carbon tetr
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:7
+#: src/components/exemption/form-components/Add.vue:7
 #: src/components/raf/form-components/Add.vue:7
 msgid "Filter annex groups in order to select one or more substances. A row for each substance will be added in substances table. Substances can be deleted using table controls."
 msgstr ""
@@ -1268,6 +1272,7 @@ msgstr ""
 msgid "Nonparty"
 msgstr ""
 
+#: src/components/exemption/form-components/Add.vue:183
 #: src/components/raf/form-components/Add.vue:191
 msgid "not added because two entries already exist."
 msgstr ""
@@ -2023,6 +2028,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:83
 #: src/components/letter/dataDefinitions/labels.js:93
 #: src/components/common/form-components/Add.vue:24
+#: src/components/exemption/form-components/Add.vue:24
 #: src/components/raf/form-components/Add.vue:24
 msgid "Substances"
 msgstr ""
@@ -2319,6 +2325,8 @@ msgstr ""
 #: src/components/common/form-components/AddBlend.vue:15
 #: src/components/common/form-components/AddBlend.vue:31
 #: src/components/common/form-components/fieldGenerator.vue:51
+#: src/components/exemption/form-components/Add.vue:14
+#: src/components/exemption/form-components/Add.vue:26
 #: src/components/raf/AddParties.vue:11
 #: src/components/raf/form-components/Add.vue:14
 #: src/components/raf/form-components/Add.vue:26 src/views/Dashboard.vue:19
@@ -2335,6 +2343,7 @@ msgid "Controlled or new substance"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:12
+#: src/components/exemption/form-components/Add.vue:12
 #: src/components/raf/form-components/Add.vue:12
 msgid "Annex groups"
 msgstr ""
