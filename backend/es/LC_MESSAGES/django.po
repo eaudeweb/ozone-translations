@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-27 09:53+0300\n"
+"POT-Creation-Date: 2019-05-27 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,64 +59,6 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/others.py:52
-#, python-brace-format
-msgid ""
-"Production and Consumption for {period1} - Comparison with {period2} Year"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:63
-#, python-brace-format
-msgid ""
-"Date Reported: {date_reported}\n"
-"                    {party_type} {party_region} - Population*: {population}"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:89
-#, python-brace-format
-msgid ""
-"Production and Consumption of ODSs - Comparison with {compared_period} Year "
-"(ODP Tonnes)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:128
-#, python-brace-format
-msgid ""
-"Production and Consumption of HFCs - Comparison with {compared_period} Year "
-"(CO2-equivalent tonnes)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:178
-#: ozone/core/api/export_pdf/art7/section_destruction.py:40
-#: ozone/core/api/export_pdf/art7/section_impexp.py:230
-#: ozone/core/api/export_pdf/art7/section_nonparty.py:60
-#: ozone/core/api/export_pdf/art7/section_production.py:119
-msgid "Annex/Group"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:179
-#: ozone/core/api/export_pdf/hat/section_production.py:53
-msgid "PRODUCTION"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:183
-msgid "CONSUMPTION"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:193
-#: ozone/core/api/export_pdf/art7/others.py:197
-msgid "% Chng"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:194
-#: ozone/core/api/export_pdf/art7/others.py:198
-msgid "Limit"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/others.py:199
-msgid "Per Cap. Cons."
-msgstr ""
-
 #: ozone/core/api/export_pdf/art7/section_destruction.py:35
 msgid "Destroyed"
 msgstr ""
@@ -127,6 +69,14 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_impexp.py:295
 #: ozone/core/api/export_pdf/art7/section_production.py:102
 msgid "metric tonnes"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_destruction.py:40
+#: ozone/core/api/export_pdf/art7/section_impexp.py:230
+#: ozone/core/api/export_pdf/art7/section_nonparty.py:60
+#: ozone/core/api/export_pdf/art7/section_production.py:119
+#: ozone/core/api/export_pdf/reports/prodcons.py:178
+msgid "Annex/Group"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:41
@@ -421,11 +371,11 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:22
+#: ozone/core/api/export_pdf/export.py:23
 msgid "Page"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:31
+#: ozone/core/api/export_pdf/export.py:32
 msgid ""
 "* Population in thousands <br/>\n"
 "    ** Consumption and Production numbers are rounded to a uniform number of "
@@ -531,6 +481,56 @@ msgstr ""
 msgid "2.2 Comments"
 msgstr ""
 
+#: ozone/core/api/export_pdf/hat/section_production.py:53
+#: ozone/core/api/export_pdf/reports/prodcons.py:179
+msgid "PRODUCTION"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:52
+#, python-brace-format
+msgid ""
+"Production and Consumption for {period1} - Comparison with {period2} Year"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:63
+#, python-brace-format
+msgid ""
+"Date Reported: {date_reported}\n"
+"                    {party_type} {party_region} - Population*: {population}"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:89
+#, python-brace-format
+msgid ""
+"Production and Consumption of ODSs - Comparison with {compared_period} Year "
+"(ODP Tonnes)"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:128
+#, python-brace-format
+msgid ""
+"Production and Consumption of HFCs - Comparison with {compared_period} Year "
+"(CO2-equivalent tonnes)"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:183
+msgid "CONSUMPTION"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:193
+#: ozone/core/api/export_pdf/reports/prodcons.py:197
+msgid "% Chng"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:194
+#: ozone/core/api/export_pdf/reports/prodcons.py:198
+msgid "Limit"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:199
+msgid "Per Cap. Cons."
+msgstr ""
+
 #: ozone/core/api/export_pdf/util.py:209
 msgid "Laboratory and analytical uses"
 msgstr ""
@@ -567,11 +567,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:656
+#: ozone/core/api/views.py:657
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1416
+#: ozone/core/api/views.py:1417
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
