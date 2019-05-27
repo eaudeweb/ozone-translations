@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-24 14:39+0300\n"
+"POT-Creation-Date: 2019-05-27 09:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,7 +89,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/others.py:178
 #: ozone/core/api/export_pdf/art7/section_destruction.py:40
-#: ozone/core/api/export_pdf/art7/section_impexp.py:132
+#: ozone/core/api/export_pdf/art7/section_impexp.py:224
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:60
 #: ozone/core/api/export_pdf/art7/section_production.py:119
 msgid "Annex/Group"
@@ -124,8 +124,8 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:35
 #: ozone/core/api/export_pdf/art7/section_emission.py:42
-#: ozone/core/api/export_pdf/art7/section_impexp.py:180
-#: ozone/core/api/export_pdf/art7/section_impexp.py:195
+#: ozone/core/api/export_pdf/art7/section_impexp.py:274
+#: ozone/core/api/export_pdf/art7/section_impexp.py:289
 #: ozone/core/api/export_pdf/art7/section_production.py:102
 msgid "metric tonnes"
 msgstr ""
@@ -141,7 +141,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:43
 #: ozone/core/api/export_pdf/art7/section_emission.py:56
-#: ozone/core/api/export_pdf/art7/section_impexp.py:140
+#: ozone/core/api/export_pdf/art7/section_impexp.py:232
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:67
 #: ozone/core/api/export_pdf/art7/section_production.py:129
 msgid "Remarks"
@@ -187,83 +187,96 @@ msgstr ""
 msgid "For destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:100
+#: ozone/core/api/export_pdf/art7/section_impexp.py:56
+#: ozone/core/api/export_pdf/art7/section_impexp.py:58
+msgid "Subtotal"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:56
+msgid "excluding polyols"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:136
+msgid "Subtotal polyols containing"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_impexp.py:145
 msgid "Polyols containing"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:133
+#: ozone/core/api/export_pdf/art7/section_impexp.py:225
 #: ozone/core/api/export_pdf/art7/section_production.py:120
 msgid "Substance"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:146
+#: ozone/core/api/export_pdf/art7/section_impexp.py:238
 msgid "New"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:147
+#: ozone/core/api/export_pdf/art7/section_impexp.py:239
 msgid "Recovered and reclaimed"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:149
+#: ozone/core/api/export_pdf/art7/section_impexp.py:241
 #: ozone/core/api/export_pdf/art7/section_production.py:137
 msgid "Quantity"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:150
+#: ozone/core/api/export_pdf/art7/section_impexp.py:242
 msgid "Decision / type of use or remark"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:180
+#: ozone/core/api/export_pdf/art7/section_impexp.py:274
 #: ozone/core/api/export_pdf/art7/section_info.py:18
 msgid "Imports"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:181
+#: ozone/core/api/export_pdf/art7/section_impexp.py:275
 msgid "Exporting country/region/territory"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:182
+#: ozone/core/api/export_pdf/art7/section_impexp.py:276
 msgid "Total quantity imported for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:183
+#: ozone/core/api/export_pdf/art7/section_impexp.py:277
 msgid ""
 "Quantity of new substance imported for exempted essential,critical, high-"
 "ambient-temperature or other uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:185
+#: ozone/core/api/export_pdf/art7/section_impexp.py:279
 msgid "Import for feedstock"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:186
+#: ozone/core/api/export_pdf/art7/section_impexp.py:280
 msgid "Amount imported for QPS applications within your country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:195
+#: ozone/core/api/export_pdf/art7/section_impexp.py:289
 #: ozone/core/api/export_pdf/art7/section_info.py:19
 msgid "Exports"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:196
+#: ozone/core/api/export_pdf/art7/section_impexp.py:290
 msgid "Importing country/region/territory"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:197
+#: ozone/core/api/export_pdf/art7/section_impexp.py:291
 msgid "Total quantity exported for all uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:198
+#: ozone/core/api/export_pdf/art7/section_impexp.py:292
 msgid ""
 "Quantity of new substance exported for exempted essential,critical, high-"
 "ambient-temperature or other uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:200
+#: ozone/core/api/export_pdf/art7/section_impexp.py:294
 msgid "Export for feedstock"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:201
+#: ozone/core/api/export_pdf/art7/section_impexp.py:295
 msgid "Amount exported for QPS applications"
 msgstr ""
 
@@ -519,39 +532,39 @@ msgstr ""
 msgid "2.2 Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:193
+#: ozone/core/api/export_pdf/util.py:209
 msgid "Laboratory and analytical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:194
+#: ozone/core/api/export_pdf/util.py:210
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:195
+#: ozone/core/api/export_pdf/util.py:211
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:196
+#: ozone/core/api/export_pdf/util.py:212
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:197
+#: ozone/core/api/export_pdf/util.py:213
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:198
+#: ozone/core/api/export_pdf/util.py:214
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:264 ozone/core/api/export_pdf/util.py:267
+#: ozone/core/api/export_pdf/util.py:280 ozone/core/api/export_pdf/util.py:283
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:264
+#: ozone/core/api/export_pdf/util.py:280
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:267
+#: ozone/core/api/export_pdf/util.py:283
 msgid "secretariat"
 msgstr ""
 
