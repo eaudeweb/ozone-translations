@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-24 11:41+0000\n"
+"POT-Creation-Date: 2019-05-28 14:46+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -965,6 +965,14 @@ msgstr ""
 msgid "Formula"
 msgstr ""
 
+#: src/views/Reports.vue:7 src/views/Reports.vue:52
+msgid "Generate report"
+msgstr ""
+
+#: src/views/Reports.vue:11
+msgid "Generate report by selecting the report type and filtering by party and period. Only one filter can have multiple values."
+msgstr ""
+
 #: src/views/FormNotFound.vue:8
 msgid "Go back to dashboard"
 msgstr ""
@@ -1386,7 +1394,7 @@ msgstr ""
 #: src/views/Dashboard.vue:425 src/views/Dashboard.vue:440
 #: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
-#: src/views/Dashboard.vue:191
+#: src/views/Dashboard.vue:191 src/views/Reports.vue:38
 msgid "Party"
 msgstr ""
 
@@ -1413,7 +1421,7 @@ msgid "Percentage"
 msgstr ""
 
 #: src/views/Dashboard.vue:395 src/views/Dashboard.vue:438
-#: src/views/Dashboard.vue:27
+#: src/views/Dashboard.vue:27 src/views/Reports.vue:27
 msgid "Period"
 msgstr ""
 
@@ -1949,7 +1957,7 @@ msgstr ""
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:310
+#: src/store/actions.js:311
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -1980,7 +1988,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:278
+#: src/store/actions.js:279
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2201,7 +2209,7 @@ msgstr ""
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:317
+#: src/store/actions.js:318
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2209,7 +2217,7 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:284
+#: src/store/actions.js:285
 msgid "Unable to update submission status."
 msgstr ""
 
@@ -2338,6 +2346,7 @@ msgstr ""
 #: src/components/raf/form-components/Add.vue:14
 #: src/components/raf/form-components/Add.vue:26 src/views/Dashboard.vue:19
 #: src/views/Dashboard.vue:29 src/views/Dashboard.vue:41
+#: src/views/Reports.vue:19 src/views/Reports.vue:29 src/views/Reports.vue:40
 msgid "Select option"
 msgstr ""
 
@@ -2413,6 +2422,10 @@ msgstr ""
 
 #: src/views/pages/Page404.vue:26
 msgid "What are you looking for?"
+msgstr ""
+
+#: src/views/Reports.vue:17
+msgid "Reports"
 msgstr ""
 
 #: src/views/UserProfile.vue:4
