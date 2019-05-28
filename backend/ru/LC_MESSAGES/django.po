@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 11:18+0300\n"
+"POT-Creation-Date: 2019-05-28 15:34+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -604,11 +604,11 @@ msgstr "фиктивный текст!"
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:840
+#: ozone/core/models/data.py:871
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:857
+#: ozone/core/models/data.py:888
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
@@ -737,21 +737,21 @@ msgstr "фиктивный текст!"
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/transfer.py:141
+#: ozone/core/models/transfer.py:167
 msgid ""
 "Destination party submission should belong to the transfer's destination "
 "party."
 msgstr ""
 
-#: ozone/core/models/transfer.py:150
+#: ozone/core/models/transfer.py:176
 msgid "Destination party submission should be a Transfer submission."
 msgstr ""
 
-#: ozone/core/models/transfer.py:161
+#: ozone/core/models/transfer.py:187
 msgid "Source party submission should belong to the transfer's source party"
 msgstr ""
 
-#: ozone/core/models/transfer.py:170
+#: ozone/core/models/transfer.py:196
 msgid "Source party submission should be a Transfer submission."
 msgstr ""
 
