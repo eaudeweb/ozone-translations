@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 15:34+0300\n"
+"POT-Creation-Date: 2019-05-28 15:45+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -706,21 +706,21 @@ msgstr ""
 msgid "Substance or component name must be set."
 msgstr ""
 
-#: ozone/core/models/transfer.py:167
+#: ozone/core/models/transfer.py:165
 msgid ""
 "Destination party submission should belong to the transfer's destination "
 "party."
 msgstr ""
 
-#: ozone/core/models/transfer.py:176
+#: ozone/core/models/transfer.py:174
 msgid "Destination party submission should be a Transfer submission."
 msgstr ""
 
-#: ozone/core/models/transfer.py:187
+#: ozone/core/models/transfer.py:185
 msgid "Source party submission should belong to the transfer's source party"
 msgstr ""
 
-#: ozone/core/models/transfer.py:196
+#: ozone/core/models/transfer.py:194
 msgid "Source party submission should be a Transfer submission."
 msgstr ""
 
