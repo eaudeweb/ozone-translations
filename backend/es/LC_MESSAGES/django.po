@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-29 10:32+0300\n"
+"POT-Creation-Date: 2019-05-29 11:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -300,6 +300,10 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:88
 msgid "No"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:124
+msgid "Provisional"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:54
