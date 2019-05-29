@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 17:59+0300\n"
+"POT-Creation-Date: 2019-05-29 10:19+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -822,7 +822,7 @@ msgstr ""
 msgid "Specified file id not found for this submission"
 msgstr ""
 
-#: ozone/templates/admin/login.html:24
+#: ozone/templates/admin/login.html:113
 msgid "Ozone Secretariat reporting tool"
 msgstr ""
 
