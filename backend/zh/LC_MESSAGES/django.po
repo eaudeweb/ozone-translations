@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-29 19:14+0300\n"
+"POT-Creation-Date: 2019-05-29 19:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -613,6 +613,13 @@ msgstr ""
 
 #: ozone/core/models/legal.py:72
 msgid "The end date must be greater than the start date."
+msgstr ""
+
+#: ozone/core/models/report.py:31
+msgid ""
+"To compare the production and consumption of one year with the baseline "
+"period, select only one year and one or more parties. You can also select "
+"one party and two reporting periods for comparing to each other."
 msgstr ""
 
 #: ozone/core/models/reporting.py:63 ozone/core/models/reporting.py:1519
