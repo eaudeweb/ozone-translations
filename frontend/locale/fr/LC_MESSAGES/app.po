@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-29 16:16+0000\n"
+"POT-Creation-Date: 2019-05-30 12:21+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -467,8 +467,9 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:803
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
-#: src/components/art7/TabsManager.vue:159
+#: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:17
+#: src/components/common/OzoneMail.vue:44
 #: src/components/exemption/FormTemplate.vue:167
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -667,7 +668,7 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:142
+#: src/components/art7/TabsManager.vue:143
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:116
 #: src/components/letter/TabsManager.vue:87
@@ -1380,6 +1381,10 @@ msgstr ""
 msgid "Ozone depleting substances"
 msgstr ""
 
+#: src/components/common/OzoneMail.vue:2
+msgid "Ozone Mail"
+msgstr ""
+
 #: src/components/common/dataDefinitions/tabSubInfo.js:45
 msgid "Paper"
 msgstr ""
@@ -1973,7 +1978,7 @@ msgstr ""
 msgid "Submission info"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:213
+#: src/components/art7/TabsManager.vue:216
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
 #: src/components/letter/TabsManager.vue:33
 #: src/components/letter/TabsManager.vue:31
@@ -1992,7 +1997,7 @@ msgstr ""
 msgid "Submission status updated successfully."
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:119
+#: src/components/art7/TabsManager.vue:120
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:69
 #: src/components/hat/TabsManager.vue:82
@@ -2266,7 +2271,7 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:110
+#: src/components/art7/TabsManager.vue:111
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:108
 #: src/components/letter/TabsManager.vue:80
@@ -2319,6 +2324,14 @@ msgstr ""
 #: src/components/common/dataDefinitions/alerts.js:6
 #: src/components/common/dataDefinitions/alerts.js:16
 msgid "You have unsaved changes. Please save the submission first."
+msgstr ""
+
+#: src/components/common/OzoneMail.vue:6
+msgid "Send a message"
+msgstr ""
+
+#: src/components/common/OzoneMail.vue:33
+msgid "Conversation history"
 msgstr ""
 
 #: src/components/common/Files.vue:27
@@ -2374,7 +2387,7 @@ msgstr ""
 msgid "party"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:152
+#: src/components/art7/TabsManager.vue:153
 #: src/components/exemption/TabsManager.vue:98
 #: src/components/hat/TabsManager.vue:126
 #: src/components/letter/TabsManager.vue:97
