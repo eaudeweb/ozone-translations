@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-06 10:37+0300\n"
+"POT-Creation-Date: 2019-06-06 10:43+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -839,11 +839,11 @@ msgstr "фиктивный текст"
 msgid "User is not allowed to change date of submission."
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1257
+#: ozone/core/serializers.py:1261
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1275
+#: ozone/core/serializers.py:1279
 msgid "Specified file id not found for this submission"
 msgstr ""
 
