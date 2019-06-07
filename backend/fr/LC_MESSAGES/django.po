@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-06 18:58+0300\n"
+"POT-Creation-Date: 2019-06-07 14:26+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -67,12 +67,14 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_emission.py:43
 #: ozone/core/api/export_pdf/art7/section_impexp.py:283
 #: ozone/core/api/export_pdf/art7/section_impexp.py:298
+#: ozone/core/api/export_pdf/art7/section_labuses.py:81
 #: ozone/core/api/export_pdf/art7/section_production.py:105
 msgid "metric tonnes"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:41
 #: ozone/core/api/export_pdf/art7/section_impexp.py:233
+#: ozone/core/api/export_pdf/art7/section_labuses.py:86
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:47
 #: ozone/core/api/export_pdf/art7/section_production.py:120
 #: ozone/core/api/export_pdf/reports/prodcons.py:176
@@ -91,6 +93,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_destruction.py:44
 #: ozone/core/api/export_pdf/art7/section_emission.py:57
 #: ozone/core/api/export_pdf/art7/section_impexp.py:241
+#: ozone/core/api/export_pdf/art7/section_labuses.py:90
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:54
 #: ozone/core/api/export_pdf/art7/section_production.py:130
 msgid "Remarks"
@@ -176,7 +179,7 @@ msgid "Decision / type of use or remark"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:283
-#: ozone/core/api/export_pdf/art7/section_info.py:18
+#: ozone/core/api/export_pdf/art7/section_info.py:22
 msgid "Imports"
 msgstr ""
 
@@ -203,7 +206,7 @@ msgid "Amount imported for QPS applications within your country"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:298
-#: ozone/core/api/export_pdf/art7/section_info.py:19
+#: ozone/core/api/export_pdf/art7/section_info.py:23
 msgid "Exports"
 msgstr ""
 
@@ -229,85 +232,103 @@ msgstr ""
 msgid "Amount exported for QPS applications"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:15
+#: ozone/core/api/export_pdf/art7/section_info.py:19
 msgid "Annex/Group reported in full?"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:20
+#: ozone/core/api/export_pdf/art7/section_info.py:24
+#: ozone/core/api/export_pdf/art7/section_labuses.py:88
 #: ozone/core/api/export_pdf/art7/section_production.py:105
 msgid "Production"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:21
+#: ozone/core/api/export_pdf/art7/section_info.py:25
 msgid "Destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:22
+#: ozone/core/api/export_pdf/art7/section_info.py:26
 msgid "Non-party trade"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:23
+#: ozone/core/api/export_pdf/art7/section_info.py:27
 msgid "Emissions"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:24
+#: ozone/core/api/export_pdf/art7/section_info.py:28
 msgid "A/I"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:25
+#: ozone/core/api/export_pdf/art7/section_info.py:29
 msgid "A/II"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:26
+#: ozone/core/api/export_pdf/art7/section_info.py:30
 msgid "B/I"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:27
+#: ozone/core/api/export_pdf/art7/section_info.py:31
 msgid "B/II"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:28
+#: ozone/core/api/export_pdf/art7/section_info.py:32
 msgid "B/III"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:29
+#: ozone/core/api/export_pdf/art7/section_info.py:33
 msgid "C/I"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:30
+#: ozone/core/api/export_pdf/art7/section_info.py:34
 msgid "C/II"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:31
+#: ozone/core/api/export_pdf/art7/section_info.py:35
 msgid "C/III"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:32
+#: ozone/core/api/export_pdf/art7/section_info.py:36
 msgid "E/I"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:33
+#: ozone/core/api/export_pdf/art7/section_info.py:37
 msgid "F"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:55
+#: ozone/core/api/export_pdf/art7/section_info.py:59
 msgid "Date of reporting"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:80
+#: ozone/core/api/export_pdf/art7/section_info.py:84
 msgid "Address country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:91
+#: ozone/core/api/export_pdf/art7/section_info.py:95
 msgid "Yes"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:91
+#: ozone/core/api/export_pdf/art7/section_info.py:95
 msgid "No"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:127
+#: ozone/core/api/export_pdf/art7/section_info.py:131
 msgid "Provisional"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:136
+msgid "Printed at"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_labuses.py:81
+#: ozone/core/api/export_pdf/util.py:261
+msgid "Laboratory and analytical uses"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_labuses.py:87
+msgid "Substance name"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_labuses.py:89
+msgid "Consumption"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:41
@@ -539,10 +560,6 @@ msgstr ""
 msgid "Per Cap. Cons."
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:261
-msgid "Laboratory and analytical uses"
-msgstr ""
-
 #: ozone/core/api/export_pdf/util.py:262
 msgid "Essential uses, other than L&A"
 msgstr ""
@@ -563,15 +580,15 @@ msgstr ""
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:332 ozone/core/api/export_pdf/util.py:335
+#: ozone/core/api/export_pdf/util.py:340 ozone/core/api/export_pdf/util.py:343
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:332
+#: ozone/core/api/export_pdf/util.py:340
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:335
+#: ozone/core/api/export_pdf/util.py:343
 msgid "secretariat"
 msgstr ""
 
