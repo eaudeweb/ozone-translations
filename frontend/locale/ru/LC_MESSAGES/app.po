@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-30 12:21+0000\n"
+"POT-Creation-Date: 2019-06-07 11:52+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -486,7 +486,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:17
-#: src/components/common/OzoneMail.vue:44
+#: src/components/common/OzoneMail.vue:56
 #: src/components/exemption/FormTemplate.vue:167
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -815,7 +815,7 @@ msgstr ""
 msgid "Emissions"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:166
+#: src/store/actions.js:167
 msgid "Error"
 msgstr ""
 
@@ -1210,6 +1210,10 @@ msgstr "фиктивный текст"
 msgid "London Amendment"
 msgstr "фиктивный текст"
 
+#: src/components/common/OzoneMail.vue:113
+msgid "Mail sent"
+msgstr ""
+
 #: src/views/lookupTables/ControlledSubstances.vue:123
 msgid "MaxODP"
 msgstr "фиктивный текст"
@@ -1484,7 +1488,7 @@ msgstr "фиктивный текст"
 msgid "Please complete the Questionnaire before submitting."
 msgstr "фиктивный текст"
 
-#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:41
+#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:42
 msgid "Please confirm"
 msgstr ""
 
@@ -1961,7 +1965,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:161
+#: src/store/actions.js:162
 msgid "Saved"
 msgstr ""
 
@@ -2020,11 +2024,11 @@ msgstr ""
 msgid "Status"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:76
+#: src/store/actions.js:77
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:312
+#: src/store/actions.js:313
 #, fuzzy
 msgid "Submission deleted successfully."
 msgstr "фиктивный текст"
@@ -2060,7 +2064,7 @@ msgstr ""
 msgid "Submission status"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:280
+#: src/store/actions.js:281
 #, fuzzy
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
@@ -2275,12 +2279,12 @@ msgstr "фиктивный текст!"
 msgid "Unable to add rows for the following countries because they already exist"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:85
+#: src/store/actions.js:86
 #, fuzzy
 msgid "Unable to add submission."
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:65
+#: src/store/actions.js:66
 msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
 msgstr ""
 
@@ -2294,7 +2298,7 @@ msgstr "фиктивный текст"
 msgid "Unable to add the following substances because they already exist"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:319
+#: src/store/actions.js:320
 #, fuzzy
 msgid "Unable to delete submission."
 msgstr "фиктивный текст"
@@ -2303,7 +2307,7 @@ msgstr "фиктивный текст"
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:286
+#: src/store/actions.js:287
 #, fuzzy
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
@@ -2417,7 +2421,16 @@ msgstr "фиктивный текст"
 msgid "Send a message"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:33
+#: src/components/common/OzoneMail.vue:20
+#, fuzzy
+msgid "Press enter to add an email"
+msgstr "фиктивный текст"
+
+#: src/components/common/OzoneMail.vue:21
+msgid "CC"
+msgstr ""
+
+#: src/components/common/OzoneMail.vue:44
 msgid "Conversation history"
 msgstr ""
 

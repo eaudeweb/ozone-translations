@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-30 12:21+0000\n"
+"POT-Creation-Date: 2019-06-07 11:52+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -467,7 +467,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:17
-#: src/components/common/OzoneMail.vue:44
+#: src/components/common/OzoneMail.vue:56
 #: src/components/exemption/FormTemplate.vue:167
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -789,7 +789,7 @@ msgstr ""
 msgid "Emissions"
 msgstr ""
 
-#: src/store/actions.js:166
+#: src/store/actions.js:167
 msgid "Error"
 msgstr ""
 
@@ -1173,6 +1173,10 @@ msgstr ""
 msgid "London Amendment"
 msgstr ""
 
+#: src/components/common/OzoneMail.vue:113
+msgid "Mail sent"
+msgstr ""
+
 #: src/views/lookupTables/ControlledSubstances.vue:123
 msgid "MaxODP"
 msgstr ""
@@ -1438,7 +1442,7 @@ msgstr ""
 msgid "Please complete the Questionnaire before submitting."
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:41
+#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:42
 msgid "Please confirm"
 msgstr ""
 
@@ -1896,7 +1900,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/store/actions.js:161
+#: src/store/actions.js:162
 msgid "Saved"
 msgstr ""
 
@@ -1953,11 +1957,11 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#: src/store/actions.js:76
+#: src/store/actions.js:77
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:312
+#: src/store/actions.js:313
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -1988,7 +1992,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:280
+#: src/store/actions.js:281
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2191,11 +2195,11 @@ msgstr ""
 msgid "Unable to add rows for the following countries because they already exist"
 msgstr ""
 
-#: src/store/actions.js:85
+#: src/store/actions.js:86
 msgid "Unable to add submission."
 msgstr ""
 
-#: src/store/actions.js:65
+#: src/store/actions.js:66
 msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
 msgstr ""
 
@@ -2207,7 +2211,7 @@ msgstr ""
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:319
+#: src/store/actions.js:320
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2215,7 +2219,7 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:286
+#: src/store/actions.js:287
 msgid "Unable to update submission status."
 msgstr ""
 
@@ -2323,7 +2327,15 @@ msgstr ""
 msgid "Send a message"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:33
+#: src/components/common/OzoneMail.vue:20
+msgid "Press enter to add an email"
+msgstr ""
+
+#: src/components/common/OzoneMail.vue:21
+msgid "CC"
+msgstr ""
+
+#: src/components/common/OzoneMail.vue:44
 msgid "Conversation history"
 msgstr ""
 
