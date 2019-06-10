@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-10 09:09+0000\n"
+"POT-Creation-Date: 2019-06-10 09:25+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -327,6 +327,14 @@ msgstr ""
 #: src/components/common/SubmissionStatus.vue:61
 #: src/components/common/SubmissionStatus.vue:67
 msgid "at"
+msgstr ""
+
+#: src/views/Reports.vue:40
+msgid "At least one party is required"
+msgstr ""
+
+#: src/views/Reports.vue:27
+msgid "At least one period is required"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:87
@@ -990,7 +998,7 @@ msgstr ""
 msgid "Formula"
 msgstr ""
 
-#: src/views/Reports.vue:7 src/views/Reports.vue:53
+#: src/views/Reports.vue:7 src/views/Reports.vue:56
 msgid "Generate report"
 msgstr ""
 
@@ -1441,7 +1449,7 @@ msgstr ""
 #: src/views/Dashboard.vue:425 src/views/Dashboard.vue:440
 #: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
-#: src/views/Dashboard.vue:191 src/views/Reports.vue:39
+#: src/views/Dashboard.vue:191 src/views/Reports.vue:42
 msgid "Party"
 msgstr ""
 
@@ -1470,13 +1478,17 @@ msgid "Percentage"
 msgstr ""
 
 #: src/views/Dashboard.vue:395 src/views/Dashboard.vue:438
-#: src/views/Dashboard.vue:27 src/views/Reports.vue:27
+#: src/views/Dashboard.vue:27 src/views/Reports.vue:29
 msgid "Period"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:37
 #: src/components/letter/dataDefinitions/labels.js:132
 msgid "Phone"
+msgstr ""
+
+#: src/views/Reports.vue:16
+msgid "Please chose a report"
 msgstr ""
 
 #: src/components/exemption/services/tableRowConstructorService.js:42
@@ -2433,7 +2445,7 @@ msgstr ""
 #: src/components/raf/form-components/Add.vue:14
 #: src/components/raf/form-components/Add.vue:26 src/views/Dashboard.vue:19
 #: src/views/Dashboard.vue:29 src/views/Dashboard.vue:41
-#: src/views/Reports.vue:19 src/views/Reports.vue:29 src/views/Reports.vue:41
+#: src/views/Reports.vue:20 src/views/Reports.vue:31 src/views/Reports.vue:44
 msgid "Select option"
 msgstr ""
 
@@ -2514,7 +2526,7 @@ msgstr ""
 msgid "What are you looking for?"
 msgstr ""
 
-#: src/views/Reports.vue:17
+#: src/views/Reports.vue:18
 msgid "Reports"
 msgstr ""
 
