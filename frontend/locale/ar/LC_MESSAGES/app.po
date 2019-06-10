@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-07 11:52+0000\n"
+"POT-Creation-Date: 2019-06-10 09:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -40,6 +40,8 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:41
 #: src/components/hat/dataDefinitions/form.js:91
 #: src/components/hat/dataDefinitions/form.js:179
+#: src/components/otherRo/dataDefinitions/form.js:91
+#: src/components/otherRo/dataDefinitions/form.js:179
 #: src/components/raf/dataDefinitions/form.js:117
 #: src/components/raf/dataDefinitions/form.js:169
 #: src/components/raf/dataDefinitions/labels.js:31
@@ -252,6 +254,8 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:47
 #: src/components/hat/dataDefinitions/form.js:139
+#: src/components/otherRo/dataDefinitions/form.js:47
+#: src/components/otherRo/dataDefinitions/form.js:139
 #: src/components/raf/dataDefinitions/form.js:49
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
@@ -275,6 +279,8 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:18
 #: src/components/hat/dataDefinitions/form.js:59
 #: src/components/hat/dataDefinitions/form.js:151
+#: src/components/otherRo/dataDefinitions/form.js:59
+#: src/components/otherRo/dataDefinitions/form.js:151
 #: src/views/reports/Consumption.vue:87
 msgid "Annex/Group"
 msgstr ""
@@ -376,12 +382,14 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
 #: src/components/letter/dataDefinitions/labels.js:105
+#: src/components/otherRo/dataDefinitions/labels.js:8
 msgid "Blend"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:443
 #: src/components/common/form-components/DefaultAside.vue:12
 #: src/components/hat/FormTemplate.vue:111
+#: src/components/otherRo/FormTemplate.vue:111
 #: src/views/lookupTables/Blends.vue:204
 msgid "Blends"
 msgstr ""
@@ -473,6 +481,9 @@ msgstr ""
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
 #: src/components/hat/TabsManager.vue:133
 #: src/components/letter/TabsManager.vue:55
+#: src/components/otherRo/TabsManager.vue:27
+#: src/components/otherRo/TabsManager.vue:74
+#: src/components/otherRo/TabsManager.vue:133
 #: src/components/raf/FormTemplate.vue:319
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
 #: src/components/raf/TabsManager.vue:137
@@ -488,6 +499,8 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:48
 #: src/components/hat/dataDefinitions/labels.js:17
 #: src/components/hat/dataDefinitions/labels.js:28
+#: src/components/otherRo/dataDefinitions/labels.js:17
+#: src/components/otherRo/dataDefinitions/labels.js:28
 #: src/components/raf/dataDefinitions/labels.js:16
 #: src/components/raf/dataDefinitions/labels.js:42
 msgid "Comments (Party)"
@@ -502,6 +515,8 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:49
 #: src/components/hat/dataDefinitions/labels.js:16
 #: src/components/hat/dataDefinitions/labels.js:27
+#: src/components/otherRo/dataDefinitions/labels.js:16
+#: src/components/otherRo/dataDefinitions/labels.js:27
 #: src/components/raf/dataDefinitions/labels.js:15
 #: src/components/raf/dataDefinitions/labels.js:41
 msgid "Comments (Secretariat)"
@@ -525,6 +540,7 @@ msgid "Consumption"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:47
+#: src/components/otherRo/dataDefinitions/form.js:47
 msgid "Consumption (imports)"
 msgstr ""
 
@@ -606,6 +622,7 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:184
 #: src/components/hat/TabsManager.vue:223
 #: src/components/letter/TabsManager.vue:168
+#: src/components/otherRo/TabsManager.vue:223
 #: src/components/raf/TabsManager.vue:227
 msgid "data submission for"
 msgstr ""
@@ -653,6 +670,8 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
+#: src/components/otherRo/FormTemplate.vue:10
+#: src/components/otherRo/FormTemplate.vue:114
 #: src/components/raf/FormTemplate.vue:10
 #: src/components/art7/FormTemplate.vue:113
 #: src/components/art7/FormTemplate.vue:325
@@ -660,6 +679,8 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:77
 #: src/components/hat/FormTemplate.vue:96
 #: src/components/hat/FormTemplate.vue:215
+#: src/components/otherRo/FormTemplate.vue:96
+#: src/components/otherRo/FormTemplate.vue:215
 #: src/components/raf/FormTemplate.vue:87
 #: src/components/raf/FormTemplate.vue:171
 msgid "Delete"
@@ -669,6 +690,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:116
 #: src/components/letter/TabsManager.vue:87
+#: src/components/otherRo/TabsManager.vue:116
 #: src/components/raf/TabsManager.vue:120
 msgid "Delete Submission"
 msgstr ""
@@ -751,6 +773,8 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:70
 #: src/components/hat/FormTemplate.vue:89
 #: src/components/hat/FormTemplate.vue:208
+#: src/components/otherRo/FormTemplate.vue:89
+#: src/components/otherRo/FormTemplate.vue:208
 #: src/components/raf/FormTemplate.vue:80
 #: src/components/raf/FormTemplate.vue:164
 msgid "Edit"
@@ -908,6 +932,8 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:48
 #: src/components/hat/dataDefinitions/form.js:140
+#: src/components/otherRo/dataDefinitions/form.js:48
+#: src/components/otherRo/dataDefinitions/form.js:140
 #: src/components/raf/dataDefinitions/form.js:50
 msgid "Fill in this form only if your country is listed in appendix II to decision XXVIII/2, has formally notified the Secretariat of its intention to use the high-ambient-temperature exemption, and produced HFCs for its own use in the subsectors contained in appendix I to decision XXVIII/2"
 msgstr ""
@@ -951,6 +977,7 @@ msgid "For destruction"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:189
+#: src/components/otherRo/dataDefinitions/form.js:189
 msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector."
 msgstr ""
 
@@ -982,6 +1009,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
+#: src/components/otherRo/dataDefinitions/labels.js:9
 #: src/views/lookupTables/ControlledSubstances.vue:87
 #: src/views/lookupTables/ControlledSubstances.vue:7
 msgid "Group"
@@ -1047,6 +1075,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:220
 #: src/components/common/dataDefinitions/labels.js:19
 #: src/components/hat/dataDefinitions/form.js:46
+#: src/components/otherRo/dataDefinitions/form.js:46
 msgid "Imports"
 msgstr ""
 
@@ -1074,6 +1103,8 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:47
 #: src/components/hat/dataDefinitions/form.js:139
+#: src/components/otherRo/dataDefinitions/form.js:47
+#: src/components/otherRo/dataDefinitions/form.js:139
 #: src/components/raf/dataDefinitions/form.js:49
 msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
 msgstr ""
@@ -1219,44 +1250,56 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:79
 #: src/components/hat/dataDefinitions/labels.js:15
+#: src/components/otherRo/dataDefinitions/form.js:79
+#: src/components/otherRo/dataDefinitions/labels.js:15
 msgid "New imports for use in ducted commercial packaged (self-contained) air conditioners"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:71
 #: src/components/hat/dataDefinitions/labels.js:13
+#: src/components/otherRo/dataDefinitions/form.js:71
+#: src/components/otherRo/dataDefinitions/labels.js:13
 msgid "New imports for use in multi-split air conditioners"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:75
 #: src/components/hat/dataDefinitions/labels.js:14
+#: src/components/otherRo/dataDefinitions/form.js:75
+#: src/components/otherRo/dataDefinitions/labels.js:14
 msgid "New imports for use in split ducted air conditioners"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:167
+#: src/components/otherRo/dataDefinitions/form.js:167
 msgid "New production for use in ducted commercial packaged (self-contained) air conditioners"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/labels.js:26
+#: src/components/otherRo/dataDefinitions/labels.js:26
 #: src/components/raf/dataDefinitions/labels.js:14
 #: src/components/raf/dataDefinitions/labels.js:40
 msgid "New production for use in ducted commercial packaged (self-contained) air conditioners\t"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:159
+#: src/components/otherRo/dataDefinitions/form.js:159
 msgid "New production for use in multi-split air conditioners"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/labels.js:24
+#: src/components/otherRo/dataDefinitions/labels.js:24
 #: src/components/raf/dataDefinitions/labels.js:12
 #: src/components/raf/dataDefinitions/labels.js:38
 msgid "New production for use in multi-split air conditioners\t"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:163
+#: src/components/otherRo/dataDefinitions/form.js:163
 msgid "New production for use in split ducted air conditioners"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/labels.js:25
+#: src/components/otherRo/dataDefinitions/labels.js:25
 #: src/components/raf/dataDefinitions/labels.js:13
 #: src/components/raf/dataDefinitions/labels.js:39
 msgid "New production for use in split ducted air conditioners\t"
@@ -1331,6 +1374,7 @@ msgid "Online Reporting Tool"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:102
+#: src/components/otherRo/dataDefinitions/form.js:102
 msgid "Only bulk gases for servicing of exempted equipment should be reported here, not gases imported inside pre-charged equipment."
 msgstr ""
 
@@ -1417,6 +1461,8 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:65
 #: src/components/letter/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:99
+#: src/components/otherRo/dataDefinitions/labels.js:10
+#: src/components/otherRo/dataDefinitions/labels.js:22
 #: src/components/raf/dataDefinitions/labels.js:9
 #: src/components/raf/dataDefinitions/labels.js:35
 #: src/views/lookupTables/Blends.vue:146
@@ -1455,6 +1501,8 @@ msgstr ""
 
 #: src/components/hat/services/tableRowConstructorService.js:63
 #: src/components/hat/services/tableRowConstructorService.js:117
+#: src/components/otherRo/services/tableRowConstructorService.js:63
+#: src/components/otherRo/services/tableRowConstructorService.js:117
 msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
 msgstr ""
 
@@ -1547,12 +1595,14 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:36
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:138
+#: src/components/otherRo/dataDefinitions/form.js:138
 #: src/views/reports/Consumption.vue:139
 msgid "Production"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:349
 #: src/components/hat/dataDefinitions/form.js:139
+#: src/components/otherRo/dataDefinitions/form.js:139
 #: src/components/raf/dataDefinitions/form.js:49
 msgid "PRODUCTION"
 msgstr ""
@@ -1686,10 +1736,12 @@ msgid "Quantity of new substances exported as feedstock"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:100
+#: src/components/otherRo/dataDefinitions/form.js:100
 msgid "Quantity of new substances imported for approved subsectors to which the high-ambient-temperature exemption applies"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:187
+#: src/components/otherRo/dataDefinitions/form.js:187
 msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
 msgstr ""
 
@@ -1781,6 +1833,8 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:83
 #: src/components/hat/dataDefinitions/form.js:171
+#: src/components/otherRo/dataDefinitions/form.js:83
+#: src/components/otherRo/dataDefinitions/form.js:171
 msgid "Remarks (party"
 msgstr ""
 
@@ -1804,6 +1858,8 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:90
 #: src/components/letter/dataDefinitions/labels.js:98
 #: src/components/letter/dataDefinitions/labels.js:115
+#: src/components/otherRo/dataDefinitions/labels.js:12
+#: src/components/otherRo/dataDefinitions/labels.js:21
 #: src/components/raf/dataDefinitions/labels.js:8
 #: src/components/raf/dataDefinitions/labels.js:34
 msgid "Remarks (Party)"
@@ -1813,6 +1869,8 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:763
 #: src/components/hat/dataDefinitions/form.js:87
 #: src/components/hat/dataDefinitions/form.js:175
+#: src/components/otherRo/dataDefinitions/form.js:87
+#: src/components/otherRo/dataDefinitions/form.js:175
 msgid "Remarks (secretariat)"
 msgstr ""
 
@@ -1833,6 +1891,8 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:89
 #: src/components/letter/dataDefinitions/labels.js:97
 #: src/components/letter/dataDefinitions/labels.js:114
+#: src/components/otherRo/dataDefinitions/labels.js:11
+#: src/components/otherRo/dataDefinitions/labels.js:20
 #: src/components/raf/dataDefinitions/labels.js:7
 #: src/components/raf/dataDefinitions/labels.js:33
 msgid "Remarks (Secretariat)"
@@ -1879,6 +1939,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:55
 #: src/components/art7/dataDefinitions/form.js:88
 #: src/components/hat/dataDefinitions/form.js:36
+#: src/components/otherRo/dataDefinitions/form.js:36
 #: src/components/raf/dataDefinitions/form.js:36
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
@@ -1936,6 +1997,8 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
+#: src/components/otherRo/FormTemplate.vue:10
+#: src/components/otherRo/FormTemplate.vue:114
 #: src/components/raf/FormTemplate.vue:10
 msgid "selected rows"
 msgstr ""
@@ -2001,6 +2064,7 @@ msgstr ""
 #: src/components/hat/TabsManager.vue:82
 #: src/components/letter/TabsManager.vue:62
 #: src/components/letter/dataDefinitions/labels.js:122
+#: src/components/otherRo/TabsManager.vue:82
 #: src/components/raf/TabsManager.vue:95
 msgid "Submit"
 msgstr ""
@@ -2025,6 +2089,8 @@ msgstr ""
 #: src/components/hat/dataDefinitions/form.js:65
 #: src/components/hat/dataDefinitions/form.js:155
 #: src/components/letter/dataDefinitions/labels.js:104
+#: src/components/otherRo/dataDefinitions/form.js:65
+#: src/components/otherRo/dataDefinitions/form.js:155
 msgid "Substance"
 msgstr ""
 
@@ -2043,6 +2109,9 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:33
 #: src/components/letter/dataDefinitions/labels.js:83
 #: src/components/letter/dataDefinitions/labels.js:93
+#: src/components/otherRo/FormTemplate.vue:7
+#: src/components/otherRo/dataDefinitions/labels.js:7
+#: src/components/otherRo/dataDefinitions/labels.js:23
 #: src/components/common/form-components/Add.vue:24
 #: src/components/exemption/form-components/Add.vue:24
 #: src/components/raf/form-components/Add.vue:24
@@ -2271,6 +2340,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:108
 #: src/components/letter/TabsManager.vue:80
+#: src/components/otherRo/TabsManager.vue:108
 #: src/components/raf/TabsManager.vue:86
 msgid "Versions"
 msgstr ""
@@ -2395,6 +2465,7 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:98
 #: src/components/hat/TabsManager.vue:126
 #: src/components/letter/TabsManager.vue:97
+#: src/components/otherRo/TabsManager.vue:126
 #: src/components/raf/TabsManager.vue:130
 msgid "Submission versions"
 msgstr ""
@@ -2405,6 +2476,8 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:14
 #: src/components/hat/FormTemplate.vue:14
 #: src/components/hat/FormTemplate.vue:118
+#: src/components/otherRo/FormTemplate.vue:14
+#: src/components/otherRo/FormTemplate.vue:118
 #: src/components/raf/FormTemplate.vue:14
 #: src/components/raf/FormTemplate.vue:105
 msgid "Filter"
