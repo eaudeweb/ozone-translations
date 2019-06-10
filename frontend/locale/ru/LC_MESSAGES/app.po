@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-10 13:14+0000\n"
+"POT-Creation-Date: 2019-06-10 15:44+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -841,7 +841,7 @@ msgstr ""
 msgid "Emissions"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:167
+#: src/store/actions.js:168
 msgid "Error"
 msgstr ""
 
@@ -1539,7 +1539,7 @@ msgstr "фиктивный текст"
 msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
 msgstr "фиктивный текст"
 
-#: src/components/raf/services/tableRowConstructorService.js:137
+#: src/components/raf/services/tableRowConstructorService.js:136
 #, fuzzy
 msgid "Please fill-in column On hand end of year (13)"
 msgstr "фиктивный текст"
@@ -2001,7 +2001,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:162
+#: src/store/actions.js:163
 msgid "Saved"
 msgstr ""
 
@@ -2071,7 +2071,7 @@ msgstr "фиктивный текст"
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:313
+#: src/store/actions.js:314
 #, fuzzy
 msgid "Submission deleted successfully."
 msgstr "фиктивный текст"
@@ -2107,7 +2107,7 @@ msgstr ""
 msgid "Submission status"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:281
+#: src/store/actions.js:282
 #, fuzzy
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
@@ -2360,7 +2360,7 @@ msgstr "фиктивный текст"
 msgid "Unable to add the following substances because they already exist"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:320
+#: src/store/actions.js:321
 #, fuzzy
 msgid "Unable to delete submission."
 msgstr "фиктивный текст"
@@ -2369,7 +2369,7 @@ msgstr "фиктивный текст"
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:287
+#: src/store/actions.js:288
 #, fuzzy
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
