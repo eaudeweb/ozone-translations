@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-11 11:29+0300\n"
+"POT-Creation-Date: 2019-06-11 11:34+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -588,11 +588,11 @@ msgstr ""
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
-#: ozone/core/management/commands/import_procagents.py:24
+#: ozone/core/management/commands/import_procagents.py:32
 msgid "Import Process Agents - uses, reports & related tables from Excel file"
 msgstr ""
 
-#: ozone/core/management/commands/import_procagents.py:147
+#: ozone/core/management/commands/import_procagents.py:391
 msgid ""
 "Submission for this party and period not found in ProcAgentUsesDateReported"
 msgstr ""
