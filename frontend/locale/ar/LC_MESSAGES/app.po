@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-10 15:44+0000\n"
+"POT-Creation-Date: 2019-06-11 08:30+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -324,7 +324,7 @@ msgstr ""
 msgid "at"
 msgstr ""
 
-#: src/views/Reports.vue:40
+#: src/views/Reports.vue:39
 msgid "At least one party is required"
 msgstr ""
 
@@ -988,7 +988,7 @@ msgstr ""
 msgid "Formula"
 msgstr ""
 
-#: src/views/Reports.vue:7 src/views/Reports.vue:56
+#: src/views/Reports.vue:7 src/views/Reports.vue:55
 msgid "Generate report"
 msgstr ""
 
@@ -1423,7 +1423,7 @@ msgstr ""
 #: src/views/Dashboard.vue:425 src/views/Dashboard.vue:440
 #: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
-#: src/views/Dashboard.vue:191 src/views/Reports.vue:42
+#: src/views/Dashboard.vue:191 src/views/Reports.vue:41
 msgid "Party"
 msgstr ""
 
@@ -2424,7 +2424,7 @@ msgstr ""
 #: src/components/raf/form-components/Add.vue:14
 #: src/components/raf/form-components/Add.vue:26 src/views/Dashboard.vue:19
 #: src/views/Dashboard.vue:29 src/views/Dashboard.vue:41
-#: src/views/Reports.vue:20 src/views/Reports.vue:31 src/views/Reports.vue:44
+#: src/views/Reports.vue:20 src/views/Reports.vue:31 src/views/Reports.vue:43
 msgid "Select option"
 msgstr ""
 
