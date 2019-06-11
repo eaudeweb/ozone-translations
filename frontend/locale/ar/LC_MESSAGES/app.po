@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-11 08:30+0000\n"
+"POT-Creation-Date: 2019-06-11 14:39+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -81,17 +81,14 @@ msgstr ""
 msgid "Add row"
 msgstr ""
 
-#: src/components/exemption/form-components/Add.vue:4
-#: src/components/raf/form-components/Add.vue:4
-msgid "Add ssfasfsaubstances"
-msgstr ""
-
 #: src/components/common/form-components/AddBlend.vue:99
 msgid "Add substance"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:4
 #: src/components/common/form-components/AsideTogglerModified.vue:3
+#: src/components/exemption/form-components/Add.vue:4
+#: src/components/raf/form-components/Add.vue:4
 msgid "Add substances"
 msgstr ""
 
