@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-10 20:38+0300\n"
+"POT-Creation-Date: 2019-06-11 11:29+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -77,7 +77,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_labuses.py:86
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:47
 #: ozone/core/api/export_pdf/art7/section_production.py:120
-#: ozone/core/api/export_pdf/reports/prodcons.py:176
+#: ozone/core/api/export_pdf/reports/prodcons.py:72
 msgid "Annex/Group"
 msgstr ""
 
@@ -319,7 +319,7 @@ msgid "Printed at"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_labuses.py:81
-#: ozone/core/api/export_pdf/util.py:261
+#: ozone/core/api/export_pdf/util.py:250
 msgid "Laboratory and analytical uses"
 msgstr ""
 
@@ -400,28 +400,8 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:23
+#: ozone/core/api/export_pdf/export.py:24
 msgid "Page"
-msgstr ""
-
-#: ozone/core/api/export_pdf/export.py:32
-msgid ""
-"* Population in thousands <br/>\n"
-"    ** Consumption and Production numbers are rounded to a uniform number of "
-"decimal places. <br/><br/>\n"
-"    - = Data Not Reported and Party has no Obligation to have Reported that "
-"data at this time. <br/>\n"
-"    N.R. = Data Not Reported but Party is required to have reported | \n"
-"    DIV0 = Division was not evaluated due to a zero or negative base.\n"
-"    AFR = Africa | \n"
-"    ASIA = Asia | \n"
-"    EEUR = Eastern Europe | \n"
-"    LAC = Latin America & the Caribbean | \n"
-"    WEUR = Western Europe & others\n"
-"    A5 = Article 5 Party | \n"
-"    CEIT = Country with Economy in Transition | \n"
-"    EU = Member of the European Union | \n"
-"    Non-A5 = Non-Article 5 Party"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/hat_helper.py:12
@@ -479,124 +459,132 @@ msgid ""
 "conditioners"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_imports.py:73
+#: ozone/core/api/export_pdf/hat/section_imports.py:76
 msgid "1.1 Substances"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_imports.py:76
+#: ozone/core/api/export_pdf/hat/section_imports.py:79
 msgid "1.2 Blends"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_imports.py:79
+#: ozone/core/api/export_pdf/hat/section_imports.py:82
 msgid "1.3 Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_imports.py:83
+#: ozone/core/api/export_pdf/hat/section_imports.py:85
 msgid "Consumption (imports)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_imports.py:85
-#: ozone/core/api/export_pdf/hat/section_production.py:55
-msgid ""
-"Annex F substances for exempted subsectors in metric tonnes (not ODP or CO2-"
-"equivalent tonnes)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/hat/section_production.py:46
+#: ozone/core/api/export_pdf/hat/section_production.py:48
 msgid "2.1 Substances"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_production.py:49
+#: ozone/core/api/export_pdf/hat/section_production.py:51
 msgid "2.2 Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/hat/section_production.py:53
-#: ozone/core/api/export_pdf/reports/prodcons.py:177
+#: ozone/core/api/export_pdf/hat/section_production.py:54
+#: ozone/core/api/export_pdf/reports/prodcons.py:73
 msgid "PRODUCTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:47
+#: ozone/core/api/export_pdf/reports/prodcons.py:45
 #, python-brace-format
 msgid ""
-"Production and Consumption for {period1} - Comparison with {period2} Year"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:58
-#, python-brace-format
-msgid ""
-"Date Reported: {date_reported}\n"
+"{party_name} - Date Reported: {date_reported}\n"
 "                    {party_type} {party_region} - Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:84
-#, python-brace-format
-msgid ""
-"Production and Consumption of ODSs - Comparison with {compared_period} Year "
-"(ODP Tonnes)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:123
-#, python-brace-format
-msgid ""
-"Production and Consumption of HFCs - Comparison with {compared_period} Year "
-"(CO2-equivalent tonnes)"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:181
+#: ozone/core/api/export_pdf/reports/prodcons.py:77
 msgid "CONSUMPTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:191
-#: ozone/core/api/export_pdf/reports/prodcons.py:195
+#: ozone/core/api/export_pdf/reports/prodcons.py:86
+#: ozone/core/api/export_pdf/reports/prodcons.py:90
+msgid "Base"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:87
+#: ozone/core/api/export_pdf/reports/prodcons.py:91
 msgid "% Chng"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:192
-#: ozone/core/api/export_pdf/reports/prodcons.py:196
+#: ozone/core/api/export_pdf/reports/prodcons.py:88
+#: ozone/core/api/export_pdf/reports/prodcons.py:92
 msgid "Limit"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:197
+#: ozone/core/api/export_pdf/reports/prodcons.py:93
 msgid "Per Cap. Cons."
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:262
+#: ozone/core/api/export_pdf/reports/prodcons.py:105
+#, python-brace-format
+msgid "Production and Consumption of ODSs for {period} (ODP tonnes)"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:116
+#, python-brace-format
+msgid "Production and Consumption of HFCs for {period} (CO2-equivalent tonnes)"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:136
+msgid ""
+"* Population in thousands <br/>\n"
+"        ** Consumption and Production numbers are rounded to a uniform "
+"number of decimal places. <br/><br/>\n"
+"        - = Data Not Reported and Party has no Obligation to have Reported "
+"that data at this time. <br/>\n"
+"        N.R. = Data Not Reported but Party is required to have reported | \n"
+"        DIV0 = Division was not evaluated due to a zero or negative base.\n"
+"        AFR = Africa | \n"
+"        ASIA = Asia | \n"
+"        EEUR = Eastern Europe | \n"
+"        LAC = Latin America & the Caribbean | \n"
+"        WEUR = Western Europe & others\n"
+"        A5 = Article 5 Party | \n"
+"        CEIT = Country with Economy in Transition | \n"
+"        EU = Member of the European Union | \n"
+"        Non-A5 = Non-Article 5 Party"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:251
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:263
+#: ozone/core/api/export_pdf/util.py:252
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:264
+#: ozone/core/api/export_pdf/util.py:253
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:265
+#: ozone/core/api/export_pdf/util.py:254
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:266
+#: ozone/core/api/export_pdf/util.py:255
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:340 ozone/core/api/export_pdf/util.py:343
+#: ozone/core/api/export_pdf/util.py:329 ozone/core/api/export_pdf/util.py:332
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:340
+#: ozone/core/api/export_pdf/util.py:329
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:343
+#: ozone/core/api/export_pdf/util.py:332
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:668
+#: ozone/core/api/views.py:672
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1481
+#: ozone/core/api/views.py:1482
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -646,11 +634,8 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/report.py:31
-msgid ""
-"To compare the production and consumption of one year with the baseline "
-"period, select only one year and one or more parties. You can also select "
-"one party and two reporting periods for comparing to each other."
+#: ozone/core/models/report.py:32 ozone/core/models/report.py:44
+msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
 #: ozone/core/models/reporting.py:67 ozone/core/models/reporting.py:1592
