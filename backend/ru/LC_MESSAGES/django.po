@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-12 17:56+0300\n"
+"POT-Creation-Date: 2019-06-12 18:52+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -758,13 +758,13 @@ msgstr ""
 msgid "Alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:389
+#: ozone/core/models/substance.py:391
 #, fuzzy
 #| msgid "Substance rows derived from blends cannot be changed!"
 msgid "Predefined blends composition cannot be changed."
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/substance.py:428 ozone/core/models/substance.py:431
+#: ozone/core/models/substance.py:430 ozone/core/models/substance.py:433
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 
