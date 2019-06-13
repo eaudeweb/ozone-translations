@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-13 13:45+0300\n"
+"POT-Creation-Date: 2019-06-13 15:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -597,35 +597,35 @@ msgid ""
 "Submission for this party and period not found in ProcAgentUsesDateReported"
 msgstr ""
 
-#: ozone/core/models/data.py:65 ozone/core/models/data.py:68
+#: ozone/core/models/data.py:64 ozone/core/models/data.py:67
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:76 ozone/core/models/data.py:79
+#: ozone/core/models/data.py:75 ozone/core/models/data.py:78
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:91
+#: ozone/core/models/data.py:90
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:97
+#: ozone/core/models/data.py:96
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:159
+#: ozone/core/models/data.py:158
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:858
+#: ozone/core/models/data.py:861
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:875
+#: ozone/core/models/data.py:878
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
-#: ozone/core/models/data.py:1100
+#: ozone/core/models/data.py:1103
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
@@ -736,21 +736,21 @@ msgstr ""
 msgid "Substance or component name must be set."
 msgstr ""
 
-#: ozone/core/models/transfer.py:163
+#: ozone/core/models/transfer.py:175
 msgid ""
 "Destination party submission should belong to the transfer's destination "
 "party."
 msgstr ""
 
-#: ozone/core/models/transfer.py:172
+#: ozone/core/models/transfer.py:184
 msgid "Destination party submission should be a Transfer submission."
 msgstr ""
 
-#: ozone/core/models/transfer.py:183
+#: ozone/core/models/transfer.py:195
 msgid "Source party submission should belong to the transfer's source party"
 msgstr ""
 
-#: ozone/core/models/transfer.py:192
+#: ozone/core/models/transfer.py:204
 msgid "Source party submission should be a Transfer submission."
 msgstr ""
 
