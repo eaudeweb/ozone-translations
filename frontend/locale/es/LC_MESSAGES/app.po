@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 10:44+0000\n"
+"POT-Creation-Date: 2019-06-13 15:05+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -394,7 +394,7 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:443
 #: src/components/common/form-components/DefaultAside.vue:12
 #: src/components/hat/FormTemplate.vue:111
-#: src/views/lookupTables/Blends.vue:204
+#: src/views/lookupTables/Blends.vue:214
 msgid "Blends"
 msgstr ""
 
@@ -522,8 +522,12 @@ msgstr ""
 msgid "Comments (Secretariat)"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:136 src/views/lookupTables/Blends.vue:19
+#: src/views/lookupTables/Blends.vue:144 src/views/lookupTables/Blends.vue:19
 msgid "Components"
+msgstr ""
+
+#: src/views/lookupTables/Blends.vue:142
+msgid "Composition"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:52
@@ -548,7 +552,7 @@ msgstr ""
 msgid "Contained in polyols"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:163
+#: src/views/lookupTables/ControlledSubstances.vue:151
 msgid "Controlled substances"
 msgstr ""
 
@@ -981,7 +985,7 @@ msgstr ""
 msgid "For feedstock use in your country"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:105
+#: src/views/lookupTables/ControlledSubstances.vue:111
 #: src/views/lookupTables/ControlledSubstances.vue:17
 msgid "Formula"
 msgstr ""
@@ -1008,6 +1012,11 @@ msgstr ""
 #: src/views/lookupTables/ControlledSubstances.vue:87
 #: src/views/lookupTables/ControlledSubstances.vue:7
 msgid "Group"
+msgstr ""
+
+#: src/views/lookupTables/Blends.vue:140
+#: src/views/lookupTables/ControlledSubstances.vue:105
+msgid "GWP"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:58
@@ -1200,14 +1209,6 @@ msgstr ""
 msgid "Mail sent"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:123
-msgid "MaxODP"
-msgstr ""
-
-#: src/views/lookupTables/ControlledSubstances.vue:117
-msgid "MinODP"
-msgstr ""
-
 #: src/views/lookupTables/Parties.vue:129
 msgid "Montreal Amendment"
 msgstr ""
@@ -1216,7 +1217,7 @@ msgstr ""
 msgid "Montreal Protocol"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:134 src/views/lookupTables/Blends.vue:143
+#: src/views/lookupTables/Blends.vue:134 src/views/lookupTables/Blends.vue:153
 #: src/views/lookupTables/ControlledSubstances.vue:93
 #: src/views/lookupTables/Parties.vue:96
 #: src/views/lookupTables/ControlledSubstances.vue:12
@@ -1322,16 +1323,13 @@ msgstr ""
 msgid "Not valid"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:111
-msgid "Number of Isomers"
-msgstr ""
-
 #: src/views/Dashboard.vue:393 src/views/Dashboard.vue:436
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
 #: src/views/Dashboard.vue:184
 msgid "Obligation"
 msgstr ""
 
+#: src/views/lookupTables/Blends.vue:138
 #: src/views/lookupTables/ControlledSubstances.vue:99
 msgid "ODP"
 msgstr ""
@@ -1375,8 +1373,8 @@ msgstr ""
 msgid "Other"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:138
-msgid "Other Names"
+#: src/views/lookupTables/Blends.vue:146
+msgid "Other names"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:28
@@ -1443,7 +1441,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:99
 #: src/components/raf/dataDefinitions/labels.js:9
 #: src/components/raf/dataDefinitions/labels.js:35
-#: src/views/lookupTables/Blends.vue:146
+#: src/views/lookupTables/Blends.vue:156
 msgid "Percentage"
 msgstr ""
 
@@ -2219,6 +2217,10 @@ msgstr ""
 msgid "Total Quantity Imported for All Uses (recovered and reclaimed)"
 msgstr ""
 
+#: src/views/lookupTables/Blends.vue:148
+msgid "Trade names"
+msgstr ""
+
 #: src/components/otherRo/dataDefinitions/form.js:77
 #: src/components/otherRo/dataDefinitions/labels.js:8
 msgid "Transfer type"
@@ -2236,6 +2238,7 @@ msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:198
 #: src/components/common/mixins/FormTemplateMixin.vue:205
+#: src/views/lookupTables/Blends.vue:136
 msgid "Type"
 msgstr ""
 
