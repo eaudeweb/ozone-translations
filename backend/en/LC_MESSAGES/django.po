@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-13 16:14+0300\n"
+"POT-Creation-Date: 2019-06-13 18:06+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -42,21 +42,21 @@ msgstr ""
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:312
+#: ozone/core/admin.py:316
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:315
+#: ozone/core/admin.py:319
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:317
+#: ozone/core/admin.py:321
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:323
+#: ozone/core/admin.py:327
 msgid "Login"
 msgstr ""
 
@@ -729,11 +729,11 @@ msgstr ""
 msgid "Alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:391
+#: ozone/core/models/substance.py:396
 msgid "Predefined blends composition cannot be changed."
 msgstr ""
 
-#: ozone/core/models/substance.py:430 ozone/core/models/substance.py:433
+#: ozone/core/models/substance.py:435 ozone/core/models/substance.py:438
 msgid "Substance or component name must be set."
 msgstr ""
 
@@ -800,23 +800,23 @@ msgstr ""
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:457 ozone/core/serializers.py:462
+#: ozone/core/serializers.py:458 ozone/core/serializers.py:463
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1043
+#: ozone/core/serializers.py:1044
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1054
+#: ozone/core/serializers.py:1055
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1283
+#: ozone/core/serializers.py:1284
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1301
+#: ozone/core/serializers.py:1302
 msgid "Specified file id not found for this submission"
 msgstr ""
 
