@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 15:05+0000\n"
+"POT-Creation-Date: 2019-06-14 15:47+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -263,7 +263,7 @@ msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:47
 #: src/components/hat/dataDefinitions/form.js:139
-#: src/components/otherRo/dataDefinitions/form.js:42
+#: src/components/otherRo/dataDefinitions/form.js:39
 #: src/components/raf/dataDefinitions/form.js:49
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
@@ -381,7 +381,7 @@ msgstr ""
 msgid "Baseline"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:73
+#: src/components/otherRo/dataDefinitions/form.js:76
 #: src/components/otherRo/dataDefinitions/labels.js:15
 msgid "Basic domestic need"
 msgstr ""
@@ -535,6 +535,7 @@ msgstr "фиктивный текст"
 #: src/components/common/dataDefinitions/labels.js:49
 #: src/components/hat/dataDefinitions/labels.js:16
 #: src/components/hat/dataDefinitions/labels.js:27
+#: src/components/otherRo/dataDefinitions/labels.js:16
 #: src/components/raf/dataDefinitions/labels.js:15
 #: src/components/raf/dataDefinitions/labels.js:41
 msgid "Comments (Secretariat)"
@@ -739,7 +740,7 @@ msgstr "фиктивный текст"
 msgid "Destination country/region/territory"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:61
+#: src/components/otherRo/dataDefinitions/form.js:64
 #: src/components/otherRo/dataDefinitions/labels.js:10
 #, fuzzy
 msgid "Destination party"
@@ -1142,7 +1143,7 @@ msgstr "фиктивный текст"
 
 #: src/components/hat/dataDefinitions/form.js:47
 #: src/components/hat/dataDefinitions/form.js:139
-#: src/components/otherRo/dataDefinitions/form.js:42
+#: src/components/otherRo/dataDefinitions/form.js:39
 #: src/components/raf/dataDefinitions/form.js:49
 msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
 msgstr "фиктивный текст"
@@ -1940,7 +1941,7 @@ msgstr "фиктивный текст"
 msgid "Reporting officer"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:69
+#: src/components/otherRo/dataDefinitions/form.js:72
 #: src/components/otherRo/dataDefinitions/labels.js:14
 #: src/views/reports/Consumption.vue:88
 #, fuzzy
@@ -1976,7 +1977,7 @@ msgstr "фиктивный текст."
 #: src/components/art7/dataDefinitions/form.js:55
 #: src/components/art7/dataDefinitions/form.js:88
 #: src/components/hat/dataDefinitions/form.js:36
-#: src/components/otherRo/dataDefinitions/form.js:33
+#: src/components/otherRo/dataDefinitions/form.js:30
 #: src/components/raf/dataDefinitions/form.js:36
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr "фиктивный текст"
@@ -2049,7 +2050,7 @@ msgstr "фиктивный текст"
 msgid "Sort"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:57
+#: src/components/otherRo/dataDefinitions/form.js:60
 #: src/components/otherRo/dataDefinitions/labels.js:9
 #, fuzzy
 msgid "Source party"
@@ -2141,7 +2142,7 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/form.js:65
 #: src/components/hat/dataDefinitions/form.js:155
 #: src/components/letter/dataDefinitions/labels.js:104
-#: src/components/otherRo/dataDefinitions/form.js:52
+#: src/components/otherRo/dataDefinitions/form.js:55
 msgid "Substance"
 msgstr "фиктивный текст"
 
@@ -2306,18 +2307,18 @@ msgstr "фиктивный текст"
 msgid "Trade names"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:77
+#: src/components/otherRo/dataDefinitions/form.js:80
 #: src/components/otherRo/dataDefinitions/labels.js:8
 msgid "Transfer type"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:65
+#: src/components/otherRo/dataDefinitions/form.js:68
 #: src/components/otherRo/dataDefinitions/labels.js:13
 msgid "Transferred amount"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:41
-#: src/components/otherRo/dataDefinitions/form.js:42
+#: src/components/otherRo/dataDefinitions/form.js:38
+#: src/components/otherRo/dataDefinitions/form.js:39
 msgid "Transfers"
 msgstr ""
 
