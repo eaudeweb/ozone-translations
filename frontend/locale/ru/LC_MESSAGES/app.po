@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-18 10:34+0000\n"
+"POT-Creation-Date: 2019-06-18 12:15+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -541,10 +541,6 @@ msgstr "фиктивный текст"
 msgid "Comments (Secretariat)"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:144 src/views/lookupTables/Blends.vue:19
-msgid "Components"
-msgstr "фиктивный текст"
-
 #: src/views/lookupTables/Blends.vue:142
 #, fuzzy
 msgid "Composition"
@@ -573,7 +569,7 @@ msgstr "фиктивный текст"
 msgid "Contained in polyols"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:151
+#: src/views/lookupTables/ControlledSubstances.vue:157
 msgid "Controlled substances"
 msgstr "фиктивный текст"
 
@@ -1371,6 +1367,10 @@ msgstr ""
 #, fuzzy
 msgid "Not valid"
 msgstr "фиктивный текст"
+
+#: src/views/lookupTables/ControlledSubstances.vue:117
+msgid "Number of isomers"
+msgstr ""
 
 #: src/views/Dashboard.vue:393 src/views/Dashboard.vue:436
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
@@ -2612,6 +2612,10 @@ msgstr ""
 #: src/views/Dashboard.vue:149 src/views/Dashboard.vue:258
 #: src/views/reports/Consumption.vue:65
 msgid "Per page"
+msgstr "фиктивный текст"
+
+#: src/views/lookupTables/Blends.vue:19
+msgid "Components"
 msgstr "фиктивный текст"
 
 #: src/views/pages/Page404.vue:26

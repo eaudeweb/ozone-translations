@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-18 10:34+0000\n"
+"POT-Creation-Date: 2019-06-18 12:15+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -522,10 +522,6 @@ msgstr ""
 msgid "Comments (Secretariat)"
 msgstr ""
 
-#: src/views/lookupTables/Blends.vue:144 src/views/lookupTables/Blends.vue:19
-msgid "Components"
-msgstr ""
-
 #: src/views/lookupTables/Blends.vue:142
 msgid "Composition"
 msgstr ""
@@ -552,7 +548,7 @@ msgstr ""
 msgid "Contained in polyols"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:151
+#: src/views/lookupTables/ControlledSubstances.vue:157
 msgid "Controlled substances"
 msgstr ""
 
@@ -1325,6 +1321,10 @@ msgstr ""
 
 #: src/components/common/SubmissionStatus.vue:19
 msgid "Not valid"
+msgstr ""
+
+#: src/views/lookupTables/ControlledSubstances.vue:117
+msgid "Number of isomers"
 msgstr ""
 
 #: src/views/Dashboard.vue:393 src/views/Dashboard.vue:436
@@ -2507,6 +2507,10 @@ msgstr ""
 #: src/views/Dashboard.vue:149 src/views/Dashboard.vue:258
 #: src/views/reports/Consumption.vue:65
 msgid "Per page"
+msgstr ""
+
+#: src/views/lookupTables/Blends.vue:19
+msgid "Components"
 msgstr ""
 
 #: src/views/pages/Page404.vue:26
