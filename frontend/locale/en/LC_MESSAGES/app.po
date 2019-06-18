@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-18 14:09+0000\n"
+"POT-Creation-Date: 2019-06-18 15:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -478,7 +478,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:17
-#: src/components/common/OzoneMail.vue:56
+#: src/components/common/OzoneMail.vue:67
 #: src/components/exemption/FormTemplate.vue:164
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -762,6 +762,7 @@ msgstr ""
 msgid "Download"
 msgstr ""
 
+#: src/components/common/OzoneMail.vue:2
 #: src/components/common/dataDefinitions/labels.js:39
 #: src/components/letter/dataDefinitions/labels.js:133
 msgid "E-mail"
@@ -1209,7 +1210,7 @@ msgstr ""
 msgid "London Amendment"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:113
+#: src/components/common/OzoneMail.vue:138
 msgid "Mail sent"
 msgstr ""
 
@@ -1407,10 +1408,6 @@ msgstr ""
 #: src/components/raf/dataDefinitions/labels.js:18
 #: src/components/raf/dataDefinitions/labels.js:44
 msgid "Ozone depleting substances"
-msgstr ""
-
-#: src/components/common/OzoneMail.vue:2
-msgid "Ozone Mail"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:45
@@ -2400,16 +2397,18 @@ msgstr ""
 msgid "Send a message"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:20
+#: src/components/common/OzoneMail.vue:17
+#: src/components/common/OzoneMail.vue:31
 msgid "Press enter to add an email"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:21
-msgid "CC"
+#: src/components/common/OzoneMail.vue:18
+#: src/components/common/OzoneMail.vue:32
+msgid "Type the recipient address and press enter"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:44
-msgid "Conversation history"
+#: src/components/common/OzoneMail.vue:55
+msgid "Correspondence"
 msgstr ""
 
 #: src/components/common/Files.vue:27
