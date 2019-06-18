@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-18 16:41+0000\n"
+"POT-Creation-Date: 2019-06-18 17:00+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -675,7 +675,7 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:9
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
-#: src/components/otherRo/FormTemplate.vue:10
+#: src/components/otherRo/FormTemplate.vue:7
 #: src/components/raf/FormTemplate.vue:9
 #: src/components/art7/FormTemplate.vue:112
 #: src/components/art7/FormTemplate.vue:323
@@ -1981,7 +1981,7 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:9
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
-#: src/components/otherRo/FormTemplate.vue:10
+#: src/components/otherRo/FormTemplate.vue:7
 #: src/components/raf/FormTemplate.vue:9
 msgid "selected rows"
 msgstr ""
@@ -2011,7 +2011,7 @@ msgstr ""
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:320
+#: src/store/actions.js:331
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -2042,7 +2042,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:288
+#: src/store/actions.js:299
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2096,7 +2096,6 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:33
 #: src/components/letter/dataDefinitions/labels.js:83
 #: src/components/letter/dataDefinitions/labels.js:93
-#: src/components/otherRo/FormTemplate.vue:7
 #: src/components/otherRo/dataDefinitions/labels.js:7
 #: src/components/common/form-components/Add.vue:24
 #: src/components/exemption/form-components/Add.vue:24
@@ -2287,7 +2286,7 @@ msgstr ""
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:327
+#: src/store/actions.js:338
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2295,7 +2294,7 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:294
+#: src/store/actions.js:305
 msgid "Unable to update submission status."
 msgstr ""
 
@@ -2486,7 +2485,7 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:13
 #: src/components/hat/FormTemplate.vue:14
 #: src/components/hat/FormTemplate.vue:118
-#: src/components/otherRo/FormTemplate.vue:14
+#: src/components/otherRo/FormTemplate.vue:11
 #: src/components/raf/FormTemplate.vue:13
 #: src/components/raf/FormTemplate.vue:103
 msgid "Filter"
