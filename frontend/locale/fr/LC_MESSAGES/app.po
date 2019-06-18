@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-18 16:34+0000\n"
+"POT-Creation-Date: 2019-06-18 16:41+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -304,7 +304,7 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:40
+#: src/components/common/SubmissionStatus.vue:7
 #: src/components/exemption/dataDefinitions/form.js:51
 #: src/components/exemption/dataDefinitions/form.js:52
 #: src/components/exemption/dataDefinitions/form.js:68
@@ -1324,7 +1324,7 @@ msgstr ""
 msgid "not added because two entries already exist."
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:47
+#: src/components/common/SubmissionStatus.vue:12
 #: src/components/exemption/dataDefinitions/form.js:69
 msgid "Not approved"
 msgstr ""
