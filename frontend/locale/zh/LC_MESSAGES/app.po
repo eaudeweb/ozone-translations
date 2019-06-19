@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-18 17:00+0000\n"
+"POT-Creation-Date: 2019-06-19 12:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -1318,7 +1318,7 @@ msgstr ""
 msgid "not added because two entries already exist."
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:12
+#: src/components/common/SubmissionStatus.vue:11
 #: src/components/exemption/dataDefinitions/form.js:69
 msgid "Not approved"
 msgstr ""
