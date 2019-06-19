@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-19 14:37+0000\n"
+"POT-Creation-Date: 2019-06-19 15:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -86,7 +86,7 @@ msgid "Add substance"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:4
-#: src/components/common/form-components/AsideTogglerModified.vue:3
+#: src/components/common/form-components/AsideTogglerModified.vue:4
 #: src/components/exemption/form-components/Add.vue:4
 #: src/components/raf/form-components/Add.vue:4
 msgid "Add substances"
@@ -122,8 +122,8 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:696
-#: src/components/exemption/FormTemplate.vue:122
+#: src/components/art7/FormTemplate.vue:697
+#: src/components/exemption/FormTemplate.vue:123
 #: src/components/raf/FormTemplate.vue:218
 msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 msgstr ""
@@ -380,9 +380,9 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
-#: src/components/common/mixins/FormTemplateMixin.vue:175
-#: src/components/common/mixins/FormTemplateMixin.vue:182
-#: src/components/common/mixins/FormTemplateMixin.vue:189
+#: src/components/common/mixins/FormTemplateMixin.vue:177
+#: src/components/common/mixins/FormTemplateMixin.vue:184
+#: src/components/common/mixins/FormTemplateMixin.vue:191
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
@@ -446,8 +446,8 @@ msgstr ""
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:706
-#: src/components/exemption/FormTemplate.vue:132
+#: src/components/art7/FormTemplate.vue:707
+#: src/components/exemption/FormTemplate.vue:133
 #: src/components/raf/FormTemplate.vue:228
 msgid "Change substance"
 msgstr ""
@@ -472,13 +472,13 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:798
+#: src/components/art7/FormTemplate.vue:799
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:17
 #: src/components/common/OzoneMail.vue:67
-#: src/components/exemption/FormTemplate.vue:164
+#: src/components/exemption/FormTemplate.vue:165
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
@@ -784,13 +784,13 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:689
+#: src/components/art7/FormTemplate.vue:690
 #: src/components/raf/FormTemplate.vue:211
 msgid "Edit %{name} blend"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:685
-#: src/components/exemption/FormTemplate.vue:115
+#: src/components/art7/FormTemplate.vue:686
+#: src/components/exemption/FormTemplate.vue:116
 #: src/components/raf/FormTemplate.vue:207
 msgid "Edit %{name} substance"
 msgstr ""
@@ -1513,14 +1513,14 @@ msgstr ""
 msgid "Please fill-in one of columns New imports (4), Recovered and reclaimed imports (5), New exports (6) or Recovered and reclaimed exports (7)"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:147
-#: src/components/common/mixins/FormTemplateMixin.vue:148
+#: src/components/common/mixins/FormTemplateMixin.vue:149
+#: src/components/common/mixins/FormTemplateMixin.vue:150
 msgid "Please use the form on the right sidebar to add blends"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:1019
-#: src/components/common/mixins/FormTemplateMixin.vue:106
-#: src/components/common/mixins/FormTemplateMixin.vue:107
+#: src/components/art7/FormTemplate.vue:1020
+#: src/components/common/mixins/FormTemplateMixin.vue:108
+#: src/components/common/mixins/FormTemplateMixin.vue:109
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
 
@@ -2126,16 +2126,16 @@ msgstr ""
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:701
-#: src/components/exemption/FormTemplate.vue:127
+#: src/components/art7/FormTemplate.vue:702
+#: src/components/exemption/FormTemplate.vue:128
 #: src/components/raf/FormTemplate.vue:223
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:104
-#: src/components/common/mixins/FormTemplateMixin.vue:145
-#: src/components/common/mixins/FormTemplateMixin.vue:105
-#: src/components/common/mixins/FormTemplateMixin.vue:146
+#: src/components/common/mixins/FormTemplateMixin.vue:106
+#: src/components/common/mixins/FormTemplateMixin.vue:147
+#: src/components/common/mixins/FormTemplateMixin.vue:107
+#: src/components/common/mixins/FormTemplateMixin.vue:148
 msgid "There are no records to show"
 msgstr ""
 
@@ -2245,8 +2245,8 @@ msgstr ""
 msgid "Transfers"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:198
-#: src/components/common/mixins/FormTemplateMixin.vue:205
+#: src/components/common/mixins/FormTemplateMixin.vue:200
+#: src/components/common/mixins/FormTemplateMixin.vue:207
 #: src/views/lookupTables/Blends.vue:136
 msgid "Type"
 msgstr ""
@@ -2323,6 +2323,7 @@ msgstr ""
 msgid "Valid"
 msgstr ""
 
+#: src/components/common/form-components/AsideTogglerModified.vue:7
 #: src/components/common/form-components/DefaultAside.vue:18
 msgid "Validation"
 msgstr ""
@@ -2419,7 +2420,7 @@ msgstr ""
 msgid "No files uploaded"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:742
+#: src/components/art7/FormTemplate.vue:743
 #: src/components/common/form-components/CloneField.vue:13
 #: src/components/raf/FormTemplate.vue:291
 msgid "Countries"
@@ -2489,8 +2490,8 @@ msgstr ""
 msgid "Add countries"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:716
-#: src/components/exemption/FormTemplate.vue:142
+#: src/components/art7/FormTemplate.vue:717
+#: src/components/exemption/FormTemplate.vue:143
 #: src/components/raf/FormTemplate.vue:238
 msgid "Select substance"
 msgstr ""
