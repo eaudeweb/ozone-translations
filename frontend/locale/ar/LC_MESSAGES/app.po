@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-19 12:35+0000\n"
+"POT-Creation-Date: 2019-06-19 12:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -535,6 +535,7 @@ msgid "Confirmed blanks"
 msgstr ""
 
 #: src/components/common/AggregationsTable.vue:39
+#: src/components/otherRo/FormTemplate.vue:109
 #: src/views/reports/Consumption.vue:142
 msgid "Consumption"
 msgstr ""
@@ -1577,6 +1578,7 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:36
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:136
+#: src/components/otherRo/FormTemplate.vue:108
 #: src/views/reports/Consumption.vue:139
 msgid "Production"
 msgstr ""
