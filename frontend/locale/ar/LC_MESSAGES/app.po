@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-20 15:01+0000\n"
+"POT-Creation-Date: 2019-06-20 15:08+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -144,6 +144,7 @@ msgstr ""
 msgid "Amount [Generated] (tonnes)"
 msgstr ""
 
+#: src/components/raf/FormTemplate.vue:243
 #: src/components/raf/dataDefinitions/form.js:81
 #: src/components/raf/dataDefinitions/form.js:133
 #: src/components/raf/dataDefinitions/labels.js:21
@@ -492,7 +493,7 @@ msgstr ""
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
-#: src/components/raf/FormTemplate.vue:338
+#: src/components/raf/FormTemplate.vue:340
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
 #: src/components/raf/TabsManager.vue:137
 msgid "Close"
@@ -593,6 +594,10 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:66
 #: src/components/letter/dataDefinitions/labels.js:67
 msgid "Critical use"
+msgstr ""
+
+#: src/components/raf/FormTemplate.vue:267
+msgid "Critical use categories"
 msgstr ""
 
 #: src/components/raf/FormTemplate.vue:99
@@ -2427,7 +2432,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:743
 #: src/components/common/form-components/CloneField.vue:13
-#: src/components/raf/FormTemplate.vue:312
+#: src/components/raf/FormTemplate.vue:314
 msgid "Countries"
 msgstr ""
 
