@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-19 15:42+0000\n"
+"POT-Creation-Date: 2019-06-20 11:10+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -47,8 +47,8 @@ msgstr "фиктивный текст"
 #: src/components/raf/dataDefinitions/form.js:116
 #: src/components/raf/dataDefinitions/form.js:168
 #: src/components/raf/dataDefinitions/labels.js:31
-#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:407
-#: src/views/Dashboard.vue:448
+#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:408
+#: src/views/Dashboard.vue:449
 msgid "Actions"
 msgstr "фиктивный текст"
 
@@ -591,8 +591,8 @@ msgid "Create submission"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:115
-#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:405
-#: src/views/Dashboard.vue:446
+#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:406
+#: src/views/Dashboard.vue:447
 #, fuzzy
 msgid "Created by"
 msgstr "фиктивный текст"
@@ -1218,7 +1218,7 @@ msgstr "фиктивный текст"
 msgid "Last changed by"
 msgstr ""
 
-#: src/views/Dashboard.vue:403 src/views/Dashboard.vue:444
+#: src/views/Dashboard.vue:404 src/views/Dashboard.vue:445
 msgid "Last modified"
 msgstr "фиктивный текст"
 
@@ -1379,7 +1379,7 @@ msgstr "фиктивный текст"
 msgid "Number of isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:393 src/views/Dashboard.vue:436
+#: src/views/Dashboard.vue:394 src/views/Dashboard.vue:437
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
 #: src/views/Dashboard.vue:184
 msgid "Obligation"
@@ -1404,7 +1404,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:592
+#: src/views/Dashboard.vue:593
 msgid "Online Reporting Tool"
 msgstr ""
 
@@ -1469,8 +1469,8 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:16
-#: src/views/Dashboard.vue:381 src/views/Dashboard.vue:397
-#: src/views/Dashboard.vue:425 src/views/Dashboard.vue:440
+#: src/views/Dashboard.vue:382 src/views/Dashboard.vue:398
+#: src/views/Dashboard.vue:426 src/views/Dashboard.vue:441
 #: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
 #: src/views/Dashboard.vue:191 src/views/Reports.vue:41
@@ -1500,7 +1500,7 @@ msgstr "фиктивный текст"
 msgid "Percentage"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:395 src/views/Dashboard.vue:438
+#: src/views/Dashboard.vue:396 src/views/Dashboard.vue:439
 #: src/views/Dashboard.vue:27 src/views/Reports.vue:29
 msgid "Period"
 msgstr "фиктивный текст"
@@ -2022,7 +2022,7 @@ msgid "Search"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:381 src/views/Dashboard.vue:425
+#: src/views/Dashboard.vue:382 src/views/Dashboard.vue:426
 #: src/views/UserProfile.vue:35
 msgid "Secretariat"
 msgstr "фиктивный текст"
@@ -2073,7 +2073,7 @@ msgstr "фиктивный текст"
 msgid "Start upload"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:401
+#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:402
 msgid "Status"
 msgstr "фиктивный текст"
 
@@ -2433,8 +2433,8 @@ msgid "Validation errors"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:112
-#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:399
-#: src/views/Dashboard.vue:442
+#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:400
+#: src/views/Dashboard.vue:443
 msgid "Version"
 msgstr "фиктивный текст"
 
@@ -2615,7 +2615,7 @@ msgstr ""
 msgid "To"
 msgstr ""
 
-#: src/views/Dashboard.vue:149 src/views/Dashboard.vue:258
+#: src/views/Dashboard.vue:149 src/views/Dashboard.vue:259
 #: src/views/reports/Consumption.vue:65
 msgid "Per page"
 msgstr "фиктивный текст"
