@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-20 15:08+0000\n"
+"POT-Creation-Date: 2019-06-20 18:23+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1044,6 +1044,10 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:44
 #: src/views/lookupTables/Parties.vue:123
 msgid "HAT"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:227
+msgid "HFC-23"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:439
@@ -2113,10 +2117,6 @@ msgstr ""
 #: src/components/exemption/form-components/Add.vue:24
 #: src/components/raf/form-components/Add.vue:24
 msgid "Substances"
-msgstr ""
-
-#: src/components/art7/FormTemplate.vue:227
-msgid "Substances - Annex group F/II"
 msgstr ""
 
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:13

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-20 15:08+0000\n"
+"POT-Creation-Date: 2019-06-20 18:23+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1081,6 +1081,10 @@ msgstr "фиктивный текст"
 #: src/views/lookupTables/Parties.vue:123
 msgid "HAT"
 msgstr "фиктивный текст"
+
+#: src/components/art7/FormTemplate.vue:227
+msgid "HFC-23"
+msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:439
 msgid "HFC-23 generation that is captured, whether for destruction, feedstock or any other use, shall be reported in this form."
@@ -2191,11 +2195,6 @@ msgstr "фиктивный текст"
 #: src/components/exemption/form-components/Add.vue:24
 #: src/components/raf/form-components/Add.vue:24
 msgid "Substances"
-msgstr "фиктивный текст"
-
-#: src/components/art7/FormTemplate.vue:227
-#, fuzzy
-msgid "Substances - Annex group F/II"
 msgstr "фиктивный текст"
 
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:13
