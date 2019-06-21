@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-20 19:07+0000\n"
+"POT-Creation-Date: 2019-06-21 10:26+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: src/components/common/form-components/Add.vue:45
 #: src/components/common/form-components/AddBlend.vue:71
-#: src/components/common/form-components/CloneField.vue:23
+#: src/components/common/form-components/CloneField.vue:26
 #: src/components/exemption/form-components/Add.vue:45
 #: src/components/raf/form-components/Add.vue:45
 msgid "Add %{length} rows"
@@ -2438,8 +2438,13 @@ msgstr ""
 msgid "No files uploaded"
 msgstr ""
 
+#: src/components/common/form-components/CloneField.vue:4
+#: src/components/raf/AddParties.vue:8
+msgid "Add countries"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:743
-#: src/components/common/form-components/CloneField.vue:13
+#: src/components/common/form-components/CloneField.vue:15
 #: src/components/raf/FormTemplate.vue:314
 msgid "Countries"
 msgstr ""
@@ -2503,10 +2508,6 @@ msgstr ""
 #: src/components/raf/FormTemplate.vue:13
 #: src/components/raf/FormTemplate.vue:103
 msgid "Filter"
-msgstr ""
-
-#: src/components/raf/AddParties.vue:8
-msgid "Add countries"
 msgstr ""
 
 #: src/components/raf/AddCategories.vue:8
