@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-21 10:52+0000\n"
+"POT-Creation-Date: 2019-06-21 15:56+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -331,7 +331,7 @@ msgstr "фиктивный текст."
 msgid "Approved"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:115
+#: src/views/lookupTables/Parties.vue:116
 msgid "Article 5 party"
 msgstr "фиктивный текст"
 
@@ -392,7 +392,7 @@ msgstr ""
 msgid "Basic domestic need"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:147
+#: src/views/lookupTables/Parties.vue:148
 msgid "Beijing Amendment"
 msgstr "фиктивный текст"
 
@@ -581,7 +581,7 @@ msgstr ""
 msgid "Controlled substances"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:139
+#: src/views/lookupTables/Parties.vue:140
 msgid "Copenhagen Amendment"
 msgstr "фиктивный текст"
 
@@ -888,7 +888,7 @@ msgstr "фиктивный текст"
 msgid "Essential uses"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:111
+#: src/views/lookupTables/Parties.vue:112
 msgid "EU Member"
 msgstr "фиктивный текст"
 
@@ -1063,7 +1063,7 @@ msgstr "фиктивный текст"
 msgid "Group"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:119
+#: src/views/lookupTables/Parties.vue:120
 #, fuzzy
 msgid "Group 2"
 msgstr "фиктивный текст"
@@ -1078,7 +1078,7 @@ msgid "Has blanks"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:44
-#: src/views/lookupTables/Parties.vue:123
+#: src/views/lookupTables/Parties.vue:124
 msgid "HAT"
 msgstr "фиктивный текст"
 
@@ -1211,7 +1211,7 @@ msgstr "фиктивный текст"
 msgid "Invalid"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:151
+#: src/views/lookupTables/Parties.vue:152
 msgid "Kigali Amendment"
 msgstr "фиктивный текст"
 
@@ -1263,7 +1263,7 @@ msgstr ""
 msgid "Logout"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:135
+#: src/views/lookupTables/Parties.vue:136
 msgid "London Amendment"
 msgstr "фиктивный текст"
 
@@ -1271,17 +1271,17 @@ msgstr "фиктивный текст"
 msgid "Mail sent"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:143
+#: src/views/lookupTables/Parties.vue:144
 msgid "Montreal Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:131
+#: src/views/lookupTables/Parties.vue:132
 msgid "Montreal Protocol"
 msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:134 src/views/lookupTables/Blends.vue:153
 #: src/views/lookupTables/ControlledSubstances.vue:93
-#: src/views/lookupTables/Parties.vue:106
+#: src/views/lookupTables/Parties.vue:107
 #: src/views/lookupTables/ControlledSubstances.vue:12
 msgid "Name"
 msgstr "фиктивный текст"
@@ -1479,7 +1479,7 @@ msgstr "фиктивный текст"
 msgid "Paper"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:206
+#: src/views/lookupTables/Parties.vue:207
 msgid "Parties"
 msgstr "фиктивный текст"
 
@@ -1835,7 +1835,7 @@ msgstr "фиктивный текст"
 msgid "QUESTIONNAIRE"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:32
+#: src/views/lookupTables/Parties.vue:33
 msgid "Ratification details"
 msgstr ""
 
@@ -2462,7 +2462,7 @@ msgstr "фиктивный текст"
 msgid "Versions"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:127
+#: src/views/lookupTables/Parties.vue:128
 msgid "Vienna Convention"
 msgstr "фиктивный текст"
 
