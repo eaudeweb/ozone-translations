@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-21 15:56+0000\n"
+"POT-Creation-Date: 2019-06-21 16:31+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -257,7 +257,6 @@ msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:46
 #: src/components/hat/dataDefinitions/form.js:138
-#: src/components/otherRo/dataDefinitions/form.js:38
 #: src/components/raf/dataDefinitions/form.js:49
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
@@ -371,7 +370,7 @@ msgstr ""
 msgid "Baseline"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:75
+#: src/components/otherRo/dataDefinitions/form.js:65
 #: src/components/otherRo/dataDefinitions/labels.js:15
 msgid "Basic domestic need"
 msgstr ""
@@ -727,7 +726,7 @@ msgstr ""
 msgid "Destination country/region/territory"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:63
+#: src/components/otherRo/dataDefinitions/form.js:53
 #: src/components/otherRo/dataDefinitions/labels.js:10
 msgid "Destination party"
 msgstr ""
@@ -826,6 +825,7 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:714
 #: src/components/common/dataDefinitions/labels.js:16
+#: src/components/otherRo/dataDefinitions/form.js:110
 msgid "Emissions"
 msgstr ""
 
@@ -1130,7 +1130,6 @@ msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP t
 
 #: src/components/hat/dataDefinitions/form.js:46
 #: src/components/hat/dataDefinitions/form.js:138
-#: src/components/otherRo/dataDefinitions/form.js:38
 #: src/components/raf/dataDefinitions/form.js:49
 #, fuzzy
 msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
@@ -1232,6 +1231,10 @@ msgstr ""
 
 #: src/components/common/OzoneMail.vue:140
 msgid "Mail sent"
+msgstr ""
+
+#: src/components/otherRo/dataDefinitions/form.js:105
+msgid "Makeup quantity"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:144
@@ -1590,6 +1593,11 @@ msgstr ""
 msgid "Process agent uses"
 msgstr ""
 
+#: src/components/otherRo/dataDefinitions/form.js:95
+#: src/components/otherRo/dataDefinitions/form.js:96
+msgid "Process agents"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:23
 msgid "Processing"
 msgstr ""
@@ -1832,6 +1840,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/labels.js:9
 #: src/components/exemption/dataDefinitions/labels.js:17
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:36
+#: src/components/otherRo/dataDefinitions/form.js:118
 msgid "Remarks"
 msgstr ""
 
@@ -1904,7 +1913,7 @@ msgstr ""
 msgid "Reporting officer"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:71
+#: src/components/otherRo/dataDefinitions/form.js:61
 #: src/components/otherRo/dataDefinitions/labels.js:14
 #: src/views/reports/Consumption.vue:88
 msgid "Reporting period"
@@ -1939,7 +1948,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:55
 #: src/components/art7/dataDefinitions/form.js:88
 #: src/components/hat/dataDefinitions/form.js:34
-#: src/components/otherRo/dataDefinitions/form.js:28
+#: src/components/otherRo/dataDefinitions/form.js:24
 #: src/components/raf/dataDefinitions/form.js:35
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
@@ -2010,7 +2019,7 @@ msgstr ""
 msgid "Sort"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:59
+#: src/components/otherRo/dataDefinitions/form.js:49
 #: src/components/otherRo/dataDefinitions/labels.js:9
 msgid "Source party"
 msgstr ""
@@ -2093,7 +2102,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/form.js:64
 #: src/components/hat/dataDefinitions/form.js:154
 #: src/components/letter/dataDefinitions/labels.js:104
-#: src/components/otherRo/dataDefinitions/form.js:54
+#: src/components/otherRo/dataDefinitions/form.js:44
 msgid "Substance"
 msgstr ""
 
@@ -2250,18 +2259,18 @@ msgstr ""
 msgid "Trade names"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:79
+#: src/components/otherRo/dataDefinitions/form.js:69
 #: src/components/otherRo/dataDefinitions/labels.js:8
 msgid "Transfer type"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:67
+#: src/components/otherRo/dataDefinitions/form.js:57
 #: src/components/otherRo/dataDefinitions/labels.js:13
 msgid "Transferred amount"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:37
-#: src/components/otherRo/dataDefinitions/form.js:38
+#: src/components/otherRo/dataDefinitions/form.js:33
+#: src/components/otherRo/dataDefinitions/form.js:34
 msgid "Transfers"
 msgstr ""
 
@@ -2312,6 +2321,10 @@ msgstr ""
 
 #: src/store/actions.js:315
 msgid "Unable to update submission status."
+msgstr ""
+
+#: src/components/otherRo/dataDefinitions/form.js:114
+msgid "Units"
 msgstr ""
 
 #: src/components/common/Files.vue:61
