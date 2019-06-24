@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-24 09:21+0000\n"
+"POT-Creation-Date: 2019-06-24 16:28+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -737,19 +737,19 @@ msgid "Destruction"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:30
-msgid "Did your country destroy any ODSs in the reporting year?"
+msgid "Did your country destroy any ozone-depleting substances or HFCs in the reporting year?"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:14
-msgid "Did your country export or re-export CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
+msgid "Did your country export or re-export CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs in the reporting year?"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:46
-msgid "Did your country generate the substance HFC23 in the reporting year from any facility that produces (manufactures) Annex C Group I or Annex F substances?"
+msgid "Did your country generate the substance HFC-23 in the reporting year from any facility that produces (manufactures) Annex C Group I or Annex F substances?"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:6
-msgid "Did your country import CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
+msgid "Did your country import CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs in the reporting year?"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:38
@@ -757,7 +757,7 @@ msgid "Did your country import from or export or re-export to non-Parties in the
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:22
-msgid "Did your country produce CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, or methyl bromide in the reporting year?"
+msgid "Did your country produce CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs in the reporting year?"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:155
@@ -1090,8 +1090,11 @@ msgid "If No, ignore data form 4 and go to question 1.5. If Yes, please complete
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:43
-#: src/components/art7/dataDefinitions/questionnaireFields.js:51
 msgid "If No, ignore data form 5. If Yes, please complete data form 5. Please read Instruction V of the document carefully, and, particularly, the definition of non-Parties before filling in the form."
+msgstr ""
+
+#: src/components/art7/dataDefinitions/questionnaireFields.js:51
+msgid "If No, ignore data form 6. If Yes, please complete data form 6. Please read instruction VI (on data on emissions of Annex F Group II substance – HFC-23) of the data reporting instructions and guidelines document carefully before filling in the form."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:261
