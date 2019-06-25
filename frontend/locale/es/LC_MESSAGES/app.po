@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-25 12:19+0000\n"
+"POT-Creation-Date: 2019-06-25 12:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -127,10 +127,13 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:699
 #: src/components/exemption/FormTemplate.vue:125
 #: src/components/raf/FormTemplate.vue:218
-msgid "All the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
+msgid "All the quantity values should be expressed in metric tonnes (not ODP or CO₂-equivalent tonnes)."
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:699
+msgid "All the quantity values should be expressed in metric tons (not ODP or CO₂-equivalent tonnes)."
 msgstr ""
 
 #: src/components/common/Files.vue:17
@@ -217,7 +220,13 @@ msgid "Amount of generated emissions"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:155
+#: src/components/raf/dataDefinitions/labels.js:52
 msgid "Amount used for critical use"
+msgstr ""
+
+#: src/components/raf/dataDefinitions/form.js:100
+#: src/components/raf/dataDefinitions/labels.js:26
+msgid "Amount used for essential use"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:128
@@ -1188,15 +1197,18 @@ msgstr ""
 msgid "Makeup quantity"
 msgstr ""
 
+#: src/components/common/mixins/FormTemplateMixin.vue:178
+#: src/components/common/mixins/FormTemplateMixin.vue:185
+#: src/components/common/mixins/FormTemplateMixin.vue:192
+msgid "Mixture"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:438
 #: src/components/art7/dataDefinitions/labels.js:8
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
 #: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/common/mixins/FormTemplateMixin.vue:178
-#: src/components/common/mixins/FormTemplateMixin.vue:185
-#: src/components/common/mixins/FormTemplateMixin.vue:192
 #: src/components/hat/FormTemplate.vue:111
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
@@ -2057,6 +2069,7 @@ msgstr ""
 msgid "Submitted"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/form.js:96
 #: src/components/art7/dataDefinitions/form.js:235
 #: src/components/art7/dataDefinitions/form.js:356
 #: src/components/art7/dataDefinitions/form.js:451
@@ -2074,7 +2087,6 @@ msgid "Substance"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:10
-#: src/components/art7/dataDefinitions/form.js:96
 #: src/components/art7/dataDefinitions/labels.js:7
 #: src/components/art7/dataDefinitions/labels.js:40
 #: src/components/art7/dataDefinitions/labels.js:94
@@ -2286,15 +2298,6 @@ msgstr ""
 
 #: src/components/common/Files.vue:61
 msgid "Uploaded files"
-msgstr ""
-
-#: src/components/raf/dataDefinitions/labels.js:26
-#: src/components/raf/dataDefinitions/labels.js:52
-msgid "Used"
-msgstr ""
-
-#: src/components/raf/dataDefinitions/form.js:100
-msgid "Used for essential use"
 msgstr ""
 
 #: src/views/UserProfile.vue:21
