@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-25 12:59+0000\n"
+"POT-Creation-Date: 2019-06-25 13:25+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -127,12 +127,9 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
+#: src/components/art7/FormTemplate.vue:699
 #: src/components/exemption/FormTemplate.vue:125
 #: src/components/raf/FormTemplate.vue:218
-msgid "All the quantity values should be expressed in metric tonnes (not ODP or CO₂-equivalent tonnes)."
-msgstr ""
-
-#: src/components/art7/FormTemplate.vue:699
 msgid "All the quantity values should be expressed in metric tons (not ODP or CO₂-equivalent tonnes)."
 msgstr ""
 
@@ -1102,13 +1099,13 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/labels.js:8
 #: src/components/exemption/dataDefinitions/labels.js:16
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:22
-msgid "in metric tonnes"
+msgid "in metric tons"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:46
 #: src/components/hat/dataDefinitions/form.js:138
 #: src/components/raf/dataDefinitions/form.js:49
-msgid "in metric tonnes (not ODP or CO2-equivalent tonnes)"
+msgid "in metric tons (not ODP or CO2-equivalent tonnes)"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:87
