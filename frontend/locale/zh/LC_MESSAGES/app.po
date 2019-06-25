@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-25 13:25+0000\n"
+"POT-Creation-Date: 2019-06-25 13:32+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -246,7 +246,7 @@ msgstr ""
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
 msgstr ""
 
-#: src/components/raf/FormTemplate.vue:268
+#: src/components/raf/FormTemplate.vue:270
 msgid "Amounts used by critical use category"
 msgstr ""
 
@@ -475,7 +475,7 @@ msgstr ""
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
-#: src/components/raf/FormTemplate.vue:342
+#: src/components/raf/FormTemplate.vue:346
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
 #: src/components/raf/TabsManager.vue:137
 msgid "Close"
@@ -2418,7 +2418,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:745
 #: src/components/common/form-components/CloneField.vue:15
-#: src/components/raf/FormTemplate.vue:316
+#: src/components/raf/FormTemplate.vue:320
 msgid "Countries"
 msgstr ""
 
