@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-25 09:31+0000\n"
+"POT-Creation-Date: 2019-06-25 11:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -66,7 +66,7 @@ msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:79
 #: src/components/common/form-components/AddBlend.vue:88
-msgid "Add custom blend"
+msgid "Add custom mixture"
 msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:98
@@ -74,11 +74,11 @@ msgid "Add facility"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:82
-msgid "Add new blend"
+msgid "Add new mixture"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:5
-msgid "Add predefined blends"
+msgid "Add predefined mixtures"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:142
@@ -370,27 +370,6 @@ msgstr ""
 msgid "Beijing Amendment"
 msgstr ""
 
-#: src/components/letter/dataDefinitions/labels.js:94
-msgid "blend"
-msgstr ""
-
-#: src/components/art7/dataDefinitions/labels.js:8
-#: src/components/art7/dataDefinitions/labels.js:41
-#: src/components/art7/dataDefinitions/labels.js:107
-#: src/components/art7/dataDefinitions/labels.js:120
-#: src/components/common/mixins/FormTemplateMixin.vue:177
-#: src/components/common/mixins/FormTemplateMixin.vue:184
-#: src/components/common/mixins/FormTemplateMixin.vue:191
-#: src/components/hat/dataDefinitions/labels.js:8
-#: src/components/letter/dataDefinitions/labels.js:5
-#: src/components/letter/dataDefinitions/labels.js:34
-#: src/components/letter/dataDefinitions/labels.js:105
-msgid "Blend"
-msgstr ""
-
-#: src/components/art7/FormTemplate.vue:438
-#: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/hat/FormTemplate.vue:111
 #: src/views/lookupTables/Blends.vue:214
 msgid "Blends"
 msgstr ""
@@ -602,7 +581,7 @@ msgid "Current State"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:13
-msgid "Custom blend added successfully."
+msgid "Custom mixture added successfully."
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:11
@@ -789,7 +768,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:692
 #: src/components/raf/FormTemplate.vue:211
-msgid "Edit %{name} blend"
+msgid "Edit %{name} mixture"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:688
@@ -955,7 +934,7 @@ msgid "Filter annex groups in order to select one or more substances. A row for 
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:8
-msgid "Filter by blend types in order to select one or more blends. A row for each blend will be added in blends table. Blends can be deleted using table controls."
+msgid "Filter by mixture types in order to select one or more mixtures. A row for each mixture will be added in mixtures table. Mixtures can be deleted using table controls."
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:8
@@ -1061,7 +1040,7 @@ msgid "High ambient temperature"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:91
-msgid "If a non-standard blend not listed above please indicate the blend name and the percentage by weight of each constituent controlled substance of the blend. Please pay attention to the percentage values before adding a new blend. For mistakes please contact secretariat to delete the blend."
+msgid "If a non-standard mixture not listed above please indicate the mixture name and the percentage by weight of each constituent controlled substance of the mixture. Please pay attention to the percentage values before adding a new mixture. For mistakes please contact secretariat to delete the mixture."
 msgstr ""
 
 #: src/components/art7/dataDefinitions/questionnaireFields.js:11
@@ -1206,6 +1185,24 @@ msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:105
 msgid "Makeup quantity"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:438
+#: src/components/art7/dataDefinitions/labels.js:8
+#: src/components/art7/dataDefinitions/labels.js:41
+#: src/components/art7/dataDefinitions/labels.js:107
+#: src/components/art7/dataDefinitions/labels.js:120
+#: src/components/common/form-components/DefaultAside.vue:12
+#: src/components/common/mixins/FormTemplateMixin.vue:177
+#: src/components/common/mixins/FormTemplateMixin.vue:184
+#: src/components/common/mixins/FormTemplateMixin.vue:191
+#: src/components/hat/FormTemplate.vue:111
+#: src/components/hat/dataDefinitions/labels.js:8
+#: src/components/letter/dataDefinitions/labels.js:5
+#: src/components/letter/dataDefinitions/labels.js:34
+#: src/components/letter/dataDefinitions/labels.js:94
+#: src/components/letter/dataDefinitions/labels.js:105
+msgid "Mixtures"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:144
@@ -1509,7 +1506,7 @@ msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:149
 #: src/components/common/mixins/FormTemplateMixin.vue:150
-msgid "Please use the form on the right sidebar to add blends"
+msgid "Please use the form on the right sidebar to add mixtures"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:1022
@@ -1961,7 +1958,7 @@ msgid "See definition of “non-parties” in Instruction V."
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:12
-msgid "select at least one country for each blend before adding."
+msgid "select at least one country for each mixture before adding."
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:9
@@ -2247,7 +2244,7 @@ msgid "Type of use"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:10
-msgid "Unable to add blend. Another blend with this name already exists."
+msgid "Unable to add mixture. Another mixture with this name already exists."
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:14
@@ -2263,7 +2260,7 @@ msgid "Unable to add submission. Another submission for this obligation/year alr
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:11
-msgid "Unable to add the following blends because they already exist"
+msgid "Unable to add the following mixtures because they already exist"
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:8
