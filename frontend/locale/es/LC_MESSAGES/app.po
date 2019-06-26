@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-25 13:32+0000\n"
+"POT-Creation-Date: 2019-06-26 09:41+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -310,6 +310,11 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
+#: src/components/otherRo/dataDefinitions/form.js:108
+#: src/components/otherRo/dataDefinitions/labels.js:8
+msgid "Application"
+msgstr ""
+
 #: src/components/common/SubmissionStatus.vue:7
 #: src/components/exemption/dataDefinitions/form.js:52
 #: src/components/exemption/dataDefinitions/form.js:53
@@ -373,7 +378,7 @@ msgid "Baseline"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:65
-#: src/components/otherRo/dataDefinitions/labels.js:15
+#: src/components/otherRo/dataDefinitions/labels.js:17
 msgid "Basic domestic need"
 msgstr ""
 
@@ -505,7 +510,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:49
 #: src/components/hat/dataDefinitions/labels.js:16
 #: src/components/hat/dataDefinitions/labels.js:27
-#: src/components/otherRo/dataDefinitions/labels.js:16
+#: src/components/otherRo/dataDefinitions/labels.js:18
 #: src/components/raf/dataDefinitions/labels.js:15
 #: src/components/raf/dataDefinitions/labels.js:41
 msgid "Comments (Secretariat)"
@@ -700,7 +705,7 @@ msgid "Destination country/region/territory"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:53
-#: src/components/otherRo/dataDefinitions/labels.js:10
+#: src/components/otherRo/dataDefinitions/labels.js:12
 msgid "Destination party"
 msgstr ""
 
@@ -802,7 +807,7 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:696
 #: src/components/common/dataDefinitions/labels.js:16
-#: src/components/otherRo/dataDefinitions/form.js:110
+#: src/components/otherRo/dataDefinitions/form.js:115
 msgid "Emissions"
 msgstr ""
 
@@ -1190,7 +1195,7 @@ msgstr ""
 msgid "Mail sent"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:105
+#: src/components/otherRo/dataDefinitions/form.js:111
 msgid "Makeup quantity"
 msgstr ""
 
@@ -1817,7 +1822,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/labels.js:9
 #: src/components/exemption/dataDefinitions/labels.js:17
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
-#: src/components/otherRo/dataDefinitions/form.js:118
+#: src/components/otherRo/dataDefinitions/form.js:122
 msgid "Remarks"
 msgstr ""
 
@@ -1846,7 +1851,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:90
 #: src/components/letter/dataDefinitions/labels.js:98
 #: src/components/letter/dataDefinitions/labels.js:115
-#: src/components/otherRo/dataDefinitions/labels.js:12
+#: src/components/otherRo/dataDefinitions/labels.js:14
 #: src/components/raf/dataDefinitions/labels.js:8
 #: src/components/raf/dataDefinitions/labels.js:34
 msgid "Remarks (Party)"
@@ -1876,7 +1881,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:89
 #: src/components/letter/dataDefinitions/labels.js:97
 #: src/components/letter/dataDefinitions/labels.js:114
-#: src/components/otherRo/dataDefinitions/labels.js:11
+#: src/components/otherRo/dataDefinitions/labels.js:13
 #: src/components/raf/dataDefinitions/labels.js:7
 #: src/components/raf/dataDefinitions/labels.js:33
 msgid "Remarks (Secretariat)"
@@ -1891,7 +1896,7 @@ msgid "Reporting officer"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:61
-#: src/components/otherRo/dataDefinitions/labels.js:14
+#: src/components/otherRo/dataDefinitions/labels.js:16
 #: src/views/reports/Consumption.vue:88
 msgid "Reporting period"
 msgstr ""
@@ -1996,7 +2001,7 @@ msgid "Sort"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:49
-#: src/components/otherRo/dataDefinitions/labels.js:9
+#: src/components/otherRo/dataDefinitions/labels.js:11
 msgid "Source party"
 msgstr ""
 
@@ -2080,6 +2085,8 @@ msgstr ""
 #: src/components/hat/dataDefinitions/form.js:154
 #: src/components/letter/dataDefinitions/labels.js:104
 #: src/components/otherRo/dataDefinitions/form.js:44
+#: src/components/otherRo/dataDefinitions/form.js:105
+#: src/components/otherRo/dataDefinitions/labels.js:9
 msgid "Substance"
 msgstr ""
 
@@ -2228,12 +2235,12 @@ msgid "Trade names"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:69
-#: src/components/otherRo/dataDefinitions/labels.js:8
+#: src/components/otherRo/dataDefinitions/labels.js:10
 msgid "Transfer type"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:57
-#: src/components/otherRo/dataDefinitions/labels.js:13
+#: src/components/otherRo/dataDefinitions/labels.js:15
 msgid "Transferred amount"
 msgstr ""
 
@@ -2289,7 +2296,7 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:114
+#: src/components/otherRo/dataDefinitions/form.js:119
 msgid "Units"
 msgstr ""
 
