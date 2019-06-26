@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-25 18:14+0300\n"
+"POT-Creation-Date: 2019-06-26 12:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,40 +22,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ozone/core/admin.py:80
+#: ozone/core/admin.py:79
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:95
+#: ozone/core/admin.py:94
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:98
+#: ozone/core/admin.py:97
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:101
+#: ozone/core/admin.py:100
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:319
+#: ozone/core/admin.py:318
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:322
+#: ozone/core/admin.py:321
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:324
+#: ozone/core/admin.py:323
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:330
+#: ozone/core/admin.py:329
 msgid "Login"
 msgstr ""
 
@@ -592,7 +592,7 @@ msgstr ""
 msgid "Import Process Agents - uses, reports & related tables from Excel file"
 msgstr ""
 
-#: ozone/core/management/commands/import_procagents.py:391
+#: ozone/core/management/commands/import_procagents.py:387
 msgid ""
 "Submission for this party and period not found in ProcAgentUsesDateReported"
 msgstr ""
@@ -803,19 +803,19 @@ msgstr ""
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1047
+#: ozone/core/serializers.py:1057
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1058
+#: ozone/core/serializers.py:1068
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1287
+#: ozone/core/serializers.py:1297
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1305
+#: ozone/core/serializers.py:1315
 msgid "Specified file id not found for this submission"
 msgstr ""
 
