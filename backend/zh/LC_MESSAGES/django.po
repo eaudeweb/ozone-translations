@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-26 17:44+0300\n"
+"POT-Creation-Date: 2019-06-26 20:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -773,11 +773,11 @@ msgstr ""
 msgid "An emergency exemption should have at least oneapproved substance."
 msgstr ""
 
-#: ozone/core/models/workflows/default.py:123
+#: ozone/core/models/workflows/default.py:124
 msgid "Valid flag must be set before submission is finalized"
 msgstr ""
 
-#: ozone/core/models/workflows/default.py:134
+#: ozone/core/models/workflows/default.py:135
 msgid "Questionnaire form must be completed before submitting."
 msgstr ""
 
@@ -832,6 +832,7 @@ msgstr ""
 #: ozone/templates/registration/account_activated_email.html:4
 #: ozone/templates/registration/account_created_email.html:10
 #: ozone/templates/registration/password_reset_email.html:10
+#: ozone/templates/registration/workflow_transitioned_email.html:4
 #, python-format
 msgid "The %(site_name)s team"
 msgstr ""
@@ -879,6 +880,17 @@ msgstr ""
 #: ozone/templates/registration/password_reset_subject.txt:2
 #, python-format
 msgid "Password reset on %(site_name)s"
+msgstr ""
+
+#: ozone/templates/registration/workflow_transitioned_email.html:2
+#, python-format
+msgid ""
+"Submission %(submission)s has been changed to %(new_state)s by %(user)s."
+msgstr ""
+
+#: ozone/templates/registration/workflow_transitioned_subject.txt:2
+#, python-format
+msgid "Submission %(submission)s has changed to %(new_state)s"
 msgstr ""
 
 #: weblate/ozone.py:24
