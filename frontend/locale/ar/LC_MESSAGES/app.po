@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-26 09:41+0000\n"
+"POT-Creation-Date: 2019-06-26 17:54+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -144,11 +144,14 @@ msgstr ""
 msgid "Amount [Generated] (tonnes)"
 msgstr ""
 
+#: src/components/raf/dataDefinitions/labels.js:21
+#: src/components/raf/dataDefinitions/labels.js:47
+msgid "Amount acquired by import"
+msgstr ""
+
 #: src/components/raf/FormTemplate.vue:243
 #: src/components/raf/dataDefinitions/form.js:81
 #: src/components/raf/dataDefinitions/form.js:136
-#: src/components/raf/dataDefinitions/labels.js:21
-#: src/components/raf/dataDefinitions/labels.js:47
 msgid "Amount acquired by import & countries of manufacture"
 msgstr ""
 
