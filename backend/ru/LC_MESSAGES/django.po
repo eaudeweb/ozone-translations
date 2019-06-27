@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-27 12:30+0300\n"
+"POT-Creation-Date: 2019-06-27 14:28+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -634,7 +634,7 @@ msgstr "фиктивный текст."
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1124
+#: ozone/core/models/data.py:1127
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
