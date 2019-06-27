@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-26 22:56+0300\n"
+"POT-Creation-Date: 2019-06-27 12:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,21 +40,21 @@ msgstr ""
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:318
+#: ozone/core/admin.py:323
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:321
+#: ozone/core/admin.py:326
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:323
+#: ozone/core/admin.py:328
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:329
+#: ozone/core/admin.py:334
 msgid "Login"
 msgstr ""
 

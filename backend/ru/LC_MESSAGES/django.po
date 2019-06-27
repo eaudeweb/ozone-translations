@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-26 22:56+0300\n"
+"POT-Creation-Date: 2019-06-27 12:25+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -44,21 +44,21 @@ msgstr "фиктивный текст"
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:318
+#: ozone/core/admin.py:323
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:321
+#: ozone/core/admin.py:326
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:323
+#: ozone/core/admin.py:328
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:329
+#: ozone/core/admin.py:334
 msgid "Login"
 msgstr ""
 
