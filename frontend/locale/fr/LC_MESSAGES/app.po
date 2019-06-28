@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 09:27+0000\n"
+"POT-Creation-Date: 2019-06-28 09:34+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -487,7 +487,7 @@ msgstr ""
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
-#: src/components/raf/FormTemplate.vue:349
+#: src/components/raf/FormTemplate.vue:350
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
 #: src/components/raf/TabsManager.vue:137
 msgid "Close"
@@ -2440,7 +2440,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:745
 #: src/components/common/form-components/CloneField.vue:15
-#: src/components/raf/FormTemplate.vue:323
+#: src/components/raf/FormTemplate.vue:324
 msgid "Countries"
 msgstr ""
 
