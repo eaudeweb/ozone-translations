@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 09:34+0000\n"
+"POT-Creation-Date: 2019-06-29 16:34+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -1470,7 +1470,7 @@ msgid "Phone"
 msgstr ""
 
 #: src/views/Reports.vue:16
-msgid "Please chose a report"
+msgid "Please choose a report"
 msgstr ""
 
 #: src/components/exemption/services/tableRowConstructorService.js:42
