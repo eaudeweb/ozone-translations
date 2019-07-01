@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-29 16:34+0000\n"
+"POT-Creation-Date: 2019-07-01 15:07+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -531,13 +531,17 @@ msgid "Confirmed blanks"
 msgstr ""
 
 #: src/components/common/AggregationsTable.vue:39
-#: src/components/otherRo/FormTemplate.vue:109
+#: src/components/otherRo/FormTemplate.vue:117
 #: src/views/reports/Consumption.vue:142
 msgid "Consumption"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:46
 msgid "Consumption (imports)"
+msgstr ""
+
+#: src/components/otherRo/dataDefinitions/form.js:122
+msgid "Contain technology"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:30
@@ -1591,7 +1595,7 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:36
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:137
-#: src/components/otherRo/FormTemplate.vue:108
+#: src/components/otherRo/FormTemplate.vue:116
 #: src/views/reports/Consumption.vue:139
 msgid "Production"
 msgstr ""
@@ -1824,7 +1828,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/labels.js:9
 #: src/components/exemption/dataDefinitions/labels.js:17
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
-#: src/components/otherRo/dataDefinitions/form.js:122
+#: src/components/otherRo/dataDefinitions/form.js:126
 msgid "Remarks"
 msgstr ""
 
