@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-03 10:57+0300\n"
+"POT-Creation-Date: 2019-07-03 12:06+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -649,7 +649,7 @@ msgstr "фиктивный текст."
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/reporting.py:67 ozone/core/models/reporting.py:1628
+#: ozone/core/models/reporting.py:67 ozone/core/models/reporting.py:1638
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -657,30 +657,30 @@ msgstr ""
 msgid "Unable to delete data because submission is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:190
+#: ozone/core/models/reporting.py:200
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:243
+#: ozone/core/models/reporting.py:253
 msgid "Unable to set reporting channel. Another reporting "
 msgstr ""
 
-#: ozone/core/models/reporting.py:756
+#: ozone/core/models/reporting.py:766
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not exist in this workflow"
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:763
+#: ozone/core/models/reporting.py:773
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not start from current state"
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:772
+#: ozone/core/models/reporting.py:782
 #, fuzzy
 #| msgid ""
 #| "Transition checks not satisfied or you may not have the necessary "
@@ -690,19 +690,19 @@ msgid ""
 "necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:894
+#: ozone/core/models/reporting.py:904
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User do not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:961
+#: ozone/core/models/reporting.py:971
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
 msgid "User do not have permission to change this remark."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1130
+#: ozone/core/models/reporting.py:1140
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -710,11 +710,11 @@ msgstr "фиктивный текст"
 msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1155
+#: ozone/core/models/reporting.py:1165
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1164
+#: ozone/core/models/reporting.py:1174
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -723,7 +723,7 @@ msgid ""
 "obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1177
+#: ozone/core/models/reporting.py:1187
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -732,19 +732,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1605
+#: ozone/core/models/reporting.py:1615
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1620
+#: ozone/core/models/reporting.py:1630
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1636
+#: ozone/core/models/reporting.py:1646
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1789
+#: ozone/core/models/reporting.py:1799
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
