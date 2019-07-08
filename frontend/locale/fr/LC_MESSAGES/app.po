@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-01 15:07+0000\n"
+"POT-Creation-Date: 2019-07-08 12:54+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -1206,7 +1206,7 @@ msgstr ""
 msgid "London Amendment"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:140
+#: src/components/common/OzoneMail.vue:141
 msgid "Mail sent"
 msgstr ""
 
@@ -2409,6 +2409,10 @@ msgstr ""
 #: src/components/common/dataDefinitions/alerts.js:6
 #: src/components/common/dataDefinitions/alerts.js:16
 msgid "You have unsaved changes. Please save the submission first."
+msgstr ""
+
+#: src/components/common/OzoneMail.vue:156
+msgid "You must specify a recipient"
 msgstr ""
 
 #: src/components/common/OzoneMail.vue:6
