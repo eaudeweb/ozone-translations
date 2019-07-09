@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-08 17:58+0300\n"
+"POT-Creation-Date: 2019-07-09 15:28+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -22,40 +22,40 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:82
+#: ozone/core/admin.py:84
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:97
+#: ozone/core/admin.py:99
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:100
+#: ozone/core/admin.py:102
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:103
+#: ozone/core/admin.py:105
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:326
+#: ozone/core/admin.py:328
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:329
+#: ozone/core/admin.py:331
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:331
+#: ozone/core/admin.py:333
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:337
+#: ozone/core/admin.py:339
 msgid "Login"
 msgstr ""
 
@@ -580,11 +580,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:745
+#: ozone/core/api/views.py:810
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1551
+#: ozone/core/api/views.py:1616
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -632,6 +632,14 @@ msgstr ""
 
 #: ozone/core/models/legal.py:72
 msgid "The end date must be greater than the start date."
+msgstr ""
+
+#: ozone/core/models/plans_of_action.py:56
+msgid "annex group description"
+msgstr ""
+
+#: ozone/core/models/plans_of_action.py:78
+msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
 #: ozone/core/models/report.py:32 ozone/core/models/report.py:44
@@ -794,28 +802,28 @@ msgid ""
 "substances."
 msgstr ""
 
-#: ozone/core/serializers.py:107
+#: ozone/core/serializers.py:109
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:463 ozone/core/serializers.py:468
+#: ozone/core/serializers.py:465 ozone/core/serializers.py:470
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1076
+#: ozone/core/serializers.py:1090
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1087
+#: ozone/core/serializers.py:1101
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1313
+#: ozone/core/serializers.py:1327
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1331
+#: ozone/core/serializers.py:1345
 msgid "Specified file id not found for this submission"
 msgstr ""
 
