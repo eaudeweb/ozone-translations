@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-10 17:13+0300\n"
+"POT-Creation-Date: 2019-07-11 12:37+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -622,19 +622,19 @@ msgstr "фиктивный текст!"
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:158
+#: ozone/core/models/data.py:159
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:861
+#: ozone/core/models/data.py:862
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:878
+#: ozone/core/models/data.py:879
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1127
+#: ozone/core/models/data.py:1128
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
