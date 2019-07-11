@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-11 12:37+0300\n"
+"POT-Creation-Date: 2019-07-11 17:52+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -592,7 +592,7 @@ msgstr ""
 msgid "Import Process Agents - uses, reports & related tables from Excel file"
 msgstr ""
 
-#: ozone/core/management/commands/import_procagents.py:443
+#: ozone/core/management/commands/import_procagents.py:470
 msgid ""
 "Submission for this party and period not found in ProcAgentUsesDateReported"
 msgstr ""
