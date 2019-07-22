@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-19 12:50+0000\n"
+"POT-Creation-Date: 2019-07-22 11:21+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -1531,7 +1531,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:1022
+#: src/components/art7/FormTemplate.vue:1035
 #: src/components/common/mixins/FormTemplateMixin.vue:108
 #: src/components/common/mixins/FormTemplateMixin.vue:109
 msgid "Please use the form on the right sidebar to add substances"
