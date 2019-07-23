@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-23 13:30+0000\n"
+"POT-Creation-Date: 2019-07-23 14:01+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -40,6 +40,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:746
 #: src/components/common/Files.vue:107
 #: src/components/common/SubmissionHistory.vue:124
+#: src/components/exemption/dataDefinitions/form.js:90
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:90
 #: src/components/hat/dataDefinitions/form.js:178
@@ -222,6 +223,11 @@ msgstr ""
 msgid "Amount of generated emissions"
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/form.js:85
+#: src/components/exemption/dataDefinitions/labels.js:18
+msgid "Amount recommended by TEAP"
+msgstr ""
+
 #: src/components/raf/dataDefinitions/form.js:155
 #: src/components/raf/dataDefinitions/labels.js:52
 msgid "Amount used for critical use"
@@ -291,6 +297,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:529
 #: src/components/art7/dataDefinitions/form.js:589
 #: src/components/common/AggregationsTable.vue:51
+#: src/components/exemption/dataDefinitions/form.js:57
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
 #: src/components/hat/dataDefinitions/form.js:58
 #: src/components/hat/dataDefinitions/form.js:150
@@ -324,7 +331,7 @@ msgstr ""
 #: src/components/common/SubmissionStatus.vue:7
 #: src/components/exemption/dataDefinitions/form.js:52
 #: src/components/exemption/dataDefinitions/form.js:53
-#: src/components/exemption/dataDefinitions/form.js:69
+#: src/components/exemption/dataDefinitions/form.js:124
 msgid "Approved"
 msgstr ""
 
@@ -642,6 +649,8 @@ msgid "Date of submission"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:51
+#: src/components/exemption/dataDefinitions/form.js:80
+#: src/components/exemption/dataDefinitions/labels.js:19
 #: src/components/letter/dataDefinitions/labels.js:27
 #: src/components/letter/dataDefinitions/labels.js:42
 #: src/components/letter/dataDefinitions/labels.js:57
@@ -804,6 +813,7 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/form.js:70
 #: src/components/exemption/dataDefinitions/labels.js:7
 #: src/components/exemption/dataDefinitions/labels.js:15
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:27
@@ -1110,6 +1120,7 @@ msgstr ""
 msgid "In case changes are necessary, another version will need to be submitted."
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/form.js:65
 #: src/components/exemption/dataDefinitions/labels.js:8
 #: src/components/exemption/dataDefinitions/labels.js:16
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:22
@@ -1340,7 +1351,7 @@ msgid "not added because two entries already exist."
 msgstr ""
 
 #: src/components/common/SubmissionStatus.vue:11
-#: src/components/exemption/dataDefinitions/form.js:70
+#: src/components/exemption/dataDefinitions/form.js:125
 msgid "Not approved"
 msgstr ""
 
@@ -1484,7 +1495,7 @@ msgstr ""
 msgid "Please choose a report"
 msgstr ""
 
-#: src/components/exemption/services/tableRowConstructorService.js:42
+#: src/components/exemption/services/tableRowConstructorService.js:50
 msgid "Please complete the \"(3) Quantity\" field"
 msgstr ""
 
@@ -1664,6 +1675,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/labels.js:33
 #: src/components/art7/dataDefinitions/labels.js:67
 #: src/components/art7/dataDefinitions/labels.js:97
+#: src/components/exemption/dataDefinitions/form.js:65
 #: src/components/exemption/dataDefinitions/labels.js:8
 #: src/components/exemption/dataDefinitions/labels.js:16
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:22
@@ -1833,6 +1845,7 @@ msgstr ""
 msgid "Remark"
 msgstr ""
 
+#: src/components/exemption/dataDefinitions/form.js:75
 #: src/components/exemption/dataDefinitions/labels.js:9
 #: src/components/exemption/dataDefinitions/labels.js:17
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
@@ -2092,6 +2105,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:533
 #: src/components/art7/dataDefinitions/form.js:593
 #: src/components/art7/dataDefinitions/labels.js:119
+#: src/components/exemption/dataDefinitions/form.js:61
 #: src/components/exemption/dataDefinitions/labels.js:5
 #: src/components/exemption/dataDefinitions/labels.js:13
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:18
