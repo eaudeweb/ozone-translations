@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-23 17:16+0300\n"
+"POT-Creation-Date: 2019-07-23 18:07+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -647,7 +647,7 @@ msgstr ""
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/reporting.py:67 ozone/core/models/reporting.py:1638
+#: ozone/core/models/reporting.py:67 ozone/core/models/reporting.py:1642
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -665,65 +665,65 @@ msgstr ""
 msgid "Unable to set reporting channel. Another reporting "
 msgstr ""
 
-#: ozone/core/models/reporting.py:766
+#: ozone/core/models/reporting.py:770
 #, python-brace-format
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr ""
 
-#: ozone/core/models/reporting.py:773
+#: ozone/core/models/reporting.py:777
 #, python-brace-format
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr ""
 
-#: ozone/core/models/reporting.py:782
+#: ozone/core/models/reporting.py:786
 msgid ""
 "Workflow error. Transition checks not satisfied or you may not have the "
 "necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:904
+#: ozone/core/models/reporting.py:908
 msgid "User do not have permission to change this flag."
 msgstr ""
 
-#: ozone/core/models/reporting.py:971
+#: ozone/core/models/reporting.py:975
 msgid "User do not have permission to change this remark."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1140
+#: ozone/core/models/reporting.py:1144
 #, python-brace-format
 msgid "Another submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:1165
+#: ozone/core/models/reporting.py:1169
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1174
+#: ozone/core/models/reporting.py:1178
 msgid ""
 "You cannot create a new version of this submission with this type of "
 "obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1187
+#: ozone/core/models/reporting.py:1191
 msgid ""
 "You cannot create a new version of this submission from a previous period if "
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1615
+#: ozone/core/models/reporting.py:1619
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1630
+#: ozone/core/models/reporting.py:1634
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1646
+#: ozone/core/models/reporting.py:1650
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1799
+#: ozone/core/models/reporting.py:1803
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
