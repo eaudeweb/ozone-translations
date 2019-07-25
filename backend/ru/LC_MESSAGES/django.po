@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-23 18:11+0300\n"
+"POT-Creation-Date: 2019-07-25 15:45+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -161,6 +161,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:241
 #: ozone/core/api/export_pdf/art7/section_production.py:121
+#: ozone/core/api/export_pdf/reports/raf.py:87
 msgid "Substance"
 msgstr ""
 
@@ -246,6 +247,8 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_info.py:24
 #: ozone/core/api/export_pdf/art7/section_labuses.py:88
 #: ozone/core/api/export_pdf/art7/section_production.py:105
+#: ozone/core/api/export_pdf/reports/raf.py:89
+#: ozone/core/api/export_pdf/reports/raf.py:148
 msgid "Production"
 msgstr ""
 
@@ -310,6 +313,7 @@ msgid "Address country"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:95
+#: ozone/core/api/export_pdf/reports/raf.py:218
 msgid "Yes"
 msgstr ""
 
@@ -326,7 +330,7 @@ msgid "Printed at"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_labuses.py:81
-#: ozone/core/api/export_pdf/util.py:250
+#: ozone/core/api/export_pdf/util.py:257
 msgid "Laboratory and analytical uses"
 msgstr ""
 
@@ -407,7 +411,7 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:24
+#: ozone/core/api/export_pdf/export.py:30
 msgid "Page"
 msgstr ""
 
@@ -555,35 +559,131 @@ msgid ""
 "        Non-A5 = Non-Article 5 Party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:251
+#: ozone/core/api/export_pdf/reports/raf.py:86
+#: ozone/core/api/export_pdf/reports/raf.py:145
+msgid "Year"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:88
+#: ozone/core/api/export_pdf/reports/raf.py:147
+msgid "Amount exempted"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:90
+#: ozone/core/api/export_pdf/reports/raf.py:149
+msgid "Imported quantities"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:92
+#: ozone/core/api/export_pdf/reports/raf.py:151
+msgid "Total amount acquired"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:93
+#: ozone/core/api/export_pdf/reports/raf.py:152
+msgid "Authorized but not acquired"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:94
+#: ozone/core/api/export_pdf/reports/raf.py:153
+msgid "On hand start of the year"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:95
+#: ozone/core/api/export_pdf/reports/raf.py:154
+msgid "Available for use"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:96
+msgid "Amount used for essential use"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:97
+msgid "Contained in exported products"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:98
+#: ozone/core/api/export_pdf/reports/raf.py:157
+msgid "Amount destroyed"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:99
+#: ozone/core/api/export_pdf/reports/raf.py:158
+msgid "On hand end of the year"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:100
+#: ozone/core/api/export_pdf/reports/raf.py:159
+msgid "Emergency"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:101
+#: ozone/core/api/export_pdf/reports/raf.py:160
+msgid "Remark"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:108
+#: ozone/core/api/export_pdf/reports/raf.py:167
+msgid "Amount"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:109
+#: ozone/core/api/export_pdf/reports/raf.py:168
+msgid "Source country"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:155
+msgid "Amount used for critical use"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:156
+msgid "Amount exported"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:200
+#: ozone/core/api/export_pdf/reports/raf.py:228
+msgid "Unspecified"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:343
+msgid ""
+"Reporting accounting framework for essential uses         other than "
+"laboratory and analytical applications"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:350
+msgid "Reporting accounting framework for critical uses of methyl bromide"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:258
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:252
+#: ozone/core/api/export_pdf/util.py:259
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:253
+#: ozone/core/api/export_pdf/util.py:260
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:254
+#: ozone/core/api/export_pdf/util.py:261
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:255
+#: ozone/core/api/export_pdf/util.py:262
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:331 ozone/core/api/export_pdf/util.py:334
+#: ozone/core/api/export_pdf/util.py:338 ozone/core/api/export_pdf/util.py:341
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:331
+#: ozone/core/api/export_pdf/util.py:338
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:334
+#: ozone/core/api/export_pdf/util.py:341
 msgid "secretariat"
 msgstr ""
 
@@ -591,7 +691,7 @@ msgstr ""
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:1656
+#: ozone/core/api/views.py:1657
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
@@ -653,7 +753,8 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/report.py:32 ozone/core/models/report.py:44
+#: ozone/core/models/report.py:33 ozone/core/models/report.py:45
+#: ozone/core/models/report.py:57
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
