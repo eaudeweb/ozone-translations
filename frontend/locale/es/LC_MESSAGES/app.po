@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-25 12:42+0000\n"
+"POT-Creation-Date: 2019-07-26 13:04+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -1123,16 +1123,13 @@ msgstr ""
 msgid "in metric tons"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:46
-#: src/components/hat/dataDefinitions/form.js:138
-#: src/components/raf/dataDefinitions/form.js:49
-msgid "in metric tons (not ODP or CO2-equivalent tonnes)"
-msgstr ""
-
 #: src/components/art7/dataDefinitions/form.js:87
 #: src/components/art7/dataDefinitions/form.js:215
 #: src/components/art7/dataDefinitions/form.js:340
 #: src/components/art7/dataDefinitions/form.js:581
+#: src/components/hat/dataDefinitions/form.js:46
+#: src/components/hat/dataDefinitions/form.js:138
+#: src/components/raf/dataDefinitions/form.js:49
 msgid "in metric tons (not ODP or CO₂-equivalent tonnes)"
 msgstr ""
 

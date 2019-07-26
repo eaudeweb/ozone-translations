@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-25 12:42+0000\n"
+"POT-Creation-Date: 2019-07-26 13:04+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1192,17 +1192,13 @@ msgstr ""
 msgid "in metric tons"
 msgstr "фиктивный текст"
 
-#: src/components/hat/dataDefinitions/form.js:46
-#: src/components/hat/dataDefinitions/form.js:138
-#: src/components/raf/dataDefinitions/form.js:49
-#, fuzzy
-msgid "in metric tons (not ODP or CO2-equivalent tonnes)"
-msgstr "фиктивный текст"
-
 #: src/components/art7/dataDefinitions/form.js:87
 #: src/components/art7/dataDefinitions/form.js:215
 #: src/components/art7/dataDefinitions/form.js:340
 #: src/components/art7/dataDefinitions/form.js:581
+#: src/components/hat/dataDefinitions/form.js:46
+#: src/components/hat/dataDefinitions/form.js:138
+#: src/components/raf/dataDefinitions/form.js:49
 #, fuzzy
 msgid "in metric tons (not ODP or CO₂-equivalent tonnes)"
 msgstr "фиктивный текст"
