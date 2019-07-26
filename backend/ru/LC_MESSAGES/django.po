@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-26 16:46+0300\n"
+"POT-Creation-Date: 2019-07-26 17:05+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -317,7 +317,7 @@ msgid "Address country"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:95
-#: ozone/core/api/export_pdf/reports/raf.py:207
+#: ozone/core/api/export_pdf/reports/raf.py:209
 msgid "Yes"
 msgstr ""
 
@@ -675,18 +675,18 @@ msgstr ""
 msgid "Amount exported"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:189
-#: ozone/core/api/export_pdf/reports/raf.py:217
+#: ozone/core/api/export_pdf/reports/raf.py:193
+#: ozone/core/api/export_pdf/reports/raf.py:219
 msgid "Unspecified"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:334
+#: ozone/core/api/export_pdf/reports/raf.py:336
 msgid ""
 "Reporting accounting framework for essential uses         other than "
 "laboratory and analytical applications"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:347
+#: ozone/core/api/export_pdf/reports/raf.py:349
 msgid "Reporting accounting framework for critical uses of methyl bromide"
 msgstr ""
 
