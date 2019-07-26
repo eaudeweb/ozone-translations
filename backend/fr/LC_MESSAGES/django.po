@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-26 17:05+0300\n"
+"POT-Creation-Date: 2019-07-26 18:13+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -769,11 +769,11 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr ""
 
-#: ozone/core/models/plans_of_action.py:56
+#: ozone/core/models/plans_of_action.py:61
 msgid "annex group description"
 msgstr ""
 
-#: ozone/core/models/plans_of_action.py:78
+#: ozone/core/models/plans_of_action.py:83
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
