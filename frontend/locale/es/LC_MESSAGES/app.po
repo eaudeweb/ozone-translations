@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-26 13:04+0000\n"
+"POT-Creation-Date: 2019-07-29 11:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -320,7 +320,6 @@ msgstr ""
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:108
 #: src/components/otherRo/dataDefinitions/labels.js:8
 msgid "Application"
 msgstr ""
@@ -387,9 +386,12 @@ msgstr ""
 msgid "Baseline"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:65
 #: src/components/otherRo/dataDefinitions/labels.js:17
 msgid "Basic domestic need"
+msgstr ""
+
+#: src/components/otherRo/dataDefinitions/form.js:65
+msgid "Basic domestic needs"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:148
@@ -547,13 +549,13 @@ msgstr ""
 msgid "Consumption (imports)"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:122
-msgid "Contain technology"
-msgstr ""
-
 #: src/components/art7/dataDefinitions/labels.js:30
 #: src/components/art7/dataDefinitions/labels.js:31
 msgid "Contained in polyols"
+msgstr ""
+
+#: src/components/otherRo/dataDefinitions/form.js:122
+msgid "Containment technologies used to minimize emissions"
 msgstr ""
 
 #: src/views/lookupTables/ControlledSubstances.vue:157
@@ -822,7 +824,6 @@ msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:696
 #: src/components/common/dataDefinitions/labels.js:16
-#: src/components/otherRo/dataDefinitions/form.js:115
 msgid "Emissions"
 msgstr ""
 
@@ -1196,6 +1197,10 @@ msgstr ""
 msgid "Limit"
 msgstr ""
 
+#: src/components/otherRo/dataDefinitions/form.js:96
+msgid "List of uses of controlled substances as process agents"
+msgstr ""
+
 #: src/components/common/Header.vue:41
 msgid "Logout"
 msgstr ""
@@ -1209,7 +1214,11 @@ msgid "Mail sent"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:111
-msgid "Makeup quantity"
+msgid "Make-up or consumption"
+msgstr ""
+
+#: src/components/otherRo/dataDefinitions/form.js:115
+msgid "Maximum emissions"
 msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:178
@@ -1495,6 +1504,10 @@ msgstr ""
 msgid "Please confirm"
 msgstr ""
 
+#: src/components/otherRo/dataDefinitions/form.js:24
+msgid "Please fill in this form only if your country used controlled substances for process agent applications in accordance with paragraph decision X/14. Relevant decisions in filling in the form include: IV/12, X/14, XXI/3 and XXIII/7."
+msgstr ""
+
 #: src/components/art7/services/tableRowConstructorService.js:142
 msgid "Please fill-in column Amount of generated emissions (6)"
 msgstr ""
@@ -1574,6 +1587,10 @@ msgstr ""
 msgid "Process"
 msgstr ""
 
+#: src/components/otherRo/dataDefinitions/form.js:108
+msgid "Process agent application"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/labels.js:22
 #: src/components/art7/dataDefinitions/labels.js:23
 #: src/components/art7/dataDefinitions/labels.js:58
@@ -1586,12 +1603,8 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:50
 #: src/components/letter/dataDefinitions/labels.js:72
 #: src/components/letter/dataDefinitions/labels.js:73
-msgid "Process agent uses"
-msgstr ""
-
 #: src/components/otherRo/dataDefinitions/form.js:95
-#: src/components/otherRo/dataDefinitions/form.js:96
-msgid "Process agents"
+msgid "Process agent uses"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:23
@@ -1945,7 +1958,6 @@ msgid "Respondents are requested to read the Introduction, the General Instructi
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:34
-#: src/components/otherRo/dataDefinitions/form.js:24
 #: src/components/raf/dataDefinitions/form.js:35
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
@@ -2250,6 +2262,10 @@ msgstr ""
 msgid "Trade names"
 msgstr ""
 
+#: src/components/otherRo/dataDefinitions/form.js:34
+msgid "Transfer of production/consumption rights"
+msgstr ""
+
 #: src/components/otherRo/dataDefinitions/form.js:69
 #: src/components/otherRo/dataDefinitions/labels.js:10
 msgid "Transfer type"
@@ -2261,7 +2277,6 @@ msgid "Transferred amount"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:33
-#: src/components/otherRo/dataDefinitions/form.js:34
 msgid "Transfers"
 msgstr ""
 
@@ -2313,7 +2328,7 @@ msgid "Unable to update submission status."
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:119
-msgid "Units"
+msgid "Unit"
 msgstr ""
 
 #: src/components/common/Files.vue:61
