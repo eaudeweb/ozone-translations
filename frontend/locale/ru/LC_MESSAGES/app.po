@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-29 11:59+0000\n"
+"POT-Creation-Date: 2019-07-29 15:22+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -416,7 +416,7 @@ msgstr ""
 msgid "Basic domestic need"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:65
+#: src/components/otherRo/dataDefinitions/form.js:66
 msgid "Basic domestic needs"
 msgstr ""
 
@@ -583,7 +583,7 @@ msgstr "фиктивный текст"
 msgid "Contained in polyols"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:122
+#: src/components/otherRo/dataDefinitions/form.js:124
 msgid "Containment technologies used to minimize emissions"
 msgstr ""
 
@@ -756,7 +756,7 @@ msgstr "фиктивный текст"
 msgid "Destination country/region/territory"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:53
+#: src/components/otherRo/dataDefinitions/form.js:54
 #: src/components/otherRo/dataDefinitions/labels.js:12
 #, fuzzy
 msgid "Destination party"
@@ -1271,7 +1271,7 @@ msgstr "фиктивный текст:"
 msgid "Limit"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:96
+#: src/components/otherRo/dataDefinitions/form.js:97
 msgid "List of uses of controlled substances as process agents"
 msgstr ""
 
@@ -1287,12 +1287,12 @@ msgstr "фиктивный текст"
 msgid "Mail sent"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:111
+#: src/components/otherRo/dataDefinitions/form.js:113
 #, fuzzy
 msgid "Make-up or consumption"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:115
+#: src/components/otherRo/dataDefinitions/form.js:117
 #, fuzzy
 msgid "Maximum emissions"
 msgstr "фиктивный текст"
@@ -1592,6 +1592,8 @@ msgid "Please confirm"
 msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:24
+#: src/components/otherRo/dataDefinitions/form.js:35
+#: src/components/otherRo/dataDefinitions/form.js:98
 msgid "Please fill in this form only if your country used controlled substances for process agent applications in accordance with paragraph decision X/14. Relevant decisions in filling in the form include: IV/12, X/14, XXI/3 and XXIII/7."
 msgstr ""
 
@@ -1685,7 +1687,7 @@ msgstr ""
 msgid "Process"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:108
+#: src/components/otherRo/dataDefinitions/form.js:110
 #, fuzzy
 msgid "Process agent application"
 msgstr "фиктивный текст"
@@ -1702,7 +1704,7 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:50
 #: src/components/letter/dataDefinitions/labels.js:72
 #: src/components/letter/dataDefinitions/labels.js:73
-#: src/components/otherRo/dataDefinitions/form.js:95
+#: src/components/otherRo/dataDefinitions/form.js:96
 msgid "Process agent uses"
 msgstr "фиктивный текст"
 
@@ -1955,7 +1957,7 @@ msgstr "фиктивный текст"
 #: src/components/exemption/dataDefinitions/labels.js:9
 #: src/components/exemption/dataDefinitions/labels.js:17
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
-#: src/components/otherRo/dataDefinitions/form.js:126
+#: src/components/otherRo/dataDefinitions/form.js:128
 #, fuzzy
 msgid "Remarks"
 msgstr "фиктивный текст"
@@ -2030,7 +2032,7 @@ msgstr "фиктивный текст"
 msgid "Reporting officer"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:61
+#: src/components/otherRo/dataDefinitions/form.js:62
 #: src/components/otherRo/dataDefinitions/labels.js:16
 #: src/views/reports/Consumption.vue:88
 #, fuzzy
@@ -2140,7 +2142,7 @@ msgstr "фиктивный текст"
 msgid "Sort"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:49
+#: src/components/otherRo/dataDefinitions/form.js:50
 #: src/components/otherRo/dataDefinitions/labels.js:11
 #, fuzzy
 msgid "Source party"
@@ -2235,8 +2237,8 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/form.js:64
 #: src/components/hat/dataDefinitions/form.js:154
 #: src/components/letter/dataDefinitions/labels.js:104
-#: src/components/otherRo/dataDefinitions/form.js:44
-#: src/components/otherRo/dataDefinitions/form.js:105
+#: src/components/otherRo/dataDefinitions/form.js:45
+#: src/components/otherRo/dataDefinitions/form.js:107
 #: src/components/otherRo/dataDefinitions/labels.js:9
 msgid "Substance"
 msgstr "фиктивный текст"
@@ -2395,12 +2397,12 @@ msgstr "фиктивный текст"
 msgid "Transfer of production/consumption rights"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:69
+#: src/components/otherRo/dataDefinitions/form.js:70
 #: src/components/otherRo/dataDefinitions/labels.js:10
 msgid "Transfer type"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:57
+#: src/components/otherRo/dataDefinitions/form.js:58
 #: src/components/otherRo/dataDefinitions/labels.js:15
 msgid "Transferred amount"
 msgstr ""
@@ -2464,7 +2466,7 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:119
+#: src/components/otherRo/dataDefinitions/form.js:121
 msgid "Unit"
 msgstr ""
 
