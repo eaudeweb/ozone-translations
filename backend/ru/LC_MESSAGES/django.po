@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-01 18:52+0300\n"
+"POT-Creation-Date: 2019-08-02 12:54+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -25,40 +25,40 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:90
+#: ozone/core/admin.py:92
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr "фиктивный текст! %(username)s фиктивный текст."
 
-#: ozone/core/admin.py:105
+#: ozone/core/admin.py:107
 msgid "ORS"
 msgstr "ORS"
 
-#: ozone/core/admin.py:108
+#: ozone/core/admin.py:110
 msgid "Ozone Reporting System"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:111
+#: ozone/core/admin.py:113
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:334
+#: ozone/core/admin.py:336
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:337
+#: ozone/core/admin.py:339
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:339
+#: ozone/core/admin.py:341
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:345
+#: ozone/core/admin.py:347
 msgid "Login"
 msgstr ""
 
@@ -722,11 +722,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:914
+#: ozone/core/api/views.py:918
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:1726
+#: ozone/core/api/views.py:1730
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
@@ -974,30 +974,30 @@ msgid ""
 "substances."
 msgstr ""
 
-#: ozone/core/serializers.py:112
+#: ozone/core/serializers.py:114
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
 
-#: ozone/core/serializers.py:498 ozone/core/serializers.py:503
+#: ozone/core/serializers.py:500 ozone/core/serializers.py:505
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1123
+#: ozone/core/serializers.py:1125
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1134
+#: ozone/core/serializers.py:1136
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User is not allowed to change date of submission."
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1360
+#: ozone/core/serializers.py:1362
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1378
+#: ozone/core/serializers.py:1380
 msgid "Specified file id not found for this submission"
 msgstr ""
 
