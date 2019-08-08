@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-08 10:52+0300\n"
+"POT-Creation-Date: 2019-08-08 18:30+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -797,7 +797,7 @@ msgstr ""
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/models/reporting.py:68 ozone/core/models/reporting.py:1663
+#: ozone/core/models/reporting.py:68 ozone/core/models/reporting.py:1667
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -805,30 +805,30 @@ msgstr ""
 msgid "Unable to delete data because submission is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:201
+#: ozone/core/models/reporting.py:205
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:254
+#: ozone/core/models/reporting.py:258
 msgid "Unable to set reporting channel. Another reporting "
 msgstr ""
 
-#: ozone/core/models/reporting.py:774
+#: ozone/core/models/reporting.py:778
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not exist in this workflow"
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:781
+#: ozone/core/models/reporting.py:785
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not start from current state"
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:790
+#: ozone/core/models/reporting.py:794
 #, fuzzy
 #| msgid ""
 #| "Transition checks not satisfied or you may not have the necessary "
@@ -838,19 +838,19 @@ msgid ""
 "necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:912
+#: ozone/core/models/reporting.py:916
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User do not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:979
+#: ozone/core/models/reporting.py:983
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
 msgid "User do not have permission to change this remark."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1148
+#: ozone/core/models/reporting.py:1152
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -858,11 +858,11 @@ msgstr "фиктивный текст"
 msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1173
+#: ozone/core/models/reporting.py:1177
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1182
+#: ozone/core/models/reporting.py:1186
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -871,7 +871,7 @@ msgid ""
 "obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1195
+#: ozone/core/models/reporting.py:1199
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -880,19 +880,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1640
+#: ozone/core/models/reporting.py:1644
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1655
+#: ozone/core/models/reporting.py:1659
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1671
+#: ozone/core/models/reporting.py:1675
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1837
+#: ozone/core/models/reporting.py:1841
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
