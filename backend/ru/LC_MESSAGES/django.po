@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-08 20:35+0300\n"
+"POT-Creation-Date: 2019-08-12 11:09+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -25,40 +25,40 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:95
+#: ozone/core/admin.py:98
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr "фиктивный текст! %(username)s фиктивный текст."
 
-#: ozone/core/admin.py:110
+#: ozone/core/admin.py:113
 msgid "ORS"
 msgstr "ORS"
 
-#: ozone/core/admin.py:113
+#: ozone/core/admin.py:116
 msgid "Ozone Reporting System"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:116
+#: ozone/core/admin.py:119
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:338
+#: ozone/core/admin.py:341
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:341
+#: ozone/core/admin.py:344
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:343
+#: ozone/core/admin.py:346
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:349
+#: ozone/core/admin.py:352
 msgid "Login"
 msgstr ""
 
@@ -722,11 +722,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:1008
+#: ozone/core/api/views.py:1014
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:1820
+#: ozone/core/api/views.py:1826
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
@@ -797,7 +797,7 @@ msgstr ""
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/models/reporting.py:68 ozone/core/models/reporting.py:1667
+#: ozone/core/models/reporting.py:68 ozone/core/models/reporting.py:1669
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -805,30 +805,30 @@ msgstr ""
 msgid "Unable to delete data because submission is already submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:205
+#: ozone/core/models/reporting.py:207
 msgid ""
 "Unable to set default obligation. Another obligation is already set as "
 "default."
 msgstr ""
 
-#: ozone/core/models/reporting.py:258
+#: ozone/core/models/reporting.py:260
 msgid "Unable to set reporting channel. Another reporting "
 msgstr ""
 
-#: ozone/core/models/reporting.py:778
+#: ozone/core/models/reporting.py:780
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not exist in this workflow"
 msgid "Workflow error. Transition {trans_name} does not exist in this workflow"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:785
+#: ozone/core/models/reporting.py:787
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not start from current state"
 msgid ""
 "Workflow error. Transition {trans_name} does not start from current state"
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:794
+#: ozone/core/models/reporting.py:796
 #, fuzzy
 #| msgid ""
 #| "Transition checks not satisfied or you may not have the necessary "
@@ -838,19 +838,19 @@ msgid ""
 "necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:916
+#: ozone/core/models/reporting.py:918
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User do not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:983
+#: ozone/core/models/reporting.py:985
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
 msgid "User do not have permission to change this remark."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1152
+#: ozone/core/models/reporting.py:1154
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -858,11 +858,11 @@ msgstr "фиктивный текст"
 msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1177
+#: ozone/core/models/reporting.py:1179
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1186
+#: ozone/core/models/reporting.py:1188
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -871,7 +871,7 @@ msgid ""
 "obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1199
+#: ozone/core/models/reporting.py:1201
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -880,19 +880,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1644
+#: ozone/core/models/reporting.py:1646
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1659
+#: ozone/core/models/reporting.py:1661
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1675
+#: ozone/core/models/reporting.py:1677
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1841
+#: ozone/core/models/reporting.py:1843
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -974,30 +974,30 @@ msgid ""
 "substances."
 msgstr ""
 
-#: ozone/core/serializers.py:117
+#: ozone/core/serializers.py:119
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
 
-#: ozone/core/serializers.py:503 ozone/core/serializers.py:508
+#: ozone/core/serializers.py:505 ozone/core/serializers.py:510
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1128
+#: ozone/core/serializers.py:1130
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1139
+#: ozone/core/serializers.py:1141
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User is not allowed to change date of submission."
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1365
+#: ozone/core/serializers.py:1367
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1383
+#: ozone/core/serializers.py:1385
 msgid "Specified file id not found for this submission"
 msgstr ""
 
