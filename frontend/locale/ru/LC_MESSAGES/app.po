@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-08-14 12:05+0000\n"
+"POT-Creation-Date: 2019-08-14 14:13+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1619,7 +1619,7 @@ msgstr "фиктивный текст"
 msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
 msgstr "фиктивный текст"
 
-#: src/components/raf/services/tableRowConstructorService.js:153
+#: src/components/raf/services/tableRowConstructorService.js:157
 #, fuzzy
 msgid "Please fill-in column On hand end of year (13)"
 msgstr "фиктивный текст"
