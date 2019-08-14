@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 10:59+0300\n"
+"POT-Creation-Date: 2019-08-14 11:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1012,6 +1012,28 @@ msgstr ""
 msgid "Activate your account on %(site_name)s"
 msgstr ""
 
+#: ozone/templates/registration/password_reset_done.html:74
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+
+#: ozone/templates/registration/password_reset_done.html:75
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+
+#: ozone/templates/registration/password_reset_done.html:76
+msgid "Go back to the login page"
+msgstr ""
+
+#: ozone/templates/registration/password_reset_done.html:76
+msgid ""
+"or, alternatively, see more information on the <a href=\"https://ozone.unep."
+"org\">website of the Ozone secretariat</a>."
+msgstr ""
+
 #: ozone/templates/registration/password_reset_email.html:2
 #, python-format
 msgid ""
@@ -1025,6 +1047,20 @@ msgstr ""
 
 #: ozone/templates/registration/password_reset_email.html:8
 msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: ozone/templates/registration/password_reset_form.html:139
+msgid ""
+"Forgotten your username or password? Enter your email address below, and "
+"we’ll email your username and instructions for setting a new password."
+msgstr ""
+
+#: ozone/templates/registration/password_reset_form.html:145
+msgid "Email address:"
+msgstr ""
+
+#: ozone/templates/registration/password_reset_form.html:148
+msgid "Reset my password"
 msgstr ""
 
 #: ozone/templates/registration/password_reset_subject.txt:2
