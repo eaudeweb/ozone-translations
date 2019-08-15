@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 17:12+0300\n"
+"POT-Creation-Date: 2019-08-15 16:42+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -931,13 +931,13 @@ msgstr ""
 msgid "Questionnaire form must be completed before submitting."
 msgstr ""
 
-#: ozone/core/models/workflows/default_exemption.py:78
+#: ozone/core/models/workflows/default_exemption.py:75
 msgid ""
 "An exemption cannot be marked as approved without anyactual approved "
 "substances."
 msgstr ""
 
-#: ozone/core/models/workflows/default_exemption.py:89
+#: ozone/core/models/workflows/default_exemption.py:86
 msgid ""
 "An exemption cannot be marked as not approved while havingapproved "
 "substances."
