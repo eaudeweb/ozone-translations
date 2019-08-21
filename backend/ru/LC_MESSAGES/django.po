@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-21 16:07+0300\n"
+"POT-Creation-Date: 2019-08-21 18:55+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -44,21 +44,21 @@ msgstr "фиктивный текст"
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:341
+#: ozone/core/admin.py:352
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:344
+#: ozone/core/admin.py:355
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:346
+#: ozone/core/admin.py:357
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:352
+#: ozone/core/admin.py:363
 msgid "Login"
 msgstr ""
 
@@ -722,11 +722,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:1028
+#: ozone/core/api/views.py:1030
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:1840
+#: ozone/core/api/views.py:1842
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
