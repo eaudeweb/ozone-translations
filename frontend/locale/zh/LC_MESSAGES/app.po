@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-08-25 16:51+0000\n"
+"POT-Creation-Date: 2019-08-25 17:08+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -44,8 +44,8 @@ msgstr ""
 #: src/components/raf/dataDefinitions/form.js:130
 #: src/components/raf/dataDefinitions/form.js:185
 #: src/components/raf/dataDefinitions/labels.js:31
-#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:409
-#: src/views/Dashboard.vue:450
+#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:412
+#: src/views/Dashboard.vue:453
 msgid "Actions"
 msgstr ""
 
@@ -60,8 +60,8 @@ msgstr ""
 #: src/components/common/form-components/Add.vue:45
 #: src/components/common/form-components/AddBlend.vue:71
 #: src/components/common/form-components/CloneField.vue:26
-#: src/components/exemption/form-components/Add.vue:45
-#: src/components/raf/form-components/Add.vue:45
+#: src/components/exemption/form-components/Add.vue:46
+#: src/components/raf/form-components/Add.vue:46
 msgid "Add %{length} rows"
 msgstr ""
 
@@ -82,7 +82,7 @@ msgstr ""
 msgid "Add predefined mixtures"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:142
+#: src/components/common/form-components/AddBlend.vue:143
 msgid "Add row"
 msgstr ""
 
@@ -123,7 +123,7 @@ msgstr ""
 msgid "All answers are mandatory"
 msgstr ""
 
-#: src/views/Dashboard.vue:167
+#: src/views/Dashboard.vue:170
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
@@ -150,7 +150,7 @@ msgstr ""
 msgid "Amount acquired by import"
 msgstr ""
 
-#: src/components/raf/FormTemplate.vue:293
+#: src/components/raf/FormTemplate.vue:294
 #: src/components/raf/dataDefinitions/form.js:91
 #: src/components/raf/dataDefinitions/form.js:146
 msgid "Amount acquired by import & countries of manufacture"
@@ -255,7 +255,7 @@ msgstr ""
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
 msgstr ""
 
-#: src/components/raf/FormTemplate.vue:331
+#: src/components/raf/FormTemplate.vue:332
 msgid "Amounts used by critical use category"
 msgstr ""
 
@@ -342,11 +342,11 @@ msgstr ""
 msgid "at"
 msgstr ""
 
-#: src/views/Reports.vue:39
+#: src/views/Reports.vue:41
 msgid "At least one party is required"
 msgstr ""
 
-#: src/views/Reports.vue:27
+#: src/views/Reports.vue:28
 msgid "At least one period is required"
 msgstr ""
 
@@ -430,10 +430,10 @@ msgstr ""
 
 #: src/components/common/TransitionQuestions.vue:15
 #: src/components/common/form-components/Add.vue:50
-#: src/components/common/form-components/AddBlend.vue:145
-#: src/components/exemption/form-components/Add.vue:50
+#: src/components/common/form-components/AddBlend.vue:146
+#: src/components/exemption/form-components/Add.vue:51
 #: src/components/raf/AddCategories.vue:34 src/components/raf/AddParties.vue:34
-#: src/components/raf/form-components/Add.vue:50
+#: src/components/raf/form-components/Add.vue:51
 msgid "Cancel"
 msgstr ""
 
@@ -459,7 +459,7 @@ msgstr ""
 msgid "Checked blanks"
 msgstr ""
 
-#: src/views/Dashboard.vue:105 src/views/Dashboard.vue:214
+#: src/views/Dashboard.vue:108 src/views/Dashboard.vue:217
 #: src/views/lookupTables/Blends.vue:43
 #: src/views/lookupTables/ControlledSubstances.vue:28
 #: src/views/reports/Consumption.vue:21
@@ -475,13 +475,13 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:801
+#: src/components/art7/FormTemplate.vue:802
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:160
 #: src/components/common/AggregationsModal.vue:17
-#: src/components/common/OzoneMail.vue:67
-#: src/components/exemption/FormTemplate.vue:167
+#: src/components/common/OzoneMail.vue:69
+#: src/components/exemption/FormTemplate.vue:168
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
@@ -490,7 +490,7 @@ msgstr ""
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
-#: src/components/raf/FormTemplate.vue:380
+#: src/components/raf/FormTemplate.vue:381
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
 #: src/components/raf/TabsManager.vue:137
 msgid "Close"
@@ -564,7 +564,7 @@ msgstr ""
 msgid "Copenhagen Amendment"
 msgstr ""
 
-#: src/views/Dashboard.vue:55
+#: src/views/Dashboard.vue:58
 msgid "Create"
 msgstr ""
 
@@ -577,8 +577,8 @@ msgid "Create submission"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:115
-#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:407
-#: src/views/Dashboard.vue:448
+#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:410
+#: src/views/Dashboard.vue:451
 msgid "Created by"
 msgstr ""
 
@@ -613,7 +613,7 @@ msgstr ""
 msgid "Data entry in progress"
 msgstr ""
 
-#: src/views/Dashboard.vue:65
+#: src/views/Dashboard.vue:68
 msgid "Data entry in progress submissions (%{totalRows} records)"
 msgstr ""
 
@@ -999,7 +999,7 @@ msgstr ""
 msgid "Formula"
 msgstr ""
 
-#: src/views/Reports.vue:7 src/views/Reports.vue:55
+#: src/views/Reports.vue:7 src/views/Reports.vue:58
 msgid "Generate report"
 msgstr ""
 
@@ -1170,7 +1170,7 @@ msgstr ""
 msgid "Last changed by"
 msgstr ""
 
-#: src/views/Dashboard.vue:405 src/views/Dashboard.vue:446
+#: src/views/Dashboard.vue:408 src/views/Dashboard.vue:449
 msgid "Last modified"
 msgstr ""
 
@@ -1206,7 +1206,7 @@ msgstr ""
 msgid "London Amendment"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:141
+#: src/components/common/OzoneMail.vue:143
 msgid "Mail sent"
 msgstr ""
 
@@ -1339,8 +1339,8 @@ msgstr ""
 msgid "Non-Party"
 msgstr ""
 
-#: src/components/exemption/form-components/Add.vue:183
-#: src/components/raf/form-components/Add.vue:191
+#: src/components/exemption/form-components/Add.vue:184
+#: src/components/raf/form-components/Add.vue:192
 msgid "not added because two entries already exist."
 msgstr ""
 
@@ -1356,9 +1356,9 @@ msgstr ""
 msgid "Number of isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:395 src/views/Dashboard.vue:438
-#: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
-#: src/views/Dashboard.vue:185
+#: src/views/Dashboard.vue:398 src/views/Dashboard.vue:441
+#: src/views/Dashboard.vue:17 src/views/Dashboard.vue:79
+#: src/views/Dashboard.vue:188
 msgid "Obligation"
 msgstr ""
 
@@ -1381,7 +1381,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:611
+#: src/views/Dashboard.vue:614
 msgid "Online Reporting Tool"
 msgstr ""
 
@@ -1444,15 +1444,15 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:15
-#: src/views/Dashboard.vue:383 src/views/Dashboard.vue:399
-#: src/views/Dashboard.vue:427 src/views/Dashboard.vue:442
-#: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:86
-#: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
-#: src/views/Dashboard.vue:192 src/views/Reports.vue:41
+#: src/views/Dashboard.vue:386 src/views/Dashboard.vue:402
+#: src/views/Dashboard.vue:430 src/views/Dashboard.vue:445
+#: src/views/UserProfile.vue:37 src/views/reports/Consumption.vue:86
+#: src/views/Dashboard.vue:41 src/views/Dashboard.vue:87
+#: src/views/Dashboard.vue:195 src/views/Reports.vue:43
 msgid "Party"
 msgstr ""
 
-#: src/views/UserProfile.vue:27
+#: src/views/UserProfile.vue:28
 msgid "Party:"
 msgstr ""
 
@@ -1474,8 +1474,8 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:397 src/views/Dashboard.vue:440
-#: src/views/Dashboard.vue:27 src/views/Reports.vue:29
+#: src/views/Dashboard.vue:400 src/views/Dashboard.vue:443
+#: src/views/Dashboard.vue:28 src/views/Reports.vue:30
 msgid "Period"
 msgstr ""
 
@@ -1554,7 +1554,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:1035
+#: src/components/art7/FormTemplate.vue:1036
 #: src/components/common/mixins/FormTemplateMixin.vue:108
 #: src/components/common/mixins/FormTemplateMixin.vue:109
 msgid "Please use the form on the right sidebar to add substances"
@@ -1798,7 +1798,7 @@ msgstr ""
 msgid "Ratification details"
 msgstr ""
 
-#: src/views/UserProfile.vue:38
+#: src/views/UserProfile.vue:39
 msgid "read-only"
 msgstr ""
 
@@ -1970,11 +1970,11 @@ msgstr ""
 msgid "Revise"
 msgstr ""
 
-#: src/views/UserProfile.vue:33
+#: src/views/UserProfile.vue:34
 msgid "Role:"
 msgstr ""
 
-#: src/views/UserProfile.vue:43
+#: src/views/UserProfile.vue:44
 msgid "Save"
 msgstr ""
 
@@ -1986,15 +1986,15 @@ msgstr ""
 msgid "Saved"
 msgstr ""
 
-#: src/views/pages/Page404.vue:29 src/views/Dashboard.vue:73
-#: src/views/Dashboard.vue:182 src/views/lookupTables/Blends.vue:5
+#: src/views/pages/Page404.vue:29 src/views/Dashboard.vue:76
+#: src/views/Dashboard.vue:185 src/views/lookupTables/Blends.vue:5
 #: src/views/lookupTables/Parties.vue:7
 msgid "Search"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:383 src/views/Dashboard.vue:427
-#: src/views/UserProfile.vue:35
+#: src/views/Dashboard.vue:386 src/views/Dashboard.vue:430
+#: src/views/UserProfile.vue:36
 msgid "Secretariat"
 msgstr ""
 
@@ -2023,7 +2023,7 @@ msgstr ""
 msgid "selected rows"
 msgstr ""
 
-#: src/views/Dashboard.vue:174
+#: src/views/Dashboard.vue:177
 msgid "Show all versions"
 msgstr ""
 
@@ -2040,7 +2040,7 @@ msgstr ""
 msgid "Start upload"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:403
+#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:406
 msgid "Status"
 msgstr ""
 
@@ -2138,8 +2138,8 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:93
 #: src/components/otherRo/dataDefinitions/labels.js:7
 #: src/components/common/form-components/Add.vue:24
-#: src/components/exemption/form-components/Add.vue:24
-#: src/components/raf/form-components/Add.vue:24
+#: src/components/exemption/form-components/Add.vue:25
+#: src/components/raf/form-components/Add.vue:25
 msgid "Substances"
 msgstr ""
 
@@ -2348,7 +2348,7 @@ msgid "Unit"
 msgstr ""
 
 #: src/components/raf/services/tableRowConstructorService.js:14
-#: src/components/raf/FormTemplate.vue:314
+#: src/components/raf/FormTemplate.vue:315
 msgid "Unspecified"
 msgstr ""
 
@@ -2356,11 +2356,11 @@ msgstr ""
 msgid "Uploaded files"
 msgstr ""
 
-#: src/views/UserProfile.vue:21
+#: src/views/UserProfile.vue:22
 msgid "User name:"
 msgstr ""
 
-#: src/components/common/Header.vue:32 src/views/UserProfile.vue:64
+#: src/components/common/Header.vue:32 src/views/UserProfile.vue:65
 msgid "User profile"
 msgstr ""
 
@@ -2384,8 +2384,8 @@ msgid "Validation errors"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:112
-#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:401
-#: src/views/Dashboard.vue:444
+#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:404
+#: src/views/Dashboard.vue:447
 msgid "Version"
 msgstr ""
 
@@ -2445,7 +2445,7 @@ msgstr ""
 msgid "You have unsaved changes. Please save the submission first."
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:156
+#: src/components/common/OzoneMail.vue:158
 msgid "You must specify a recipient"
 msgstr ""
 
@@ -2470,12 +2470,12 @@ msgstr ""
 #: src/components/common/form-components/AddBlend.vue:31
 #: src/components/common/form-components/fieldGenerator.vue:51
 #: src/components/exemption/form-components/Add.vue:14
-#: src/components/exemption/form-components/Add.vue:26
+#: src/components/exemption/form-components/Add.vue:27
 #: src/components/raf/AddCategories.vue:11 src/components/raf/AddParties.vue:11
 #: src/components/raf/form-components/Add.vue:14
-#: src/components/raf/form-components/Add.vue:26 src/views/Dashboard.vue:19
-#: src/views/Dashboard.vue:29 src/views/Dashboard.vue:41
-#: src/views/Reports.vue:20 src/views/Reports.vue:31 src/views/Reports.vue:43
+#: src/components/raf/form-components/Add.vue:27 src/views/Dashboard.vue:19
+#: src/views/Dashboard.vue:30 src/views/Dashboard.vue:43
+#: src/views/Reports.vue:20 src/views/Reports.vue:32 src/views/Reports.vue:45
 msgid "Select option"
 msgstr ""
 
@@ -2491,9 +2491,9 @@ msgstr ""
 msgid "Filter"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:719
-#: src/components/exemption/FormTemplate.vue:145
-#: src/components/raf/FormTemplate.vue:252
+#: src/components/art7/FormTemplate.vue:720
+#: src/components/exemption/FormTemplate.vue:146
+#: src/components/raf/FormTemplate.vue:253
 msgid "Select substance"
 msgstr ""
 
@@ -2509,17 +2509,17 @@ msgstr ""
 msgid "Send a message"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:17
-#: src/components/common/OzoneMail.vue:31
+#: src/components/common/OzoneMail.vue:18
+#: src/components/common/OzoneMail.vue:33
 msgid "Press enter to add an email"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:18
-#: src/components/common/OzoneMail.vue:32
+#: src/components/common/OzoneMail.vue:19
+#: src/components/common/OzoneMail.vue:34
 msgid "Type the recipient address and press enter"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:55
+#: src/components/common/OzoneMail.vue:57
 msgid "Correspondence"
 msgstr ""
 
@@ -2528,17 +2528,17 @@ msgstr ""
 msgid "Add countries"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:745
+#: src/components/art7/FormTemplate.vue:746
 #: src/components/common/form-components/CloneField.vue:15
-#: src/components/raf/FormTemplate.vue:282
+#: src/components/raf/FormTemplate.vue:283
 msgid "Countries"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:122
+#: src/components/common/form-components/AddBlend.vue:123
 msgid "Press enter to use a new substance"
 msgstr ""
 
-#: src/components/common/form-components/AddBlend.vue:123
+#: src/components/common/form-components/AddBlend.vue:124
 msgid "Controlled or new substance"
 msgstr ""
 
@@ -2560,15 +2560,15 @@ msgstr ""
 msgid "Add categories"
 msgstr ""
 
-#: src/views/Dashboard.vue:91 src/views/Dashboard.vue:200
+#: src/views/Dashboard.vue:94 src/views/Dashboard.vue:203
 msgid "From"
 msgstr ""
 
-#: src/views/Dashboard.vue:97 src/views/Dashboard.vue:207
+#: src/views/Dashboard.vue:100 src/views/Dashboard.vue:210
 msgid "To"
 msgstr ""
 
-#: src/views/Dashboard.vue:150 src/views/Dashboard.vue:260
+#: src/views/Dashboard.vue:153 src/views/Dashboard.vue:263
 #: src/views/reports/Consumption.vue:65
 msgid "Per page"
 msgstr ""
