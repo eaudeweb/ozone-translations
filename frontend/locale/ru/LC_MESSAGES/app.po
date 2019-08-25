@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-08-23 15:09+0000\n"
+"POT-Creation-Date: 2019-08-25 16:43+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -48,8 +48,8 @@ msgstr "фиктивный текст"
 #: src/components/raf/dataDefinitions/form.js:130
 #: src/components/raf/dataDefinitions/form.js:185
 #: src/components/raf/dataDefinitions/labels.js:31
-#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:408
-#: src/views/Dashboard.vue:449
+#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:409
+#: src/views/Dashboard.vue:450
 msgid "Actions"
 msgstr "фиктивный текст"
 
@@ -136,7 +136,7 @@ msgstr "фиктивный текст."
 msgid "All answers are mandatory"
 msgstr ""
 
-#: src/views/Dashboard.vue:166
+#: src/views/Dashboard.vue:167
 msgid "All submissions (%{totalRows} records)"
 msgstr "фиктивный (%{totalRows} текст)"
 
@@ -486,7 +486,7 @@ msgstr "фиктивный текст"
 msgid "Checked blanks"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:105 src/views/Dashboard.vue:213
+#: src/views/Dashboard.vue:105 src/views/Dashboard.vue:214
 #: src/views/lookupTables/Blends.vue:43
 #: src/views/lookupTables/ControlledSubstances.vue:28
 #: src/views/reports/Consumption.vue:21
@@ -607,8 +607,8 @@ msgid "Create submission"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:115
-#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:406
-#: src/views/Dashboard.vue:447
+#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:407
+#: src/views/Dashboard.vue:448
 #, fuzzy
 msgid "Created by"
 msgstr "фиктивный текст"
@@ -1244,7 +1244,7 @@ msgstr "фиктивный текст"
 msgid "Last changed by"
 msgstr ""
 
-#: src/views/Dashboard.vue:404 src/views/Dashboard.vue:445
+#: src/views/Dashboard.vue:405 src/views/Dashboard.vue:446
 msgid "Last modified"
 msgstr "фиктивный текст"
 
@@ -1439,9 +1439,9 @@ msgstr "фиктивный текст"
 msgid "Number of isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:394 src/views/Dashboard.vue:437
+#: src/views/Dashboard.vue:395 src/views/Dashboard.vue:438
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:76
-#: src/views/Dashboard.vue:184
+#: src/views/Dashboard.vue:185
 msgid "Obligation"
 msgstr "фиктивный текст"
 
@@ -1464,7 +1464,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:593
+#: src/views/Dashboard.vue:611
 msgid "Online Reporting Tool"
 msgstr ""
 
@@ -1529,11 +1529,11 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:15
-#: src/views/Dashboard.vue:382 src/views/Dashboard.vue:398
-#: src/views/Dashboard.vue:426 src/views/Dashboard.vue:441
+#: src/views/Dashboard.vue:383 src/views/Dashboard.vue:399
+#: src/views/Dashboard.vue:427 src/views/Dashboard.vue:442
 #: src/views/UserProfile.vue:36 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:39 src/views/Dashboard.vue:84
-#: src/views/Dashboard.vue:191 src/views/Reports.vue:41
+#: src/views/Dashboard.vue:192 src/views/Reports.vue:41
 msgid "Party"
 msgstr "фиктивный текст"
 
@@ -1560,7 +1560,7 @@ msgstr "фиктивный текст"
 msgid "Percentage"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:396 src/views/Dashboard.vue:439
+#: src/views/Dashboard.vue:397 src/views/Dashboard.vue:440
 #: src/views/Dashboard.vue:27 src/views/Reports.vue:29
 msgid "Period"
 msgstr "фиктивный текст"
@@ -2099,13 +2099,13 @@ msgid "Saved"
 msgstr ""
 
 #: src/views/pages/Page404.vue:29 src/views/Dashboard.vue:73
-#: src/views/Dashboard.vue:181 src/views/lookupTables/Blends.vue:5
+#: src/views/Dashboard.vue:182 src/views/lookupTables/Blends.vue:5
 #: src/views/lookupTables/Parties.vue:7
 msgid "Search"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:382 src/views/Dashboard.vue:426
+#: src/views/Dashboard.vue:383 src/views/Dashboard.vue:427
 #: src/views/UserProfile.vue:35
 msgid "Secretariat"
 msgstr "фиктивный текст"
@@ -2138,7 +2138,7 @@ msgstr "фиктивный текст"
 msgid "selected rows"
 msgstr ""
 
-#: src/views/Dashboard.vue:173
+#: src/views/Dashboard.vue:174
 msgid "Show all versions"
 msgstr "фиктивный текст"
 
@@ -2156,7 +2156,7 @@ msgstr "фиктивный текст"
 msgid "Start upload"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:402
+#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:403
 msgid "Status"
 msgstr "фиктивный текст"
 
@@ -2526,8 +2526,8 @@ msgid "Validation errors"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionHistory.vue:112
-#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:400
-#: src/views/Dashboard.vue:443
+#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:401
+#: src/views/Dashboard.vue:444
 msgid "Version"
 msgstr "фиктивный текст"
 
@@ -2710,15 +2710,15 @@ msgstr "фиктивный текст"
 msgid "Add categories"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:91 src/views/Dashboard.vue:199
+#: src/views/Dashboard.vue:91 src/views/Dashboard.vue:200
 msgid "From"
 msgstr ""
 
-#: src/views/Dashboard.vue:97 src/views/Dashboard.vue:206
+#: src/views/Dashboard.vue:97 src/views/Dashboard.vue:207
 msgid "To"
 msgstr ""
 
-#: src/views/Dashboard.vue:149 src/views/Dashboard.vue:259
+#: src/views/Dashboard.vue:150 src/views/Dashboard.vue:260
 #: src/views/reports/Consumption.vue:65
 msgid "Per page"
 msgstr "фиктивный текст"
