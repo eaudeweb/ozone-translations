@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-08-25 16:43+0000\n"
+"POT-Creation-Date: 2019-08-25 16:51+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -2048,7 +2048,7 @@ msgstr ""
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:356
+#: src/store/actions.js:364
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -2331,7 +2331,7 @@ msgstr ""
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:363
+#: src/store/actions.js:371
 msgid "Unable to delete submission."
 msgstr ""
 
