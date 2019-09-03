@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-27 17:39+0300\n"
+"POT-Creation-Date: 2019-09-03 17:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -714,11 +714,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:1041
+#: ozone/core/api/views.py:1057
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:1853
+#: ozone/core/api/views.py:1869
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -934,23 +934,23 @@ msgstr ""
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:507 ozone/core/serializers.py:512
+#: ozone/core/serializers.py:511 ozone/core/serializers.py:516
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1244
+#: ozone/core/serializers.py:1248
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1255
+#: ozone/core/serializers.py:1259
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1479
+#: ozone/core/serializers.py:1483
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1497
+#: ozone/core/serializers.py:1501
 msgid "Specified file id not found for this submission"
 msgstr ""
 
