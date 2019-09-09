@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-03 17:57+0300\n"
+"POT-Creation-Date: 2019-09-09 11:22+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -732,44 +732,44 @@ msgstr "фиктивный текст."
 msgid "You do not have permission to upload files for this submission"
 msgstr "фиктивный текст."
 
-#: ozone/core/management/commands/import_procagents.py:32
+#: ozone/core/management/commands/import_procagents.py:36
 msgid "Import Process Agents - uses, reports & related tables from Excel file"
 msgstr ""
 
-#: ozone/core/management/commands/import_procagents.py:472
+#: ozone/core/management/commands/import_procagents.py:478
 msgid ""
 "Submission for this party and period not found in ProcAgentUsesDateReported"
 msgstr ""
 
-#: ozone/core/models/data.py:64 ozone/core/models/data.py:67
+#: ozone/core/models/data.py:72 ozone/core/models/data.py:75
 msgid "Data should refer to one substance or one blend"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/data.py:75 ozone/core/models/data.py:78
+#: ozone/core/models/data.py:83 ozone/core/models/data.py:86
 msgid "Data should not refer to both a substance and a blend"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/data.py:90
+#: ozone/core/models/data.py:98
 msgid "This blend is for a different party!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:96
+#: ozone/core/models/data.py:104
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:159
+#: ozone/core/models/data.py:167
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:862
+#: ozone/core/models/data.py:890
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:879
+#: ozone/core/models/data.py:907
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1129
+#: ozone/core/models/data.py:1174
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
@@ -780,11 +780,11 @@ msgstr ""
 msgid "The end date must be greater than the start date."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/plans_of_action.py:61
+#: ozone/core/models/plans_of_action.py:65
 msgid "annex group description"
 msgstr ""
 
-#: ozone/core/models/plans_of_action.py:83
+#: ozone/core/models/plans_of_action.py:87
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
@@ -906,31 +906,31 @@ msgstr ""
 msgid "alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:396
+#: ozone/core/models/substance.py:407
 #, fuzzy
 #| msgid "Substance rows derived from blends cannot be changed!"
 msgid "Predefined blends composition cannot be changed."
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/substance.py:435 ozone/core/models/substance.py:438
+#: ozone/core/models/substance.py:447 ozone/core/models/substance.py:450
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/transfer.py:216
+#: ozone/core/models/transfer.py:221
 msgid ""
 "Destination party submission should belong to the transfer's destination "
 "party."
 msgstr ""
 
-#: ozone/core/models/transfer.py:225
+#: ozone/core/models/transfer.py:230
 msgid "Destination party submission should be a Transfer submission."
 msgstr ""
 
-#: ozone/core/models/transfer.py:236
+#: ozone/core/models/transfer.py:241
 msgid "Source party submission should belong to the transfer's source party"
 msgstr ""
 
-#: ozone/core/models/transfer.py:245
+#: ozone/core/models/transfer.py:250
 msgid "Source party submission should be a Transfer submission."
 msgstr ""
 
@@ -962,30 +962,30 @@ msgstr ""
 msgid "Questionnaire form must be completed before submitting."
 msgstr ""
 
-#: ozone/core/serializers.py:121
+#: ozone/core/serializers.py:122
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
 
-#: ozone/core/serializers.py:511 ozone/core/serializers.py:516
+#: ozone/core/serializers.py:512 ozone/core/serializers.py:517
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1248
+#: ozone/core/serializers.py:1249
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1259
+#: ozone/core/serializers.py:1260
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User is not allowed to change date of submission."
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1483
+#: ozone/core/serializers.py:1484
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1501
+#: ozone/core/serializers.py:1502
 msgid "Specified file id not found for this submission"
 msgstr ""
 
