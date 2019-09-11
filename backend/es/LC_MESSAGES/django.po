@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-11 16:47+0300\n"
+"POT-Creation-Date: 2019-09-11 16:57+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -732,35 +732,35 @@ msgid ""
 "Submission for this party and period not found in ProcAgentUsesDateReported"
 msgstr ""
 
-#: ozone/core/models/data.py:72 ozone/core/models/data.py:75
+#: ozone/core/models/data.py:73 ozone/core/models/data.py:76
 msgid "Data should refer to one substance or one blend"
 msgstr ""
 
-#: ozone/core/models/data.py:83 ozone/core/models/data.py:86
+#: ozone/core/models/data.py:84 ozone/core/models/data.py:87
 msgid "Data should not refer to both a substance and a blend"
 msgstr ""
 
-#: ozone/core/models/data.py:98
+#: ozone/core/models/data.py:99
 msgid "This blend is for a different party!"
 msgstr ""
 
-#: ozone/core/models/data.py:104
+#: ozone/core/models/data.py:105
 msgid "Substance rows derived from blends cannot be changed!"
 msgstr ""
 
-#: ozone/core/models/data.py:167
+#: ozone/core/models/data.py:168
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:890
+#: ozone/core/models/data.py:891
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:907
+#: ozone/core/models/data.py:908
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
-#: ozone/core/models/data.py:1174
+#: ozone/core/models/data.py:1175
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
