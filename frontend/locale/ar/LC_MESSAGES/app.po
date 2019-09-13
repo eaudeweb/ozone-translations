@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-13 12:30+0000\n"
+"POT-Creation-Date: 2019-09-13 13:56+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -348,10 +348,6 @@ msgstr ""
 msgid "at"
 msgstr ""
 
-#: src/views/Reports.vue:41
-msgid "At least one party is required"
-msgstr ""
-
 #: src/views/Reports.vue:28
 msgid "At least one period is required"
 msgstr ""
@@ -629,11 +625,11 @@ msgstr ""
 msgid "Data is valid and saved"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:184
-#: src/components/hat/TabsManager.vue:223
-#: src/components/letter/TabsManager.vue:168
-#: src/components/otherRo/TabsManager.vue:214
-#: src/components/raf/TabsManager.vue:227
+#: src/components/exemption/TabsManager.vue:178
+#: src/components/hat/TabsManager.vue:217
+#: src/components/letter/TabsManager.vue:162
+#: src/components/otherRo/TabsManager.vue:208
+#: src/components/raf/TabsManager.vue:221
 msgid "data submission for"
 msgstr ""
 
@@ -1003,7 +999,7 @@ msgstr ""
 msgid "Formula"
 msgstr ""
 
-#: src/views/Reports.vue:7 src/views/Reports.vue:58
+#: src/views/Reports.vue:7 src/views/Reports.vue:57
 msgid "Generate report"
 msgstr ""
 
@@ -1221,9 +1217,9 @@ msgstr ""
 msgid "Maximum emissions"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:178
-#: src/components/common/mixins/FormTemplateMixin.vue:185
-#: src/components/common/mixins/FormTemplateMixin.vue:192
+#: src/components/common/mixins/FormTemplateMixin.vue:186
+#: src/components/common/mixins/FormTemplateMixin.vue:193
+#: src/components/common/mixins/FormTemplateMixin.vue:200
 msgid "Mixture"
 msgstr ""
 
@@ -1385,7 +1381,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:614 src/views/Reports.vue:104
+#: src/views/Dashboard.vue:614 src/views/Reports.vue:103
 #: src/views/lookupTables/Blends.vue:214
 #: src/views/lookupTables/ControlledSubstances.vue:157
 #: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
@@ -1455,7 +1451,7 @@ msgstr ""
 #: src/views/Dashboard.vue:430 src/views/Dashboard.vue:445
 #: src/views/UserProfile.vue:37 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:41 src/views/Dashboard.vue:87
-#: src/views/Dashboard.vue:195 src/views/Reports.vue:43
+#: src/views/Dashboard.vue:195 src/views/Reports.vue:42
 msgid "Party"
 msgstr ""
 
@@ -1556,14 +1552,14 @@ msgstr ""
 msgid "Please fill-in one of columns New imports (4), Recovered and reclaimed imports (5), New exports (6) or Recovered and reclaimed exports (7)"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:149
-#: src/components/common/mixins/FormTemplateMixin.vue:150
+#: src/components/common/mixins/FormTemplateMixin.vue:157
+#: src/components/common/mixins/FormTemplateMixin.vue:158
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:1037
-#: src/components/common/mixins/FormTemplateMixin.vue:108
-#: src/components/common/mixins/FormTemplateMixin.vue:109
+#: src/components/common/mixins/FormTemplateMixin.vue:116
+#: src/components/common/mixins/FormTemplateMixin.vue:117
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
 
@@ -1940,7 +1936,7 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/views/Reports.vue:104 src/views/Reports.vue:18
+#: src/views/Reports.vue:103 src/views/Reports.vue:18
 msgid "Reports"
 msgstr ""
 
@@ -2183,10 +2179,10 @@ msgstr ""
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:106
-#: src/components/common/mixins/FormTemplateMixin.vue:147
-#: src/components/common/mixins/FormTemplateMixin.vue:107
-#: src/components/common/mixins/FormTemplateMixin.vue:148
+#: src/components/common/mixins/FormTemplateMixin.vue:114
+#: src/components/common/mixins/FormTemplateMixin.vue:155
+#: src/components/common/mixins/FormTemplateMixin.vue:115
+#: src/components/common/mixins/FormTemplateMixin.vue:156
 msgid "There are no records to show"
 msgstr ""
 
@@ -2303,8 +2299,8 @@ msgstr ""
 msgid "TRANSFERS OF PRODUCTION/CONSUMPTION RIGHTS"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:201
-#: src/components/common/mixins/FormTemplateMixin.vue:208
+#: src/components/common/mixins/FormTemplateMixin.vue:209
+#: src/components/common/mixins/FormTemplateMixin.vue:216
 #: src/views/lookupTables/Blends.vue:136
 msgid "Type"
 msgstr ""
@@ -2475,14 +2471,14 @@ msgstr ""
 #: src/components/common/form-components/Add.vue:26
 #: src/components/common/form-components/AddBlend.vue:15
 #: src/components/common/form-components/AddBlend.vue:31
-#: src/components/common/form-components/fieldGenerator.vue:51
+#: src/components/common/form-components/fieldGenerator.vue:69
 #: src/components/exemption/form-components/Add.vue:14
 #: src/components/exemption/form-components/Add.vue:27
 #: src/components/raf/AddCategories.vue:11 src/components/raf/AddParties.vue:11
 #: src/components/raf/form-components/Add.vue:14
 #: src/components/raf/form-components/Add.vue:27 src/views/Dashboard.vue:19
 #: src/views/Dashboard.vue:30 src/views/Dashboard.vue:43
-#: src/views/Reports.vue:20 src/views/Reports.vue:32 src/views/Reports.vue:45
+#: src/views/Reports.vue:20 src/views/Reports.vue:32 src/views/Reports.vue:44
 msgid "Select option"
 msgstr ""
 
