@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-13 09:58+0000\n"
+"POT-Creation-Date: 2019-09-13 10:52+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -62,12 +62,14 @@ msgstr ""
 msgid "Add %{length} countries/regions/territories"
 msgstr ""
 
-#: src/components/common/form-components/Add.vue:45
 #: src/components/common/form-components/AddBlend.vue:71
-#: src/components/common/form-components/CloneField.vue:2
+msgid "Add %{length} mixtures"
+msgstr ""
+
+#: src/components/common/form-components/Add.vue:45
 #: src/components/exemption/form-components/Add.vue:46
 #: src/components/raf/form-components/Add.vue:46
-msgid "Add %{length} rows"
+msgid "Add %{length} substances"
 msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:79
@@ -132,7 +134,7 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:698
+#: src/components/art7/FormTemplate.vue:700
 #: src/components/exemption/FormTemplate.vue:124
 #: src/components/raf/FormTemplate.vue:232
 msgid "All the quantity values should be expressed in metric tons (not ODP or CO₂-equivalent tonnes)."
@@ -452,7 +454,7 @@ msgstr ""
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:708
+#: src/components/art7/FormTemplate.vue:710
 #: src/components/exemption/FormTemplate.vue:134
 #: src/components/raf/FormTemplate.vue:242
 msgid "Change substance"
@@ -478,7 +480,7 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:801
+#: src/components/art7/FormTemplate.vue:803
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:160
@@ -1556,7 +1558,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:1035
+#: src/components/art7/FormTemplate.vue:1037
 #: src/components/common/mixins/FormTemplateMixin.vue:108
 #: src/components/common/mixins/FormTemplateMixin.vue:109
 msgid "Please use the form on the right sidebar to add substances"
@@ -2168,7 +2170,7 @@ msgstr ""
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:703
+#: src/components/art7/FormTemplate.vue:705
 #: src/components/exemption/FormTemplate.vue:129
 #: src/components/raf/FormTemplate.vue:237
 msgid "The values are saved automatically in the table, as you type."
@@ -2489,7 +2491,7 @@ msgstr ""
 msgid "Filter"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:719
+#: src/components/art7/FormTemplate.vue:721
 #: src/components/exemption/FormTemplate.vue:145
 #: src/components/raf/FormTemplate.vue:253
 msgid "Select substance"
@@ -2547,7 +2549,7 @@ msgstr ""
 msgid "Search all columns"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:745
+#: src/components/art7/FormTemplate.vue:747
 #: src/components/raf/FormTemplate.vue:283
 msgid "Countries"
 msgstr ""
