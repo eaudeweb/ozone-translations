@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-13 10:52+0000\n"
+"POT-Creation-Date: 2019-09-13 12:30+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -431,10 +431,6 @@ msgstr ""
 msgid "Beijing Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:214
-msgid "Blends"
-msgstr "фиктивный текст"
-
 #: src/components/common/dataDefinitions/labels.js:66
 msgid "C/I"
 msgstr ""
@@ -647,6 +643,10 @@ msgstr "фиктивный текст"
 #, fuzzy
 msgid "Custom mixture added successfully."
 msgstr "фиктивный текст"
+
+#: src/views/Dashboard.vue:614
+msgid "Dashboard"
+msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:11
 msgid "Data entry in progress"
@@ -1319,6 +1319,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:34
 #: src/components/letter/dataDefinitions/labels.js:94
 #: src/components/letter/dataDefinitions/labels.js:105
+#: src/views/lookupTables/Blends.vue:214
 msgid "Mixtures"
 msgstr ""
 
@@ -1470,8 +1471,11 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:614
-msgid "Online Reporting Tool"
+#: src/views/Dashboard.vue:614 src/views/Reports.vue:104
+#: src/views/lookupTables/Blends.vue:214
+#: src/views/lookupTables/ControlledSubstances.vue:157
+#: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
+msgid "Online Reporting System"
 msgstr ""
 
 #: src/components/hat/dataDefinitions/form.js:101
@@ -2047,6 +2051,11 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:23
 msgid "Reporting Period"
+msgstr "фиктивный текст"
+
+#: src/views/Reports.vue:104 src/views/Reports.vue:18
+#, fuzzy
+msgid "Reports"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:53
@@ -2730,11 +2739,6 @@ msgstr "фиктивный текст"
 #: src/views/pages/Page404.vue:26
 msgid "What are you looking for?"
 msgstr "фиктивный текст?"
-
-#: src/views/Reports.vue:18
-#, fuzzy
-msgid "Reports"
-msgstr "фиктивный текст"
 
 #: src/views/lookupTables/Blends.vue:19
 msgid "Components"
