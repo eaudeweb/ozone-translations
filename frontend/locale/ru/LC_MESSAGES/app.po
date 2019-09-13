@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-12 15:53+0000\n"
+"POT-Creation-Date: 2019-09-13 09:58+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -63,9 +63,14 @@ msgstr "фиктивный %{length} текст"
 msgid "Add %{length} countries"
 msgstr "фиктивный %{length} текст"
 
+#: src/components/common/form-components/CloneField.vue:28
+#, fuzzy
+msgid "Add %{length} countries/regions/territories"
+msgstr "фиктивный %{length} текст"
+
 #: src/components/common/form-components/Add.vue:45
 #: src/components/common/form-components/AddBlend.vue:71
-#: src/components/common/form-components/CloneField.vue:26
+#: src/components/common/form-components/CloneField.vue:2
 #: src/components/exemption/form-components/Add.vue:46
 #: src/components/raf/form-components/Add.vue:46
 msgid "Add %{length} rows"
@@ -2663,16 +2668,8 @@ msgid "Correspondence"
 msgstr ""
 
 #: src/components/common/form-components/CloneField.vue:4
-#: src/components/raf/AddParties.vue:8
-#, fuzzy
-msgid "Add countries"
-msgstr "фиктивный текст"
-
-#: src/components/art7/FormTemplate.vue:745
-#: src/components/common/form-components/CloneField.vue:15
-#: src/components/raf/FormTemplate.vue:283
-msgid "Countries"
-msgstr "фиктивный текст"
+msgid "Select one or more countries/regions/territories"
+msgstr ""
 
 #: src/components/common/form-components/AddBlend.vue:123
 msgid "Press enter to use a new substance"
@@ -2696,6 +2693,16 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/EmissionsTemplate.vue:15
 msgid "Search all columns"
+msgstr "фиктивный текст"
+
+#: src/components/art7/FormTemplate.vue:745
+#: src/components/raf/FormTemplate.vue:283
+msgid "Countries"
+msgstr "фиктивный текст"
+
+#: src/components/raf/AddParties.vue:8
+#, fuzzy
+msgid "Add countries"
 msgstr "фиктивный текст"
 
 #: src/components/raf/AddCategories.vue:8
