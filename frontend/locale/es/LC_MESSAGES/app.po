@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-13 13:56+0000\n"
+"POT-Creation-Date: 2019-09-18 13:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/components/common/dataDefinitions/alerts.js:4
-#: src/components/common/dataDefinitions/alerts.js:17
+#: src/components/common/dataDefinitions/alerts.js:16
 msgid "A new version of this submission has been added."
 msgstr ""
 
@@ -602,7 +602,7 @@ msgstr ""
 msgid "Current State"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:13
+#: src/components/common/dataDefinitions/alerts.js:12
 msgid "Custom mixture added successfully."
 msgstr ""
 
@@ -1496,10 +1496,6 @@ msgstr ""
 msgid "Please complete the \"(3) Quantity\" field"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:7
-msgid "Please complete the Questionnaire before submitting."
-msgstr ""
-
 #: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:43
 msgid "Please confirm"
 msgstr ""
@@ -2007,11 +2003,11 @@ msgstr ""
 msgid "See definition of “non-parties” in Instruction V."
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:12
+#: src/components/common/dataDefinitions/alerts.js:11
 msgid "select at least one country for each mixture before adding."
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:9
+#: src/components/common/dataDefinitions/alerts.js:8
 msgid "select at least one country for each substance before adding."
 msgstr ""
 
@@ -2311,11 +2307,11 @@ msgstr ""
 msgid "Type of use"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:10
+#: src/components/common/dataDefinitions/alerts.js:9
 msgid "Unable to add mixture. Another mixture with this name already exists."
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:14
+#: src/components/common/dataDefinitions/alerts.js:13
 msgid "Unable to add rows for the following countries because they already exist"
 msgstr ""
 
@@ -2327,11 +2323,11 @@ msgstr ""
 msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:11
+#: src/components/common/dataDefinitions/alerts.js:10
 msgid "Unable to add the following mixtures because they already exist"
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:8
+#: src/components/common/dataDefinitions/alerts.js:7
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
@@ -2339,7 +2335,7 @@ msgstr ""
 msgid "Unable to delete submission."
 msgstr ""
 
-#: src/components/common/dataDefinitions/alerts.js:15
+#: src/components/common/dataDefinitions/alerts.js:14
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
@@ -2445,7 +2441,7 @@ msgid "You are about to reinstate this submission, which will supersede (replace
 msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:6
-#: src/components/common/dataDefinitions/alerts.js:16
+#: src/components/common/dataDefinitions/alerts.js:15
 msgid "You have unsaved changes. Please save the submission first."
 msgstr ""
 
