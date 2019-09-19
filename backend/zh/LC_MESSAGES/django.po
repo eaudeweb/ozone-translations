@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-18 16:36+0300\n"
+"POT-Creation-Date: 2019-09-19 10:42+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -162,14 +162,14 @@ msgid "Substance"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:255
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:237
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:239
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:243
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:245
 msgid "New"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:256
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:238
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:240
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:244
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:246
 msgid "Recovered"
 msgstr ""
 
@@ -317,11 +317,11 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:131
+#: ozone/core/api/export_pdf/art7/section_info.py:137
 msgid "Provisional"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:136
+#: ozone/core/api/export_pdf/art7/section_info.py:142
 msgid "Printed at"
 msgstr ""
 
@@ -495,33 +495,33 @@ msgstr ""
 msgid "PRODUCTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:122
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:128
 msgid "Subtotal ODS in ODP tonnes"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:193
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:199
 msgid "Annex III"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:202
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:208
 #, python-brace-format
 msgid "{period} import and export of new and recovered substances"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:214
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:220
 msgid ""
 "(in ODP tonnes for annexes A,B,C,E and CO2-equivalent tonnes for annex F)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:230
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:236
 msgid "IMPORTS"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:232
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:238
 msgid "EXPORTS"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:247
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:253
 #, python-brace-format
 msgid "{party_name} {party_type} - Population*: {population}"
 msgstr ""
@@ -764,7 +764,7 @@ msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
 
-#: ozone/core/models/legal.py:72
+#: ozone/core/models/legal.py:82
 msgid "The end date must be greater than the start date."
 msgstr ""
 
