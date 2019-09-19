@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-19 12:29+0300\n"
+"POT-Creation-Date: 2019-09-19 13:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -876,11 +876,7 @@ msgstr ""
 msgid "alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:408
-msgid "Predefined blends composition cannot be changed."
-msgstr ""
-
-#: ozone/core/models/substance.py:448 ozone/core/models/substance.py:451
+#: ozone/core/models/substance.py:439 ozone/core/models/substance.py:442
 msgid "Substance or component name must be set."
 msgstr ""
 
