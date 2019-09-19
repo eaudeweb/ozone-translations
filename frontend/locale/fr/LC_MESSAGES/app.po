@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-19 07:43+0000\n"
+"POT-Creation-Date: 2019-09-19 14:55+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -485,14 +485,14 @@ msgstr ""
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
-#: src/components/hat/TabsManager.vue:133
+#: src/components/hat/TabsManager.vue:132
 #: src/components/letter/TabsManager.vue:55
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
 #: src/components/raf/FormTemplate.vue:381
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
-#: src/components/raf/TabsManager.vue:137
+#: src/components/raf/TabsManager.vue:136
 msgid "Close"
 msgstr ""
 
@@ -630,10 +630,10 @@ msgid "Data is valid and saved"
 msgstr ""
 
 #: src/components/exemption/TabsManager.vue:178
-#: src/components/hat/TabsManager.vue:217
-#: src/components/letter/TabsManager.vue:162
+#: src/components/hat/TabsManager.vue:216
+#: src/components/letter/TabsManager.vue:161
 #: src/components/otherRo/TabsManager.vue:208
-#: src/components/raf/TabsManager.vue:221
+#: src/components/raf/TabsManager.vue:220
 msgid "data submission for"
 msgstr ""
 
@@ -697,10 +697,10 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:143
 #: src/components/common/dataDefinitions/labels.js:17
-#: src/components/hat/TabsManager.vue:116
-#: src/components/letter/TabsManager.vue:87
+#: src/components/hat/TabsManager.vue:115
+#: src/components/letter/TabsManager.vue:86
 #: src/components/otherRo/TabsManager.vue:107
-#: src/components/raf/TabsManager.vue:120
+#: src/components/raf/TabsManager.vue:119
 msgid "Delete Submission"
 msgstr ""
 
@@ -2401,8 +2401,8 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:111
 #: src/components/common/dataDefinitions/labels.js:18
-#: src/components/hat/TabsManager.vue:108
-#: src/components/letter/TabsManager.vue:80
+#: src/components/hat/TabsManager.vue:107
+#: src/components/letter/TabsManager.vue:79
 #: src/components/otherRo/TabsManager.vue:75
 #: src/components/raf/TabsManager.vue:86
 msgid "Versions"
@@ -2461,10 +2461,10 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:153
 #: src/components/exemption/TabsManager.vue:98
-#: src/components/hat/TabsManager.vue:126
-#: src/components/letter/TabsManager.vue:97
+#: src/components/hat/TabsManager.vue:125
+#: src/components/letter/TabsManager.vue:96
 #: src/components/otherRo/TabsManager.vue:117
-#: src/components/raf/TabsManager.vue:130
+#: src/components/raf/TabsManager.vue:129
 msgid "Submission versions"
 msgstr ""
 
