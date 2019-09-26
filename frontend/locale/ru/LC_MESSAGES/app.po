@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-19 14:55+0000\n"
+"POT-Creation-Date: 2019-09-26 13:28+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1423,8 +1423,8 @@ msgstr "фиктивный текст"
 msgid "Non-Party"
 msgstr "фиктивный текст"
 
-#: src/components/exemption/form-components/Add.vue:184
-#: src/components/raf/form-components/Add.vue:192
+#: src/components/exemption/form-components/Add.vue:185
+#: src/components/raf/form-components/Add.vue:193
 #, fuzzy
 msgid "not added because two entries already exist."
 msgstr "фиктивный текст"
