@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-27 13:03+0300\n"
+"POT-Creation-Date: 2019-09-27 14:43+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -761,15 +761,15 @@ msgstr "фиктивный текст!"
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:977
+#: ozone/core/models/data.py:1015
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:994
+#: ozone/core/models/data.py:1032
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1261
+#: ozone/core/models/data.py:1299
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
@@ -797,7 +797,7 @@ msgstr ""
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/models/reporting.py:68 ozone/core/models/reporting.py:1677
+#: ozone/core/models/reporting.py:68 ozone/core/models/reporting.py:1716
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -880,19 +880,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1654
+#: ozone/core/models/reporting.py:1693
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1669
+#: ozone/core/models/reporting.py:1708
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1685
+#: ozone/core/models/reporting.py:1724
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1864
+#: ozone/core/models/reporting.py:1903
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -906,7 +906,7 @@ msgstr ""
 msgid "alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:439 ozone/core/models/substance.py:442
+#: ozone/core/models/substance.py:448 ozone/core/models/substance.py:451
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 
