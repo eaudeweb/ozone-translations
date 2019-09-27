@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-27 02:05+0000\n"
+"POT-Creation-Date: 2019-09-27 12:19+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -134,7 +134,7 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:700
+#: src/components/art7/FormTemplate.vue:699
 #: src/components/exemption/FormTemplate.vue:124
 #: src/components/raf/FormTemplate.vue:232
 msgid "All the quantity values should be expressed in metric tons (not ODP or CO₂-equivalent tonnes)."
@@ -253,8 +253,8 @@ msgstr ""
 msgid "Amount used for feedstock without prior capture"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:198
-#: src/components/art7/FormTemplate.vue:407
+#: src/components/art7/FormTemplate.vue:197
+#: src/components/art7/FormTemplate.vue:406
 msgid "Amounts contained in pre-blended polyols, not to be included in the amount of total imports"
 msgstr ""
 
@@ -382,7 +382,6 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:51
 #: src/components/common/AggregationsTable.vue:54
 #: src/views/reports/Consumption.vue:89 src/views/reports/Consumption.vue:92
-#: src/views/reports/Consumption.vue:95
 msgid "Baseline"
 msgstr ""
 
@@ -446,7 +445,7 @@ msgstr ""
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:710
+#: src/components/art7/FormTemplate.vue:709
 #: src/components/exemption/FormTemplate.vue:134
 #: src/components/raf/FormTemplate.vue:242
 msgid "Change substance"
@@ -472,7 +471,7 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:803
+#: src/components/art7/FormTemplate.vue:802
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:160
@@ -673,17 +672,17 @@ msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:11
 #: src/components/art7/FormTemplate.vue:13
-#: src/components/art7/FormTemplate.vue:232
-#: src/components/art7/FormTemplate.vue:441
+#: src/components/art7/FormTemplate.vue:231
+#: src/components/art7/FormTemplate.vue:440
 #: src/components/common/dataDefinitions/labels.js:53
 #: src/components/exemption/FormTemplate.vue:9
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
 #: src/components/otherRo/FormTemplate.vue:7
 #: src/components/raf/FormTemplate.vue:9
-#: src/components/art7/FormTemplate.vue:115
-#: src/components/art7/FormTemplate.vue:324
-#: src/components/art7/FormTemplate.vue:552
+#: src/components/art7/FormTemplate.vue:114
+#: src/components/art7/FormTemplate.vue:323
+#: src/components/art7/FormTemplate.vue:551
 #: src/components/exemption/FormTemplate.vue:74
 #: src/components/hat/FormTemplate.vue:96
 #: src/components/hat/FormTemplate.vue:215
@@ -782,9 +781,9 @@ msgid "E/I"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:50
-#: src/components/art7/FormTemplate.vue:108
-#: src/components/art7/FormTemplate.vue:317
-#: src/components/art7/FormTemplate.vue:545
+#: src/components/art7/FormTemplate.vue:107
+#: src/components/art7/FormTemplate.vue:316
+#: src/components/art7/FormTemplate.vue:544
 #: src/components/exemption/FormTemplate.vue:67
 #: src/components/hat/FormTemplate.vue:89
 #: src/components/hat/FormTemplate.vue:208
@@ -793,12 +792,12 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:691
+#: src/components/art7/FormTemplate.vue:690
 #: src/components/raf/FormTemplate.vue:225
 msgid "Edit %{name} mixture"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:687
+#: src/components/art7/FormTemplate.vue:686
 #: src/components/exemption/FormTemplate.vue:117
 #: src/components/raf/FormTemplate.vue:221
 msgid "Edit %{name} substance"
@@ -1042,7 +1041,7 @@ msgstr ""
 msgid "HAT"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:229
+#: src/components/art7/FormTemplate.vue:228
 msgid "HFC-23"
 msgstr ""
 
@@ -1224,7 +1223,7 @@ msgstr ""
 msgid "Mixture"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:438
+#: src/components/art7/FormTemplate.vue:437
 #: src/components/art7/dataDefinitions/labels.js:8
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
@@ -1554,7 +1553,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:1037
+#: src/components/art7/FormTemplate.vue:1036
 #: src/components/common/mixins/FormTemplateMixin.vue:116
 #: src/components/common/mixins/FormTemplateMixin.vue:117
 msgid "Please use the form on the right sidebar to add substances"
@@ -1725,9 +1724,9 @@ msgstr ""
 msgid "Quantity of imports from non-parties (recovered)"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:157
-#: src/components/art7/FormTemplate.vue:366
-#: src/components/art7/FormTemplate.vue:594
+#: src/components/art7/FormTemplate.vue:156
+#: src/components/art7/FormTemplate.vue:365
+#: src/components/art7/FormTemplate.vue:593
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications within your country %{production}"
 msgstr ""
 
@@ -1838,11 +1837,11 @@ msgstr ""
 msgid "Release"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:171
-#: src/components/art7/FormTemplate.vue:211
-#: src/components/art7/FormTemplate.vue:380
-#: src/components/art7/FormTemplate.vue:420
-#: src/components/art7/FormTemplate.vue:608
+#: src/components/art7/FormTemplate.vue:170
+#: src/components/art7/FormTemplate.vue:210
+#: src/components/art7/FormTemplate.vue:379
+#: src/components/art7/FormTemplate.vue:419
+#: src/components/art7/FormTemplate.vue:607
 msgid "Remark"
 msgstr ""
 
@@ -2013,8 +2012,8 @@ msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:11
 #: src/components/art7/FormTemplate.vue:13
-#: src/components/art7/FormTemplate.vue:232
-#: src/components/art7/FormTemplate.vue:441
+#: src/components/art7/FormTemplate.vue:231
+#: src/components/art7/FormTemplate.vue:440
 #: src/components/exemption/FormTemplate.vue:9
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:114
@@ -2170,7 +2169,7 @@ msgstr ""
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:705
+#: src/components/art7/FormTemplate.vue:704
 #: src/components/exemption/FormTemplate.vue:129
 #: src/components/raf/FormTemplate.vue:237
 msgid "The values are saved automatically in the table, as you type."
@@ -2480,8 +2479,8 @@ msgid "Select option"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:17
-#: src/components/art7/FormTemplate.vue:237
-#: src/components/art7/FormTemplate.vue:445
+#: src/components/art7/FormTemplate.vue:236
+#: src/components/art7/FormTemplate.vue:444
 #: src/components/exemption/FormTemplate.vue:13
 #: src/components/hat/FormTemplate.vue:14
 #: src/components/hat/FormTemplate.vue:118
@@ -2491,7 +2490,7 @@ msgstr ""
 msgid "Filter"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:721
+#: src/components/art7/FormTemplate.vue:720
 #: src/components/exemption/FormTemplate.vue:145
 #: src/components/raf/FormTemplate.vue:253
 msgid "Select substance"
@@ -2549,7 +2548,7 @@ msgstr ""
 msgid "Search all columns"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:747
+#: src/components/art7/FormTemplate.vue:746
 #: src/components/raf/FormTemplate.vue:283
 msgid "Countries"
 msgstr ""
