@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-27 12:19+0000\n"
+"POT-Creation-Date: 2019-09-29 14:49+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -309,9 +309,10 @@ msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionInfo.vue:119
-#, fuzzy
-msgid "Annex groups reported in full"
-msgstr "фиктивный текст"
+msgid ""
+"Annex groups reported in full\n"
+"          <i class=\"fa fa-info-circle fa-sm\"/>"
+msgstr ""
 
 #: src/components/raf/dataDefinitions/labels.js:17
 #: src/components/raf/dataDefinitions/labels.js:43
@@ -2054,7 +2055,7 @@ msgstr "фиктивный текст"
 msgid "required"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:240
+#: src/components/common/SubmissionInfo.vue:245
 #: src/components/common/dataDefinitions/tabSubInfo.js:106
 #: src/components/common/dataDefinitions/tabSubInfo.js:113
 msgid "Required"
@@ -2197,7 +2198,7 @@ msgstr "фиктивный текст"
 msgid "SUBMISSION INFORMATION"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:156
+#: src/components/common/SubmissionInfo.vue:161
 #, fuzzy
 msgid "Submission status"
 msgstr "фиктивный текст"
@@ -2693,6 +2694,10 @@ msgstr "фиктивный текст"
 #, fuzzy
 msgid "party"
 msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionInfo.vue:122
+msgid "Select the annex groups for which you are submitting complete data, including reporting of zeros where appropriate, e.g. for phased-out substances or annex groups."
+msgstr ""
 
 #: src/components/art7/EmissionsTemplate.vue:15
 msgid "Search all columns"
