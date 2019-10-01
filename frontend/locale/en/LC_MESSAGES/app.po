@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-29 14:49+0000\n"
+"POT-Creation-Date: 2019-10-01 07:34+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -476,21 +476,21 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:802
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
-#: src/components/art7/TabsManager.vue:160
-#: src/components/common/AggregationsModal.vue:17
+#: src/components/art7/TabsManager.vue:156
+#: src/components/common/AggregationsModal.vue:13
 #: src/components/common/OzoneMail.vue:69
 #: src/components/exemption/FormTemplate.vue:167
 #: src/components/exemption/TabsManager.vue:62
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
-#: src/components/hat/TabsManager.vue:132
+#: src/components/hat/TabsManager.vue:128
 #: src/components/letter/TabsManager.vue:55
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
 #: src/components/raf/FormTemplate.vue:381
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
-#: src/components/raf/TabsManager.vue:136
+#: src/components/raf/TabsManager.vue:132
 msgid "Close"
 msgstr ""
 
@@ -628,10 +628,10 @@ msgid "Data is valid and saved"
 msgstr ""
 
 #: src/components/exemption/TabsManager.vue:178
-#: src/components/hat/TabsManager.vue:216
+#: src/components/hat/TabsManager.vue:214
 #: src/components/letter/TabsManager.vue:161
 #: src/components/otherRo/TabsManager.vue:208
-#: src/components/raf/TabsManager.vue:220
+#: src/components/raf/TabsManager.vue:218
 msgid "data submission for"
 msgstr ""
 
@@ -693,12 +693,12 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:143
+#: src/components/art7/TabsManager.vue:139
 #: src/components/common/dataDefinitions/labels.js:17
-#: src/components/hat/TabsManager.vue:115
+#: src/components/hat/TabsManager.vue:111
 #: src/components/letter/TabsManager.vue:86
 #: src/components/otherRo/TabsManager.vue:107
-#: src/components/raf/TabsManager.vue:119
+#: src/components/raf/TabsManager.vue:115
 msgid "Delete Submission"
 msgstr ""
 
@@ -2065,7 +2065,7 @@ msgstr ""
 msgid "Submission information"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:216
+#: src/components/art7/TabsManager.vue:214
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
 #: src/components/letter/TabsManager.vue:33
 #: src/components/letter/TabsManager.vue:31
@@ -2084,14 +2084,14 @@ msgstr ""
 msgid "Submission status updated successfully."
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:120
+#: src/components/art7/TabsManager.vue:116
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:69
 #: src/components/hat/TabsManager.vue:82
 #: src/components/letter/TabsManager.vue:62
 #: src/components/letter/dataDefinitions/labels.js:122
 #: src/components/otherRo/TabsManager.vue:84
-#: src/components/raf/TabsManager.vue:95
+#: src/components/raf/TabsManager.vue:91
 msgid "Submit"
 msgstr ""
 
@@ -2390,12 +2390,12 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:111
+#: src/components/art7/TabsManager.vue:107
 #: src/components/common/dataDefinitions/labels.js:18
-#: src/components/hat/TabsManager.vue:107
+#: src/components/hat/TabsManager.vue:103
 #: src/components/letter/TabsManager.vue:79
 #: src/components/otherRo/TabsManager.vue:75
-#: src/components/raf/TabsManager.vue:86
+#: src/components/raf/TabsManager.vue:82
 msgid "Versions"
 msgstr ""
 
@@ -2450,12 +2450,12 @@ msgstr ""
 msgid "You must specify a recipient"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:153
+#: src/components/art7/TabsManager.vue:149
 #: src/components/exemption/TabsManager.vue:98
-#: src/components/hat/TabsManager.vue:125
+#: src/components/hat/TabsManager.vue:121
 #: src/components/letter/TabsManager.vue:96
 #: src/components/otherRo/TabsManager.vue:117
-#: src/components/raf/TabsManager.vue:129
+#: src/components/raf/TabsManager.vue:125
 msgid "Submission versions"
 msgstr ""
 
