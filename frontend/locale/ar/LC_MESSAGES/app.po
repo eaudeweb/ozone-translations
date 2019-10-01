@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 11:13+0000\n"
+"POT-Creation-Date: 2019-10-01 12:01+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -479,7 +479,7 @@ msgstr ""
 #: src/components/common/AggregationsModal.vue:13
 #: src/components/common/OzoneMail.vue:69
 #: src/components/exemption/FormTemplate.vue:167
-#: src/components/exemption/TabsManager.vue:62
+#: src/components/exemption/TabsManager.vue:63
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
 #: src/components/hat/TabsManager.vue:128
@@ -626,7 +626,7 @@ msgstr ""
 msgid "Data is valid and saved"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:178
+#: src/components/exemption/TabsManager.vue:179
 #: src/components/hat/TabsManager.vue:214
 #: src/components/letter/TabsManager.vue:161
 #: src/components/otherRo/TabsManager.vue:208
@@ -1556,6 +1556,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:1036
 #: src/components/common/mixins/FormTemplateMixin.vue:116
+#: src/components/exemption/FormTemplate.vue:198
 #: src/components/common/mixins/FormTemplateMixin.vue:117
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
@@ -2081,7 +2082,7 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:116
 #: src/components/common/dataDefinitions/labels.js:9
-#: src/components/exemption/TabsManager.vue:69
+#: src/components/exemption/TabsManager.vue:70
 #: src/components/hat/TabsManager.vue:82
 #: src/components/letter/TabsManager.vue:62
 #: src/components/letter/dataDefinitions/labels.js:122
@@ -2185,6 +2186,10 @@ msgstr ""
 
 #: src/components/otherRo/dataDefinitions/form.js:39
 msgid "This form shows transfer of production/consumption rights in accordance with paragraphs 5,5 bis,7 of Article 2."
+msgstr ""
+
+#: src/components/exemption/FormTemplate.vue:196
+msgid "This table shows substances and amounts once the secretariat processes your submission"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:179
@@ -2446,7 +2451,7 @@ msgid "You must specify a recipient"
 msgstr ""
 
 #: src/components/art7/TabsManager.vue:149
-#: src/components/exemption/TabsManager.vue:98
+#: src/components/exemption/TabsManager.vue:99
 #: src/components/hat/TabsManager.vue:121
 #: src/components/letter/TabsManager.vue:96
 #: src/components/otherRo/TabsManager.vue:117
