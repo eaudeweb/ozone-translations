@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 12:01+0000\n"
+"POT-Creation-Date: 2019-10-01 13:42+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -2056,7 +2056,7 @@ msgstr "фиктивный текст"
 msgid "required"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:245
+#: src/components/common/SubmissionInfo.vue:251
 #: src/components/common/dataDefinitions/tabSubInfo.js:106
 #: src/components/common/dataDefinitions/tabSubInfo.js:113
 msgid "Required"

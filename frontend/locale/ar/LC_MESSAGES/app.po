@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 12:01+0000\n"
+"POT-Creation-Date: 2019-10-01 13:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -1944,7 +1944,7 @@ msgstr ""
 msgid "required"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:245
+#: src/components/common/SubmissionInfo.vue:251
 #: src/components/common/dataDefinitions/tabSubInfo.js:106
 #: src/components/common/dataDefinitions/tabSubInfo.js:113
 msgid "Required"
