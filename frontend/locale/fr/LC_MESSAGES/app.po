@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 07:34+0000\n"
+"POT-Creation-Date: 2019-10-01 11:13+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -434,7 +434,7 @@ msgstr ""
 #: src/components/common/form-components/AddBlend.vue:146
 #: src/components/exemption/form-components/Add.vue:51
 #: src/components/raf/AddCategories.vue:34 src/components/raf/AddParties.vue:34
-#: src/components/raf/form-components/Add.vue:51
+#: src/components/raf/form-components/Add.vue:51 src/views/UserProfile.vue:52
 msgid "Cancel"
 msgstr ""
 
@@ -793,7 +793,7 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:89
 #: src/components/hat/FormTemplate.vue:208
 #: src/components/raf/FormTemplate.vue:79
-#: src/components/raf/FormTemplate.vue:176
+#: src/components/raf/FormTemplate.vue:176 src/views/UserProfile.vue:46
 msgid "Edit"
 msgstr ""
 
@@ -1458,13 +1458,13 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabSubInfo.js:15
 #: src/views/Dashboard.vue:386 src/views/Dashboard.vue:402
 #: src/views/Dashboard.vue:430 src/views/Dashboard.vue:445
-#: src/views/UserProfile.vue:37 src/views/reports/Consumption.vue:86
+#: src/views/UserProfile.vue:38 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:41 src/views/Dashboard.vue:87
 #: src/views/Dashboard.vue:195 src/views/Reports.vue:42
 msgid "Party"
 msgstr ""
 
-#: src/views/UserProfile.vue:28
+#: src/views/UserProfile.vue:29
 msgid "Party:"
 msgstr ""
 
@@ -1802,7 +1802,7 @@ msgstr ""
 msgid "Ratification details"
 msgstr ""
 
-#: src/views/UserProfile.vue:39
+#: src/views/UserProfile.vue:40
 msgid "read-only"
 msgstr ""
 
@@ -1978,12 +1978,8 @@ msgstr ""
 msgid "Revise"
 msgstr ""
 
-#: src/views/UserProfile.vue:34
+#: src/views/UserProfile.vue:35
 msgid "Role:"
-msgstr ""
-
-#: src/views/UserProfile.vue:44
-msgid "Save"
 msgstr ""
 
 #: src/components/common/mixins/SaveMixin.vue:8
@@ -2002,7 +1998,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
 #: src/views/Dashboard.vue:386 src/views/Dashboard.vue:430
-#: src/views/UserProfile.vue:36
+#: src/views/UserProfile.vue:37
 msgid "Secretariat"
 msgstr ""
 
@@ -2367,11 +2363,11 @@ msgstr ""
 msgid "Uploaded files"
 msgstr ""
 
-#: src/views/UserProfile.vue:22
+#: src/views/UserProfile.vue:23
 msgid "User name:"
 msgstr ""
 
-#: src/components/common/Header.vue:32 src/views/UserProfile.vue:65
+#: src/components/common/Header.vue:32 src/views/UserProfile.vue:73
 msgid "User profile"
 msgstr ""
 
@@ -2608,4 +2604,8 @@ msgstr ""
 
 #: src/views/UserProfile.vue:13
 msgid "Language"
+msgstr ""
+
+#: src/views/UserProfile.vue:49
+msgid "Save"
 msgstr ""
