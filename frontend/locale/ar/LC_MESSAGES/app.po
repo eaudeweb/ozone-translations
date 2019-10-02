@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 13:56+0000\n"
+"POT-Creation-Date: 2019-10-02 11:16+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -283,7 +283,7 @@ msgstr ""
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:119
+#: src/components/common/SubmissionInfo.vue:121
 msgid ""
 "Annex groups reported in full\n"
 "          <i class=\"fa fa-info-circle fa-sm\"/>"
@@ -1944,7 +1944,7 @@ msgstr ""
 msgid "required"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:251
+#: src/components/common/SubmissionInfo.vue:254
 #: src/components/common/dataDefinitions/tabSubInfo.js:106
 #: src/components/common/dataDefinitions/tabSubInfo.js:113
 msgid "Required"
@@ -2072,7 +2072,7 @@ msgstr ""
 msgid "SUBMISSION INFORMATION"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:161
+#: src/components/common/SubmissionInfo.vue:164
 msgid "Submission status"
 msgstr ""
 
@@ -2546,7 +2546,7 @@ msgstr ""
 msgid "party"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:122
+#: src/components/common/SubmissionInfo.vue:124
 msgid "Select the annex groups for which you are submitting complete data, including reporting of zeros where appropriate, e.g. for phased-out substances or annex groups."
 msgstr ""
 
