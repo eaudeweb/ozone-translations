@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-02 13:56+0300\n"
+"POT-Creation-Date: 2019-10-02 14:13+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -841,13 +841,13 @@ msgstr "фиктивный текст"
 #: ozone/core/models/reporting.py:922
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
-msgid "User do not have permission to change this flag."
+msgid "User does not have permission to change this flag."
 msgstr "фиктивный текст"
 
 #: ozone/core/models/reporting.py:989
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
-msgid "User do not have permission to change this remark."
+msgid "User does not have permission to change this remark."
 msgstr "фиктивный текст"
 
 #: ozone/core/models/reporting.py:1157

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-02 13:56+0300\n"
+"POT-Creation-Date: 2019-10-02 14:13+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -823,11 +823,11 @@ msgid ""
 msgstr ""
 
 #: ozone/core/models/reporting.py:922
-msgid "User do not have permission to change this flag."
+msgid "User does not have permission to change this flag."
 msgstr ""
 
 #: ozone/core/models/reporting.py:989
-msgid "User do not have permission to change this remark."
+msgid "User does not have permission to change this remark."
 msgstr ""
 
 #: ozone/core/models/reporting.py:1157
