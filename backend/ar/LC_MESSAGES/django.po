@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-03 16:59+0300\n"
+"POT-Creation-Date: 2019-10-03 17:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -877,7 +877,7 @@ msgstr ""
 msgid "alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:448 ozone/core/models/substance.py:451
+#: ozone/core/models/substance.py:456 ozone/core/models/substance.py:459
 msgid "Substance or component name must be set."
 msgstr ""
 
