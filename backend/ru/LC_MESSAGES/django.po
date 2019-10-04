@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-03 17:20+0300\n"
+"POT-Creation-Date: 2019-10-04 15:21+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -761,15 +761,15 @@ msgstr "фиктивный текст!"
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:1032
+#: ozone/core/models/data.py:995
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1049
+#: ozone/core/models/data.py:1012
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1316
+#: ozone/core/models/data.py:1279
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
@@ -797,7 +797,7 @@ msgstr ""
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/models/reporting.py:69 ozone/core/models/reporting.py:1730
+#: ozone/core/models/reporting.py:69 ozone/core/models/reporting.py:1698
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -880,19 +880,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1707
+#: ozone/core/models/reporting.py:1675
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1722
+#: ozone/core/models/reporting.py:1690
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1738
+#: ozone/core/models/reporting.py:1706
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1919
+#: ozone/core/models/reporting.py:1887
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
