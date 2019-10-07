@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-07 13:01+0300\n"
+"POT-Creation-Date: 2019-10-07 13:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,7 +78,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_labuses.py:88
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:47
 #: ozone/core/api/export_pdf/art7/section_production.py:120
-#: ozone/core/api/export_pdf/reports/prodcons.py:74
+#: ozone/core/api/export_pdf/reports/prodcons.py:75
 msgid "Annex/Group"
 msgstr ""
 
@@ -493,7 +493,7 @@ msgid "2.2 Comments"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/section_production.py:54
-#: ozone/core/api/export_pdf/reports/prodcons.py:75
+#: ozone/core/api/export_pdf/reports/prodcons.py:76
 msgid "PRODUCTION"
 msgstr ""
 
@@ -528,47 +528,47 @@ msgstr ""
 msgid "{party_name} {party_type} - Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:47
+#: ozone/core/api/export_pdf/reports/prodcons.py:48
 #, python-brace-format
 msgid ""
 "{party_name} - Date Reported: {date_reported}\n"
 "                    {party_type} {party_region} - Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:79
+#: ozone/core/api/export_pdf/reports/prodcons.py:80
 msgid "CONSUMPTION"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:88
-#: ozone/core/api/export_pdf/reports/prodcons.py:92
-msgid "Base"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/prodcons.py:89
 #: ozone/core/api/export_pdf/reports/prodcons.py:93
-msgid "% Chng"
+msgid "Base"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/prodcons.py:90
 #: ozone/core/api/export_pdf/reports/prodcons.py:94
+msgid "% Chng"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons.py:91
+#: ozone/core/api/export_pdf/reports/prodcons.py:95
 msgid "Limit"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:95
+#: ozone/core/api/export_pdf/reports/prodcons.py:96
 msgid "Per Cap. Cons."
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:107
+#: ozone/core/api/export_pdf/reports/prodcons.py:108
 #, python-brace-format
 msgid "Production and Consumption of ODSs for {period} (ODP tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:125
+#: ozone/core/api/export_pdf/reports/prodcons.py:126
 #, python-brace-format
 msgid "Production and Consumption of HFCs for {period} (CO2-equivalent tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:145
+#: ozone/core/api/export_pdf/reports/prodcons.py:146
 msgid ""
 "* Population in thousands <br/>\n"
 "        ** Consumption and Production numbers are rounded to a uniform "
@@ -576,16 +576,13 @@ msgid ""
 "        - = Data Not Reported and Party has no Obligation to have Reported "
 "that data at this time. <br/>\n"
 "        N.R. = Data Not Reported but Party is required to have reported | \n"
-"        DIV0 = Division was not evaluated due to a zero or negative base.\n"
 "        AFR = Africa | \n"
 "        ASIA = Asia | \n"
 "        EEUR = Eastern Europe | \n"
 "        LAC = Latin America & the Caribbean | \n"
-"        WEUR = Western Europe & others\n"
+"        WEUR = Western Europe & others | \n"
 "        A5 = Article 5 Party | \n"
-"        CEIT = Country with Economy in Transition | \n"
-"        EU = Member of the European Union | \n"
-"        Non-A5 = Non-Article 5 Party"
+"        NA5 = Non-Article 5 Party"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:77
@@ -869,15 +866,15 @@ msgid ""
 "already set as default for "
 msgstr ""
 
-#: ozone/core/models/substance.py:57
+#: ozone/core/models/substance.py:67
 msgid "alternate name"
 msgstr ""
 
-#: ozone/core/models/substance.py:64
+#: ozone/core/models/substance.py:74
 msgid "alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:456 ozone/core/models/substance.py:459
+#: ozone/core/models/substance.py:466 ozone/core/models/substance.py:469
 msgid "Substance or component name must be set."
 msgstr ""
 
