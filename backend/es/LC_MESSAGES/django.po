@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-08 15:28+0300\n"
+"POT-Creation-Date: 2019-10-08 16:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -783,7 +783,7 @@ msgstr ""
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/models/reporting.py:69 ozone/core/models/reporting.py:1704
+#: ozone/core/models/reporting.py:69 ozone/core/models/reporting.py:1705
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -851,15 +851,15 @@ msgstr ""
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1696
+#: ozone/core/models/reporting.py:1697
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1712
+#: ozone/core/models/reporting.py:1713
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1893
+#: ozone/core/models/reporting.py:1894
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
