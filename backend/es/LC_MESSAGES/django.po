@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-10 17:18+0300\n"
+"POT-Creation-Date: 2019-10-15 16:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -762,7 +762,7 @@ msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
 
-#: ozone/core/models/legal.py:82
+#: ozone/core/models/legal.py:86
 msgid "The end date must be greater than the start date."
 msgstr ""
 
