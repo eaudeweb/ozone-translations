@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-02 11:16+0000\n"
+"POT-Creation-Date: 2019-10-16 14:17+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -915,6 +915,9 @@ msgid "File not uploaded yet"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabFiles.js:9
+#: src/components/exemption/dataDefinitions/tabFiles.js:9
+#: src/components/letter/dataDefinitions/tabFiles.js:9
+#: src/components/otherRo/dataDefinitions/tabFiles.js:9
 #: src/components/letter/TabsManager.vue:40
 msgid "Files"
 msgstr ""
@@ -2147,6 +2150,9 @@ msgid "Superseded"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabFiles.js:10
+#: src/components/exemption/dataDefinitions/tabFiles.js:10
+#: src/components/letter/dataDefinitions/tabFiles.js:10
+#: src/components/otherRo/dataDefinitions/tabFiles.js:10
 msgid "SUPPORTING DOCUMENTS"
 msgstr ""
 
