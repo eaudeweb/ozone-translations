@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-16 17:29+0300\n"
+"POT-Creation-Date: 2019-10-16 18:45+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -23,40 +23,40 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:103
+#: ozone/core/admin.py:106
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:118
+#: ozone/core/admin.py:121
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:121
+#: ozone/core/admin.py:124
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:124
+#: ozone/core/admin.py:127
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:357
+#: ozone/core/admin.py:374
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:360
+#: ozone/core/admin.py:377
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:362
+#: ozone/core/admin.py:379
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:368
+#: ozone/core/admin.py:385
 msgid "Login"
 msgstr ""
 
@@ -719,6 +719,36 @@ msgstr ""
 
 #: ozone/core/api/views.py:2109
 msgid "You do not have permission to upload files for this submission"
+msgstr ""
+
+#: ozone/core/calculated/baselines.py:773
+#, python-format
+msgid "Created %d baselines"
+msgstr ""
+
+#: ozone/core/calculated/baselines.py:788
+#, python-format
+msgid "Updated %d baselines"
+msgstr ""
+
+#: ozone/core/calculated/baselines.py:801
+#, python-format
+msgid "Removed %d baselines"
+msgstr ""
+
+#: ozone/core/calculated/limits.py:279
+#, python-format
+msgid "Created %d limits"
+msgstr ""
+
+#: ozone/core/calculated/limits.py:294
+#, python-format
+msgid "Updated %d limits"
+msgstr ""
+
+#: ozone/core/calculated/limits.py:307
+#, python-format
+msgid "Removed %d limits"
 msgstr ""
 
 #: ozone/core/management/commands/import_procagents.py:36
