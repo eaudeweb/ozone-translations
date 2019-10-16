@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-16 17:15+0300\n"
+"POT-Creation-Date: 2019-10-16 17:29+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -974,6 +974,16 @@ msgstr ""
 
 #: ozone/core/serializers.py:1339
 msgid "Specified file id not found for this submission"
+msgstr ""
+
+#: ozone/templates/admin/403_csrf.html:8
+#, python-format
+msgid ""
+"\n"
+"      Login failed. You have probably logged in in another browser tab.\n"
+"      <a href=\"%(login_url)s\">Click here</a> to reload this page and try "
+"again.\n"
+"      "
 msgstr ""
 
 #: ozone/templates/admin/login.html:113
