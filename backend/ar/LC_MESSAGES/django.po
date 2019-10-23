@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-23 09:48+0300\n"
+"POT-Creation-Date: 2019-10-23 10:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -780,15 +780,15 @@ msgstr ""
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:995
+#: ozone/core/models/data.py:996
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:1012
+#: ozone/core/models/data.py:1013
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
-#: ozone/core/models/data.py:1279
+#: ozone/core/models/data.py:1280
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
