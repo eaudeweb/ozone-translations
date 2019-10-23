@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-16 14:17+0000\n"
+"POT-Creation-Date: 2019-10-23 06:19+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -1045,6 +1045,10 @@ msgstr ""
 msgid "HAT"
 msgstr ""
 
+#: src/components/common/Header.vue:40
+msgid "Help"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:228
 msgid "HFC-23"
 msgstr ""
@@ -1201,7 +1205,7 @@ msgstr ""
 msgid "LIST OF USES OF CONTROLLED SUBSTANCES AS PROCESS AGENTS"
 msgstr ""
 
-#: src/components/common/Header.vue:41
+#: src/components/common/Header.vue:45
 msgid "Logout"
 msgstr ""
 
@@ -1838,7 +1842,7 @@ msgstr ""
 msgid "Reinstate"
 msgstr ""
 
-#: src/components/common/Header.vue:40
+#: src/components/common/Header.vue:44
 msgid "Release"
 msgstr ""
 
