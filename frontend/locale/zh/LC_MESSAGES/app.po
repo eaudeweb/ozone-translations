@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 06:19+0000\n"
+"POT-Creation-Date: 2019-10-23 11:33+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -57,7 +57,7 @@ msgstr ""
 msgid "Add %{length} countries"
 msgstr ""
 
-#: src/components/common/form-components/CloneField.vue:28
+#: src/components/common/form-components/CloneField.vue:27
 msgid "Add %{length} countries/regions/territories"
 msgstr ""
 
@@ -1545,7 +1545,7 @@ msgid "Please fill-in column Total production for all uses (3)"
 msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:323
-msgid "Please fill-in column Total quantity imported for all uses (3 or 4)"
+msgid "Please fill-in column Total quantity for all uses (3 or 4)"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:11
@@ -2253,16 +2253,16 @@ msgstr ""
 msgid "Total Quantity Exported for All Uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:283
-msgid "Total Quantity Imported for All Uses"
-msgstr ""
-
 #: src/components/art7/services/tableRowConstructorService.js:326
-msgid "Total quantity imported for all uses (3+4) must be greater than or equal to the sum of its individual components (6)"
+msgid "Total quantity for all uses (3) must be greater than or equal to the sum of its individual components (5+6)"
 msgstr ""
 
 #: src/components/art7/services/tableRowConstructorService.js:331
-msgid "Total quantity imported for all uses (3+4) must be greater than or equal to the sum of its individual components for all exporting parties"
+msgid "Total quantity for all uses (3) must be greater than or equal to the sum of its individual components (5+6) for all parties"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:283
+msgid "Total Quantity Imported for All Uses"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:12
