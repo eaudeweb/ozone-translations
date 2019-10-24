@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 11:33+0000\n"
+"POT-Creation-Date: 2019-10-24 14:13+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1304,9 +1304,9 @@ msgstr "фиктивный текст"
 msgid "Maximum emissions"
 msgstr "фиктивный текст"
 
-#: src/components/common/mixins/FormTemplateMixin.vue:186
-#: src/components/common/mixins/FormTemplateMixin.vue:193
-#: src/components/common/mixins/FormTemplateMixin.vue:200
+#: src/components/common/mixins/FormTemplateMixin.vue:185
+#: src/components/common/mixins/FormTemplateMixin.vue:192
+#: src/components/common/mixins/FormTemplateMixin.vue:199
 msgid "Mixture"
 msgstr ""
 
@@ -1654,16 +1654,16 @@ msgstr "фиктивный текст"
 msgid "Please fill-in one of columns New imports (4), Recovered and reclaimed imports (5), New exports (6) or Recovered and reclaimed exports (7)"
 msgstr ""
 
+#: src/components/common/mixins/FormTemplateMixin.vue:156
 #: src/components/common/mixins/FormTemplateMixin.vue:157
-#: src/components/common/mixins/FormTemplateMixin.vue:158
 #, fuzzy
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:1036
-#: src/components/common/mixins/FormTemplateMixin.vue:116
+#: src/components/common/mixins/FormTemplateMixin.vue:115
 #: src/components/exemption/FormTemplate.vue:198
-#: src/components/common/mixins/FormTemplateMixin.vue:117
+#: src/components/common/mixins/FormTemplateMixin.vue:116
 msgid "Please use the form on the right sidebar to add substances"
 msgstr "фиктивный текст"
 
@@ -2310,10 +2310,10 @@ msgstr ""
 msgid "The values are saved automatically in the table, as you type."
 msgstr "фиктивный текст."
 
+#: src/components/common/mixins/FormTemplateMixin.vue:113
+#: src/components/common/mixins/FormTemplateMixin.vue:154
 #: src/components/common/mixins/FormTemplateMixin.vue:114
 #: src/components/common/mixins/FormTemplateMixin.vue:155
-#: src/components/common/mixins/FormTemplateMixin.vue:115
-#: src/components/common/mixins/FormTemplateMixin.vue:156
 msgid "There are no records to show"
 msgstr "фиктивный текст"
 
@@ -2440,8 +2440,8 @@ msgstr ""
 msgid "TRANSFERS OF PRODUCTION/CONSUMPTION RIGHTS"
 msgstr ""
 
-#: src/components/common/mixins/FormTemplateMixin.vue:209
-#: src/components/common/mixins/FormTemplateMixin.vue:216
+#: src/components/common/mixins/FormTemplateMixin.vue:208
+#: src/components/common/mixins/FormTemplateMixin.vue:215
 #: src/views/lookupTables/Blends.vue:136
 msgid "Type"
 msgstr "фиктивный текст"
