@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-06 12:53+0300\n"
+"POT-Creation-Date: 2019-11-06 13:19+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -251,6 +251,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_info.py:24
 #: ozone/core/api/export_pdf/art7/section_labuses.py:90
 #: ozone/core/api/export_pdf/art7/section_production.py:105
+#: ozone/core/api/export_pdf/reports/hfc_baseline.py:36
 #: ozone/core/api/export_pdf/reports/raf.py:80
 #: ozone/core/api/export_pdf/reports/raf.py:139
 msgid "Production"
@@ -343,6 +344,7 @@ msgid "Substance name"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_labuses.py:91
+#: ozone/core/api/export_pdf/reports/hfc_baseline.py:37
 msgid "Consumption"
 msgstr ""
 
@@ -415,7 +417,7 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:31
+#: ozone/core/api/export_pdf/export.py:32
 msgid "Page"
 msgstr ""
 
@@ -501,6 +503,22 @@ msgstr ""
 #: ozone/core/api/export_pdf/hat/section_production.py:54
 #: ozone/core/api/export_pdf/reports/prodcons.py:76
 msgid "PRODUCTION"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/hfc_baseline.py:33
+msgid "Annex"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/hfc_baseline.py:34
+msgid "Annex Group Name"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/hfc_baseline.py:35
+msgid "Period"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/hfc_baseline.py:157
+msgid "HFC Baseline data (in CO2-equivalent tonnes)"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/impexp_new_rec.py:128
@@ -719,27 +737,27 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:1307
+#: ozone/core/api/views.py:1308
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:2147
+#: ozone/core/api/views.py:2148
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
 msgstr "фиктивный текст."
 
-#: ozone/core/calculated/baselines.py:799
+#: ozone/core/calculated/baselines.py:803
 #, python-format
 msgid "Created %d baselines"
 msgstr ""
 
-#: ozone/core/calculated/baselines.py:814
+#: ozone/core/calculated/baselines.py:818
 #, python-format
 msgid "Updated %d baselines"
 msgstr ""
 
-#: ozone/core/calculated/baselines.py:827
+#: ozone/core/calculated/baselines.py:831
 #, python-format
 msgid "Removed %d baselines"
 msgstr ""
@@ -815,12 +833,12 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/report.py:34 ozone/core/models/report.py:46
-#: ozone/core/models/report.py:58
+#: ozone/core/models/report.py:35 ozone/core/models/report.py:47
+#: ozone/core/models/report.py:59
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/report.py:70
+#: ozone/core/models/report.py:71 ozone/core/models/report.py:83
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
