@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-08 11:37+0300\n"
+"POT-Creation-Date: 2019-11-08 11:51+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -80,7 +80,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_labuses.py:84
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:46
 #: ozone/core/api/export_pdf/art7/section_production.py:120
-#: ozone/core/api/export_pdf/reports/prodcons.py:75
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:90
 msgid "Annex/Group"
 msgstr ""
 
@@ -501,7 +501,7 @@ msgid "2.2 Comments"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/section_production.py:54
-#: ozone/core/api/export_pdf/reports/prodcons.py:76
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:91
 msgid "PRODUCTION"
 msgstr ""
 
@@ -552,60 +552,60 @@ msgstr ""
 msgid "{party_name} {party_type} - Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:48
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:67
 #, python-brace-format
 msgid ""
 "{party_name} - Date Reported: {date_reported}\n"
-"                    {party_type} {party_region} - Population*: {population}"
+"                {party_type} {party_region} - Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:80
-msgid "CONSUMPTION"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:89
-#: ozone/core/api/export_pdf/reports/prodcons.py:93
-msgid "Base"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:90
-#: ozone/core/api/export_pdf/reports/prodcons.py:94
-msgid "% Chng"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:91
-#: ozone/core/api/export_pdf/reports/prodcons.py:95
-msgid "Limit"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:96
-msgid "Per Cap. Cons."
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/prodcons.py:108
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:80
 #, python-brace-format
 msgid "Production and Consumption of ODSs for {period} (ODP tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:126
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:81
 #, python-brace-format
 msgid "Production and Consumption of HFCs for {period} (CO2-equivalent tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons.py:146
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:92
+msgid "CONSUMPTION"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:96
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:97
+msgid "Base"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:96
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:97
+msgid "% Chng"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:96
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:97
+msgid "Limit"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:97
+msgid "Per Cap. Cons."
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/prodcons/render.py:125
 msgid ""
 "* Population in thousands <br/>\n"
 "        ** Consumption and Production numbers are rounded to a uniform "
 "number of decimal places. <br/><br/>\n"
 "        - = Data Not Reported and Party has no Obligation to have Reported "
 "that data at this time. <br/>\n"
-"        N.R. = Data Not Reported but Party is required to have reported | \n"
-"        AFR = Africa | \n"
-"        ASIA = Asia | \n"
-"        EEUR = Eastern Europe | \n"
-"        LAC = Latin America & the Caribbean | \n"
-"        WEUR = Western Europe & others | \n"
-"        A5 = Article 5 Party | \n"
+"        N.R. = Data Not Reported but Party is required to have reported |\n"
+"        AFR = Africa |\n"
+"        ASIA = Asia |\n"
+"        EEUR = Eastern Europe |\n"
+"        LAC = Latin America & the Caribbean |\n"
+"        WEUR = Western Europe & others |\n"
+"        A5 = Article 5 Party |\n"
 "        NA5 = Non-Article 5 Party"
 msgstr ""
 
