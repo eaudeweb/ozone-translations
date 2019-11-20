@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-20 12:28+0300\n"
+"POT-Creation-Date: 2019-11-20 13:16+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -830,15 +830,15 @@ msgstr ""
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr ""
 
-#: ozone/core/models/data.py:1055
+#: ozone/core/models/data.py:1057
 msgid "At least one quantity field should be non-null."
 msgstr ""
 
-#: ozone/core/models/data.py:1072
+#: ozone/core/models/data.py:1074
 msgid "You need to select a non-party, according to the selected substance."
 msgstr ""
 
-#: ozone/core/models/data.py:1339
+#: ozone/core/models/data.py:1341
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
@@ -873,7 +873,7 @@ msgstr ""
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/models/reporting.py:70 ozone/core/models/reporting.py:1718
+#: ozone/core/models/reporting.py:70 ozone/core/models/reporting.py:1720
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -937,19 +937,19 @@ msgid ""
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1694
+#: ozone/core/models/reporting.py:1696
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1710
+#: ozone/core/models/reporting.py:1712
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1726
+#: ozone/core/models/reporting.py:1728
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1907
+#: ozone/core/models/reporting.py:1909
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
