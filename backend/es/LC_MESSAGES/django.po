@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-20 10:57+0300\n"
+"POT-Creation-Date: 2019-11-20 11:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -971,6 +971,37 @@ msgstr ""
 msgid "Valid flag must be set before submission is finalized"
 msgstr ""
 
+#: ozone/core/models/workflows/emails.py:19
+msgid "started PROCESSING"
+msgstr ""
+
+#: ozone/core/models/workflows/emails.py:20
+msgid "FINALIZED"
+msgstr ""
+
+#: ozone/core/models/workflows/emails.py:23
+msgid "SUBMITTED"
+msgstr ""
+
+#: ozone/core/models/workflows/emails.py:24
+msgid "RECALLED"
+msgstr ""
+
+#: ozone/core/models/workflows/emails.py:29
+#, python-brace-format
+msgid "The secretariat has {verb} the report from {party} on"
+msgstr ""
+
+#: ozone/core/models/workflows/emails.py:36
+#, python-brace-format
+msgid "{party_name} has {verb} its report on"
+msgstr ""
+
+#: ozone/core/models/workflows/emails.py:45
+#, python-brace-format
+msgid "(Information recorded by {user})"
+msgstr ""
+
 #: ozone/core/serializers.py:129
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
@@ -1020,7 +1051,7 @@ msgstr ""
 #: ozone/templates/registration/account_activated_email.html:4
 #: ozone/templates/registration/account_created_email.html:10
 #: ozone/templates/registration/password_reset_email.html:10
-#: ozone/templates/registration/workflow_transitioned_email.html:6
+#: ozone/templates/registration/workflow_transitioned_email.html:7
 #, python-format
 msgid "The %(site_name)s team"
 msgstr ""
@@ -1114,18 +1145,21 @@ msgstr ""
 msgid "Password reset on %(site_name)s"
 msgstr ""
 
-#: ozone/templates/registration/workflow_transitioned_email.html:2
+#: ozone/templates/registration/workflow_transitioned_email.html:3
 #, python-format
 msgid ""
-"%(party)s has %(new_state)s its report on %(obligation)s for "
-"%(reporting_period)s - this being submission number %(version)s.\n"
-"\n"
-"Submitted by %(user)s."
+"%(intro_text)s %(obligation)s for %(reporting_period)s - this being "
+"submission number %(version)s."
+msgstr ""
+
+#: ozone/templates/registration/workflow_transitioned_email.html:5
+#, python-format
+msgid "%(new_state_verb)s by %(user)s %(data_entry_by)s."
 msgstr ""
 
 #: ozone/templates/registration/workflow_transitioned_subject.txt:2
 #, python-format
-msgid "Submission %(submission)s has changed to %(new_state)s"
+msgid "Submission %(submission)s - status has changed to %(new_state)s"
 msgstr ""
 
 #: weblate/ozone.py:24
