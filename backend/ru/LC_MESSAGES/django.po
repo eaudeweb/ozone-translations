@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-21 12:05+0300\n"
+"POT-Creation-Date: 2019-11-21 16:08+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -1124,7 +1124,7 @@ msgstr ""
 #: ozone/templates/registration/account_activated_email.html:4
 #: ozone/templates/registration/account_created_email.html:10
 #: ozone/templates/registration/password_reset_email.html:10
-#: ozone/templates/registration/workflow_transitioned_email.html:7
+#: ozone/templates/registration/workflow_transitioned_email.html:6
 #, python-format
 msgid "The %(site_name)s team"
 msgstr ""
@@ -1220,14 +1220,14 @@ msgstr "фиктивный текст"
 msgid "Password reset on %(site_name)s"
 msgstr ""
 
-#: ozone/templates/registration/workflow_transitioned_email.html:3
+#: ozone/templates/registration/workflow_transitioned_email.html:2
 #, python-format
 msgid ""
 "%(intro_text)s %(obligation)s for %(reporting_period)s - this being "
 "submission number %(version)s."
 msgstr ""
 
-#: ozone/templates/registration/workflow_transitioned_email.html:5
+#: ozone/templates/registration/workflow_transitioned_email.html:4
 #, python-format
 msgid "%(new_state_verb)s by %(user)s %(data_entry_by)s."
 msgstr ""
