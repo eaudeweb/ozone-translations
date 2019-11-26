@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-26 14:02+0300\n"
+"POT-Creation-Date: 2019-11-26 17:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -998,15 +998,15 @@ msgstr ""
 msgid "User needs to be either Secretariat or Party"
 msgstr ""
 
-#: ozone/core/models/workflows/accelerated_exemption.py:60
+#: ozone/core/models/workflows/accelerated_exemption.py:59
 msgid "An emergency exemption needs to have its emergency flagset."
 msgstr ""
 
-#: ozone/core/models/workflows/accelerated_exemption.py:68
+#: ozone/core/models/workflows/accelerated_exemption.py:67
 msgid "An emergency exemption should have at least oneapproved substance."
 msgstr ""
 
-#: ozone/core/models/workflows/default.py:124
+#: ozone/core/models/workflows/default.py:123
 msgid "Valid flag must be set before submission is finalized"
 msgstr ""
 
@@ -1026,17 +1026,24 @@ msgstr ""
 msgid "RECALLED"
 msgstr ""
 
-#: ozone/core/models/workflows/emails.py:29
+#: ozone/core/models/workflows/emails.py:25
+#: ozone/core/models/workflows/emails.py:26
+#: ozone/core/models/workflows/emails.py:27
+#: ozone/core/models/workflows/emails.py:28
+msgid "REINSTATED"
+msgstr ""
+
+#: ozone/core/models/workflows/emails.py:33
 #, python-brace-format
 msgid "The secretariat has {verb} the report from {party} on"
 msgstr ""
 
-#: ozone/core/models/workflows/emails.py:36
+#: ozone/core/models/workflows/emails.py:40
 #, python-brace-format
 msgid "{party_name} has {verb} its report on"
 msgstr ""
 
-#: ozone/core/models/workflows/emails.py:45
+#: ozone/core/models/workflows/emails.py:49
 #, python-brace-format
 msgid "(Information recorded by {user})"
 msgstr ""
