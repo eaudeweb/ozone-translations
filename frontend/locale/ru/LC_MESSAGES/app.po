@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-04 11:40+0000\n"
+"POT-Creation-Date: 2019-12-04 12:01+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -507,7 +507,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:156
 #: src/components/common/AggregationsModal.vue:13
-#: src/components/common/OzoneMail.vue:69
+#: src/components/common/OzoneMail.vue:79
 #: src/components/exemption/FormTemplate.vue:167
 #: src/components/exemption/TabsManager.vue:63
 #: src/components/exemption/TransitionQuestions.vue:14
@@ -1290,7 +1290,7 @@ msgstr "фиктивный текст"
 msgid "London Amendment"
 msgstr "фиктивный текст"
 
-#: src/components/common/OzoneMail.vue:143
+#: src/components/common/OzoneMail.vue:183
 msgid "Mail sent"
 msgstr ""
 
@@ -2602,7 +2602,7 @@ msgstr ""
 msgid "You have unsaved changes. Please save the submission first."
 msgstr "фиктивный текст"
 
-#: src/components/common/OzoneMail.vue:158
+#: src/components/common/OzoneMail.vue:200
 msgid "You must specify a recipient"
 msgstr ""
 
@@ -2678,7 +2678,7 @@ msgstr "фиктивный текст"
 msgid "Type the recipient address and press enter"
 msgstr ""
 
-#: src/components/common/OzoneMail.vue:57
+#: src/components/common/OzoneMail.vue:66
 msgid "Correspondence"
 msgstr ""
 
