@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-19 16:42+0000\n"
+"POT-Creation-Date: 2019-12-04 11:40+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -581,7 +581,7 @@ msgstr "фиктивный текст"
 msgid "Contained in polyols"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:128
+#: src/components/otherRo/dataDefinitions/form.js:129
 msgid "Containment technologies used to minimize emissions"
 msgstr ""
 
@@ -1294,12 +1294,12 @@ msgstr "фиктивный текст"
 msgid "Mail sent"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:117
+#: src/components/otherRo/dataDefinitions/form.js:118
 #, fuzzy
 msgid "Make-up or consumption"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:121
+#: src/components/otherRo/dataDefinitions/form.js:122
 #, fuzzy
 msgid "Maximum emissions"
 msgstr "фиктивный текст"
@@ -1700,7 +1700,7 @@ msgstr ""
 msgid "Process"
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:114
+#: src/components/otherRo/dataDefinitions/form.js:115
 #, fuzzy
 msgid "Process agent application"
 msgstr "фиктивный текст"
@@ -1966,7 +1966,7 @@ msgstr "фиктивный текст"
 #: src/components/exemption/dataDefinitions/labels.js:9
 #: src/components/exemption/dataDefinitions/labels.js:17
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
-#: src/components/otherRo/dataDefinitions/form.js:132
+#: src/components/otherRo/dataDefinitions/form.js:133
 #, fuzzy
 msgid "Remarks"
 msgstr "фиктивный текст"
@@ -2248,7 +2248,7 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/form.js:154
 #: src/components/letter/dataDefinitions/labels.js:104
 #: src/components/otherRo/dataDefinitions/form.js:49
-#: src/components/otherRo/dataDefinitions/form.js:111
+#: src/components/otherRo/dataDefinitions/form.js:112
 #: src/components/otherRo/dataDefinitions/labels.js:9
 msgid "Substance"
 msgstr "фиктивный текст"
@@ -2495,7 +2495,7 @@ msgstr ""
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
 
-#: src/components/otherRo/dataDefinitions/form.js:125
+#: src/components/otherRo/dataDefinitions/form.js:126
 msgid "Unit"
 msgstr ""
 
