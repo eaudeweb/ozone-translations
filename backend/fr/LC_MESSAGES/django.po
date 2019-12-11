@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-11 09:56+0300\n"
+"POT-Creation-Date: 2019-12-11 15:30+0300\n"
 "PO-Revision-Date: 2019-01-10 09:37+0000\n"
 "Last-Translator: Weblate Admin <noreply@ozone.edw.ro>\n"
 "Language-Team: French <http://example.com/projects/ozone/backend/fr/>\n"
@@ -1048,28 +1048,28 @@ msgstr ""
 msgid "(Information recorded by {user})"
 msgstr ""
 
-#: ozone/core/serializers.py:129
+#: ozone/core/serializers.py:131
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:519 ozone/core/serializers.py:524
+#: ozone/core/serializers.py:524 ozone/core/serializers.py:529
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1086
+#: ozone/core/serializers.py:1091
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1097
+#: ozone/core/serializers.py:1102
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1328
+#: ozone/core/serializers.py:1333
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1346
+#: ozone/core/serializers.py:1351
 msgid "Specified file id not found for this submission"
 msgstr ""
 
