@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-11 15:30+0300\n"
+"POT-Creation-Date: 2019-12-11 15:44+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -335,7 +335,7 @@ msgid "Printed at"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_labuses.py:81
-#: ozone/core/api/export_pdf/util.py:276
+#: ozone/core/api/export_pdf/util.py:278
 msgid "Laboratory and analytical uses"
 msgstr ""
 
@@ -417,7 +417,7 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:32
+#: ozone/core/api/export_pdf/export.py:33
 msgid "Page"
 msgstr ""
 
@@ -738,43 +738,43 @@ msgstr ""
 msgid "Reporting accounting framework for critical uses of methyl bromide"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:277
+#: ozone/core/api/export_pdf/util.py:279
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:278
+#: ozone/core/api/export_pdf/util.py:280
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:279
+#: ozone/core/api/export_pdf/util.py:281
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:280
+#: ozone/core/api/export_pdf/util.py:282
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:281
+#: ozone/core/api/export_pdf/util.py:283
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:357 ozone/core/api/export_pdf/util.py:360
+#: ozone/core/api/export_pdf/util.py:359 ozone/core/api/export_pdf/util.py:362
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:357
+#: ozone/core/api/export_pdf/util.py:359
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:360
+#: ozone/core/api/export_pdf/util.py:362
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:1553
+#: ozone/core/api/views.py:1555
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:2380
+#: ozone/core/api/views.py:2382
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
@@ -866,24 +866,25 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/report.py:41 ozone/core/models/report.py:101
-#: ozone/core/models/report.py:137
+#: ozone/core/models/report.py:43 ozone/core/models/report.py:103
+#: ozone/core/models/report.py:139
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/report.py:53 ozone/core/models/report.py:65
-#: ozone/core/models/report.py:77 ozone/core/models/report.py:89
-#: ozone/core/models/report.py:125
+#: ozone/core/models/report.py:55 ozone/core/models/report.py:67
+#: ozone/core/models/report.py:79 ozone/core/models/report.py:91
+#: ozone/core/models/report.py:127 ozone/core/models/report.py:163
+#: ozone/core/models/report.py:175
 #, fuzzy
 #| msgid "Reporting cannot be performed for this reporting period."
 msgid "Select one or more reporting periods"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/report.py:113
+#: ozone/core/models/report.py:115
 msgid "Select one or more parties"
 msgstr ""
 
-#: ozone/core/models/report.py:149 ozone/core/models/report.py:161
+#: ozone/core/models/report.py:151 ozone/core/models/report.py:187
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
