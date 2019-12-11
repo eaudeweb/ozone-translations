@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-11 19:23+0300\n"
+"POT-Creation-Date: 2019-12-11 20:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -410,7 +410,7 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:33
+#: ozone/core/api/export_pdf/export.py:34
 msgid "Page"
 msgstr ""
 
@@ -763,11 +763,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:1556
+#: ozone/core/api/views.py:1559
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:2401
+#: ozone/core/api/views.py:2404
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -855,24 +855,29 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/report.py:43 ozone/core/models/report.py:103
-#: ozone/core/models/report.py:139
+#: ozone/core/models/report.py:46 ozone/core/models/report.py:106
+#: ozone/core/models/report.py:142
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/report.py:55 ozone/core/models/report.py:67
-#: ozone/core/models/report.py:79 ozone/core/models/report.py:91
-#: ozone/core/models/report.py:127 ozone/core/models/report.py:163
-#: ozone/core/models/report.py:175
+#: ozone/core/models/report.py:58 ozone/core/models/report.py:70
+#: ozone/core/models/report.py:82 ozone/core/models/report.py:94
+#: ozone/core/models/report.py:130 ozone/core/models/report.py:166
+#: ozone/core/models/report.py:178
 msgid "Select one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/report.py:115
+#: ozone/core/models/report.py:118
 msgid "Select one or more parties"
 msgstr ""
 
-#: ozone/core/models/report.py:151 ozone/core/models/report.py:187
+#: ozone/core/models/report.py:154 ozone/core/models/report.py:190
 msgid "Select one or more parties and one reporting period"
+msgstr ""
+
+#: ozone/core/models/report.py:202 ozone/core/models/report.py:214
+#: ozone/core/models/report.py:226
+msgid "Select one or more parties, or leave blank for all"
 msgstr ""
 
 #: ozone/core/models/reporting.py:70 ozone/core/models/reporting.py:1720
