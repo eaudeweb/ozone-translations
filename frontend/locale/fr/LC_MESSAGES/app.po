@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-04 12:49+0000\n"
+"POT-Creation-Date: 2019-12-12 08:31+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -31,19 +31,19 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:126
-#: src/components/art7/dataDefinitions/form.js:264
-#: src/components/art7/dataDefinitions/form.js:382
-#: src/components/art7/dataDefinitions/form.js:475
-#: src/components/art7/dataDefinitions/form.js:549
-#: src/components/art7/dataDefinitions/form.js:625
-#: src/components/art7/dataDefinitions/form.js:746
+#: src/components/art7/dataDefinitions/form.js:128
+#: src/components/art7/dataDefinitions/form.js:266
+#: src/components/art7/dataDefinitions/form.js:384
+#: src/components/art7/dataDefinitions/form.js:477
+#: src/components/art7/dataDefinitions/form.js:551
+#: src/components/art7/dataDefinitions/form.js:627
+#: src/components/art7/dataDefinitions/form.js:748
 #: src/components/common/Files.vue:107
 #: src/components/common/SubmissionHistory.vue:124
-#: src/components/exemption/dataDefinitions/form.js:89
+#: src/components/exemption/dataDefinitions/form.js:92
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
-#: src/components/hat/dataDefinitions/form.js:90
-#: src/components/hat/dataDefinitions/form.js:178
+#: src/components/hat/dataDefinitions/form.js:92
+#: src/components/hat/dataDefinitions/form.js:180
 #: src/components/raf/dataDefinitions/form.js:130
 #: src/components/raf/dataDefinitions/form.js:185
 #: src/components/raf/dataDefinitions/labels.js:31
@@ -115,20 +115,24 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:155
+#: src/components/art7/dataDefinitions/form.js:157
 msgid "Against each substance exported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:293
+#: src/components/art7/dataDefinitions/form.js:295
 msgid "Against each substance imported for exempted essential, critical, high-ambient-temperature or other uses, please specify the Meeting of the Parties decision that approved the use."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:406
-#: src/components/art7/dataDefinitions/form.js:438
+#: src/components/art7/dataDefinitions/form.js:408
+#: src/components/art7/dataDefinitions/form.js:440
 msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:53
+#: src/components/exemption/FormTemplate.vue:167
+msgid "Agreed critical use categories"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:55
 msgid "All answers are mandatory"
 msgstr ""
 
@@ -137,7 +141,7 @@ msgid "All submissions (%{totalRows} records)"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:699
-#: src/components/exemption/FormTemplate.vue:124
+#: src/components/exemption/FormTemplate.vue:126
 #: src/components/raf/FormTemplate.vue:232
 #, fuzzy
 msgid "All the quantity values should be expressed in metric tons (not ODP or CO₂-equivalent tonnes)."
@@ -173,7 +177,7 @@ msgstr ""
 msgid "Amount acquired by production"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:768
+#: src/components/art7/dataDefinitions/form.js:770
 msgid "Amount converted to other substances in the facility. The sum of these amounts is not to be reported under data form 3"
 msgstr ""
 
@@ -189,11 +193,11 @@ msgstr ""
 msgid "Amount Destroyed"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:772
+#: src/components/art7/dataDefinitions/form.js:774
 msgid "Amount destroyed in the facility"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:730
+#: src/components/art7/dataDefinitions/form.js:732
 msgid "Amount destroyed without prior capture"
 msgstr ""
 
@@ -209,7 +213,7 @@ msgstr ""
 msgid "Amount exported"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:762
+#: src/components/art7/dataDefinitions/form.js:764
 msgid "Amount generated and captured"
 msgstr ""
 
@@ -225,11 +229,11 @@ msgstr ""
 msgid "Amount of Emissions"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:734
+#: src/components/art7/dataDefinitions/form.js:736
 msgid "Amount of generated emissions"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:84
+#: src/components/exemption/dataDefinitions/form.js:87
 #: src/components/exemption/dataDefinitions/labels.js:18
 msgid "Amount recommended by TEAP"
 msgstr ""
@@ -252,7 +256,7 @@ msgstr ""
 msgid "Amount Used for Feedstock"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:726
+#: src/components/art7/dataDefinitions/form.js:728
 msgid "Amount used for feedstock without prior capture"
 msgstr ""
 
@@ -261,7 +265,7 @@ msgstr ""
 msgid "Amounts contained in pre-blended polyols, not to be included in the amount of total imports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:432
+#: src/components/art7/dataDefinitions/form.js:434
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
 msgstr ""
 
@@ -273,17 +277,16 @@ msgstr ""
 msgid "Annex"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:581
+#: src/components/art7/dataDefinitions/form.js:583
 msgid "Annex A, B, C and E substances"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:340
+#: src/components/art7/dataDefinitions/form.js:342
 msgid "Annex A, B, C, E and F substances"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:46
-#: src/components/hat/dataDefinitions/form.js:138
-#: src/components/raf/dataDefinitions/form.js:54
+#: src/components/hat/dataDefinitions/form.js:48
+#: src/components/hat/dataDefinitions/form.js:140
 msgid "Annex F substances for exempted subsectors"
 msgstr ""
 
@@ -298,23 +301,23 @@ msgstr ""
 msgid "Annex/group"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:91
-#: src/components/art7/dataDefinitions/form.js:230
-#: src/components/art7/dataDefinitions/form.js:352
-#: src/components/art7/dataDefinitions/form.js:448
-#: src/components/art7/dataDefinitions/form.js:529
-#: src/components/art7/dataDefinitions/form.js:589
+#: src/components/art7/dataDefinitions/form.js:93
+#: src/components/art7/dataDefinitions/form.js:232
+#: src/components/art7/dataDefinitions/form.js:354
+#: src/components/art7/dataDefinitions/form.js:450
+#: src/components/art7/dataDefinitions/form.js:531
+#: src/components/art7/dataDefinitions/form.js:591
 #: src/components/common/AggregationsTable.vue:50
-#: src/components/exemption/dataDefinitions/form.js:56
+#: src/components/exemption/dataDefinitions/form.js:59
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
-#: src/components/hat/dataDefinitions/form.js:58
-#: src/components/hat/dataDefinitions/form.js:150
+#: src/components/hat/dataDefinitions/form.js:60
+#: src/components/hat/dataDefinitions/form.js:152
 #: src/views/reports/Consumption.vue:87
 msgid "Annex/Group"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:87
-#: src/components/art7/dataDefinitions/form.js:215
+#: src/components/art7/dataDefinitions/form.js:89
+#: src/components/art7/dataDefinitions/form.js:217
 msgid "Annexes A, B, C, E and F substances"
 msgstr ""
 
@@ -322,12 +325,8 @@ msgstr ""
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:45
-msgid "API"
-msgstr ""
-
-#: src/components/art7/dataDefinitions/form.js:142
-#: src/components/art7/dataDefinitions/form.js:280
+#: src/components/art7/dataDefinitions/form.js:144
+#: src/components/art7/dataDefinitions/form.js:282
 msgid "Applicable to all substances, including those contained in mixtures and blends."
 msgstr ""
 
@@ -336,8 +335,8 @@ msgid "Application"
 msgstr ""
 
 #: src/components/common/SubmissionStatus.vue:7
-#: src/components/exemption/dataDefinitions/form.js:51
-#: src/components/exemption/dataDefinitions/form.js:52
+#: src/components/exemption/dataDefinitions/form.js:54
+#: src/components/exemption/dataDefinitions/form.js:55
 msgid "Approved"
 msgstr ""
 
@@ -394,7 +393,7 @@ msgstr ""
 msgid "Basic domestic need"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:70
+#: src/components/otherRo/dataDefinitions/form.js:76
 msgid "Basic domestic needs"
 msgstr ""
 
@@ -438,20 +437,20 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:455
+#: src/components/art7/dataDefinitions/form.js:457
 msgid "Captured for all uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:463
+#: src/components/art7/dataDefinitions/form.js:465
 msgid "Captured for destruction"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:459
+#: src/components/art7/dataDefinitions/form.js:461
 msgid "Captured for feedstock uses within your country"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:709
-#: src/components/exemption/FormTemplate.vue:134
+#: src/components/exemption/FormTemplate.vue:136
 #: src/components/raf/FormTemplate.vue:242
 msgid "Change substance"
 msgstr ""
@@ -476,13 +475,17 @@ msgstr ""
 msgid "Click to edit"
 msgstr ""
 
+#: src/components/exemption/services/tableRowConstructorService.js:15
+msgid "Click to edit or view critical uses categories"
+msgstr ""
+
 #: src/components/art7/FormTemplate.vue:802
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:156
 #: src/components/common/AggregationsModal.vue:13
 #: src/components/common/OzoneMail.vue:79
-#: src/components/exemption/FormTemplate.vue:167
+#: src/components/exemption/FormTemplate.vue:199
 #: src/components/exemption/TabsManager.vue:63
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
@@ -521,6 +524,7 @@ msgstr ""
 #: src/components/hat/dataDefinitions/labels.js:16
 #: src/components/hat/dataDefinitions/labels.js:27
 #: src/components/otherRo/dataDefinitions/labels.js:18
+#: src/components/otherRo/dataDefinitions/labels.js:22
 #: src/components/raf/dataDefinitions/labels.js:15
 #: src/components/raf/dataDefinitions/labels.js:41
 msgid "Comments (Secretariat)"
@@ -544,7 +548,7 @@ msgstr ""
 msgid "Consumption"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:46
+#: src/components/hat/dataDefinitions/form.js:48
 msgid "Consumption (imports)"
 msgstr ""
 
@@ -553,11 +557,11 @@ msgstr ""
 msgid "Contained in polyols"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:129
+#: src/components/otherRo/dataDefinitions/form.js:135
 msgid "Containment technologies used to minimize emissions"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:157
+#: src/views/lookupTables/ControlledSubstances.vue:163
 msgid "Controlled substances"
 msgstr ""
 
@@ -645,12 +649,12 @@ msgid "Date"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:42
-#: src/components/common/dataDefinitions/tabSubInfo.js:121
+#: src/components/common/dataDefinitions/tabSubInfo.js:117
 msgid "Date of submission"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:51
-#: src/components/exemption/dataDefinitions/form.js:79
+#: src/components/exemption/dataDefinitions/form.js:82
 #: src/components/exemption/dataDefinitions/labels.js:19
 #: src/components/letter/dataDefinitions/labels.js:27
 #: src/components/letter/dataDefinitions/labels.js:42
@@ -659,13 +663,13 @@ msgstr ""
 msgid "Decision"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:374
-#: src/components/art7/dataDefinitions/form.js:471
+#: src/components/art7/dataDefinitions/form.js:376
+#: src/components/art7/dataDefinitions/form.js:473
 msgid "Decision / type of use"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:122
-#: src/components/art7/dataDefinitions/form.js:260
+#: src/components/art7/dataDefinitions/form.js:124
+#: src/components/art7/dataDefinitions/form.js:262
 msgid "Decision / type of use or remark"
 msgstr ""
 
@@ -688,7 +692,7 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:114
 #: src/components/art7/FormTemplate.vue:323
 #: src/components/art7/FormTemplate.vue:551
-#: src/components/exemption/FormTemplate.vue:74
+#: src/components/exemption/FormTemplate.vue:76
 #: src/components/hat/FormTemplate.vue:96
 #: src/components/hat/FormTemplate.vue:215
 #: src/components/raf/FormTemplate.vue:86
@@ -706,6 +710,7 @@ msgid "Delete Submission"
 msgstr ""
 
 #: src/components/common/Files.vue:105
+#: src/views/lookupTables/ControlledSubstances.vue:99
 msgid "Description"
 msgstr ""
 
@@ -718,23 +723,23 @@ msgstr ""
 msgid "Designation"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:101
+#: src/components/art7/dataDefinitions/form.js:103
 #: src/components/art7/dataDefinitions/labels.js:46
 #: src/components/letter/dataDefinitions/labels.js:37
 msgid "Destination country/region/territory"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:58
+#: src/components/otherRo/dataDefinitions/form.js:64
 #: src/components/otherRo/dataDefinitions/labels.js:12
 msgid "Destination party"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:520
+#: src/components/art7/dataDefinitions/form.js:522
 #: src/components/common/dataDefinitions/labels.js:14
 msgid "Destruction"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:521
+#: src/components/art7/dataDefinitions/form.js:523
 msgid "DESTRUCTION OF CONTROLLED SUBSTANCES"
 msgstr ""
 
@@ -762,8 +767,8 @@ msgstr ""
 msgid "Did your country produce CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs in the reporting year?"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:150
-#: src/components/art7/dataDefinitions/form.js:288
+#: src/components/art7/dataDefinitions/form.js:152
+#: src/components/art7/dataDefinitions/form.js:290
 msgid "Do not deduct from total production in column 3 of data form 3 (data on production)."
 msgstr ""
 
@@ -789,7 +794,7 @@ msgstr ""
 #: src/components/art7/FormTemplate.vue:107
 #: src/components/art7/FormTemplate.vue:316
 #: src/components/art7/FormTemplate.vue:544
-#: src/components/exemption/FormTemplate.vue:67
+#: src/components/exemption/FormTemplate.vue:69
 #: src/components/hat/FormTemplate.vue:89
 #: src/components/hat/FormTemplate.vue:208
 #: src/components/raf/FormTemplate.vue:79
@@ -803,18 +808,17 @@ msgid "Edit %{name} mixture"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:686
-#: src/components/exemption/FormTemplate.vue:117
+#: src/components/exemption/FormTemplate.vue:119
 #: src/components/raf/FormTemplate.vue:221
 msgid "Edit %{name} substance"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:42
-#: src/components/common/dataDefinitions/tabSubInfo.js:114
+#: src/components/common/dataDefinitions/tabSubInfo.js:110
 #: src/views/UserProfile.vue:10
 msgid "Email"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:69
+#: src/components/exemption/dataDefinitions/form.js:72
 #: src/components/exemption/dataDefinitions/labels.js:7
 #: src/components/exemption/dataDefinitions/labels.js:15
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:27
@@ -825,16 +829,16 @@ msgstr ""
 msgid "Emergency"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:696
+#: src/components/art7/dataDefinitions/form.js:698
 #: src/components/common/dataDefinitions/labels.js:16
 msgid "Emissions"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:697
+#: src/components/art7/dataDefinitions/form.js:699
 msgid "EMISSIONS OF HFC-23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
 msgstr ""
 
-#: src/store/actions.js:196
+#: src/store/actions.js:198
 msgid "Error"
 msgstr ""
 
@@ -868,7 +872,7 @@ msgstr ""
 msgid "EU Member"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:114
+#: src/components/art7/dataDefinitions/form.js:116
 msgid "Export for feedstock"
 msgstr ""
 
@@ -876,13 +880,13 @@ msgstr ""
 msgid "Export PDF"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:240
+#: src/components/art7/dataDefinitions/form.js:242
 #: src/components/art7/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:8
 msgid "Exporting country/region/territory"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:597
+#: src/components/art7/dataDefinitions/form.js:599
 #: src/components/letter/dataDefinitions/labels.js:106
 msgid "Exporting or destination country/region/territory"
 msgstr ""
@@ -891,12 +895,12 @@ msgstr ""
 msgid "Exporting or importing country/region/territory"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:85
+#: src/components/art7/dataDefinitions/form.js:87
 #: src/components/common/dataDefinitions/labels.js:12
 msgid "Exports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:87
+#: src/components/art7/dataDefinitions/form.js:89
 msgid "EXPORTS"
 msgstr ""
 
@@ -904,7 +908,7 @@ msgstr ""
 msgid "F"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:706
+#: src/components/art7/dataDefinitions/form.js:708
 #: src/components/art7/dataDefinitions/labels.js:126
 #: src/components/letter/dataDefinitions/labels.js:109
 msgid "Facility name or identifier"
@@ -930,33 +934,32 @@ msgstr ""
 msgid "files ready for upload:"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:522
+#: src/components/art7/dataDefinitions/form.js:524
 msgid "Fill in this form only if your country destroyed CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:86
+#: src/components/art7/dataDefinitions/form.js:88
 msgid "Fill in this form only if your country exported or re-exported CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:698
+#: src/components/art7/dataDefinitions/form.js:700
 msgid "Fill in this form only if your country generated HFC-23 from any facility that produced (manufactured) Annex C Group I or Annex F substances."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:216
+#: src/components/art7/dataDefinitions/form.js:218
 msgid "Fill in this form only if your country imported CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:582
+#: src/components/art7/dataDefinitions/form.js:584
 msgid "Fill in this form only if your country imported or exported CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane or methyl bromide from or to non-parties."
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:47
-#: src/components/hat/dataDefinitions/form.js:139
-#: src/components/raf/dataDefinitions/form.js:55
+#: src/components/hat/dataDefinitions/form.js:49
+#: src/components/hat/dataDefinitions/form.js:141
 msgid "Fill in this form only if your country is listed in appendix II to decision XXVIII/2, has formally notified the Secretariat of its intention to use the high-ambient-temperature exemption, and produced HFCs for its own use in the subsectors contained in appendix I to decision XXVIII/2"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:341
+#: src/components/art7/dataDefinitions/form.js:343
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs or generated HFC-23."
 msgstr ""
 
@@ -986,23 +989,27 @@ msgstr ""
 msgid "Flags"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:714
+#: src/components/art7/dataDefinitions/form.js:716
 msgid "For all uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:722
+#: src/components/art7/dataDefinitions/form.js:724
 msgid "For destruction"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:188
+#: src/components/hat/dataDefinitions/form.js:190
 msgid "For each substance produced for use in subsectors that may be approved after the assessments under paragraphs 32 and 33 of decision XXVIII/2, please specify the approved subsector."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:718
+#: src/components/raf/dataDefinitions/form.js:54
+msgid "for essential and critical uses other than laboratory and analytical applications"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:720
 msgid "For feedstock use in your country"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:111
+#: src/views/lookupTables/ControlledSubstances.vue:117
 #: src/views/lookupTables/ControlledSubstances.vue:17
 msgid "Formula"
 msgstr ""
@@ -1036,7 +1043,7 @@ msgid "Group 2"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:140
-#: src/views/lookupTables/ControlledSubstances.vue:105
+#: src/views/lookupTables/ControlledSubstances.vue:111
 msgid "GWP"
 msgstr ""
 
@@ -1057,7 +1064,7 @@ msgstr ""
 msgid "HFC-23"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:428
+#: src/components/art7/dataDefinitions/form.js:430
 msgid "HFC-23 generation that is captured, whether for destruction, feedstock or any other use, shall be reported in this form."
 msgstr ""
 
@@ -1104,21 +1111,21 @@ msgstr ""
 msgid "If No, ignore data form 6. If Yes, please complete data form 6. Please read instruction VI (on data on emissions of Annex F Group II substance – HFC-23) of the data reporting instructions and guidelines document carefully before filling in the form."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:253
+#: src/components/art7/dataDefinitions/form.js:255
 msgid "Import for feedstock"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:214
+#: src/components/art7/dataDefinitions/form.js:216
 #: src/components/common/dataDefinitions/labels.js:19
-#: src/components/hat/dataDefinitions/form.js:45
+#: src/components/hat/dataDefinitions/form.js:47
 msgid "Imports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:215
+#: src/components/art7/dataDefinitions/form.js:217
 msgid "IMPORTS"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:581
+#: src/components/art7/dataDefinitions/form.js:583
 msgid "IMPORTS FROM AND/OR EXPORTS TO NON-PARTIES"
 msgstr ""
 
@@ -1126,7 +1133,7 @@ msgstr ""
 msgid "In case changes are necessary, another version will need to be submitted."
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:64
+#: src/components/exemption/dataDefinitions/form.js:67
 #: src/components/exemption/dataDefinitions/labels.js:8
 #: src/components/exemption/dataDefinitions/labels.js:16
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:22
@@ -1134,23 +1141,22 @@ msgstr ""
 msgid "in metric tons"
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 
-#: src/components/art7/dataDefinitions/form.js:87
-#: src/components/art7/dataDefinitions/form.js:215
-#: src/components/art7/dataDefinitions/form.js:340
-#: src/components/art7/dataDefinitions/form.js:581
-#: src/components/hat/dataDefinitions/form.js:46
-#: src/components/hat/dataDefinitions/form.js:138
-#: src/components/raf/dataDefinitions/form.js:54
+#: src/components/art7/dataDefinitions/form.js:89
+#: src/components/art7/dataDefinitions/form.js:217
+#: src/components/art7/dataDefinitions/form.js:342
+#: src/components/art7/dataDefinitions/form.js:583
+#: src/components/hat/dataDefinitions/form.js:48
+#: src/components/hat/dataDefinitions/form.js:140
 #, fuzzy
 msgid "in metric tons (not ODP or CO₂-equivalent tonnes)"
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 
-#: src/components/art7/dataDefinitions/form.js:697
+#: src/components/art7/dataDefinitions/form.js:699
 #, fuzzy
 msgid "in metric tons (not ODP or CO₂-equivalent tonnes)."
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
 
-#: src/components/art7/dataDefinitions/form.js:521
+#: src/components/art7/dataDefinitions/form.js:523
 #, fuzzy
 msgid "in metric tons (not ODP or CO₂-equivalent tonnes)<br>Annex A, B, C, E and F substances"
 msgstr "Oll the quantity values should be expressed in metric tonnes ( not ODP tonnes)."
@@ -1194,10 +1200,6 @@ msgstr ""
 msgid "Last Modified"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:43
-msgid "Legacy"
-msgstr ""
-
 #: src/components/common/form-components/DefaultAside.vue:30
 msgid "Legend"
 msgstr ""
@@ -1209,7 +1211,7 @@ msgstr ""
 msgid "Limit"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:101
+#: src/components/otherRo/dataDefinitions/form.js:107
 msgid "LIST OF USES OF CONTROLLED SUBSTANCES AS PROCESS AGENTS"
 msgstr ""
 
@@ -1225,11 +1227,11 @@ msgstr ""
 msgid "Mail sent"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:118
+#: src/components/otherRo/dataDefinitions/form.js:124
 msgid "Make-up or consumption"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:122
+#: src/components/otherRo/dataDefinitions/form.js:128
 msgid "Maximum emissions"
 msgstr ""
 
@@ -1275,35 +1277,35 @@ msgstr ""
 msgid "Name of reporting officer"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:106
-#: src/components/art7/dataDefinitions/form.js:244
+#: src/components/art7/dataDefinitions/form.js:108
+#: src/components/art7/dataDefinitions/form.js:246
 msgid "New"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:609
+#: src/components/art7/dataDefinitions/form.js:611
 msgid "New exports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:601
+#: src/components/art7/dataDefinitions/form.js:603
 msgid "New imports"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:78
+#: src/components/hat/dataDefinitions/form.js:80
 #: src/components/hat/dataDefinitions/labels.js:15
 msgid "New imports for use in ducted commercial packaged (self-contained) air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:70
+#: src/components/hat/dataDefinitions/form.js:72
 #: src/components/hat/dataDefinitions/labels.js:13
 msgid "New imports for use in multi-split air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:74
+#: src/components/hat/dataDefinitions/form.js:76
 #: src/components/hat/dataDefinitions/labels.js:14
 msgid "New imports for use in split ducted air conditioners"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:166
+#: src/components/hat/dataDefinitions/form.js:168
 msgid "New production for use in ducted commercial packaged (self-contained) air conditioners"
 msgstr ""
 
@@ -1313,7 +1315,7 @@ msgstr ""
 msgid "New production for use in ducted commercial packaged (self-contained) air conditioners\t"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:158
+#: src/components/hat/dataDefinitions/form.js:160
 msgid "New production for use in multi-split air conditioners"
 msgstr ""
 
@@ -1323,7 +1325,7 @@ msgstr ""
 msgid "New production for use in multi-split air conditioners\t"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:162
+#: src/components/hat/dataDefinitions/form.js:164
 msgid "New production for use in split ducted air conditioners"
 msgstr ""
 
@@ -1341,8 +1343,8 @@ msgstr ""
 msgid "No detailed instructions for the current form are available."
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:36
-#: src/components/exemption/dataDefinitions/form.js:37
+#: src/components/exemption/dataDefinitions/form.js:39
+#: src/components/exemption/dataDefinitions/form.js:40
 msgid "Nomination"
 msgstr ""
 
@@ -1350,12 +1352,11 @@ msgstr ""
 msgid "Nomination filled"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:580
+#: src/components/art7/dataDefinitions/form.js:582
 #: src/components/common/dataDefinitions/labels.js:15
 msgid "Non-Party"
 msgstr ""
 
-#: src/components/exemption/form-components/Add.vue:185
 #: src/components/raf/form-components/Add.vue:193
 msgid "not added because two entries already exist."
 msgstr ""
@@ -1368,7 +1369,7 @@ msgstr ""
 msgid "Not valid"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:117
+#: src/views/lookupTables/ControlledSubstances.vue:123
 msgid "Number of isomers"
 msgstr ""
 
@@ -1379,7 +1380,7 @@ msgid "Obligation"
 msgstr ""
 
 #: src/views/lookupTables/Blends.vue:138
-#: src/views/lookupTables/ControlledSubstances.vue:99
+#: src/views/lookupTables/ControlledSubstances.vue:105
 msgid "ODP"
 msgstr ""
 
@@ -1399,12 +1400,12 @@ msgstr ""
 
 #: src/views/Dashboard.vue:613 src/views/Reports.vue:103
 #: src/views/lookupTables/Blends.vue:214
-#: src/views/lookupTables/ControlledSubstances.vue:157
+#: src/views/lookupTables/ControlledSubstances.vue:163
 #: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
 msgid "Online Reporting System"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:101
+#: src/components/hat/dataDefinitions/form.js:103
 msgid "Only bulk gases for servicing of exempted equipment should be reported here, not gases imported inside pre-charged equipment."
 msgstr ""
 
@@ -1451,10 +1452,6 @@ msgstr ""
 #: src/components/raf/dataDefinitions/labels.js:18
 #: src/components/raf/dataDefinitions/labels.js:44
 msgid "Ozone depleting substances"
-msgstr ""
-
-#: src/components/common/dataDefinitions/tabSubInfo.js:44
-msgid "Paper"
 msgstr ""
 
 #: src/views/lookupTables/Parties.vue:207
@@ -1507,15 +1504,15 @@ msgstr ""
 msgid "Please choose a report"
 msgstr ""
 
-#: src/components/exemption/services/tableRowConstructorService.js:50
+#: src/components/exemption/services/tableRowConstructorService.js:68
 msgid "Please complete the \"(3) Quantity\" field"
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:43
+#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:45
 msgid "Please confirm"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:28
+#: src/components/otherRo/dataDefinitions/form.js:34
 msgid "Please fill in mandatory fields."
 msgstr ""
 
@@ -1571,7 +1568,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:1036
 #: src/components/common/mixins/FormTemplateMixin.vue:115
-#: src/components/exemption/FormTemplate.vue:198
+#: src/components/exemption/FormTemplate.vue:231
 #: src/components/common/mixins/FormTemplateMixin.vue:116
 msgid "Please use the form on the right sidebar to add substances"
 msgstr ""
@@ -1607,7 +1604,7 @@ msgstr ""
 msgid "Process"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:115
+#: src/components/otherRo/dataDefinitions/form.js:121
 msgid "Process agent application"
 msgstr ""
 
@@ -1623,7 +1620,7 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:50
 #: src/components/letter/dataDefinitions/labels.js:72
 #: src/components/letter/dataDefinitions/labels.js:73
-#: src/components/otherRo/dataDefinitions/form.js:100
+#: src/components/otherRo/dataDefinitions/form.js:106
 msgid "Process agent uses"
 msgstr ""
 
@@ -1631,17 +1628,16 @@ msgstr ""
 msgid "Processing"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:339
+#: src/components/art7/dataDefinitions/form.js:341
 #: src/components/common/AggregationsTable.vue:34
 #: src/components/common/dataDefinitions/labels.js:13
-#: src/components/hat/dataDefinitions/form.js:137
+#: src/components/hat/dataDefinitions/form.js:139
 #: src/components/otherRo/FormTemplate.vue:116
 #: src/views/reports/Consumption.vue:139
 msgid "Production"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:138
-#: src/components/raf/dataDefinitions/form.js:54
+#: src/components/hat/dataDefinitions/form.js:140
 msgid "PRODUCTION"
 msgstr ""
 
@@ -1653,30 +1649,30 @@ msgstr ""
 msgid "Production and consumption"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:340
+#: src/components/art7/dataDefinitions/form.js:342
 msgid "PRODUCTION AND HFC-23 GENERATION"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:378
+#: src/components/art7/dataDefinitions/form.js:380
 #: src/components/art7/dataDefinitions/labels.js:93
 #: src/components/letter/dataDefinitions/labels.js:82
 msgid "Production for BDN for A5 Parties"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:404
-#: src/components/art7/dataDefinitions/form.js:436
+#: src/components/art7/dataDefinitions/form.js:406
+#: src/components/art7/dataDefinitions/form.js:438
 #: src/components/art7/dataDefinitions/labels.js:95
 #: src/components/letter/dataDefinitions/labels.js:84
 msgid "Production for exempted essential, critical or other uses within your country"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:366
+#: src/components/art7/dataDefinitions/form.js:368
 #: src/components/art7/dataDefinitions/labels.js:92
 #: src/components/letter/dataDefinitions/labels.js:81
 msgid "Production for feedstock uses within your country"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:410
+#: src/components/art7/dataDefinitions/form.js:412
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
 
@@ -1685,14 +1681,14 @@ msgstr ""
 msgid "Provisional"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:118
-#: src/components/art7/dataDefinitions/form.js:256
-#: src/components/art7/dataDefinitions/form.js:370
-#: src/components/art7/dataDefinitions/form.js:467
+#: src/components/art7/dataDefinitions/form.js:120
+#: src/components/art7/dataDefinitions/form.js:258
+#: src/components/art7/dataDefinitions/form.js:372
+#: src/components/art7/dataDefinitions/form.js:469
 #: src/components/art7/dataDefinitions/labels.js:33
 #: src/components/art7/dataDefinitions/labels.js:67
 #: src/components/art7/dataDefinitions/labels.js:97
-#: src/components/exemption/dataDefinitions/form.js:64
+#: src/components/exemption/dataDefinitions/form.js:67
 #: src/components/exemption/dataDefinitions/labels.js:8
 #: src/components/exemption/dataDefinitions/labels.js:16
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:22
@@ -1707,13 +1703,13 @@ msgstr ""
 msgid "Quantity contained in exported product"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:537
+#: src/components/art7/dataDefinitions/form.js:539
 #: src/components/art7/dataDefinitions/labels.js:105
 #: src/components/letter/dataDefinitions/labels.js:92
 msgid "Quantity destroyed"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:650
+#: src/components/art7/dataDefinitions/form.js:652
 msgid "Quantity of exports to non-parties"
 msgstr ""
 
@@ -1727,7 +1723,7 @@ msgstr ""
 msgid "Quantity of exports to non-parties (recovered)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:645
+#: src/components/art7/dataDefinitions/form.js:647
 msgid "Quantity of imports from non-parties"
 msgstr ""
 
@@ -1747,7 +1743,7 @@ msgstr ""
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications within your country %{production}"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:153
+#: src/components/art7/dataDefinitions/form.js:155
 #: src/components/art7/dataDefinitions/labels.js:50
 msgid "Quantity of new substance exported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
@@ -1756,13 +1752,13 @@ msgstr ""
 msgid "Quantity of new substance Exported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:291
+#: src/components/art7/dataDefinitions/form.js:293
 #: src/components/art7/dataDefinitions/labels.js:15
 #: src/components/letter/dataDefinitions/labels.js:12
 msgid "Quantity of new substance imported for exempted essential, critical, high-ambient-temperature or other uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:288
+#: src/components/art7/dataDefinitions/form.js:290
 #: src/components/art7/dataDefinitions/labels.js:14
 #: src/components/art7/dataDefinitions/labels.js:49
 #: src/components/letter/dataDefinitions/labels.js:11
@@ -1770,15 +1766,15 @@ msgstr ""
 msgid "Quantity of new substance imported for feedstock uses"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:150
+#: src/components/art7/dataDefinitions/form.js:152
 msgid "Quantity of new substances exported as feedstock"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:99
+#: src/components/hat/dataDefinitions/form.js:101
 msgid "Quantity of new substances imported for approved subsectors to which the high-ambient-temperature exemption applies"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:186
+#: src/components/hat/dataDefinitions/form.js:188
 msgid "Quantity of new substances produced for approved subsectors to which the high-ambient-temperature exemption applies (production should be for use within the producing country)"
 msgstr ""
 
@@ -1797,12 +1793,12 @@ msgstr ""
 msgid "Quarantine and pre-shipment applications"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:52
+#: src/components/art7/dataDefinitions/form.js:54
 #: src/components/common/dataDefinitions/labels.js:21
 msgid "Questionnaire"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:53
+#: src/components/art7/dataDefinitions/form.js:55
 msgid "QUESTIONNAIRE"
 msgstr ""
 
@@ -1823,21 +1819,21 @@ msgstr ""
 msgid "Recalled"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:110
-#: src/components/art7/dataDefinitions/form.js:248
+#: src/components/art7/dataDefinitions/form.js:112
+#: src/components/art7/dataDefinitions/form.js:250
 msgid "Recovered and reclaimed"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:613
+#: src/components/art7/dataDefinitions/form.js:615
 msgid "Recovered and reclaimed exports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:605
+#: src/components/art7/dataDefinitions/form.js:607
 msgid "Recovered and reclaimed imports"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:759
-#: src/components/art7/dataDefinitions/form.js:763
+#: src/components/art7/dataDefinitions/form.js:761
+#: src/components/art7/dataDefinitions/form.js:765
 msgid "Refers to the total amount whether captured or not. The sum of these amounts is not to be reported under data form 3"
 msgstr ""
 
@@ -1862,22 +1858,22 @@ msgstr ""
 msgid "Remark"
 msgstr ""
 
-#: src/components/exemption/dataDefinitions/form.js:74
+#: src/components/exemption/dataDefinitions/form.js:77
 #: src/components/exemption/dataDefinitions/labels.js:9
 #: src/components/exemption/dataDefinitions/labels.js:17
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:32
-#: src/components/otherRo/dataDefinitions/form.js:133
+#: src/components/otherRo/dataDefinitions/form.js:139
 msgid "Remarks"
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:82
-#: src/components/hat/dataDefinitions/form.js:170
+#: src/components/hat/dataDefinitions/form.js:84
+#: src/components/hat/dataDefinitions/form.js:172
 msgid "Remarks (party"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:541
-#: src/components/art7/dataDefinitions/form.js:617
-#: src/components/art7/dataDefinitions/form.js:738
+#: src/components/art7/dataDefinitions/form.js:543
+#: src/components/art7/dataDefinitions/form.js:619
+#: src/components/art7/dataDefinitions/form.js:740
 msgid "Remarks (party)"
 msgstr ""
 
@@ -1896,19 +1892,19 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:98
 #: src/components/letter/dataDefinitions/labels.js:115
 #: src/components/otherRo/dataDefinitions/labels.js:14
-#: src/components/raf/dataDefinitions/labels.js:8
-#: src/components/raf/dataDefinitions/labels.js:34
+#: src/components/raf/dataDefinitions/labels.js:7
+#: src/components/raf/dataDefinitions/labels.js:33
 msgid "Remarks (Party)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:545
-#: src/components/art7/dataDefinitions/form.js:742
-#: src/components/hat/dataDefinitions/form.js:86
-#: src/components/hat/dataDefinitions/form.js:174
+#: src/components/art7/dataDefinitions/form.js:547
+#: src/components/art7/dataDefinitions/form.js:744
+#: src/components/hat/dataDefinitions/form.js:88
+#: src/components/hat/dataDefinitions/form.js:176
 msgid "Remarks (secretariat)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:621
+#: src/components/art7/dataDefinitions/form.js:623
 #: src/components/art7/dataDefinitions/labels.js:34
 #: src/components/art7/dataDefinitions/labels.js:68
 #: src/components/art7/dataDefinitions/labels.js:75
@@ -1926,20 +1922,24 @@ msgstr ""
 #: src/components/letter/dataDefinitions/labels.js:97
 #: src/components/letter/dataDefinitions/labels.js:114
 #: src/components/otherRo/dataDefinitions/labels.js:13
-#: src/components/raf/dataDefinitions/labels.js:7
-#: src/components/raf/dataDefinitions/labels.js:33
+#: src/components/raf/dataDefinitions/labels.js:8
+#: src/components/raf/dataDefinitions/labels.js:34
 msgid "Remarks (Secretariat)"
+msgstr ""
+
+#: src/components/raf/dataDefinitions/form.js:54
+msgid "Reporting Accounting Framework"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:38
 msgid "Reporting channel"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:107
+#: src/components/common/dataDefinitions/tabSubInfo.js:103
 msgid "Reporting officer"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:66
+#: src/components/otherRo/dataDefinitions/form.js:72
 #: src/components/otherRo/dataDefinitions/labels.js:16
 #: src/views/reports/Consumption.vue:88
 msgid "Reporting period"
@@ -1953,15 +1953,15 @@ msgstr ""
 msgid "Reports"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:53
-#: src/components/common/dataDefinitions/tabSubInfo.js:89
-#: src/components/common/dataDefinitions/tabSubInfo.js:100
+#: src/components/common/dataDefinitions/tabSubInfo.js:49
+#: src/components/common/dataDefinitions/tabSubInfo.js:85
+#: src/components/common/dataDefinitions/tabSubInfo.js:96
 msgid "required"
 msgstr ""
 
 #: src/components/common/SubmissionInfo.vue:254
-#: src/components/common/dataDefinitions/tabSubInfo.js:106
-#: src/components/common/dataDefinitions/tabSubInfo.js:113
+#: src/components/common/dataDefinitions/tabSubInfo.js:102
+#: src/components/common/dataDefinitions/tabSubInfo.js:109
 msgid "Required"
 msgstr ""
 
@@ -1969,16 +1969,19 @@ msgstr ""
 msgid "Reset password"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:46
+#: src/components/art7/dataDefinitions/form.js:48
 msgid "Respondents are requested to read the data reporting instructions and guidelines and to refer to them as necessary when completing the data forms."
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:54
+#: src/components/raf/dataDefinitions/form.js:40
+msgid "Respondents are requested to read the guidelines for reporting accounting framework of essential uses other than laboratory and analytical applications before proceeding and to refer to them as necessary when completing the data forms"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:56
 msgid "Respondents are requested to read the Introduction, the General Instructions and the Definitions carefully before proceeding to the questionnaire."
 msgstr ""
 
-#: src/components/hat/dataDefinitions/form.js:34
-#: src/components/raf/dataDefinitions/form.js:40
+#: src/components/hat/dataDefinitions/form.js:36
 msgid "Respondents are requested to read the Introduction, the General Instructions, and the Definitions carefully before proceeding to the questionnaire and to refer to them as necessary when completing the data forms"
 msgstr ""
 
@@ -1994,7 +1997,7 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/store/actions.js:191
+#: src/store/actions.js:193
 msgid "Saved"
 msgstr ""
 
@@ -2010,8 +2013,8 @@ msgstr ""
 msgid "Secretariat"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:647
-#: src/components/art7/dataDefinitions/form.js:652
+#: src/components/art7/dataDefinitions/form.js:649
+#: src/components/art7/dataDefinitions/form.js:654
 msgid "See definition of “non-parties” in Instruction V."
 msgstr ""
 
@@ -2043,7 +2046,7 @@ msgstr ""
 msgid "Sort"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:54
+#: src/components/otherRo/dataDefinitions/form.js:60
 #: src/components/otherRo/dataDefinitions/labels.js:11
 msgid "Source party"
 msgstr ""
@@ -2056,11 +2059,11 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#: src/store/actions.js:78
+#: src/store/actions.js:80
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:365
+#: src/store/actions.js:369
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -2091,7 +2094,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:325
+#: src/store/actions.js:329
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2114,22 +2117,22 @@ msgstr ""
 msgid "Submitted"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:96
-#: src/components/art7/dataDefinitions/form.js:235
-#: src/components/art7/dataDefinitions/form.js:356
-#: src/components/art7/dataDefinitions/form.js:451
-#: src/components/art7/dataDefinitions/form.js:533
-#: src/components/art7/dataDefinitions/form.js:593
+#: src/components/art7/dataDefinitions/form.js:98
+#: src/components/art7/dataDefinitions/form.js:237
+#: src/components/art7/dataDefinitions/form.js:358
+#: src/components/art7/dataDefinitions/form.js:453
+#: src/components/art7/dataDefinitions/form.js:535
+#: src/components/art7/dataDefinitions/form.js:595
 #: src/components/art7/dataDefinitions/labels.js:119
-#: src/components/exemption/dataDefinitions/form.js:60
+#: src/components/exemption/dataDefinitions/form.js:63
 #: src/components/exemption/dataDefinitions/labels.js:5
 #: src/components/exemption/dataDefinitions/labels.js:13
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:18
-#: src/components/hat/dataDefinitions/form.js:64
-#: src/components/hat/dataDefinitions/form.js:154
+#: src/components/hat/dataDefinitions/form.js:66
+#: src/components/hat/dataDefinitions/form.js:156
 #: src/components/letter/dataDefinitions/labels.js:104
-#: src/components/otherRo/dataDefinitions/form.js:49
-#: src/components/otherRo/dataDefinitions/form.js:112
+#: src/components/otherRo/dataDefinitions/form.js:55
+#: src/components/otherRo/dataDefinitions/form.js:118
 #: src/components/otherRo/dataDefinitions/labels.js:9
 msgid "Substance"
 msgstr ""
@@ -2168,7 +2171,7 @@ msgstr ""
 msgid "SUPPORTING DOCUMENTS"
 msgstr ""
 
-#: src/components/common/dataDefinitions/tabSubInfo.js:94
+#: src/components/common/dataDefinitions/tabSubInfo.js:90
 msgid "The date indicated on the submitted document"
 msgstr ""
 
@@ -2186,7 +2189,7 @@ msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:704
-#: src/components/exemption/FormTemplate.vue:129
+#: src/components/exemption/FormTemplate.vue:131
 #: src/components/raf/FormTemplate.vue:237
 msgid "The values are saved automatically in the table, as you type."
 msgstr ""
@@ -2198,20 +2201,20 @@ msgstr ""
 msgid "There are no records to show"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:102
+#: src/components/otherRo/dataDefinitions/form.js:108
 msgid "This form shows controlled substances used for process agent applications in accordance with decision X/14."
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:39
+#: src/components/otherRo/dataDefinitions/form.js:45
 msgid "This form shows transfer of production/consumption rights in accordance with paragraphs 5,5 bis,7 of Article 2."
 msgstr ""
 
-#: src/components/exemption/FormTemplate.vue:196
+#: src/components/exemption/FormTemplate.vue:229
 msgid "This table shows substances and amounts once the secretariat processes your submission"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:179
-#: src/components/art7/dataDefinitions/form.js:304
+#: src/components/art7/dataDefinitions/form.js:181
+#: src/components/art7/dataDefinitions/form.js:306
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:53
 msgid "Tonne = Metric ton."
 msgstr ""
@@ -2223,7 +2226,7 @@ msgstr ""
 msgid "Total acquired"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:710
+#: src/components/art7/dataDefinitions/form.js:712
 msgid "Total amount generated"
 msgstr ""
 
@@ -2235,7 +2238,7 @@ msgstr ""
 msgid "Total amount generated (2) must be greater than or equal to the sum of its components Amount generated and captured for all uses (3a), Amount used for feedstock without prior capture (4), Amount destroyed without prior capture (5) and Amount of generated emissions (6)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:361
+#: src/components/art7/dataDefinitions/form.js:363
 #: src/components/art7/dataDefinitions/labels.js:91
 #: src/components/letter/dataDefinitions/labels.js:80
 msgid "Total production for all uses"
@@ -2257,7 +2260,7 @@ msgstr ""
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4a), Amounts destroyed (4b) and Exempted amounts (5)"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:145
+#: src/components/art7/dataDefinitions/form.js:147
 msgid "Total Quantity Exported for All Uses"
 msgstr ""
 
@@ -2269,7 +2272,7 @@ msgstr ""
 msgid "Total quantity for all uses (3) must be greater than or equal to the sum of its individual components (5+6) for all parties"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:283
+#: src/components/art7/dataDefinitions/form.js:285
 msgid "Total Quantity Imported for All Uses"
 msgstr ""
 
@@ -2297,21 +2300,21 @@ msgstr ""
 msgid "Trade names"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:74
+#: src/components/otherRo/dataDefinitions/form.js:80
 #: src/components/otherRo/dataDefinitions/labels.js:10
 msgid "Transfer type"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:62
+#: src/components/otherRo/dataDefinitions/form.js:68
 #: src/components/otherRo/dataDefinitions/labels.js:15
 msgid "Transferred amount"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:37
+#: src/components/otherRo/dataDefinitions/form.js:43
 msgid "Transfers"
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:38
+#: src/components/otherRo/dataDefinitions/form.js:44
 msgid "TRANSFERS OF PRODUCTION/CONSUMPTION RIGHTS"
 msgstr ""
 
@@ -2336,11 +2339,11 @@ msgstr "Un melange avec ce nom existe déjà!"
 msgid "Unable to add rows for the following countries because they already exist"
 msgstr "Un melange avec ce nom existe déjà!"
 
-#: src/store/actions.js:87
+#: src/store/actions.js:89
 msgid "Unable to add submission."
 msgstr ""
 
-#: src/store/actions.js:67
+#: src/store/actions.js:69
 msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
 msgstr ""
 
@@ -2353,7 +2356,7 @@ msgstr "Un melange avec ce nom existe déjà!"
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:372
+#: src/store/actions.js:376
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2361,14 +2364,15 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:331
+#: src/store/actions.js:335
 msgid "Unable to update submission status."
 msgstr ""
 
-#: src/components/otherRo/dataDefinitions/form.js:126
+#: src/components/otherRo/dataDefinitions/form.js:132
 msgid "Unit"
 msgstr ""
 
+#: src/components/exemption/services/tableRowConstructorService.js:13
 #: src/components/raf/services/tableRowConstructorService.js:14
 #: src/components/raf/FormTemplate.vue:315
 msgid "Unspecified"
@@ -2426,11 +2430,8 @@ msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:21
 #: src/components/common/dataDefinitions/labels.js:51
+#: src/components/exemption/FormTemplate.vue:69
 msgid "View"
-msgstr ""
-
-#: src/components/common/dataDefinitions/tabSubInfo.js:41
-msgid "Web form"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:75
@@ -2514,7 +2515,7 @@ msgid "Filter"
 msgstr ""
 
 #: src/components/art7/FormTemplate.vue:720
-#: src/components/exemption/FormTemplate.vue:145
+#: src/components/exemption/FormTemplate.vue:147
 #: src/components/raf/FormTemplate.vue:253
 msgid "Select substance"
 msgstr ""
