@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-12 14:38+0000\n"
+"POT-Creation-Date: 2019-12-13 15:24+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -156,7 +156,7 @@ msgstr "фиктивный (%{totalRows} текст)"
 
 #: src/components/art7/FormTemplate.vue:699
 #: src/components/exemption/FormTemplate.vue:126
-#: src/components/raf/FormTemplate.vue:232
+#: src/components/raf/FormTemplate.vue:240
 #, fuzzy
 msgid "All the quantity values should be expressed in metric tons (not ODP or CO₂-equivalent tonnes)."
 msgstr "фиктивный текст."
@@ -179,7 +179,7 @@ msgstr "фиктивный текст"
 msgid "Amount acquired by import"
 msgstr "фиктивный текст"
 
-#: src/components/raf/FormTemplate.vue:294
+#: src/components/raf/FormTemplate.vue:302
 #: src/components/raf/dataDefinitions/form.js:91
 #: src/components/raf/dataDefinitions/form.js:146
 msgid "Amount acquired by import & countries of manufacture"
@@ -290,7 +290,7 @@ msgstr ""
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
 msgstr "фиктивный текст."
 
-#: src/components/raf/FormTemplate.vue:332
+#: src/components/raf/FormTemplate.vue:340
 #, fuzzy
 msgid "Amounts used by critical use category"
 msgstr "фиктивный текст"
@@ -477,7 +477,7 @@ msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:709
 #: src/components/exemption/FormTemplate.vue:136
-#: src/components/raf/FormTemplate.vue:242
+#: src/components/raf/FormTemplate.vue:250
 msgid "Change substance"
 msgstr "фиктивный текст"
 
@@ -522,7 +522,7 @@ msgstr "фиктивный текст"
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
-#: src/components/raf/FormTemplate.vue:381
+#: src/components/raf/FormTemplate.vue:389
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
 #: src/components/raf/TabsManager.vue:132
 msgid "Close"
@@ -731,7 +731,7 @@ msgstr "фиктивный текст"
 #: src/components/hat/FormTemplate.vue:96
 #: src/components/hat/FormTemplate.vue:215
 #: src/components/raf/FormTemplate.vue:86
-#: src/components/raf/FormTemplate.vue:183
+#: src/components/raf/FormTemplate.vue:191
 msgid "Delete"
 msgstr "фиктивный текст"
 
@@ -841,19 +841,19 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:89
 #: src/components/hat/FormTemplate.vue:208
 #: src/components/raf/FormTemplate.vue:79
-#: src/components/raf/FormTemplate.vue:176 src/views/UserProfile.vue:46
+#: src/components/raf/FormTemplate.vue:184 src/views/UserProfile.vue:46
 msgid "Edit"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:690
-#: src/components/raf/FormTemplate.vue:225
+#: src/components/raf/FormTemplate.vue:233
 #, fuzzy
 msgid "Edit %{name} mixture"
 msgstr "фиктивный %{name} текст"
 
 #: src/components/art7/FormTemplate.vue:686
 #: src/components/exemption/FormTemplate.vue:119
-#: src/components/raf/FormTemplate.vue:221
+#: src/components/raf/FormTemplate.vue:229
 msgid "Edit %{name} substance"
 msgstr "фиктивный %{name} текст"
 
@@ -1073,7 +1073,7 @@ msgstr "фиктивный текст"
 msgid "Formula"
 msgstr "фиктивный текст"
 
-#: src/views/Reports.vue:7 src/views/Reports.vue:57
+#: src/views/Reports.vue:7 src/views/Reports.vue:61
 msgid "Generate report"
 msgstr ""
 
@@ -1477,7 +1477,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:616 src/views/Reports.vue:103
+#: src/views/Dashboard.vue:616 src/views/Reports.vue:107
 #: src/views/lookupTables/Blends.vue:214
 #: src/views/lookupTables/ControlledSubstances.vue:163
 #: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
@@ -1545,7 +1545,7 @@ msgstr "фиктивный текст"
 #: src/views/Dashboard.vue:432 src/views/Dashboard.vue:447
 #: src/views/UserProfile.vue:38 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:41 src/views/Dashboard.vue:87
-#: src/views/Dashboard.vue:195 src/views/Reports.vue:42
+#: src/views/Dashboard.vue:195 src/views/Reports.vue:44
 msgid "Party"
 msgstr "фиктивный текст"
 
@@ -2054,7 +2054,7 @@ msgstr "фиктивный текст"
 msgid "Reporting Period"
 msgstr "фиктивный текст"
 
-#: src/views/Reports.vue:103 src/views/Reports.vue:18
+#: src/views/Reports.vue:107 src/views/Reports.vue:18
 #, fuzzy
 msgid "Reports"
 msgstr "фиктивный текст"
@@ -2312,7 +2312,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:704
 #: src/components/exemption/FormTemplate.vue:131
-#: src/components/raf/FormTemplate.vue:237
+#: src/components/raf/FormTemplate.vue:245
 msgid "The values are saved automatically in the table, as you type."
 msgstr "фиктивный текст."
 
@@ -2507,7 +2507,7 @@ msgstr ""
 
 #: src/components/exemption/services/tableRowConstructorService.js:13
 #: src/components/raf/services/tableRowConstructorService.js:14
-#: src/components/raf/FormTemplate.vue:315
+#: src/components/raf/FormTemplate.vue:323
 #, fuzzy
 msgid "Unspecified"
 msgstr "фиктивный текст"
@@ -2636,7 +2636,7 @@ msgstr "фиктивный текст"
 #: src/components/raf/form-components/Add.vue:14
 #: src/components/raf/form-components/Add.vue:27 src/views/Dashboard.vue:19
 #: src/views/Dashboard.vue:30 src/views/Dashboard.vue:43
-#: src/views/Reports.vue:20 src/views/Reports.vue:32 src/views/Reports.vue:44
+#: src/views/Reports.vue:20 src/views/Reports.vue:32 src/views/Reports.vue:46
 msgid "Select option"
 msgstr "фиктивный текст"
 
@@ -2654,7 +2654,7 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:720
 #: src/components/exemption/FormTemplate.vue:147
-#: src/components/raf/FormTemplate.vue:253
+#: src/components/raf/FormTemplate.vue:261
 msgid "Select substance"
 msgstr "фиктивный текст"
 
@@ -2719,7 +2719,7 @@ msgid "Search all columns"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:746
-#: src/components/raf/FormTemplate.vue:283
+#: src/components/raf/FormTemplate.vue:291
 msgid "Countries"
 msgstr "фиктивный текст"
 
