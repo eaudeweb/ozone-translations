@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-16 18:42+0300\n"
+"POT-Creation-Date: 2019-12-16 18:47+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,7 +76,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_labuses.py:86
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:46
 #: ozone/core/api/export_pdf/art7/section_production.py:120
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:309
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:318
 msgid "Annex/Group"
 msgstr ""
 
@@ -409,7 +409,7 @@ msgstr ""
 msgid "Captured for destruction"
 msgstr ""
 
-#: ozone/core/api/export_pdf/export.py:34
+#: ozone/core/api/export_pdf/export.py:35
 msgid "Page"
 msgstr ""
 
@@ -493,8 +493,8 @@ msgid "2.2 Comments"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/section_production.py:54
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:310
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:453
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:319
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:462
 msgid "PRODUCTION"
 msgstr ""
 
@@ -561,49 +561,49 @@ msgstr ""
 msgid "Non-Article 5 parties"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:293
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:302
 #, python-brace-format
 msgid ""
 "{party_name} - Date Reported: {date_reported} {party_type} {party_region} - "
 "Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:301
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:310
 #, python-brace-format
 msgid "Production and Consumption of ODSs for {period} (ODP tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:302
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:311
 #, python-brace-format
 msgid "Production and Consumption of HFCs for {period} (CO2-equivalent tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:311
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:454
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:320
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:463
 msgid "CONSUMPTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:315
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:316
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:458
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:459
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:324
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:325
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:467
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:468
 msgid "Base"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:315
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:316
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:458
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:459
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:324
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:325
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:467
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:468
 msgid "% Chng"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:315
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:316
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:324
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:325
 msgid "Limit"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:316
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:459
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:325
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:468
 msgid "Per Cap. Cons."
 msgstr ""
 
@@ -762,11 +762,11 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/views.py:1568
+#: ozone/core/api/views.py:1569
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:2413
+#: ozone/core/api/views.py:2414
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -854,28 +854,28 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/report.py:46 ozone/core/models/report.py:106
-#: ozone/core/models/report.py:142
+#: ozone/core/models/report.py:47 ozone/core/models/report.py:107
+#: ozone/core/models/report.py:143
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/report.py:58 ozone/core/models/report.py:70
-#: ozone/core/models/report.py:82 ozone/core/models/report.py:94
-#: ozone/core/models/report.py:130 ozone/core/models/report.py:166
-#: ozone/core/models/report.py:178
+#: ozone/core/models/report.py:59 ozone/core/models/report.py:71
+#: ozone/core/models/report.py:83 ozone/core/models/report.py:95
+#: ozone/core/models/report.py:131 ozone/core/models/report.py:167
+#: ozone/core/models/report.py:179 ozone/core/models/report.py:191
 msgid "Select one or more reporting periods"
 msgstr ""
 
-#: ozone/core/models/report.py:118
+#: ozone/core/models/report.py:119
 msgid "Select one or more parties"
 msgstr ""
 
-#: ozone/core/models/report.py:154 ozone/core/models/report.py:190
+#: ozone/core/models/report.py:155 ozone/core/models/report.py:203
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/models/report.py:202 ozone/core/models/report.py:214
-#: ozone/core/models/report.py:226
+#: ozone/core/models/report.py:215 ozone/core/models/report.py:227
+#: ozone/core/models/report.py:239
 msgid "Select one or more parties, or leave blank for all"
 msgstr ""
 
