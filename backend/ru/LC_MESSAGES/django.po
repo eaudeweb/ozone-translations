@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-26 13:28+0300\n"
+"POT-Creation-Date: 2019-12-27 09:18+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -1138,8 +1138,14 @@ msgid ""
 msgstr ""
 
 #: ozone/templates/admin/login.html:113
-msgid "Ozone Secretariat reporting tool"
+msgid "Ozone Secretariat"
 msgstr ""
+
+#: ozone/templates/admin/login.html:114
+#, fuzzy
+#| msgid "Ozone Reporting System"
+msgid "Online Reporting System"
+msgstr "фиктивный текст"
 
 #: ozone/templates/registration/account_activated_email.html:2
 #, python-format
