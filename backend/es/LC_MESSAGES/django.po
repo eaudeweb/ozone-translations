@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-03 17:54+0300\n"
+"POT-Creation-Date: 2020-01-03 18:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,7 +65,7 @@ msgstr ""
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/__init__.py:208
+#: ozone/core/api/export_pdf/art7/__init__.py:206
 #: ozone/core/api/export_pdf/art7/labuse_report.py:92
 msgid "Select one or more parties"
 msgstr ""
@@ -1006,11 +1006,11 @@ msgstr ""
 msgid "email address"
 msgstr ""
 
-#: ozone/core/models/user.py:73
+#: ozone/core/models/user.py:78
 msgid "Secretariat users cannot belong to a Party"
 msgstr ""
 
-#: ozone/core/models/user.py:77
+#: ozone/core/models/user.py:82
 msgid "User needs to be either Secretariat or Party"
 msgstr ""
 
