@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-05 11:14+0300\n"
+"POT-Creation-Date: 2020-02-05 12:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,40 +22,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ozone/core/admin.py:109
+#: ozone/core/admin.py:115
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:124
+#: ozone/core/admin.py:130
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:127
+#: ozone/core/admin.py:133
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:130
+#: ozone/core/admin.py:136
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:377
+#: ozone/core/admin.py:383
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:380
+#: ozone/core/admin.py:386
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:382
+#: ozone/core/admin.py:388
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:388
+#: ozone/core/admin.py:394
 msgid "Login"
 msgstr ""
 
@@ -813,11 +813,11 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: ozone/core/api/views.py:1584
+#: ozone/core/api/views.py:1592
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:2427
+#: ozone/core/api/views.py:2435
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -851,6 +851,10 @@ msgstr ""
 msgid "Removed %d limits"
 msgstr ""
 
+#: ozone/core/management/commands/import_impcom.py:49
+msgid "Import Kigali licensing systems data from Excel"
+msgstr ""
+
 #: ozone/core/management/commands/import_procagents.py:36
 msgid "Import Process Agents - uses, reports & related tables from Excel file"
 msgstr ""
@@ -858,6 +862,14 @@ msgstr ""
 #: ozone/core/management/commands/import_procagents.py:482
 msgid ""
 "Submission for this party and period not found in ProcAgentUsesDateReported"
+msgstr ""
+
+#: ozone/core/management/commands/import_teap.py:40
+msgid "Import TEAP data from Excel"
+msgstr ""
+
+#: ozone/core/management/commands/update_impcom_body_sort_order.py:12
+msgid "Update sort order for ImpCom bodies"
 msgstr ""
 
 #: ozone/core/models/data.py:73 ozone/core/models/data.py:76
@@ -1079,28 +1091,28 @@ msgstr ""
 msgid "(Information recorded by {user})"
 msgstr ""
 
-#: ozone/core/serializers.py:129
+#: ozone/core/serializers.py:133
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:522 ozone/core/serializers.py:527
+#: ozone/core/serializers.py:526 ozone/core/serializers.py:531
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1089
+#: ozone/core/serializers.py:1093
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1100
+#: ozone/core/serializers.py:1104
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1331
+#: ozone/core/serializers.py:1335
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1349
+#: ozone/core/serializers.py:1353
 msgid "Specified file id not found for this submission"
 msgstr ""
 
