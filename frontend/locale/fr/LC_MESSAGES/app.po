@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-13 15:24+0000\n"
+"POT-Creation-Date: 2020-02-05 08:16+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -650,7 +650,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:42
 #: src/components/common/dataDefinitions/tabSubInfo.js:117
-msgid "Date of submission"
+msgid "Date submission"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:51
