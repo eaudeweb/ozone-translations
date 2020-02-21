@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-14 12:30+0300\n"
+"POT-Creation-Date: 2020-02-21 17:23+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,13 +59,13 @@ msgid "Login"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/__init__.py:85
+#: ozone/core/api/export_pdf/art7/labuse_report.py:92
 #: ozone/core/api/export_pdf/reports/prodcons/__init__.py:15
 #: ozone/core/api/export_pdf/reports/raf.py:394
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/__init__.py:206
-#: ozone/core/api/export_pdf/art7/labuse_report.py:92
 msgid "Select one or more parties"
 msgstr ""
 
@@ -355,7 +355,7 @@ msgid "Printed at"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_labuses.py:81
-#: ozone/core/api/export_pdf/util.py:296
+#: ozone/core/api/export_pdf/util.py:295
 msgid "Laboratory and analytical uses"
 msgstr ""
 
@@ -776,39 +776,39 @@ msgstr ""
 msgid "Reporting accounting framework for critical uses of methyl bromide"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:297
+#: ozone/core/api/export_pdf/util.py:296
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:298
+#: ozone/core/api/export_pdf/util.py:297
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:299
+#: ozone/core/api/export_pdf/util.py:298
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:300
+#: ozone/core/api/export_pdf/util.py:299
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:301
+#: ozone/core/api/export_pdf/util.py:300
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:377 ozone/core/api/export_pdf/util.py:380
+#: ozone/core/api/export_pdf/util.py:376 ozone/core/api/export_pdf/util.py:379
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:377
+#: ozone/core/api/export_pdf/util.py:376
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:380
+#: ozone/core/api/export_pdf/util.py:379
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:564
+#: ozone/core/api/export_pdf/util.py:563
 msgid "Page"
 msgstr ""
 
