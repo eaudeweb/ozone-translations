@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-02 13:00+0300\n"
+"POT-Creation-Date: 2020-03-04 15:58+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -79,14 +79,14 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_emission.py:43
 #: ozone/core/api/export_pdf/art7/section_impexp.py:289
 #: ozone/core/api/export_pdf/art7/section_impexp.py:303
-#: ozone/core/api/export_pdf/art7/section_labuses.py:81
+#: ozone/core/api/export_pdf/art7/section_labuses.py:83
 #: ozone/core/api/export_pdf/art7/section_production.py:105
 msgid "metric tonnes"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:40
 #: ozone/core/api/export_pdf/art7/section_impexp.py:240
-#: ozone/core/api/export_pdf/art7/section_labuses.py:86
+#: ozone/core/api/export_pdf/art7/section_labuses.py:88
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:46
 #: ozone/core/api/export_pdf/art7/section_production.py:120
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:326
@@ -105,7 +105,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_destruction.py:43
 #: ozone/core/api/export_pdf/art7/section_emission.py:57
 #: ozone/core/api/export_pdf/art7/section_impexp.py:248
-#: ozone/core/api/export_pdf/art7/section_labuses.py:90
+#: ozone/core/api/export_pdf/art7/section_labuses.py:92
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:53
 #: ozone/core/api/export_pdf/art7/section_production.py:130
 msgid "Remarks"
@@ -254,7 +254,7 @@ msgid "Annex/Group reported in full?"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:25
-#: ozone/core/api/export_pdf/art7/section_labuses.py:88
+#: ozone/core/api/export_pdf/art7/section_labuses.py:90
 #: ozone/core/api/export_pdf/art7/section_production.py:105
 #: ozone/core/api/export_pdf/reports/hfc_baseline.py:37
 #: ozone/core/api/export_pdf/reports/raf.py:83
@@ -327,45 +327,44 @@ msgid "Superseded"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:66
-#: ozone/core/api/export_pdf/art7/section_info.py:79
+#: ozone/core/api/export_pdf/art7/section_info.py:77
 msgid "Date received"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:70
+#: ozone/core/api/export_pdf/art7/section_info.py:68
 msgid "Date revised"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:108
+#: ozone/core/api/export_pdf/art7/section_info.py:115
 msgid "Address country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:119
+#: ozone/core/api/export_pdf/art7/section_info.py:125
 #: ozone/core/api/export_pdf/reports/raf.py:214
 msgid "Yes"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:119
+#: ozone/core/api/export_pdf/art7/section_info.py:125
 msgid "No"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:161
+#: ozone/core/api/export_pdf/art7/section_info.py:167
 msgid "Provisional"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_info.py:166
+#: ozone/core/api/export_pdf/art7/section_info.py:172
 msgid "Printed at"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_labuses.py:81
-#: ozone/core/api/export_pdf/util.py:295
-msgid "Laboratory and analytical uses"
-msgstr ""
-
-#: ozone/core/api/export_pdf/art7/section_labuses.py:87
-msgid "Substance name"
+#: ozone/core/api/export_pdf/art7/section_labuses.py:82
+msgid "Laboratory and analytical uses under the global exemption"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_labuses.py:89
+msgid "Substance name"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_labuses.py:91
 #: ozone/core/api/export_pdf/reports/hfc_baseline.py:38
 msgid "Consumption"
 msgstr ""
@@ -776,6 +775,10 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:354
 msgid "Reporting accounting framework for critical uses of methyl bromide"
+msgstr ""
+
+#: ozone/core/api/export_pdf/util.py:295
+msgid "Laboratory and analytical uses"
 msgstr ""
 
 #: ozone/core/api/export_pdf/util.py:296
