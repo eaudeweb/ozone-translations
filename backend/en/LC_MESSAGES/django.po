@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-04 15:58+0300\n"
+"POT-Creation-Date: 2020-03-04 16:57+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -817,11 +817,11 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: ozone/core/api/views.py:1578
+#: ozone/core/api/views.py:1576
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:2421
+#: ozone/core/api/views.py:2409
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -919,6 +919,14 @@ msgstr ""
 
 #: ozone/core/models/plans_of_action.py:87
 msgid "Plan of Action party is not the same as the decision party!"
+msgstr ""
+
+#: ozone/core/models/process_agent.py:240
+msgid "Party does not correspond to submission's party"
+msgstr ""
+
+#: ozone/core/models/process_agent.py:248
+msgid "Reporting period does not correspond to submission's reporting period"
 msgstr ""
 
 #: ozone/core/models/reporting.py:70 ozone/core/models/reporting.py:1722
@@ -1095,28 +1103,28 @@ msgstr ""
 msgid "(Information recorded by {user})"
 msgstr ""
 
-#: ozone/core/serializers.py:135
+#: ozone/core/serializers.py:134
 #, python-brace-format
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:528 ozone/core/serializers.py:533
+#: ozone/core/serializers.py:527 ozone/core/serializers.py:532
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1095
+#: ozone/core/serializers.py:1086
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1106
+#: ozone/core/serializers.py:1097
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1337
+#: ozone/core/serializers.py:1328
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1355
+#: ozone/core/serializers.py:1346
 msgid "Specified file id not found for this submission"
 msgstr ""
 
@@ -1128,6 +1136,10 @@ msgid ""
 "      <a href=\"%(login_url)s\">Click here</a> to reload this page and try "
 "again.\n"
 "      "
+msgstr ""
+
+#: ozone/templates/admin/finalize_proc_agent.html:11
+msgid "Clone"
 msgstr ""
 
 #: ozone/templates/admin/login.html:113
