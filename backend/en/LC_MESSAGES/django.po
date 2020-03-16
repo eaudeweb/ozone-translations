@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-16 18:43+0300\n"
+"POT-Creation-Date: 2020-03-16 18:48+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -60,14 +60,14 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/__init__.py:85
+#: ozone/core/api/export_pdf/art7/__init__.py:87
 #: ozone/core/api/export_pdf/art7/labuse_report.py:92
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:15
-#: ozone/core/api/export_pdf/reports/raf.py:394
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:18
+#: ozone/core/api/export_pdf/reports/raf.py:406
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/__init__.py:206
+#: ozone/core/api/export_pdf/art7/__init__.py:210
 msgid "Select one or more parties"
 msgstr ""
 
@@ -170,19 +170,19 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:241
 #: ozone/core/api/export_pdf/art7/section_production.py:121
-#: ozone/core/api/export_pdf/reports/raf.py:81
+#: ozone/core/api/export_pdf/reports/raf.py:90
 msgid "Substance"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:254
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:252
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:254
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:261
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:263
 msgid "New"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:255
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:253
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:255
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:262
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:264
 msgid "Recovered"
 msgstr ""
 
@@ -257,8 +257,8 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_labuses.py:90
 #: ozone/core/api/export_pdf/art7/section_production.py:105
 #: ozone/core/api/export_pdf/reports/hfc_baseline.py:37
-#: ozone/core/api/export_pdf/reports/raf.py:83
-#: ozone/core/api/export_pdf/reports/raf.py:142
+#: ozone/core/api/export_pdf/reports/raf.py:92
+#: ozone/core/api/export_pdf/reports/raf.py:151
 msgid "Production"
 msgstr ""
 
@@ -340,7 +340,7 @@ msgid "Address country"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:125
-#: ozone/core/api/export_pdf/reports/raf.py:214
+#: ozone/core/api/export_pdf/reports/raf.py:223
 msgid "Yes"
 msgstr ""
 
@@ -519,7 +519,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/hat/section_production.py:54
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:327
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:470
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:472
 msgid "PRODUCTION"
 msgstr ""
 
@@ -549,64 +549,64 @@ msgstr ""
 msgid "HFC Baseline data (in CO2-equivalent tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp.py:198
-#: ozone/core/api/export_pdf/reports/impexp.py:300
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:36
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:53
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:87
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:95
+#: ozone/core/api/export_pdf/reports/impexp.py:199
+#: ozone/core/api/export_pdf/reports/impexp.py:305
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:39
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:56
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:93
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:101
 #: ozone/core/api/export_pdf/reports/prodcons/prod_imp_exp.py:249
 msgid "Select one or more reporting periods"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:48
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:55
 msgid "Select one or more parties and one reporting period"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:137
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:146
 msgid "Subtotal ODS in ODP tonnes"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:208
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:217
 msgid "Annex III"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:217
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:226
 #, python-brace-format
 msgid "{period} import and export of new and recovered substances"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:229
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:238
 msgid ""
 "(in ODP tonnes for annexes A,B,C,E and CO2-equivalent tonnes for annex F)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:245
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:254
 msgid "IMPORTS"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:247
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:256
 msgid "EXPORTS"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:262
+#: ozone/core/api/export_pdf/reports/impexp_new_rec.py:271
 #, python-brace-format
 msgid "{party_name} {party_type} - Population*: {population}"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:42
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:45
 msgid "Summary by region"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:59
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:62
 msgid "Summary for All Parties"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:74
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:77
 msgid "Article 5 parties"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:76
+#: ozone/core/api/export_pdf/reports/prodcons/__init__.py:79
 msgid "Non-Article 5 parties"
 msgstr ""
 
@@ -626,21 +626,21 @@ msgid "Production and Consumption of HFCs for {period} (CO2-equivalent tonnes)"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:328
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:471
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:473
 msgid "CONSUMPTION"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:332
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:333
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:475
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:476
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:477
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:478
 msgid "Base"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:332
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:333
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:475
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:476
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:477
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:478
 msgid "% Chng"
 msgstr ""
 
@@ -650,7 +650,7 @@ msgid "Limit"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:333
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:476
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:478
 msgid "Per Cap. Cons."
 msgstr ""
 
@@ -681,139 +681,139 @@ msgid ""
 "        NA5 = Non-Article 5 Party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:80
-#: ozone/core/api/export_pdf/reports/raf.py:139
+#: ozone/core/api/export_pdf/reports/raf.py:89
+#: ozone/core/api/export_pdf/reports/raf.py:148
 msgid "Year"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:82
-#: ozone/core/api/export_pdf/reports/raf.py:141
-msgid "Amount exempted"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:84
-#: ozone/core/api/export_pdf/reports/raf.py:143
-msgid "Imported quantities"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:86
-#: ozone/core/api/export_pdf/reports/raf.py:145
-msgid "Total amount acquired"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:87
-#: ozone/core/api/export_pdf/reports/raf.py:146
-msgid "Authorized but not acquired"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:88
-#: ozone/core/api/export_pdf/reports/raf.py:147
-msgid "On hand start of the year"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:89
-#: ozone/core/api/export_pdf/reports/raf.py:148
-msgid "Available for use"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:90
-msgid "Amount used for essential use"
-msgstr ""
-
 #: ozone/core/api/export_pdf/reports/raf.py:91
-msgid "Contained in exported products"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:92
-#: ozone/core/api/export_pdf/reports/raf.py:151
-msgid "Amount destroyed"
+#: ozone/core/api/export_pdf/reports/raf.py:150
+msgid "Amount exempted"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:93
 #: ozone/core/api/export_pdf/reports/raf.py:152
-msgid "On hand end of the year"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:94
-#: ozone/core/api/export_pdf/reports/raf.py:153
-msgid "Emergency"
+msgid "Imported quantities"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:95
 #: ozone/core/api/export_pdf/reports/raf.py:154
-msgid "Remark"
+msgid "Total amount acquired"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:96
+#: ozone/core/api/export_pdf/reports/raf.py:155
+msgid "Authorized but not acquired"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:97
+#: ozone/core/api/export_pdf/reports/raf.py:156
+msgid "On hand start of the year"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:98
+#: ozone/core/api/export_pdf/reports/raf.py:157
+msgid "Available for use"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:99
+msgid "Amount used for essential use"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:100
+msgid "Contained in exported products"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:101
+#: ozone/core/api/export_pdf/reports/raf.py:160
+msgid "Amount destroyed"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:102
 #: ozone/core/api/export_pdf/reports/raf.py:161
-msgid "Amount"
+msgid "On hand end of the year"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:103
 #: ozone/core/api/export_pdf/reports/raf.py:162
+msgid "Emergency"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:104
+#: ozone/core/api/export_pdf/reports/raf.py:163
+msgid "Remark"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:111
+#: ozone/core/api/export_pdf/reports/raf.py:170
+msgid "Amount"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:112
+#: ozone/core/api/export_pdf/reports/raf.py:171
 msgid "Source country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:149
+#: ozone/core/api/export_pdf/reports/raf.py:158
 msgid "Amount used for critical use"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:150
+#: ozone/core/api/export_pdf/reports/raf.py:159
 msgid "Amount exported"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:198
-#: ozone/core/api/export_pdf/reports/raf.py:224
+#: ozone/core/api/export_pdf/reports/raf.py:207
+#: ozone/core/api/export_pdf/reports/raf.py:233
 msgid "Unspecified"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:341
+#: ozone/core/api/export_pdf/reports/raf.py:350
 msgid ""
 "Reporting accounting framework for essential uses         other than "
 "laboratory and analytical applications"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:354
+#: ozone/core/api/export_pdf/reports/raf.py:363
 msgid "Reporting accounting framework for critical uses of methyl bromide"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:295
+#: ozone/core/api/export_pdf/util.py:296
 msgid "Laboratory and analytical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:296
+#: ozone/core/api/export_pdf/util.py:297
 msgid "Essential uses, other than L&A"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:297
+#: ozone/core/api/export_pdf/util.py:298
 msgid "Critical uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:298
+#: ozone/core/api/export_pdf/util.py:299
 msgid "High ambient temperature"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:299
+#: ozone/core/api/export_pdf/util.py:300
 msgid "Process agent uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:300
+#: ozone/core/api/export_pdf/util.py:301
 msgid "Other/unspecified uses"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:376 ozone/core/api/export_pdf/util.py:379
+#: ozone/core/api/export_pdf/util.py:383 ozone/core/api/export_pdf/util.py:386
 msgid "Comments"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:376
+#: ozone/core/api/export_pdf/util.py:383
 msgid "party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:379
+#: ozone/core/api/export_pdf/util.py:386
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:563
+#: ozone/core/api/export_pdf/util.py:570
 msgid "Page"
 msgstr ""
 
