@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-05 08:16+0000\n"
+"POT-Creation-Date: 2020-03-19 13:38+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -490,7 +490,7 @@ msgstr ""
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
 #: src/components/hat/TabsManager.vue:128
-#: src/components/letter/TabsManager.vue:55
+#: src/components/letter/TabsManager.vue:53
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
 #: src/components/otherRo/TabsManager.vue:124
@@ -636,7 +636,7 @@ msgstr ""
 
 #: src/components/exemption/TabsManager.vue:179
 #: src/components/hat/TabsManager.vue:214
-#: src/components/letter/TabsManager.vue:161
+#: src/components/letter/TabsManager.vue:159
 #: src/components/otherRo/TabsManager.vue:208
 #: src/components/raf/TabsManager.vue:218
 msgid "data submission for"
@@ -703,7 +703,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:139
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:111
-#: src/components/letter/TabsManager.vue:86
+#: src/components/letter/TabsManager.vue:84
 #: src/components/otherRo/TabsManager.vue:107
 #: src/components/raf/TabsManager.vue:115
 msgid "Delete Submission"
@@ -926,7 +926,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/tabFiles.js:9
 #: src/components/letter/dataDefinitions/tabFiles.js:9
 #: src/components/otherRo/dataDefinitions/tabFiles.js:9
-#: src/components/letter/TabsManager.vue:40
+#: src/components/letter/TabsManager.vue:38
 msgid "Files"
 msgstr ""
 
@@ -986,6 +986,9 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
+#: src/components/common/dataDefinitions/tabFlags.js:45
+#: src/components/common/dataDefinitions/tabFlags.js:46
+#: src/components/common/dataDefinitions/tabFlags.js:48
 msgid "Flags"
 msgstr ""
 
@@ -2081,7 +2084,6 @@ msgstr ""
 
 #: src/components/art7/TabsManager.vue:214
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
-#: src/components/letter/TabsManager.vue:33
 #: src/components/letter/TabsManager.vue:31
 msgid "Submission Information"
 msgstr ""
@@ -2102,7 +2104,7 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:70
 #: src/components/hat/TabsManager.vue:82
-#: src/components/letter/TabsManager.vue:62
+#: src/components/letter/TabsManager.vue:60
 #: src/components/letter/dataDefinitions/labels.js:122
 #: src/components/otherRo/TabsManager.vue:84
 #: src/components/raf/TabsManager.vue:91
@@ -2175,7 +2177,7 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/common/Files.vue:159
+#: src/components/common/Files.vue:165
 msgid "The following files are not allowed"
 msgstr ""
 
@@ -2418,7 +2420,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:107
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:103
-#: src/components/letter/TabsManager.vue:79
+#: src/components/letter/TabsManager.vue:77
 #: src/components/otherRo/TabsManager.vue:75
 #: src/components/raf/TabsManager.vue:82
 msgid "Versions"
@@ -2475,7 +2477,7 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:149
 #: src/components/exemption/TabsManager.vue:99
 #: src/components/hat/TabsManager.vue:121
-#: src/components/letter/TabsManager.vue:96
+#: src/components/letter/TabsManager.vue:94
 #: src/components/otherRo/TabsManager.vue:117
 #: src/components/raf/TabsManager.vue:125
 msgid "Submission versions"
