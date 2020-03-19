@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 17:21+0300\n"
+"POT-Creation-Date: 2020-03-19 18:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,40 +23,40 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
-#: ozone/core/admin.py:118
+#: ozone/core/admin.py:123
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:133
+#: ozone/core/admin.py:138
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:136
+#: ozone/core/admin.py:141
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:139
+#: ozone/core/admin.py:144
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:464
+#: ozone/core/admin.py:469
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:467
+#: ozone/core/admin.py:472
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:469
+#: ozone/core/admin.py:474
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:475
+#: ozone/core/admin.py:480
 msgid "Login"
 msgstr ""
 
@@ -876,6 +876,16 @@ msgstr ""
 msgid "Update sort order for ImpCom bodies"
 msgstr ""
 
+#: ozone/core/models/country_profile.py:195
+#: ozone/core/models/process_agent.py:240
+msgid "Party does not correspond to submission's party"
+msgstr ""
+
+#: ozone/core/models/country_profile.py:203
+#: ozone/core/models/process_agent.py:248
+msgid "Reporting period does not correspond to submission's reporting period"
+msgstr ""
+
 #: ozone/core/models/data.py:73 ozone/core/models/data.py:76
 msgid "Data should refer to one substance or one blend"
 msgstr ""
@@ -919,14 +929,6 @@ msgstr ""
 
 #: ozone/core/models/plans_of_action.py:87
 msgid "Plan of Action party is not the same as the decision party!"
-msgstr ""
-
-#: ozone/core/models/process_agent.py:240
-msgid "Party does not correspond to submission's party"
-msgstr ""
-
-#: ozone/core/models/process_agent.py:248
-msgid "Reporting period does not correspond to submission's reporting period"
 msgstr ""
 
 #: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1724
@@ -1039,6 +1041,16 @@ msgstr ""
 
 #: ozone/core/models/transfer.py:250
 msgid "Source party submission should be a Transfer submission."
+msgstr ""
+
+#: ozone/core/models/transfer.py:263
+msgid "Source party should be different from destination party."
+msgstr ""
+
+#: ozone/core/models/transfer.py:277
+msgid ""
+"Source party submission should be different from destination party "
+"submission."
 msgstr ""
 
 #: ozone/core/models/user.py:43
