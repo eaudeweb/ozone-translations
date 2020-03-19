@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 14:22+0000\n"
+"POT-Creation-Date: 2020-03-19 16:15+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -45,8 +45,8 @@ msgstr ""
 #: src/components/raf/dataDefinitions/form.js:130
 #: src/components/raf/dataDefinitions/form.js:185
 #: src/components/raf/dataDefinitions/labels.js:31
-#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:414
-#: src/views/Dashboard.vue:455
+#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:419
+#: src/views/Dashboard.vue:460
 msgid "Actions"
 msgstr ""
 
@@ -456,7 +456,7 @@ msgstr ""
 msgid "Checked blanks"
 msgstr ""
 
-#: src/views/Dashboard.vue:108 src/views/Dashboard.vue:217
+#: src/views/Dashboard.vue:108 src/views/Dashboard.vue:221
 #: src/views/lookupTables/Blends.vue:43
 #: src/views/lookupTables/ControlledSubstances.vue:28
 #: src/views/reports/Consumption.vue:21
@@ -579,8 +579,8 @@ msgid "Create submission"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:115
-#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:412
-#: src/views/Dashboard.vue:453
+#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:417
+#: src/views/Dashboard.vue:458
 msgid "Created by"
 msgstr ""
 
@@ -611,7 +611,7 @@ msgstr ""
 msgid "Custom mixture added successfully."
 msgstr ""
 
-#: src/views/Dashboard.vue:616
+#: src/views/Dashboard.vue:639
 msgid "Dashboard"
 msgstr ""
 
@@ -835,7 +835,7 @@ msgstr ""
 msgid "EMISSIONS OF HFC-23 FROM FACILITIES MANUFACTURING ANNEX C GROUP I OR ANNEX F SUBSTANCES"
 msgstr ""
 
-#: src/store/actions.js:199
+#: src/store/actions.js:200
 msgid "Error"
 msgstr ""
 
@@ -1188,7 +1188,7 @@ msgstr ""
 msgid "Last changed by"
 msgstr ""
 
-#: src/views/Dashboard.vue:410 src/views/Dashboard.vue:451
+#: src/views/Dashboard.vue:415 src/views/Dashboard.vue:456
 msgid "Last modified"
 msgstr ""
 
@@ -1369,9 +1369,9 @@ msgstr ""
 msgid "Number of isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:400 src/views/Dashboard.vue:443
+#: src/views/Dashboard.vue:405 src/views/Dashboard.vue:448
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:79
-#: src/views/Dashboard.vue:188
+#: src/views/Dashboard.vue:193
 msgid "Obligation"
 msgstr ""
 
@@ -1394,7 +1394,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:616 src/views/Reports.vue:107
+#: src/views/Dashboard.vue:639 src/views/Reports.vue:107
 #: src/views/lookupTables/Blends.vue:214
 #: src/views/lookupTables/ControlledSubstances.vue:163
 #: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
@@ -1456,11 +1456,11 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:15
-#: src/views/Dashboard.vue:388 src/views/Dashboard.vue:404
-#: src/views/Dashboard.vue:432 src/views/Dashboard.vue:447
+#: src/views/Dashboard.vue:393 src/views/Dashboard.vue:409
+#: src/views/Dashboard.vue:437 src/views/Dashboard.vue:452
 #: src/views/UserProfile.vue:38 src/views/reports/Consumption.vue:86
 #: src/views/Dashboard.vue:41 src/views/Dashboard.vue:87
-#: src/views/Dashboard.vue:195 src/views/Reports.vue:44
+#: src/views/Dashboard.vue:185 src/views/Reports.vue:44
 msgid "Party"
 msgstr ""
 
@@ -1486,7 +1486,7 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 
-#: src/views/Dashboard.vue:402 src/views/Dashboard.vue:445
+#: src/views/Dashboard.vue:407 src/views/Dashboard.vue:450
 #: src/views/Dashboard.vue:28 src/views/Reports.vue:30
 msgid "Period"
 msgstr ""
@@ -1504,7 +1504,7 @@ msgstr ""
 msgid "Please complete the \"(3) Quantity\" field"
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:46
+#: src/components/common/TransitionQuestions.vue:3 src/store/actions.js:47
 msgid "Please confirm"
 msgstr ""
 
@@ -1993,18 +1993,17 @@ msgstr ""
 msgid "Save and continue"
 msgstr ""
 
-#: src/store/actions.js:194
+#: src/store/actions.js:195
 msgid "Saved"
 msgstr ""
 
 #: src/views/pages/Page404.vue:29 src/views/Dashboard.vue:76
-#: src/views/Dashboard.vue:185 src/views/lookupTables/Blends.vue:5
-#: src/views/lookupTables/Parties.vue:7
+#: src/views/lookupTables/Blends.vue:5 src/views/lookupTables/Parties.vue:7
 msgid "Search"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
-#: src/views/Dashboard.vue:388 src/views/Dashboard.vue:432
+#: src/views/Dashboard.vue:393 src/views/Dashboard.vue:437
 #: src/views/UserProfile.vue:37
 msgid "Secretariat"
 msgstr ""
@@ -2051,15 +2050,16 @@ msgstr ""
 msgid "Start upload"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:408
+#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:413
+#: src/views/Dashboard.vue:200
 msgid "Status"
 msgstr ""
 
-#: src/store/actions.js:81
+#: src/store/actions.js:82
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:373
+#: src/store/actions.js:374
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -2089,7 +2089,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:333
+#: src/store/actions.js:334
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2332,11 +2332,11 @@ msgstr ""
 msgid "Unable to add rows for the following countries because they already exist"
 msgstr ""
 
-#: src/store/actions.js:90
+#: src/store/actions.js:91
 msgid "Unable to add submission."
 msgstr ""
 
-#: src/store/actions.js:70
+#: src/store/actions.js:71
 msgid "Unable to add submission. Another submission for this obligation/year already exists. Please resume work on the existing one."
 msgstr ""
 
@@ -2348,7 +2348,7 @@ msgstr ""
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:380
+#: src/store/actions.js:381
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2356,7 +2356,7 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:339
+#: src/store/actions.js:340
 msgid "Unable to update submission status."
 msgstr ""
 
@@ -2402,8 +2402,8 @@ msgid "Validation errors"
 msgstr ""
 
 #: src/components/common/SubmissionHistory.vue:112
-#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:406
-#: src/views/Dashboard.vue:449
+#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:411
+#: src/views/Dashboard.vue:454
 msgid "Version"
 msgstr ""
 
@@ -2581,15 +2581,15 @@ msgstr ""
 msgid "Add categories"
 msgstr ""
 
-#: src/views/Dashboard.vue:94 src/views/Dashboard.vue:203
+#: src/views/Dashboard.vue:94 src/views/Dashboard.vue:207
 msgid "From"
 msgstr ""
 
-#: src/views/Dashboard.vue:100 src/views/Dashboard.vue:210
+#: src/views/Dashboard.vue:100 src/views/Dashboard.vue:214
 msgid "To"
 msgstr ""
 
-#: src/views/Dashboard.vue:153 src/views/Dashboard.vue:263
+#: src/views/Dashboard.vue:153 src/views/Dashboard.vue:267
 #: src/views/reports/Consumption.vue:65
 msgid "Per page"
 msgstr ""
