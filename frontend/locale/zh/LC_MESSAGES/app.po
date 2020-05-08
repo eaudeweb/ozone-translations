@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-08 13:59+0000\n"
+"POT-Creation-Date: 2020-05-08 15:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -488,7 +488,7 @@ msgstr ""
 #: src/components/letter/TabsManager.vue:53
 #: src/components/otherRo/TabsManager.vue:27
 #: src/components/otherRo/TabsManager.vue:72
-#: src/components/otherRo/TabsManager.vue:133
+#: src/components/otherRo/TabsManager.vue:138
 #: src/components/raf/FormTemplate.vue:389
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
 #: src/components/raf/TabsManager.vue:132
@@ -631,8 +631,8 @@ msgstr ""
 
 #: src/components/exemption/TabsManager.vue:179
 #: src/components/hat/TabsManager.vue:214
-#: src/components/letter/TabsManager.vue:171
-#: src/components/otherRo/TabsManager.vue:228
+#: src/components/letter/TabsManager.vue:175
+#: src/components/otherRo/TabsManager.vue:232
 #: src/components/raf/TabsManager.vue:218
 msgid "data submission for"
 msgstr ""
@@ -698,8 +698,8 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:139
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:111
-#: src/components/letter/TabsManager.vue:93
-#: src/components/otherRo/TabsManager.vue:116
+#: src/components/letter/TabsManager.vue:98
+#: src/components/otherRo/TabsManager.vue:121
 #: src/components/raf/TabsManager.vue:115
 msgid "Delete Submission"
 msgstr ""
@@ -767,7 +767,7 @@ msgstr ""
 msgid "Do not deduct from total production in column 3 of data form 3 (data on production)."
 msgstr ""
 
-#: src/components/common/mixins/DataManagerMixin.js:18
+#: src/components/common/mixins/DataManagerMixin.js:17
 msgid "Do you really want to leave this page? You have unsaved changes!"
 msgstr ""
 
@@ -1812,8 +1812,8 @@ msgstr ""
 msgid "Recalled"
 msgstr ""
 
-#: src/components/letter/TabsManager.vue:60
-#: src/components/otherRo/TabsManager.vue:79
+#: src/components/letter/TabsManager.vue:65
+#: src/components/otherRo/TabsManager.vue:84
 msgid "Record Data"
 msgstr ""
 
@@ -2099,9 +2099,9 @@ msgstr ""
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:70
 #: src/components/hat/TabsManager.vue:82
-#: src/components/letter/TabsManager.vue:69
+#: src/components/letter/TabsManager.vue:74
 #: src/components/letter/dataDefinitions/labels.js:122
-#: src/components/otherRo/TabsManager.vue:93
+#: src/components/otherRo/TabsManager.vue:98
 #: src/components/raf/TabsManager.vue:91
 msgid "Submit"
 msgstr ""
@@ -2412,8 +2412,8 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:107
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:103
-#: src/components/letter/TabsManager.vue:86
-#: src/components/otherRo/TabsManager.vue:84
+#: src/components/letter/TabsManager.vue:91
+#: src/components/otherRo/TabsManager.vue:89
 #: src/components/raf/TabsManager.vue:82
 msgid "Versions"
 msgstr ""
@@ -2469,8 +2469,8 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:149
 #: src/components/exemption/TabsManager.vue:99
 #: src/components/hat/TabsManager.vue:121
-#: src/components/letter/TabsManager.vue:103
-#: src/components/otherRo/TabsManager.vue:126
+#: src/components/letter/TabsManager.vue:108
+#: src/components/otherRo/TabsManager.vue:131
 #: src/components/raf/TabsManager.vue:125
 msgid "Submission versions"
 msgstr ""
