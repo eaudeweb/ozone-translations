@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-08 18:59+0300\n"
+"POT-Creation-Date: 2020-05-08 19:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -958,7 +958,7 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1735
+#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1738
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -993,48 +993,48 @@ msgid ""
 "necessary permissions"
 msgstr ""
 
-#: ozone/core/models/reporting.py:920
+#: ozone/core/models/reporting.py:922
 msgid "User does not have permission to change this flag."
 msgstr ""
 
-#: ozone/core/models/reporting.py:987
+#: ozone/core/models/reporting.py:989
 msgid "User does not have permission to change this remark."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1159
+#: ozone/core/models/reporting.py:1162
 #, python-brace-format
 msgid "Another submission created by {actor} for "
 msgstr ""
 
-#: ozone/core/models/reporting.py:1184
+#: ozone/core/models/reporting.py:1187
 msgid "You do not have permission to perform this action."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1193
+#: ozone/core/models/reporting.py:1196
 msgid ""
 "You cannot create a new version of this submission with this type of "
 "obligation"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1206
+#: ozone/core/models/reporting.py:1209
 msgid ""
 "You cannot create a new version of this submission from a previous period if "
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1711
+#: ozone/core/models/reporting.py:1714
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1727
+#: ozone/core/models/reporting.py:1730
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1743
+#: ozone/core/models/reporting.py:1746
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1932
+#: ozone/core/models/reporting.py:1938
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -1159,11 +1159,11 @@ msgstr ""
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1328
+#: ozone/core/serializers.py:1332
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1346
+#: ozone/core/serializers.py:1350
 msgid "Specified file id not found for this submission"
 msgstr ""
 
