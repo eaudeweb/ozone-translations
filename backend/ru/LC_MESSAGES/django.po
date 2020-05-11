@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-11 13:19+0300\n"
+"POT-Creation-Date: 2020-05-11 14:34+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -25,40 +25,40 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:123
+#: ozone/core/admin.py:124
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr "фиктивный текст! %(username)s фиктивный текст."
 
-#: ozone/core/admin.py:138
+#: ozone/core/admin.py:139
 msgid "ORS"
 msgstr "ORS"
 
-#: ozone/core/admin.py:141
+#: ozone/core/admin.py:142
 msgid "Ozone Reporting System"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:144
+#: ozone/core/admin.py:145
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:469
+#: ozone/core/admin.py:491
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:472
+#: ozone/core/admin.py:497
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:474
+#: ozone/core/admin.py:500
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:480
+#: ozone/core/admin.py:506
 msgid "Login"
 msgstr ""
 
@@ -858,11 +858,11 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: ozone/core/api/views.py:1578
+#: ozone/core/api/views.py:1600
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:2445
+#: ozone/core/api/views.py:2483
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
@@ -976,7 +976,7 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1742
+#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1749
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -1017,19 +1017,19 @@ msgid ""
 "necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:926
+#: ozone/core/models/reporting.py:927
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User does not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:993
+#: ozone/core/models/reporting.py:995
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
 msgid "User does not have permission to change this remark."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1166
+#: ozone/core/models/reporting.py:1173
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -1037,11 +1037,11 @@ msgstr "фиктивный текст"
 msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1191
+#: ozone/core/models/reporting.py:1198
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1200
+#: ozone/core/models/reporting.py:1207
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -1050,7 +1050,7 @@ msgid ""
 "obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1213
+#: ozone/core/models/reporting.py:1220
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -1059,19 +1059,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1718
+#: ozone/core/models/reporting.py:1725
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1734
+#: ozone/core/models/reporting.py:1741
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1750
+#: ozone/core/models/reporting.py:1757
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1942
+#: ozone/core/models/reporting.py:1949
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
@@ -1117,16 +1117,20 @@ msgid ""
 "submission."
 msgstr ""
 
-#: ozone/core/models/user.py:43
+#: ozone/core/models/user.py:71
 msgid "email address"
 msgstr ""
 
-#: ozone/core/models/user.py:78
-msgid "Secretariat users cannot belong to a Party"
+#: ozone/core/models/user.py:122
+msgid "User needs to be either Secretariat, CAP, Party or Mobile app."
 msgstr ""
 
-#: ozone/core/models/user.py:82
-msgid "User needs to be either Secretariat or Party"
+#: ozone/core/models/user.py:131
+msgid "CAP or mobile app users cannot have access to the admin interface."
+msgstr ""
+
+#: ozone/core/models/user.py:139
+msgid "Mobile app user cannot receive email notifications."
 msgstr ""
 
 #: ozone/core/models/workflows/accelerated_exemption.py:59
