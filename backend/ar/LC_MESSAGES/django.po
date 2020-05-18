@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-18 20:49+0300\n"
+"POT-Creation-Date: 2020-05-18 20:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,7 +85,7 @@ msgid "metric tonnes"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:50
-#: ozone/core/api/export_pdf/art7/section_impexp.py:304
+#: ozone/core/api/export_pdf/art7/section_impexp.py:303
 #: ozone/core/api/export_pdf/art7/section_labuses.py:112
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:27
 #: ozone/core/api/export_pdf/art7/section_production.py:143
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:53
 #: ozone/core/api/export_pdf/art7/section_emission.py:33
-#: ozone/core/api/export_pdf/art7/section_impexp.py:312
+#: ozone/core/api/export_pdf/art7/section_impexp.py:311
 #: ozone/core/api/export_pdf/art7/section_labuses.py:116
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:34
 #: ozone/core/api/export_pdf/art7/section_production.py:153
@@ -113,7 +113,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:122
 #: ozone/core/api/export_pdf/art7/section_emission.py:172
-#: ozone/core/api/export_pdf/art7/section_impexp.py:405
+#: ozone/core/api/export_pdf/art7/section_impexp.py:404
 #: ozone/core/api/export_pdf/art7/section_labuses.py:164
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:175
 #: ozone/core/api/export_pdf/art7/section_production.py:278
@@ -122,7 +122,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:123
 #: ozone/core/api/export_pdf/art7/section_emission.py:173
-#: ozone/core/api/export_pdf/art7/section_impexp.py:406
+#: ozone/core/api/export_pdf/art7/section_impexp.py:405
 #: ozone/core/api/export_pdf/art7/section_labuses.py:165
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:176
 #: ozone/core/api/export_pdf/art7/section_production.py:279
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:124
 #: ozone/core/api/export_pdf/art7/section_emission.py:174
-#: ozone/core/api/export_pdf/art7/section_impexp.py:407
+#: ozone/core/api/export_pdf/art7/section_impexp.py:406
 #: ozone/core/api/export_pdf/art7/section_labuses.py:166
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:177
 #: ozone/core/api/export_pdf/art7/section_production.py:280
@@ -241,38 +241,38 @@ msgstr ""
 msgid "excluding polyols"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:211
+#: ozone/core/api/export_pdf/art7/section_impexp.py:210
 msgid "Subtotal polyols containing"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:227
+#: ozone/core/api/export_pdf/art7/section_impexp.py:226
 msgid "Polyols containing"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:305
+#: ozone/core/api/export_pdf/art7/section_impexp.py:304
 #: ozone/core/api/export_pdf/art7/section_production.py:144
 #: ozone/core/api/export_pdf/reports/raf.py:90
 msgid "Substance"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:318
+#: ozone/core/api/export_pdf/art7/section_impexp.py:317
 #: ozone/core/api/export_pdf/reports/impexp_new_rec.py:261
 #: ozone/core/api/export_pdf/reports/impexp_new_rec.py:263
 msgid "New"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:319
+#: ozone/core/api/export_pdf/art7/section_impexp.py:318
 #: ozone/core/api/export_pdf/reports/impexp_new_rec.py:262
 #: ozone/core/api/export_pdf/reports/impexp_new_rec.py:264
 msgid "Recovered"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:321
+#: ozone/core/api/export_pdf/art7/section_impexp.py:320
 #: ozone/core/api/export_pdf/art7/section_production.py:161
 msgid "Quantity"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_impexp.py:322
+#: ozone/core/api/export_pdf/art7/section_impexp.py:321
 msgid "Decision / type of use or remark"
 msgstr ""
 
