@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-18 12:07+0000\n"
+"POT-Creation-Date: 2020-05-18 13:32+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -627,10 +627,10 @@ msgid "Data is valid and saved"
 msgstr ""
 
 #: src/components/exemption/TabsManager.vue:180
-#: src/components/hat/TabsManager.vue:213
+#: src/components/hat/TabsManager.vue:216
 #: src/components/letter/TabsManager.vue:177
-#: src/components/otherRo/TabsManager.vue:236
-#: src/components/raf/TabsManager.vue:217
+#: src/components/otherRo/TabsManager.vue:239
+#: src/components/raf/TabsManager.vue:220
 msgid "data submission for"
 msgstr ""
 
