@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-11 12:19+0000\n"
+"POT-Creation-Date: 2020-05-18 12:07+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -39,7 +39,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:551
 #: src/components/art7/dataDefinitions/form.js:627
 #: src/components/art7/dataDefinitions/form.js:748
-#: src/components/common/Files.vue:119
+#: src/components/common/Files.vue:117
 #: src/components/common/SubmissionHistory.vue:136
 #: src/components/exemption/dataDefinitions/form.js:92
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
@@ -81,7 +81,7 @@ msgstr "фиктивный %{length} текст"
 msgid "Add custom mixture"
 msgstr "фиктивный текст"
 
-#: src/components/art7/EmissionsTemplate.vue:99
+#: src/components/art7/EmissionsTemplate.vue:102
 msgid "Add facility"
 msgstr "фиктивный текст"
 
@@ -149,7 +149,7 @@ msgstr ""
 msgid "All submissions (%{totalRows} records)"
 msgstr "фиктивный (%{totalRows} текст)"
 
-#: src/components/art7/FormTemplate.vue:723
+#: src/components/art7/FormTemplate.vue:722
 #: src/components/exemption/FormTemplate.vue:135
 #: src/components/raf/FormTemplate.vue:256
 #, fuzzy
@@ -277,7 +277,7 @@ msgid "Amount used for feedstock without prior capture"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:204
-#: src/components/art7/FormTemplate.vue:421
+#: src/components/art7/FormTemplate.vue:420
 msgid "Amounts contained in pre-blended polyols, not to be included in the amount of total imports"
 msgstr ""
 
@@ -470,7 +470,7 @@ msgstr "фиктивный текст"
 msgid "Captured for feedstock uses within your country"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:733
+#: src/components/art7/FormTemplate.vue:732
 #: src/components/exemption/FormTemplate.vue:145
 #: src/components/raf/FormTemplate.vue:266
 msgid "Change substance"
@@ -486,7 +486,7 @@ msgstr "фиктивный текст"
 msgid "Clear"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:112
+#: src/components/common/Files.vue:110
 #, fuzzy
 msgid "Click to browse files"
 msgstr "фиктивный текст"
@@ -501,7 +501,7 @@ msgstr "фиктивный текст"
 msgid "Click to edit or view critical uses categories"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:826
+#: src/components/art7/FormTemplate.vue:825
 #: src/components/art7/TabsManager.vue:27
 #: src/components/art7/TabsManager.vue:98
 #: src/components/art7/TabsManager.vue:157
@@ -512,10 +512,10 @@ msgstr "фиктивный текст"
 #: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:72
 #: src/components/hat/TabsManager.vue:125
-#: src/components/letter/TabsManager.vue:54
+#: src/components/letter/TabsManager.vue:53
 #: src/components/otherRo/TabsManager.vue:27
-#: src/components/otherRo/TabsManager.vue:73
-#: src/components/otherRo/TabsManager.vue:139
+#: src/components/otherRo/TabsManager.vue:72
+#: src/components/otherRo/TabsManager.vue:138
 #: src/components/raf/FormTemplate.vue:405
 #: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:72
 #: src/components/raf/TabsManager.vue:129
@@ -663,14 +663,14 @@ msgstr ""
 
 #: src/components/exemption/TabsManager.vue:180
 #: src/components/hat/TabsManager.vue:213
-#: src/components/letter/TabsManager.vue:178
-#: src/components/otherRo/TabsManager.vue:237
+#: src/components/letter/TabsManager.vue:177
+#: src/components/otherRo/TabsManager.vue:236
 #: src/components/raf/TabsManager.vue:217
 #, fuzzy
 msgid "data submission for"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:118
+#: src/components/common/Files.vue:116
 msgid "Date"
 msgstr "фиктивный текст"
 
@@ -710,7 +710,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/EmissionsTemplate.vue:11
 #: src/components/art7/FormTemplate.vue:13
 #: src/components/art7/FormTemplate.vue:238
-#: src/components/art7/FormTemplate.vue:455
+#: src/components/art7/FormTemplate.vue:454
 #: src/components/common/dataDefinitions/labels.js:53
 #: src/components/exemption/FormTemplate.vue:9
 #: src/components/hat/FormTemplate.vue:10
@@ -718,8 +718,8 @@ msgstr "фиктивный текст"
 #: src/components/otherRo/FormTemplate.vue:7
 #: src/components/raf/FormTemplate.vue:9
 #: src/components/art7/FormTemplate.vue:121
-#: src/components/art7/FormTemplate.vue:338
-#: src/components/art7/FormTemplate.vue:573
+#: src/components/art7/FormTemplate.vue:337
+#: src/components/art7/FormTemplate.vue:572
 #: src/components/exemption/FormTemplate.vue:84
 #: src/components/hat/FormTemplate.vue:104
 #: src/components/hat/FormTemplate.vue:231
@@ -731,13 +731,13 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:139
 #: src/components/common/dataDefinitions/labels.js:17
 #: src/components/hat/TabsManager.vue:108
-#: src/components/letter/TabsManager.vue:99
-#: src/components/otherRo/TabsManager.vue:122
+#: src/components/letter/TabsManager.vue:98
+#: src/components/otherRo/TabsManager.vue:121
 #: src/components/raf/TabsManager.vue:112
 msgid "Delete Submission"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:117
+#: src/components/common/Files.vue:115
 #: src/views/lookupTables/ControlledSubstances.vue:99
 #, fuzzy
 msgid "Description"
@@ -818,7 +818,7 @@ msgstr "фиктивный текст!"
 msgid "Document date"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:114
+#: src/components/common/Files.vue:112
 msgid "Download"
 msgstr ""
 
@@ -835,8 +835,8 @@ msgstr ""
 #: src/components/common/Edit.vue:8
 #: src/components/common/dataDefinitions/labels.js:50
 #: src/components/art7/FormTemplate.vue:112
-#: src/components/art7/FormTemplate.vue:329
-#: src/components/art7/FormTemplate.vue:564
+#: src/components/art7/FormTemplate.vue:328
+#: src/components/art7/FormTemplate.vue:563
 #: src/components/exemption/FormTemplate.vue:75
 #: src/components/hat/FormTemplate.vue:95
 #: src/components/hat/FormTemplate.vue:222
@@ -845,13 +845,13 @@ msgstr ""
 msgid "Edit"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:714
+#: src/components/art7/FormTemplate.vue:713
 #: src/components/raf/FormTemplate.vue:249
 #, fuzzy
 msgid "Edit %{name} mixture"
 msgstr "фиктивный %{name} текст"
 
-#: src/components/art7/FormTemplate.vue:710
+#: src/components/art7/FormTemplate.vue:709
 #: src/components/exemption/FormTemplate.vue:128
 #: src/components/raf/FormTemplate.vue:245
 msgid "Edit %{name} substance"
@@ -962,12 +962,12 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:116
+#: src/components/common/Files.vue:114
 #, fuzzy
 msgid "File Name"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:113
+#: src/components/common/Files.vue:111
 msgid "File not uploaded yet"
 msgstr ""
 
@@ -1317,7 +1317,7 @@ msgstr "фиктивный текст"
 msgid "Mixture"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:452
+#: src/components/art7/FormTemplate.vue:451
 #: src/components/art7/dataDefinitions/labels.js:8
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
@@ -1661,7 +1661,7 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:1060
+#: src/components/art7/FormTemplate.vue:1059
 #: src/components/common/mixins/FormTemplateMixin.vue:118
 #: src/components/exemption/FormTemplate.vue:240
 #: src/components/common/mixins/FormTemplateMixin.vue:119
@@ -1838,8 +1838,8 @@ msgid "Quantity of imports from non-parties (recovered)"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:163
-#: src/components/art7/FormTemplate.vue:380
-#: src/components/art7/FormTemplate.vue:615
+#: src/components/art7/FormTemplate.vue:379
+#: src/components/art7/FormTemplate.vue:614
 #, fuzzy
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications within your country %{production}"
 msgstr "фиктивный текст"
@@ -1922,11 +1922,11 @@ msgstr "фиктивный текст"
 msgid "Recalled"
 msgstr "фиктивный текст"
 
-#: src/components/letter/TabsManager.vue:66
+#: src/components/letter/TabsManager.vue:65
 msgid "Record data"
 msgstr ""
 
-#: src/components/otherRo/TabsManager.vue:85
+#: src/components/otherRo/TabsManager.vue:84
 msgid "Record Data"
 msgstr ""
 
@@ -1963,9 +1963,9 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:177
 #: src/components/art7/FormTemplate.vue:217
-#: src/components/art7/FormTemplate.vue:394
-#: src/components/art7/FormTemplate.vue:434
-#: src/components/art7/FormTemplate.vue:629
+#: src/components/art7/FormTemplate.vue:393
+#: src/components/art7/FormTemplate.vue:433
+#: src/components/art7/FormTemplate.vue:628
 #, fuzzy
 msgid "Remark"
 msgstr "фиктивный текст"
@@ -2150,7 +2150,7 @@ msgstr "фиктивный текст"
 #: src/components/art7/EmissionsTemplate.vue:11
 #: src/components/art7/FormTemplate.vue:13
 #: src/components/art7/FormTemplate.vue:238
-#: src/components/art7/FormTemplate.vue:455
+#: src/components/art7/FormTemplate.vue:454
 #: src/components/exemption/FormTemplate.vue:9
 #: src/components/hat/FormTemplate.vue:10
 #: src/components/hat/FormTemplate.vue:122
@@ -2227,9 +2227,9 @@ msgstr "фиктивный текст"
 #: src/components/common/dataDefinitions/labels.js:9
 #: src/components/exemption/TabsManager.vue:69
 #: src/components/hat/TabsManager.vue:79
-#: src/components/letter/TabsManager.vue:75
+#: src/components/letter/TabsManager.vue:74
 #: src/components/letter/dataDefinitions/labels.js:122
-#: src/components/otherRo/TabsManager.vue:99
+#: src/components/otherRo/TabsManager.vue:98
 #: src/components/raf/TabsManager.vue:88
 msgid "Submit"
 msgstr "фиктивный текст"
@@ -2302,7 +2302,7 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/common/Files.vue:183
+#: src/components/common/Files.vue:178
 msgid "The following files are not allowed"
 msgstr ""
 
@@ -2315,7 +2315,7 @@ msgstr "фиктивный текст."
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:728
+#: src/components/art7/FormTemplate.vue:727
 #: src/components/exemption/FormTemplate.vue:140
 #: src/components/raf/FormTemplate.vue:261
 msgid "The values are saved automatically in the table, as you type."
@@ -2559,8 +2559,8 @@ msgstr "фиктивный текст"
 #: src/components/art7/TabsManager.vue:107
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:100
-#: src/components/letter/TabsManager.vue:92
-#: src/components/otherRo/TabsManager.vue:90
+#: src/components/letter/TabsManager.vue:91
+#: src/components/otherRo/TabsManager.vue:89
 #: src/components/raf/TabsManager.vue:79
 msgid "Versions"
 msgstr "фиктивный текст"
@@ -2572,8 +2572,8 @@ msgstr "фиктивный текст"
 #: src/components/common/SubmissionHistory.vue:21
 #: src/components/common/dataDefinitions/labels.js:51
 #: src/components/art7/FormTemplate.vue:112
-#: src/components/art7/FormTemplate.vue:329
-#: src/components/art7/FormTemplate.vue:564
+#: src/components/art7/FormTemplate.vue:328
+#: src/components/art7/FormTemplate.vue:563
 #: src/components/exemption/FormTemplate.vue:75
 #: src/components/hat/FormTemplate.vue:95
 #: src/components/hat/FormTemplate.vue:222
@@ -2625,8 +2625,8 @@ msgstr ""
 #: src/components/art7/TabsManager.vue:149
 #: src/components/exemption/TabsManager.vue:98
 #: src/components/hat/TabsManager.vue:118
-#: src/components/letter/TabsManager.vue:109
-#: src/components/otherRo/TabsManager.vue:132
+#: src/components/letter/TabsManager.vue:108
+#: src/components/otherRo/TabsManager.vue:131
 #: src/components/raf/TabsManager.vue:122
 msgid "Submission versions"
 msgstr "фиктивный текст"
@@ -2653,8 +2653,8 @@ msgid "Select option"
 msgstr "фиктивный текст"
 
 #: src/components/art7/FormTemplate.vue:17
-#: src/components/art7/FormTemplate.vue:243
-#: src/components/art7/FormTemplate.vue:459
+#: src/components/art7/FormTemplate.vue:242
+#: src/components/art7/FormTemplate.vue:458
 #: src/components/exemption/FormTemplate.vue:13
 #: src/components/hat/FormTemplate.vue:14
 #: src/components/hat/FormTemplate.vue:126
@@ -2664,7 +2664,7 @@ msgstr "фиктивный текст"
 msgid "Filter"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:744
+#: src/components/art7/FormTemplate.vue:743
 #: src/components/exemption/FormTemplate.vue:156
 #: src/components/raf/FormTemplate.vue:277
 msgid "Select substance"
@@ -2730,7 +2730,7 @@ msgstr ""
 msgid "Search all columns"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:770
+#: src/components/art7/FormTemplate.vue:769
 #: src/components/raf/FormTemplate.vue:307
 msgid "Countries"
 msgstr "фиктивный текст"
