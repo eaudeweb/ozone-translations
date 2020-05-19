@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-19 10:36+0300\n"
+"POT-Creation-Date: 2020-05-19 11:32+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -1094,19 +1094,19 @@ msgid ""
 "submission."
 msgstr ""
 
-#: ozone/core/models/user.py:71
+#: ozone/core/models/user.py:72
 msgid "email address"
 msgstr ""
 
-#: ozone/core/models/user.py:122
+#: ozone/core/models/user.py:123
 msgid "User needs to be either Secretariat, CAP, Party or Mobile app."
 msgstr ""
 
-#: ozone/core/models/user.py:131
+#: ozone/core/models/user.py:132
 msgid "CAP or mobile app users cannot have access to the admin interface."
 msgstr ""
 
-#: ozone/core/models/user.py:139
+#: ozone/core/models/user.py:140
 msgid "Mobile app user cannot receive email notifications."
 msgstr ""
 
@@ -1165,23 +1165,23 @@ msgstr ""
 msgid "Duplicate value for {field_value}"
 msgstr ""
 
-#: ozone/core/serializers.py:527 ozone/core/serializers.py:532
+#: ozone/core/serializers.py:521 ozone/core/serializers.py:526
 msgid "User is not allowed to change this remark"
 msgstr ""
 
-#: ozone/core/serializers.py:1086
+#: ozone/core/serializers.py:1080
 msgid "User is not allowed to change the reporting channel"
 msgstr ""
 
-#: ozone/core/serializers.py:1097
+#: ozone/core/serializers.py:1091
 msgid "User is not allowed to change date of submission."
 msgstr ""
 
-#: ozone/core/serializers.py:1332
+#: ozone/core/serializers.py:1326
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1350
+#: ozone/core/serializers.py:1344
 msgid "Specified file id not found for this submission"
 msgstr ""
 
