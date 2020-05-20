@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-18 13:32+0000\n"
+"POT-Creation-Date: 2020-05-20 15:40+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -454,7 +454,7 @@ msgstr ""
 #: src/components/common/form-components/AddBlend.vue:146
 #: src/components/exemption/form-components/Add.vue:51
 #: src/components/raf/AddCategories.vue:37 src/components/raf/AddParties.vue:34
-#: src/components/raf/form-components/Add.vue:51 src/views/UserProfile.vue:52
+#: src/components/raf/form-components/Add.vue:51 src/views/UserProfile.vue:49
 msgid "Cancel"
 msgstr "фиктивный текст"
 
@@ -841,7 +841,7 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:95
 #: src/components/hat/FormTemplate.vue:222
 #: src/components/raf/FormTemplate.vue:85
-#: src/components/raf/FormTemplate.vue:198 src/views/UserProfile.vue:46
+#: src/components/raf/FormTemplate.vue:198 src/views/UserProfile.vue:43
 msgid "Edit"
 msgstr "фиктивный текст"
 
@@ -1301,6 +1301,11 @@ msgstr "фиктивный текст"
 msgid "Mail sent"
 msgstr ""
 
+#: src/views/UserProfile.vue:29
+#, fuzzy
+msgid "Main party:"
+msgstr "фиктивный текст"
+
 #: src/components/otherRo/dataDefinitions/form.js:124
 #, fuzzy
 msgid "Make-up or consumption"
@@ -1479,7 +1484,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:583 src/views/Reports.vue:107
+#: src/views/Dashboard.vue:583 src/views/Reports.vue:105
 #: src/views/lookupTables/Blends.vue:214
 #: src/views/lookupTables/ControlledSubstances.vue:163
 #: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
@@ -1545,15 +1550,9 @@ msgstr "фиктивный текст"
 #: src/components/common/dataDefinitions/tabSubInfo.js:15
 #: src/views/Dashboard.vue:336 src/views/Dashboard.vue:352
 #: src/views/Dashboard.vue:380 src/views/Dashboard.vue:395
-#: src/views/UserProfile.vue:38 src/views/reports/Consumption.vue:86
-#: src/views/Dashboard.vue:41 src/views/Dashboard.vue:128
-#: src/views/Reports.vue:44
+#: src/views/reports/Consumption.vue:86 src/views/Dashboard.vue:41
+#: src/views/Dashboard.vue:128 src/views/Reports.vue:44
 msgid "Party"
-msgstr "фиктивный текст"
-
-#: src/views/UserProfile.vue:29
-#, fuzzy
-msgid "Party:"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:10
@@ -1908,10 +1907,6 @@ msgstr ""
 msgid "Ratification details"
 msgstr ""
 
-#: src/views/UserProfile.vue:40
-msgid "read-only"
-msgstr ""
-
 #: src/components/common/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:119
 msgid "Recall"
@@ -2064,7 +2059,7 @@ msgstr "фиктивный текст"
 msgid "Reporting Period"
 msgstr "фиктивный текст"
 
-#: src/views/Reports.vue:107 src/views/Reports.vue:18
+#: src/views/Reports.vue:105 src/views/Reports.vue:18
 #, fuzzy
 msgid "Reports"
 msgstr "фиктивный текст"
@@ -2127,7 +2122,6 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:5
 #: src/views/Dashboard.vue:336 src/views/Dashboard.vue:380
-#: src/views/UserProfile.vue:37
 msgid "Secretariat"
 msgstr "фиктивный текст"
 
@@ -2182,7 +2176,7 @@ msgstr "фиктивный текст"
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:381
+#: src/store/actions.js:385
 #, fuzzy
 msgid "Submission deleted successfully."
 msgstr "фиктивный текст"
@@ -2218,7 +2212,7 @@ msgstr ""
 msgid "Submission status"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:341
+#: src/store/actions.js:345
 #, fuzzy
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
@@ -2492,7 +2486,7 @@ msgstr "фиктивный текст"
 msgid "Unable to add the following substances because they already exist"
 msgstr "фиктивный текст"
 
-#: src/store/actions.js:388
+#: src/store/actions.js:392
 #, fuzzy
 msgid "Unable to delete submission."
 msgstr "фиктивный текст"
@@ -2501,7 +2495,7 @@ msgstr "фиктивный текст"
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:347
+#: src/store/actions.js:351
 #, fuzzy
 msgid "Unable to update submission status."
 msgstr "фиктивный текст"
@@ -2526,7 +2520,7 @@ msgstr ""
 msgid "User name:"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:32 src/views/UserProfile.vue:73
+#: src/components/common/Header.vue:32 src/views/UserProfile.vue:70
 msgid "User profile"
 msgstr ""
 
@@ -2778,6 +2772,6 @@ msgstr "фиктивный текст"
 msgid "Language"
 msgstr ""
 
-#: src/views/UserProfile.vue:49
+#: src/views/UserProfile.vue:46
 msgid "Save"
 msgstr ""

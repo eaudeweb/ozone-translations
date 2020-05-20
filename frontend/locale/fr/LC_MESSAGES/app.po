@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-18 13:32+0000\n"
+"POT-Creation-Date: 2020-05-20 15:40+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -429,7 +429,7 @@ msgstr ""
 #: src/components/common/form-components/AddBlend.vue:146
 #: src/components/exemption/form-components/Add.vue:51
 #: src/components/raf/AddCategories.vue:37 src/components/raf/AddParties.vue:34
-#: src/components/raf/form-components/Add.vue:51 src/views/UserProfile.vue:52
+#: src/components/raf/form-components/Add.vue:51 src/views/UserProfile.vue:49
 msgid "Cancel"
 msgstr ""
 
@@ -797,7 +797,7 @@ msgstr ""
 #: src/components/hat/FormTemplate.vue:95
 #: src/components/hat/FormTemplate.vue:222
 #: src/components/raf/FormTemplate.vue:85
-#: src/components/raf/FormTemplate.vue:198 src/views/UserProfile.vue:46
+#: src/components/raf/FormTemplate.vue:198 src/views/UserProfile.vue:43
 msgid "Edit"
 msgstr ""
 
@@ -1229,6 +1229,10 @@ msgstr ""
 msgid "Mail sent"
 msgstr ""
 
+#: src/views/UserProfile.vue:29
+msgid "Main party:"
+msgstr ""
+
 #: src/components/otherRo/dataDefinitions/form.js:124
 msgid "Make-up or consumption"
 msgstr ""
@@ -1399,7 +1403,7 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:583 src/views/Reports.vue:107
+#: src/views/Dashboard.vue:583 src/views/Reports.vue:105
 #: src/views/lookupTables/Blends.vue:214
 #: src/views/lookupTables/ControlledSubstances.vue:163
 #: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
@@ -1463,14 +1467,9 @@ msgstr ""
 #: src/components/common/dataDefinitions/tabSubInfo.js:15
 #: src/views/Dashboard.vue:336 src/views/Dashboard.vue:352
 #: src/views/Dashboard.vue:380 src/views/Dashboard.vue:395
-#: src/views/UserProfile.vue:38 src/views/reports/Consumption.vue:86
-#: src/views/Dashboard.vue:41 src/views/Dashboard.vue:128
-#: src/views/Reports.vue:44
+#: src/views/reports/Consumption.vue:86 src/views/Dashboard.vue:41
+#: src/views/Dashboard.vue:128 src/views/Reports.vue:44
 msgid "Party"
-msgstr ""
-
-#: src/views/UserProfile.vue:29
-msgid "Party:"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/labels.js:10
@@ -1807,10 +1806,6 @@ msgstr ""
 msgid "Ratification details"
 msgstr ""
 
-#: src/views/UserProfile.vue:40
-msgid "read-only"
-msgstr ""
-
 #: src/components/common/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:119
 msgid "Recall"
@@ -1958,7 +1953,7 @@ msgstr ""
 msgid "Reporting Period"
 msgstr ""
 
-#: src/views/Reports.vue:107 src/views/Reports.vue:18
+#: src/views/Reports.vue:105 src/views/Reports.vue:18
 msgid "Reports"
 msgstr ""
 
@@ -2017,7 +2012,6 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:5
 #: src/views/Dashboard.vue:336 src/views/Dashboard.vue:380
-#: src/views/UserProfile.vue:37
 msgid "Secretariat"
 msgstr ""
 
@@ -2068,7 +2062,7 @@ msgstr ""
 msgid "Submission added successfully."
 msgstr ""
 
-#: src/store/actions.js:381
+#: src/store/actions.js:385
 msgid "Submission deleted successfully."
 msgstr ""
 
@@ -2098,7 +2092,7 @@ msgstr ""
 msgid "Submission status"
 msgstr ""
 
-#: src/store/actions.js:341
+#: src/store/actions.js:345
 msgid "Submission status updated successfully."
 msgstr ""
 
@@ -2360,7 +2354,7 @@ msgstr "Un melange avec ce nom existe déjà!"
 msgid "Unable to add the following substances because they already exist"
 msgstr ""
 
-#: src/store/actions.js:388
+#: src/store/actions.js:392
 msgid "Unable to delete submission."
 msgstr ""
 
@@ -2368,7 +2362,7 @@ msgstr ""
 msgid "Unable to save submission. Please try again."
 msgstr ""
 
-#: src/store/actions.js:347
+#: src/store/actions.js:351
 msgid "Unable to update submission status."
 msgstr ""
 
@@ -2390,7 +2384,7 @@ msgstr ""
 msgid "User name:"
 msgstr ""
 
-#: src/components/common/Header.vue:32 src/views/UserProfile.vue:73
+#: src/components/common/Header.vue:32 src/views/UserProfile.vue:70
 msgid "User profile"
 msgstr ""
 
@@ -2632,6 +2626,6 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: src/views/UserProfile.vue:49
+#: src/views/UserProfile.vue:46
 msgid "Save"
 msgstr ""
