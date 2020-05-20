@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-19 11:32+0300\n"
+"POT-Creation-Date: 2020-05-20 18:37+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -1133,15 +1133,15 @@ msgstr ""
 msgid "email address"
 msgstr ""
 
-#: ozone/core/models/user.py:123
+#: ozone/core/models/user.py:126
 msgid "User needs to be either Secretariat, CAP, Party or Mobile app."
 msgstr ""
 
-#: ozone/core/models/user.py:132
+#: ozone/core/models/user.py:135
 msgid "CAP or mobile app users cannot have access to the admin interface."
 msgstr ""
 
-#: ozone/core/models/user.py:140
+#: ozone/core/models/user.py:143
 msgid "Mobile app user cannot receive email notifications."
 msgstr ""
 
@@ -1200,25 +1200,25 @@ msgstr ""
 msgid "Duplicate value for {field_value}"
 msgstr "фиктивный текст! {field_value}"
 
-#: ozone/core/serializers.py:521 ozone/core/serializers.py:526
+#: ozone/core/serializers.py:533 ozone/core/serializers.py:538
 msgid "User is not allowed to change this remark"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1080
+#: ozone/core/serializers.py:1092
 msgid "User is not allowed to change the reporting channel"
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1091
+#: ozone/core/serializers.py:1103
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User is not allowed to change date of submission."
 msgstr "фиктивный текст"
 
-#: ozone/core/serializers.py:1326
+#: ozone/core/serializers.py:1338
 msgid "File id must be specified at update"
 msgstr ""
 
-#: ozone/core/serializers.py:1344
+#: ozone/core/serializers.py:1356
 msgid "Specified file id not found for this submission"
 msgstr ""
 
