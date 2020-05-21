@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-20 18:37+0300\n"
+"POT-Creation-Date: 2020-05-21 14:15+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -116,7 +116,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_impexp.py:404
 #: ozone/core/api/export_pdf/art7/section_labuses.py:164
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:175
-#: ozone/core/api/export_pdf/art7/section_production.py:278
+#: ozone/core/api/export_pdf/art7/section_production.py:279
 msgid "Added"
 msgstr ""
 
@@ -125,7 +125,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_impexp.py:405
 #: ozone/core/api/export_pdf/art7/section_labuses.py:165
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:176
-#: ozone/core/api/export_pdf/art7/section_production.py:279
+#: ozone/core/api/export_pdf/art7/section_production.py:280
 msgid "Changed"
 msgstr ""
 
@@ -134,7 +134,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_impexp.py:406
 #: ozone/core/api/export_pdf/art7/section_labuses.py:166
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:177
-#: ozone/core/api/export_pdf/art7/section_production.py:280
+#: ozone/core/api/export_pdf/art7/section_production.py:281
 msgid "Removed"
 msgstr ""
 
