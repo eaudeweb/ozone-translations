@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 15:40+0000\n"
+"POT-Creation-Date: 2020-05-21 17:21+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -270,6 +270,13 @@ msgstr ""
 msgid "Annex"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/form.js:93
+#: src/components/art7/dataDefinitions/form.js:232
+#: src/components/art7/dataDefinitions/form.js:531
+#: src/components/art7/dataDefinitions/form.js:591
+msgid "Annex <br> Group"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:583
 msgid "Annex A, B, C and E substances"
 msgstr ""
@@ -294,12 +301,7 @@ msgstr ""
 msgid "Annex/group"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:93
-#: src/components/art7/dataDefinitions/form.js:232
-#: src/components/art7/dataDefinitions/form.js:354
 #: src/components/art7/dataDefinitions/form.js:450
-#: src/components/art7/dataDefinitions/form.js:531
-#: src/components/art7/dataDefinitions/form.js:591
 #: src/components/common/AggregationsTable.vue:50
 #: src/components/exemption/dataDefinitions/form.js:59
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
@@ -307,6 +309,10 @@ msgstr ""
 #: src/components/hat/dataDefinitions/form.js:152
 #: src/views/reports/Consumption.vue:87
 msgid "Annex/Group"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:354
+msgid "Annex<br>Group"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:89
@@ -714,6 +720,9 @@ msgid "Designation"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:103
+msgid "Destination country/<br>region/territory"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/labels.js:46
 #: src/components/letter/dataDefinitions/labels.js:37
 msgid "Destination country/region/territory"
@@ -876,13 +885,19 @@ msgstr ""
 msgid "Export PDF"
 msgstr ""
 
-#: src/components/art7/dataDefinitions/form.js:242
 #: src/components/art7/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:8
 msgid "Exporting country/region/territory"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/form.js:242
+msgid "Exporting country<br>/region/territory"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:599
+msgid "Exporting or destination <br> country/region/territory"
+msgstr ""
+
 #: src/components/letter/dataDefinitions/labels.js:106
 msgid "Exporting or destination country/region/territory"
 msgstr ""
@@ -1817,16 +1832,19 @@ msgid "Record Data"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:112
-#: src/components/art7/dataDefinitions/form.js:250
-msgid "Recovered and reclaimed"
+msgid "Recovered <br> and reclaimed"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:615
-msgid "Recovered and reclaimed exports"
+msgid "Recovered and <br> reclaimed exports"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:607
-msgid "Recovered and reclaimed imports"
+msgid "Recovered and <br> reclaimed imports"
+msgstr ""
+
+#: src/components/art7/dataDefinitions/form.js:250
+msgid "Recovered and reclaimed"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:761

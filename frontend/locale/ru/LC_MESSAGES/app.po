@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 15:40+0000\n"
+"POT-Creation-Date: 2020-05-21 17:21+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -294,6 +294,14 @@ msgstr "фиктивный текст"
 msgid "Annex"
 msgstr "фиктивный текст"
 
+#: src/components/art7/dataDefinitions/form.js:93
+#: src/components/art7/dataDefinitions/form.js:232
+#: src/components/art7/dataDefinitions/form.js:531
+#: src/components/art7/dataDefinitions/form.js:591
+#, fuzzy
+msgid "Annex <br> Group"
+msgstr "фиктивный текст"
+
 #: src/components/art7/dataDefinitions/form.js:583
 msgid "Annex A, B, C and E substances"
 msgstr "фиктивный текст"
@@ -318,12 +326,7 @@ msgstr ""
 msgid "Annex/group"
 msgstr "фиктивный текст"
 
-#: src/components/art7/dataDefinitions/form.js:93
-#: src/components/art7/dataDefinitions/form.js:232
-#: src/components/art7/dataDefinitions/form.js:354
 #: src/components/art7/dataDefinitions/form.js:450
-#: src/components/art7/dataDefinitions/form.js:531
-#: src/components/art7/dataDefinitions/form.js:591
 #: src/components/common/AggregationsTable.vue:50
 #: src/components/exemption/dataDefinitions/form.js:59
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
@@ -332,6 +335,11 @@ msgstr "фиктивный текст"
 #: src/views/reports/Consumption.vue:87
 #, fuzzy
 msgid "Annex/Group"
+msgstr "фиктивный текст"
+
+#: src/components/art7/dataDefinitions/form.js:354
+#, fuzzy
+msgid "Annex<br>Group"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:89
@@ -753,6 +761,10 @@ msgid "Designation"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:103
+#, fuzzy
+msgid "Destination country/<br>region/territory"
+msgstr "фиктивный %{length} текст"
+
 #: src/components/art7/dataDefinitions/labels.js:46
 #: src/components/letter/dataDefinitions/labels.js:37
 msgid "Destination country/region/territory"
@@ -928,13 +940,20 @@ msgstr "фиктивный текст"
 msgid "Export PDF"
 msgstr "фиктивный текст"
 
-#: src/components/art7/dataDefinitions/form.js:242
 #: src/components/art7/dataDefinitions/labels.js:11
 #: src/components/letter/dataDefinitions/labels.js:8
 msgid "Exporting country/region/territory"
 msgstr ""
 
+#: src/components/art7/dataDefinitions/form.js:242
+#, fuzzy
+msgid "Exporting country<br>/region/territory"
+msgstr "фиктивный %{length} текст"
+
 #: src/components/art7/dataDefinitions/form.js:599
+msgid "Exporting or destination <br> country/region/territory"
+msgstr ""
+
 #: src/components/letter/dataDefinitions/labels.js:106
 msgid "Exporting or destination country/region/territory"
 msgstr ""
@@ -1926,16 +1945,22 @@ msgid "Record Data"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:112
-#: src/components/art7/dataDefinitions/form.js:250
-msgid "Recovered and reclaimed"
+#, fuzzy
+msgid "Recovered <br> and reclaimed"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:615
-msgid "Recovered and reclaimed exports"
+#, fuzzy
+msgid "Recovered and <br> reclaimed exports"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:607
-msgid "Recovered and reclaimed imports"
+#, fuzzy
+msgid "Recovered and <br> reclaimed imports"
+msgstr "фиктивный текст"
+
+#: src/components/art7/dataDefinitions/form.js:250
+msgid "Recovered and reclaimed"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:761
