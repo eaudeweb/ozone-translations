@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-21 20:19+0300\n"
+"POT-Creation-Date: 2020-05-22 10:57+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,7 +67,7 @@ msgstr ""
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/__init__.py:297
+#: ozone/core/api/export_pdf/art7/__init__.py:289
 msgid "Select one or more parties"
 msgstr ""
 
@@ -113,7 +113,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:122
 #: ozone/core/api/export_pdf/art7/section_emission.py:172
-#: ozone/core/api/export_pdf/art7/section_impexp.py:404
+#: ozone/core/api/export_pdf/art7/section_impexp.py:401
 #: ozone/core/api/export_pdf/art7/section_labuses.py:164
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:175
 #: ozone/core/api/export_pdf/art7/section_production.py:279
@@ -122,7 +122,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:123
 #: ozone/core/api/export_pdf/art7/section_emission.py:173
-#: ozone/core/api/export_pdf/art7/section_impexp.py:405
+#: ozone/core/api/export_pdf/art7/section_impexp.py:402
 #: ozone/core/api/export_pdf/art7/section_labuses.py:165
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:176
 #: ozone/core/api/export_pdf/art7/section_production.py:280
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_destruction.py:124
 #: ozone/core/api/export_pdf/art7/section_emission.py:174
-#: ozone/core/api/export_pdf/art7/section_impexp.py:406
+#: ozone/core/api/export_pdf/art7/section_impexp.py:403
 #: ozone/core/api/export_pdf/art7/section_labuses.py:166
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:177
 #: ozone/core/api/export_pdf/art7/section_production.py:281
@@ -972,7 +972,7 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1759
+#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1760
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -1036,19 +1036,19 @@ msgid ""
 "it's superseded."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1735
+#: ozone/core/models/reporting.py:1736
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1751
+#: ozone/core/models/reporting.py:1752
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1767
+#: ozone/core/models/reporting.py:1768
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:1959
+#: ozone/core/models/reporting.py:1960
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
