@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-22 14:19+0000\n"
+"POT-Creation-Date: 2020-05-26 13:44+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -1544,7 +1544,7 @@ msgstr ""
 msgid "Please fill-in column New imports for use in multi-split air conditioners (3)"
 msgstr ""
 
-#: src/components/raf/services/tableRowConstructorService.js:157
+#: src/components/raf/services/tableRowConstructorService.js:156
 msgid "Please fill-in column On hand end of year (13)"
 msgstr ""
 
