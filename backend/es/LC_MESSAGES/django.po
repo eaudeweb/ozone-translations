@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-26 16:44+0300\n"
+"POT-Creation-Date: 2020-05-27 10:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,7 +62,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/__init__.py:87
 #: ozone/core/api/export_pdf/art7/labuse_report.py:92
 #: ozone/core/api/export_pdf/reports/prodcons/__init__.py:18
-#: ozone/core/api/export_pdf/reports/raf.py:406
+#: ozone/core/api/export_pdf/reports/raf.py:506
 msgid "Select one or more parties and one or more reporting periods"
 msgstr ""
 
@@ -250,7 +250,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:304
 #: ozone/core/api/export_pdf/art7/section_production.py:144
-#: ozone/core/api/export_pdf/reports/raf.py:90
+#: ozone/core/api/export_pdf/reports/raf.py:91
 msgid "Substance"
 msgstr ""
 
@@ -283,8 +283,8 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_labuses.py:113
 #: ozone/core/api/export_pdf/art7/section_production.py:128
 #: ozone/core/api/export_pdf/reports/hfc_baseline.py:37
-#: ozone/core/api/export_pdf/reports/raf.py:92
-#: ozone/core/api/export_pdf/reports/raf.py:151
+#: ozone/core/api/export_pdf/reports/raf.py:93
+#: ozone/core/api/export_pdf/reports/raf.py:152
 msgid "Production"
 msgstr ""
 
@@ -366,7 +366,7 @@ msgid "Address country"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:127
-#: ozone/core/api/export_pdf/reports/raf.py:223
+#: ozone/core/api/export_pdf/reports/raf.py:238
 msgid "Yes"
 msgstr ""
 
@@ -709,100 +709,118 @@ msgid ""
 "        NA5 = Non-Article 5 Party"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:89
-#: ozone/core/api/export_pdf/reports/raf.py:148
+#: ozone/core/api/export_pdf/reports/raf.py:90
+#: ozone/core/api/export_pdf/reports/raf.py:149
+#: ozone/core/api/export_pdf/reports/raf.py:190
 msgid "Year"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:91
-#: ozone/core/api/export_pdf/reports/raf.py:150
+#: ozone/core/api/export_pdf/reports/raf.py:92
+#: ozone/core/api/export_pdf/reports/raf.py:151
+#: ozone/core/api/export_pdf/reports/raf.py:192
 msgid "Amount exempted"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:93
-#: ozone/core/api/export_pdf/reports/raf.py:152
+#: ozone/core/api/export_pdf/reports/raf.py:94
+#: ozone/core/api/export_pdf/reports/raf.py:153
 msgid "Imported quantities"
-msgstr ""
-
-#: ozone/core/api/export_pdf/reports/raf.py:95
-#: ozone/core/api/export_pdf/reports/raf.py:154
-msgid "Total amount acquired"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:96
 #: ozone/core/api/export_pdf/reports/raf.py:155
-msgid "Authorized but not acquired"
+msgid "Total amount acquired"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:97
 #: ozone/core/api/export_pdf/reports/raf.py:156
-msgid "On hand start of the year"
+msgid "Authorized but not acquired"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:98
 #: ozone/core/api/export_pdf/reports/raf.py:157
-msgid "Available for use"
+msgid "On hand start of the year"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:99
-msgid "Amount used for essential use"
+#: ozone/core/api/export_pdf/reports/raf.py:158
+msgid "Available for use"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:100
-msgid "Contained in exported products"
+msgid "Amount used for essential use"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:101
-#: ozone/core/api/export_pdf/reports/raf.py:160
-msgid "Amount destroyed"
+msgid "Contained in exported products"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:102
 #: ozone/core/api/export_pdf/reports/raf.py:161
-msgid "On hand end of the year"
+msgid "Amount destroyed"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:103
 #: ozone/core/api/export_pdf/reports/raf.py:162
-msgid "Emergency"
+msgid "On hand end of the year"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:104
 #: ozone/core/api/export_pdf/reports/raf.py:163
-msgid "Remark"
+msgid "Emergency"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:111
-#: ozone/core/api/export_pdf/reports/raf.py:170
-msgid "Amount"
+#: ozone/core/api/export_pdf/reports/raf.py:105
+#: ozone/core/api/export_pdf/reports/raf.py:164
+msgid "Remark"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/raf.py:112
 #: ozone/core/api/export_pdf/reports/raf.py:171
+msgid "Amount"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:113
+#: ozone/core/api/export_pdf/reports/raf.py:172
 msgid "Source country"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:158
+#: ozone/core/api/export_pdf/reports/raf.py:159
 msgid "Amount used for critical use"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:159
+#: ozone/core/api/export_pdf/reports/raf.py:160
 msgid "Amount exported"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:207
-#: ozone/core/api/export_pdf/reports/raf.py:233
+#: ozone/core/api/export_pdf/reports/raf.py:191
+msgid "Critical use category"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:193
+msgid "Decision"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:194
+msgid "Amount used"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:222
+#: ozone/core/api/export_pdf/reports/raf.py:248
 msgid "Unspecified"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:350
+#: ozone/core/api/export_pdf/reports/raf.py:439
 msgid ""
 "Reporting accounting framework for essential uses         other than "
 "laboratory and analytical applications"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/raf.py:363
+#: ozone/core/api/export_pdf/reports/raf.py:452
 msgid "Reporting accounting framework for critical uses of methyl bromide"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/raf.py:465
+msgid "Details of consumption by individual critical use exemption"
 msgstr ""
 
 #: ozone/core/api/export_pdf/util.py:302
