@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-28 16:40+0300\n"
+"POT-Creation-Date: 2020-05-28 17:25+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -360,12 +360,15 @@ msgid "Superseded"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:68
-#: ozone/core/api/export_pdf/art7/section_info.py:79
-msgid "Date received"
+msgid "Date first received"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:70
 msgid "Date revised"
+msgstr ""
+
+#: ozone/core/api/export_pdf/art7/section_info.py:79
+msgid "Date received"
 msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_info.py:117
@@ -872,7 +875,7 @@ msgstr ""
 msgid "secretariat"
 msgstr ""
 
-#: ozone/core/api/export_pdf/util.py:601
+#: ozone/core/api/export_pdf/util.py:600
 msgid "Page"
 msgstr ""
 
