@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-28 11:46+0300\n"
+"POT-Creation-Date: 2020-05-28 15:19+0300\n"
 "PO-Revision-Date: 2019-01-15 13:08+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: English <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -864,11 +864,11 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: ozone/core/api/views.py:1602
+#: ozone/core/api/views.py:1626
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:2485
+#: ozone/core/api/views.py:2509
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -1268,6 +1268,32 @@ msgstr ""
 #: ozone/templates/registration/account_created_subject.txt:2
 #, python-format
 msgid "Activate your account on %(site_name)s"
+msgstr ""
+
+#: ozone/templates/registration/account_updated_email.html:2
+#, python-format
+msgid "Profile update for %(username)s:"
+msgstr ""
+
+#: ozone/templates/registration/account_updated_email.html:5
+msgid "First name:"
+msgstr ""
+
+#: ozone/templates/registration/account_updated_email.html:8
+msgid "Last name:"
+msgstr ""
+
+#: ozone/templates/registration/account_updated_email.html:11
+msgid "Email:"
+msgstr ""
+
+#: ozone/templates/registration/account_updated_email.html:14
+msgid "Language:"
+msgstr ""
+
+#: ozone/templates/registration/account_updated_subject.txt:2
+#, python-format
+msgid "Account %(username)s has been updated"
 msgstr ""
 
 #: ozone/templates/registration/password_change_done.html:6
