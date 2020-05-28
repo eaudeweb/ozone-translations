@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-26 13:44+0000\n"
+"POT-Creation-Date: 2020-05-28 16:03+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh\n"
@@ -36,7 +36,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:627
 #: src/components/art7/dataDefinitions/form.js:748
 #: src/components/common/Files.vue:117
-#: src/components/common/SubmissionHistory.vue:136
+#: src/components/common/SubmissionHistory.vue:140
 #: src/components/exemption/dataDefinitions/form.js:92
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
@@ -578,7 +578,7 @@ msgstr ""
 msgid "Create submission"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:127
+#: src/components/common/SubmissionHistory.vue:128
 #: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:360
 #: src/views/Dashboard.vue:401
 msgid "Created by"
@@ -603,7 +603,7 @@ msgstr ""
 msgid "Critical uses of methyl bromide"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:133
+#: src/components/common/SubmissionHistory.vue:137
 msgid "Current State"
 msgstr ""
 
@@ -1205,7 +1205,7 @@ msgstr ""
 msgid "Last modified"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:130
+#: src/components/common/SubmissionHistory.vue:131
 msgid "Last Modified"
 msgstr ""
 
@@ -2125,6 +2125,10 @@ msgstr ""
 msgid "Submitted"
 msgstr ""
 
+#: src/components/common/SubmissionHistory.vue:134
+msgid "Submitted at"
+msgstr ""
+
 #: src/components/art7/dataDefinitions/form.js:98
 #: src/components/art7/dataDefinitions/form.js:237
 #: src/components/art7/dataDefinitions/form.js:358
@@ -2414,7 +2418,7 @@ msgstr ""
 msgid "Validation errors"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:124
+#: src/components/common/SubmissionHistory.vue:125
 #: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:354
 #: src/views/Dashboard.vue:397
 msgid "Version"
