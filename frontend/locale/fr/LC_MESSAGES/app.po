@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 16:03+0000\n"
+"POT-Creation-Date: 2020-05-29 11:01+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -39,7 +39,7 @@ msgstr ""
 #: src/components/art7/dataDefinitions/form.js:627
 #: src/components/art7/dataDefinitions/form.js:748
 #: src/components/common/Files.vue:117
-#: src/components/common/SubmissionHistory.vue:140
+#: src/components/common/SubmissionHistory.vue:141
 #: src/components/exemption/dataDefinitions/form.js:92
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
@@ -430,9 +430,10 @@ msgstr ""
 msgid "Calculated production and consumption"
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:15
+#: src/components/common/TransitionQuestions.vue:21
 #: src/components/common/form-components/Add.vue:50
 #: src/components/common/form-components/AddBlend.vue:146
+#: src/components/exemption/TransitionQuestions.vue:14
 #: src/components/exemption/form-components/Add.vue:51
 #: src/components/raf/AddCategories.vue:37 src/components/raf/AddParties.vue:34
 #: src/components/raf/form-components/Add.vue:51 src/views/UserProfile.vue:49
@@ -482,22 +483,21 @@ msgstr ""
 
 #: src/components/art7/FormTemplate.vue:825
 #: src/components/art7/TabsManager.vue:27
-#: src/components/art7/TabsManager.vue:98
-#: src/components/art7/TabsManager.vue:157
+#: src/components/art7/TabsManager.vue:99
+#: src/components/art7/TabsManager.vue:158
 #: src/components/common/AggregationsModal.vue:13
 #: src/components/common/OzoneMail.vue:79
 #: src/components/exemption/FormTemplate.vue:208
-#: src/components/exemption/TabsManager.vue:62
-#: src/components/exemption/TransitionQuestions.vue:14
-#: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:72
-#: src/components/hat/TabsManager.vue:125
-#: src/components/letter/TabsManager.vue:53
+#: src/components/exemption/TabsManager.vue:67
+#: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:73
+#: src/components/hat/TabsManager.vue:126
+#: src/components/letter/TabsManager.vue:58
 #: src/components/otherRo/TabsManager.vue:27
-#: src/components/otherRo/TabsManager.vue:72
-#: src/components/otherRo/TabsManager.vue:138
+#: src/components/otherRo/TabsManager.vue:73
+#: src/components/otherRo/TabsManager.vue:139
 #: src/components/raf/FormTemplate.vue:405
-#: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:72
-#: src/components/raf/TabsManager.vue:129
+#: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:73
+#: src/components/raf/TabsManager.vue:130
 msgid "Close"
 msgstr ""
 
@@ -582,7 +582,7 @@ msgstr ""
 msgid "Create submission"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:128
+#: src/components/common/SubmissionHistory.vue:129
 #: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:360
 #: src/views/Dashboard.vue:401
 msgid "Created by"
@@ -607,7 +607,7 @@ msgstr ""
 msgid "Critical uses of methyl bromide"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:137
+#: src/components/common/SubmissionHistory.vue:138
 msgid "Current State"
 msgstr ""
 
@@ -635,11 +635,11 @@ msgstr ""
 msgid "Data is valid and saved"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:180
-#: src/components/hat/TabsManager.vue:216
-#: src/components/letter/TabsManager.vue:177
-#: src/components/otherRo/TabsManager.vue:239
-#: src/components/raf/TabsManager.vue:220
+#: src/components/exemption/TabsManager.vue:168
+#: src/components/hat/TabsManager.vue:218
+#: src/components/letter/TabsManager.vue:183
+#: src/components/otherRo/TabsManager.vue:241
+#: src/components/raf/TabsManager.vue:222
 msgid "data submission for"
 msgstr ""
 
@@ -699,12 +699,12 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:139
+#: src/components/art7/TabsManager.vue:140
 #: src/components/common/dataDefinitions/labels.js:17
-#: src/components/hat/TabsManager.vue:108
-#: src/components/letter/TabsManager.vue:98
-#: src/components/otherRo/TabsManager.vue:121
-#: src/components/raf/TabsManager.vue:112
+#: src/components/hat/TabsManager.vue:109
+#: src/components/letter/TabsManager.vue:103
+#: src/components/otherRo/TabsManager.vue:122
+#: src/components/raf/TabsManager.vue:113
 msgid "Delete Submission"
 msgstr ""
 
@@ -940,7 +940,7 @@ msgstr ""
 #: src/components/exemption/dataDefinitions/tabFiles.js:9
 #: src/components/letter/dataDefinitions/tabFiles.js:9
 #: src/components/otherRo/dataDefinitions/tabFiles.js:9
-#: src/components/letter/TabsManager.vue:38
+#: src/components/letter/TabsManager.vue:43
 msgid "Files"
 msgstr ""
 
@@ -1213,7 +1213,7 @@ msgstr ""
 msgid "Last modified"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:131
+#: src/components/common/SubmissionHistory.vue:132
 msgid "Last Modified"
 msgstr ""
 
@@ -1603,8 +1603,9 @@ msgstr ""
 msgid "Postal code"
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:11
+#: src/components/common/TransitionQuestions.vue:17
 #: src/components/common/transitionQuestions/Finalize.vue:13
+#: src/components/exemption/TransitionQuestions.vue:10
 msgid "Press OK to continue with the submission. Press Cancel to make further changes or corrections."
 msgstr ""
 
@@ -1830,11 +1831,11 @@ msgstr ""
 msgid "Recalled"
 msgstr ""
 
-#: src/components/letter/TabsManager.vue:65
+#: src/components/letter/TabsManager.vue:70
 msgid "Record data"
 msgstr ""
 
-#: src/components/otherRo/TabsManager.vue:84
+#: src/components/otherRo/TabsManager.vue:85
 msgid "Record Data"
 msgstr ""
 
@@ -1981,7 +1982,7 @@ msgstr ""
 msgid "required"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:277
+#: src/components/common/SubmissionInfo.vue:278
 #: src/components/common/dataDefinitions/tabSubInfo.js:102
 #: src/components/common/dataDefinitions/tabSubInfo.js:109
 msgid "Required"
@@ -2096,7 +2097,7 @@ msgstr ""
 msgid "Submission information"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:217
+#: src/components/art7/TabsManager.vue:219
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
 #: src/components/letter/TabsManager.vue:31
 msgid "Submission Information"
@@ -2114,14 +2115,14 @@ msgstr ""
 msgid "Submission status updated successfully."
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:116
+#: src/components/art7/TabsManager.vue:117
 #: src/components/common/dataDefinitions/labels.js:9
-#: src/components/exemption/TabsManager.vue:69
-#: src/components/hat/TabsManager.vue:79
-#: src/components/letter/TabsManager.vue:74
+#: src/components/exemption/TabsManager.vue:74
+#: src/components/hat/TabsManager.vue:80
+#: src/components/letter/TabsManager.vue:79
 #: src/components/letter/dataDefinitions/labels.js:122
-#: src/components/otherRo/TabsManager.vue:98
-#: src/components/raf/TabsManager.vue:88
+#: src/components/otherRo/TabsManager.vue:99
+#: src/components/raf/TabsManager.vue:89
 msgid "Submit"
 msgstr ""
 
@@ -2133,7 +2134,7 @@ msgstr ""
 msgid "Submitted"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:134
+#: src/components/common/SubmissionHistory.vue:135
 msgid "Submitted at"
 msgstr ""
 
@@ -2429,18 +2430,18 @@ msgstr ""
 msgid "Validation errors"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:125
+#: src/components/common/SubmissionHistory.vue:126
 #: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:354
 #: src/views/Dashboard.vue:397
 msgid "Version"
 msgstr ""
 
-#: src/components/art7/TabsManager.vue:107
+#: src/components/art7/TabsManager.vue:108
 #: src/components/common/dataDefinitions/labels.js:18
-#: src/components/hat/TabsManager.vue:100
-#: src/components/letter/TabsManager.vue:91
-#: src/components/otherRo/TabsManager.vue:89
-#: src/components/raf/TabsManager.vue:79
+#: src/components/hat/TabsManager.vue:101
+#: src/components/letter/TabsManager.vue:96
+#: src/components/otherRo/TabsManager.vue:90
+#: src/components/raf/TabsManager.vue:80
 msgid "Versions"
 msgstr ""
 
@@ -2474,7 +2475,8 @@ msgstr ""
 msgid "You are about to begin processing this submission."
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:10
+#: src/components/common/TransitionQuestions.vue:16
+#: src/components/exemption/TransitionQuestions.vue:9
 msgid "You are about to change the state of the submission."
 msgstr ""
 
@@ -2497,15 +2499,6 @@ msgstr ""
 
 #: src/components/common/OzoneMail.vue:200
 msgid "You must specify a recipient"
-msgstr ""
-
-#: src/components/art7/TabsManager.vue:149
-#: src/components/exemption/TabsManager.vue:98
-#: src/components/hat/TabsManager.vue:118
-#: src/components/letter/TabsManager.vue:108
-#: src/components/otherRo/TabsManager.vue:131
-#: src/components/raf/TabsManager.vue:122
-msgid "Submission versions"
 msgstr ""
 
 #: src/components/common/form-components/Add.vue:12
@@ -2545,6 +2538,14 @@ msgstr ""
 #: src/components/exemption/FormTemplate.vue:156
 #: src/components/raf/FormTemplate.vue:277
 msgid "Select substance"
+msgstr ""
+
+#: src/components/art7/TabsManager.vue:150
+#: src/components/hat/TabsManager.vue:119
+#: src/components/letter/TabsManager.vue:113
+#: src/components/otherRo/TabsManager.vue:132
+#: src/components/raf/TabsManager.vue:123
+msgid "Submission versions"
 msgstr ""
 
 #: src/components/common/Files.vue:27
