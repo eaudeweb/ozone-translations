@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-29 14:20+0300\n"
+"POT-Creation-Date: 2020-05-29 15:09+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -1012,7 +1012,7 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1838
+#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1839
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -1030,19 +1030,19 @@ msgstr ""
 msgid "Unable to set reporting channel. Another reporting "
 msgstr ""
 
-#: ozone/core/models/reporting.py:792
+#: ozone/core/models/reporting.py:793
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not exist in this workflow"
 msgid "Workflow error. Transition {trans_name} does not exist "
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:802
+#: ozone/core/models/reporting.py:803
 #, fuzzy, python-brace-format
 #| msgid "Transition {trans_name} does not start from current state"
 msgid "Workflow error. Transition {trans_name} does not start "
 msgstr "фиктивный {trans_name} текст"
 
-#: ozone/core/models/reporting.py:813
+#: ozone/core/models/reporting.py:814
 #, fuzzy
 #| msgid ""
 #| "Transition checks not satisfied or you may not have the necessary "
@@ -1052,19 +1052,19 @@ msgid ""
 "necessary permissions"
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1013
+#: ozone/core/models/reporting.py:1014
 #, fuzzy
 #| msgid "User is not allowed to change this flag"
 msgid "User does not have permission to change this flag."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1081
+#: ozone/core/models/reporting.py:1082
 #, fuzzy
 #| msgid "User is not allowed to change this remark"
 msgid "User does not have permission to change this remark."
 msgstr "фиктивный текст"
 
-#: ozone/core/models/reporting.py:1259
+#: ozone/core/models/reporting.py:1260
 #, fuzzy, python-brace-format
 #| msgid ""
 #| "There is already a submission in Data Entry for this party/period/"
@@ -1072,11 +1072,11 @@ msgstr "фиктивный текст"
 msgid "Another submission created by {actor} for "
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1284
+#: ozone/core/models/reporting.py:1285
 msgid "You do not have permission to perform this action."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1293
+#: ozone/core/models/reporting.py:1294
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -1085,7 +1085,7 @@ msgid ""
 "obligation"
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1306
+#: ozone/core/models/reporting.py:1307
 #, fuzzy
 #| msgid ""
 #| "You can't clone a submission from a previous period if it's superseded."
@@ -1094,19 +1094,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1814
+#: ozone/core/models/reporting.py:1815
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1830
+#: ozone/core/models/reporting.py:1831
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1846
+#: ozone/core/models/reporting.py:1847
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:2038
+#: ozone/core/models/reporting.py:2039
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
