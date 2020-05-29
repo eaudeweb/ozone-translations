@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-29 14:00+0300\n"
+"POT-Creation-Date: 2020-05-29 14:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1177,7 +1177,7 @@ msgstr ""
 msgid "{party_name} has {verb} its report on"
 msgstr ""
 
-#: ozone/core/models/workflows/emails.py:49
+#: ozone/core/models/workflows/emails.py:51
 #, python-brace-format
 msgid "(Information recorded by {user})"
 msgstr ""
