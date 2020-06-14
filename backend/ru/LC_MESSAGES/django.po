@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-14 19:38+0300\n"
+"POT-Creation-Date: 2020-06-14 20:13+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -973,27 +973,27 @@ msgstr "фиктивный текст!"
 msgid "Cannot report polyols quantity if substance not in polyols!"
 msgstr "фиктивный текст!"
 
-#: ozone/core/models/data.py:1068
+#: ozone/core/models/data.py:1069
 msgid "At least one quantity field should be non-null."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1085
+#: ozone/core/models/data.py:1086
 msgid "You need to select a non-party, according to the selected substance."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/data.py:1158
+#: ozone/core/models/data.py:1159
 msgid ""
 "Please fill-in column Facility name or identifier (1) for all Article 7 "
 "Emissions entries."
 msgstr ""
 
-#: ozone/core/models/data.py:1165
+#: ozone/core/models/data.py:1166
 msgid ""
 "Please fill-in column Amount of generated emissions (6) for all Article 7 "
 "Emissions entries."
 msgstr ""
 
-#: ozone/core/models/data.py:1379
+#: ozone/core/models/data.py:1380
 msgid ""
 "Breakdown per critical use category can only be saved for critical reports!"
 msgstr ""
@@ -1012,7 +1012,7 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/reporting.py:72 ozone/core/models/reporting.py:1839
+#: ozone/core/models/reporting.py:72 ozone/core/models/reporting.py:1838
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
@@ -1094,19 +1094,19 @@ msgid ""
 "it's superseded."
 msgstr "фиктивный текст."
 
-#: ozone/core/models/reporting.py:1815
+#: ozone/core/models/reporting.py:1814
 msgid "Unable to delete submission because it is submitted."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1831
+#: ozone/core/models/reporting.py:1830
 msgid "Unable to start reporting for this period."
 msgstr ""
 
-#: ozone/core/models/reporting.py:1847
+#: ozone/core/models/reporting.py:1846
 msgid "Unable to confirm blanks if blanks are not checked first"
 msgstr ""
 
-#: ozone/core/models/reporting.py:2039
+#: ozone/core/models/reporting.py:2038
 msgid ""
 "Unable to set default submission format. Another submission format is "
 "already set as default for "
