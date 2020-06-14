@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-10 12:39+0300\n"
+"POT-Creation-Date: 2020-06-14 19:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,40 +23,40 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
-#: ozone/core/admin.py:125
+#: ozone/core/admin.py:128
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:140
+#: ozone/core/admin.py:143
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:143
+#: ozone/core/admin.py:146
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:146
+#: ozone/core/admin.py:149
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:593
+#: ozone/core/admin.py:596
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:599
+#: ozone/core/admin.py:602
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:602
+#: ozone/core/admin.py:605
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:608
+#: ozone/core/admin.py:611
 msgid "Login"
 msgstr ""
 
@@ -996,7 +996,7 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1839
+#: ozone/core/models/reporting.py:72 ozone/core/models/reporting.py:1839
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-10 12:39+0300\n"
+"POT-Creation-Date: 2020-06-14 19:32+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -25,40 +25,40 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:125
+#: ozone/core/admin.py:128
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr "фиктивный текст! %(username)s фиктивный текст."
 
-#: ozone/core/admin.py:140
+#: ozone/core/admin.py:143
 msgid "ORS"
 msgstr "ORS"
 
-#: ozone/core/admin.py:143
+#: ozone/core/admin.py:146
 msgid "Ozone Reporting System"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:146
+#: ozone/core/admin.py:149
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:593
+#: ozone/core/admin.py:596
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:599
+#: ozone/core/admin.py:602
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:602
+#: ozone/core/admin.py:605
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:608
+#: ozone/core/admin.py:611
 msgid "Login"
 msgstr ""
 
@@ -1012,7 +1012,7 @@ msgstr ""
 msgid "Plan of Action party is not the same as the decision party!"
 msgstr ""
 
-#: ozone/core/models/reporting.py:71 ozone/core/models/reporting.py:1839
+#: ozone/core/models/reporting.py:72 ozone/core/models/reporting.py:1839
 msgid "Unable to change submission because it is already submitted."
 msgstr ""
 
