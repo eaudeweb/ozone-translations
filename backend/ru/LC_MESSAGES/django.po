@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-14 20:13+0300\n"
+"POT-Creation-Date: 2020-06-14 20:42+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -91,7 +91,7 @@ msgstr ""
 #: ozone/core/api/export_pdf/art7/section_labuses.py:109
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:23
 #: ozone/core/api/export_pdf/art7/section_production.py:139
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:326
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:327
 msgid "Annex/Group"
 msgstr ""
 
@@ -532,8 +532,8 @@ msgid "2.2 Comments"
 msgstr ""
 
 #: ozone/core/api/export_pdf/hat/section_production.py:54
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:327
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:472
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:328
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:473
 msgid "PRODUCTION"
 msgstr ""
 
@@ -630,47 +630,47 @@ msgstr ""
 msgid "Non-Article 5 parties"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:309
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:310
 #, python-brace-format
 msgid "{party_name} - Date Received: {date_reported} "
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:318
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:319
 #, python-brace-format
 msgid "Production and Consumption of ODSs for {period} (ODP tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:319
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:320
 #, python-brace-format
 msgid "Production and Consumption of HFCs for {period} (CO2-equivalent tonnes)"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:328
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:473
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:329
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:474
 msgid "CONSUMPTION"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:332
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:333
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:477
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:334
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:478
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:479
 msgid "Base"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:332
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:333
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:477
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:334
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:478
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:479
 msgid "% Chng"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:332
 #: ozone/core/api/export_pdf/reports/prodcons/data.py:333
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:334
 msgid "Limit"
 msgstr ""
 
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:333
-#: ozone/core/api/export_pdf/reports/prodcons/data.py:478
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:334
+#: ozone/core/api/export_pdf/reports/prodcons/data.py:479
 msgid "Per Cap. Cons."
 msgstr ""
 
