@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-14 20:42+0300\n"
+"POT-Creation-Date: 2020-10-02 19:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -970,12 +970,6 @@ msgstr ""
 #: ozone/core/models/data.py:1159
 msgid ""
 "Please fill-in column Facility name or identifier (1) for all Article 7 "
-"Emissions entries."
-msgstr ""
-
-#: ozone/core/models/data.py:1166
-msgid ""
-"Please fill-in column Amount of generated emissions (6) for all Article 7 "
 "Emissions entries."
 msgstr ""
 
