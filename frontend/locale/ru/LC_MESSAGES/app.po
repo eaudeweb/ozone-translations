@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-10 07:47+0000\n"
+"POT-Creation-Date: 2020-10-02 16:45+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -1692,11 +1692,6 @@ msgstr ""
 msgid "Please fill in this form only if your country will transfer production/consumption rights in accordance with paragraphs 5,5 bis,7 of Article 2."
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:142
-#, fuzzy
-msgid "Please fill-in column Amount of generated emissions (6)"
-msgstr "фиктивный текст"
-
 #: src/components/art7/services/tableRowConstructorService.js:138
 #, fuzzy
 msgid "Please fill-in column Facility name or identifier (1)"
@@ -1713,17 +1708,17 @@ msgstr "фиктивный текст"
 msgid "Please fill-in column On hand end of year (13)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:535
+#: src/components/art7/services/tableRowConstructorService.js:539
 #, fuzzy
 msgid "Please fill-in column Quantity destroyed (2)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:466
+#: src/components/art7/services/tableRowConstructorService.js:470
 #, fuzzy
 msgid "Please fill-in column Total production for all uses (3)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:323
+#: src/components/art7/services/tableRowConstructorService.js:327
 #, fuzzy
 msgid "Please fill-in column Total quantity for all uses (3 or 4)"
 msgstr "фиктивный текст"
@@ -1733,7 +1728,7 @@ msgstr "фиктивный текст"
 msgid "Please fill-in mandatory fields"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:597
+#: src/components/art7/services/tableRowConstructorService.js:601
 msgid "Please fill-in one of columns New imports (4), Recovered and reclaimed imports (5), New exports (6) or Recovered and reclaimed exports (7)"
 msgstr ""
 
@@ -2399,8 +2394,8 @@ msgstr ""
 msgid "The page you are looking for was not found."
 msgstr "фиктивный текст."
 
-#: src/components/art7/services/tableRowConstructorService.js:333
-#: src/components/art7/services/tableRowConstructorService.js:339
+#: src/components/art7/services/tableRowConstructorService.js:337
+#: src/components/art7/services/tableRowConstructorService.js:343
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
@@ -2452,7 +2447,8 @@ msgstr "фиктивный текст"
 msgid "Total amount generated (2) must be equal to the sum of its components Amount generated and captured for all uses (3a), Amount used for feedstock without prior capture (4), Amount destroyed without prior capture (5) and Amount of generated emissions (6)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:180
+#: src/components/art7/services/tableRowConstructorService.js:174
+#: src/components/art7/services/tableRowConstructorService.js:186
 #, fuzzy
 msgid "Total amount generated (2) must be greater than or equal to the sum of its components Amount generated and captured for all uses (3a), Amount used for feedstock without prior capture (4), Amount destroyed without prior capture (5) and Amount of generated emissions (6)"
 msgstr "фиктивный текст"
@@ -2463,19 +2459,19 @@ msgstr "фиктивный текст"
 msgid "Total production for all uses"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:483
+#: src/components/art7/services/tableRowConstructorService.js:487
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4) and Exempted amounts (5)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:471
+#: src/components/art7/services/tableRowConstructorService.js:475
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4), Exempted amounts (5) and Production for BDN of Article 5 countries (7)"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:477
+#: src/components/art7/services/tableRowConstructorService.js:481
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4), Exempted amounts (5) and QPS"
 msgstr ""
 
-#: src/components/art7/services/tableRowConstructorService.js:489
+#: src/components/art7/services/tableRowConstructorService.js:493
 msgid "Total production for all uses (3) must be greater than or equal to the sum of Feedstock (4a), Amounts destroyed (4b) and Exempted amounts (5)"
 msgstr ""
 
@@ -2483,12 +2479,12 @@ msgstr ""
 msgid "Total Quantity Exported for All Uses"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:326
+#: src/components/art7/services/tableRowConstructorService.js:330
 #, fuzzy
 msgid "Total quantity for all uses (3) must be greater than or equal to the sum of its individual components (5+6)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/services/tableRowConstructorService.js:331
+#: src/components/art7/services/tableRowConstructorService.js:335
 #, fuzzy
 msgid "Total quantity for all uses (3) must be greater than or equal to the sum of its individual components (5+6) for all parties"
 msgstr "фиктивный текст"
