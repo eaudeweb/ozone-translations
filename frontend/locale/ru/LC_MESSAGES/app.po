@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-02 16:45+0000\n"
+"POT-Creation-Date: 2020-12-08 13:08+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -28,7 +28,7 @@ msgstr "фиктивный текст"
 msgid "A/II"
 msgstr ""
 
-#: src/components/common/Header.vue:23
+#: src/components/common/Header.vue:17 src/components/common/Header.vue:3
 msgid "Account"
 msgstr "фиктивный текст"
 
@@ -39,8 +39,8 @@ msgstr "фиктивный текст"
 #: src/components/art7/dataDefinitions/form.js:551
 #: src/components/art7/dataDefinitions/form.js:627
 #: src/components/art7/dataDefinitions/form.js:748
-#: src/components/common/Files.vue:117
-#: src/components/common/SubmissionHistory.vue:141
+#: src/components/common/Files.vue:25
+#: src/components/common/SubmissionHistory.vue:107
 #: src/components/exemption/dataDefinitions/form.js:92
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:37
 #: src/components/hat/dataDefinitions/form.js:92
@@ -48,44 +48,57 @@ msgstr "фиктивный текст"
 #: src/components/raf/dataDefinitions/form.js:130
 #: src/components/raf/dataDefinitions/form.js:185
 #: src/components/raf/dataDefinitions/labels.js:31
-#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:362
+#: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:140
+#: src/views/Dashboard.vue:181 src/components/common/Files.vue:117
+#: src/components/common/SubmissionHistory.vue:141 src/views/Dashboard.vue:362
 #: src/views/Dashboard.vue:403
 msgid "Actions"
 msgstr "фиктивный текст"
 
-#: src/components/raf/AddParties.vue:29
+#: src/components/raf/AddParties.vue:11
 #, fuzzy
 msgid "Add %{length} countries"
 msgstr "фиктивный %{length} текст"
 
-#: src/components/common/form-components/CloneField.vue:27
+#: src/components/common/form-components/CloneField.vue:12
 #, fuzzy
 msgid "Add %{length} countries/regions/territories"
 msgstr "фиктивный %{length} текст"
 
-#: src/components/common/form-components/AddBlend.vue:71
+#: src/components/common/form-components/AddBlend.vue:35
 #, fuzzy
 msgid "Add %{length} mixtures"
 msgstr "фиктивный %{length} текст"
 
-#: src/components/common/form-components/Add.vue:45
-#: src/components/exemption/form-components/Add.vue:46
-#: src/components/raf/form-components/Add.vue:46
+#: src/components/common/form-components/Add.vue:17
+#: src/components/exemption/form-components/Add.vue:17
+#: src/components/raf/form-components/Add.vue:17
 #, fuzzy
 msgid "Add %{length} substances"
 msgstr "фиктивный %{length} текст"
 
-#: src/components/common/form-components/AddBlend.vue:79
-#: src/components/common/form-components/AddBlend.vue:88
+#: src/components/raf/AddCategories.vue:23
+#: src/components/raf/AddCategories.vue:8
+#, fuzzy
+msgid "Add categories"
+msgstr "фиктивный текст"
+
+#: src/components/raf/AddParties.vue:23 src/components/raf/AddParties.vue:8
+#, fuzzy
+msgid "Add countries"
+msgstr "фиктивный текст"
+
+#: src/components/common/form-components/AddBlend.vue:43
+#: src/components/common/form-components/AddBlend.vue:52
 #, fuzzy
 msgid "Add custom mixture"
 msgstr "фиктивный текст"
 
-#: src/components/art7/EmissionsTemplate.vue:102
+#: src/components/art7/EmissionsTemplate.vue:55
 msgid "Add facility"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:82
+#: src/components/common/form-components/AddBlend.vue:46
 #, fuzzy
 msgid "Add new mixture"
 msgstr "фиктивный текст"
@@ -95,11 +108,11 @@ msgstr "фиктивный текст"
 msgid "Add predefined mixtures"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:143
+#: src/components/common/form-components/AddBlend.vue:81
 msgid "Add row"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:99
+#: src/components/common/form-components/AddBlend.vue:61
 msgid "Add substance"
 msgstr "фиктивный текст"
 
@@ -116,7 +129,7 @@ msgstr "фиктивный текст"
 msgid "Address country"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:28
+#: src/components/common/Header.vue:22 src/components/common/Header.vue:8
 msgid "Admin"
 msgstr ""
 
@@ -136,7 +149,7 @@ msgstr "фиктивный текст."
 msgid "Against each substance produced for exempted essential, critical or other uses, please specify the Meeting of the Parties decision that approved the use."
 msgstr "фиктивный текст."
 
-#: src/components/exemption/FormTemplate.vue:176
+#: src/components/exemption/FormTemplate.vue:98
 #, fuzzy
 msgid "Agreed critical use categories"
 msgstr "фиктивный текст"
@@ -145,18 +158,18 @@ msgstr "фиктивный текст"
 msgid "All answers are mandatory"
 msgstr ""
 
-#: src/views/Dashboard.vue:113
+#: src/views/Dashboard.vue:58 src/views/Dashboard.vue:4
 msgid "All submissions (%{totalRows} records)"
 msgstr "фиктивный (%{totalRows} текст)"
 
-#: src/components/art7/FormTemplate.vue:735
-#: src/components/exemption/FormTemplate.vue:135
-#: src/components/raf/FormTemplate.vue:256
+#: src/components/art7/FormTemplate.vue:409
+#: src/components/exemption/FormTemplate.vue:73
+#: src/components/raf/FormTemplate.vue:148
 #, fuzzy
 msgid "All the quantity values should be expressed in metric tons (not ODP or CO₂-equivalent tonnes)."
 msgstr "фиктивный текст."
 
-#: src/components/common/Files.vue:17
+#: src/components/common/Files.vue:9
 msgid "Allowed files extensions:"
 msgstr ""
 
@@ -174,7 +187,7 @@ msgstr "фиктивный текст"
 msgid "Amount acquired by import"
 msgstr "фиктивный текст"
 
-#: src/components/raf/FormTemplate.vue:318
+#: src/components/raf/FormTemplate.vue:172
 #: src/components/raf/dataDefinitions/form.js:91
 #: src/components/raf/dataDefinitions/form.js:146
 msgid "Amount acquired by import & countries of manufacture"
@@ -276,8 +289,9 @@ msgstr "фиктивный текст"
 msgid "Amount used for feedstock without prior capture"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:207
-#: src/components/art7/FormTemplate.vue:428
+#: src/components/art7/FormTemplate.vue:114
+#: src/components/art7/FormTemplate.vue:238
+#: src/components/art7/FormTemplate.vue:38
 msgid "Amounts contained in pre-blended polyols, not to be included in the amount of total imports"
 msgstr ""
 
@@ -285,11 +299,12 @@ msgstr ""
 msgid "Amounts of HFC-23 captured for destruction or feedstock use will not be counted as production as per Article 1."
 msgstr "фиктивный текст."
 
-#: src/components/raf/FormTemplate.vue:356
+#: src/components/raf/FormTemplate.vue:190
 #, fuzzy
 msgid "Amounts used by critical use category"
 msgstr "фиктивный текст"
 
+#: src/views/lookupTables/ControlledSubstances.vue:24
 #: src/views/lookupTables/ControlledSubstances.vue:81
 msgid "Annex"
 msgstr "фиктивный текст"
@@ -315,10 +330,19 @@ msgstr "фиктивный текст"
 msgid "Annex F substances for exempted subsectors"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:137
+#: src/components/common/form-components/Add.vue:30
+#: src/components/exemption/form-components/Add.vue:30
+#: src/components/raf/form-components/Add.vue:30
+#: src/components/common/form-components/Add.vue:12
+#: src/components/exemption/form-components/Add.vue:12
+#: src/components/raf/form-components/Add.vue:12
+msgid "Annex groups"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionInfo.vue:74
 msgid ""
 "Annex groups reported in full\n"
-"          <i class=\"fa fa-info-circle fa-sm\"/>"
+"            <i class=\"fa fa-info-circle fa-sm\"/>"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/labels.js:17
@@ -327,11 +351,13 @@ msgid "Annex/group"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:450
-#: src/components/common/AggregationsTable.vue:50
+#: src/components/common/AggregationsTable.vue:26
 #: src/components/exemption/dataDefinitions/form.js:59
 #: src/components/exemption/dataDefinitions/tabsCommonInfoForNominationAndApproved.js:14
 #: src/components/hat/dataDefinitions/form.js:60
 #: src/components/hat/dataDefinitions/form.js:152
+#: src/views/reports/Consumption.vue:10
+#: src/components/common/AggregationsTable.vue:50
 #: src/views/reports/Consumption.vue:87
 #, fuzzy
 msgid "Annex/Group"
@@ -348,6 +374,7 @@ msgstr "фиктивный текст"
 msgid "Annexes A, B, C, E and F substances"
 msgstr "фиктивный текст"
 
+#: src/components/common/SubmissionStatus.vue:7
 #: src/components/common/SubmissionStatus.vue:81
 msgid "Another version has been submitted, overriding this one"
 msgstr ""
@@ -362,13 +389,13 @@ msgstr "фиктивный текст."
 msgid "Application"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionStatus.vue:7
+#: src/components/common/SubmissionStatus.vue:4
 #: src/components/exemption/dataDefinitions/form.js:54
 #: src/components/exemption/dataDefinitions/form.js:55
 msgid "Approved"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:116
+#: src/views/lookupTables/Parties.vue:41 src/views/lookupTables/Parties.vue:116
 msgid "Article 5 party"
 msgstr "фиктивный текст"
 
@@ -376,13 +403,13 @@ msgstr "фиктивный текст"
 msgid "Article 7"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionStatus.vue:61
-#: src/components/common/SubmissionStatus.vue:67
+#: src/components/common/SubmissionStatus.vue:47
+#: src/components/common/SubmissionStatus.vue:53
 #, fuzzy
 msgid "at"
 msgstr "фиктивный текст"
 
-#: src/views/Reports.vue:28
+#: src/views/Reports.vue:19
 msgid "At least one party or one period is required"
 msgstr ""
 
@@ -412,6 +439,9 @@ msgstr ""
 msgid "B/III"
 msgstr ""
 
+#: src/components/common/AggregationsTable.vue:27
+#: src/components/common/AggregationsTable.vue:30
+#: src/views/reports/Consumption.vue:12 src/views/reports/Consumption.vue:15
 #: src/components/common/AggregationsTable.vue:51
 #: src/components/common/AggregationsTable.vue:54
 #: src/views/reports/Consumption.vue:89 src/views/reports/Consumption.vue:92
@@ -426,7 +456,7 @@ msgstr ""
 msgid "Basic domestic needs"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:148
+#: src/views/lookupTables/Parties.vue:73
 msgid "Beijing Amendment"
 msgstr "фиктивный текст"
 
@@ -442,39 +472,41 @@ msgstr ""
 msgid "C/III"
 msgstr ""
 
-#: src/components/common/AggregationsTable.vue:52
-#: src/components/common/AggregationsTable.vue:55
-#: src/views/reports/Consumption.vue:90 src/views/reports/Consumption.vue:93
-#: src/views/reports/Consumption.vue:96
+#: src/components/common/AggregationsTable.vue:28
+#: src/components/common/AggregationsTable.vue:31
+#: src/views/reports/Consumption.vue:13 src/views/reports/Consumption.vue:16
+#: src/views/reports/Consumption.vue:19 src/views/reports/Consumption.vue:90
+#: src/views/reports/Consumption.vue:93 src/views/reports/Consumption.vue:96
 msgid "Calculated"
 msgstr ""
 
 #: src/components/common/AggregationsModal.vue:1
 msgid ""
 "Calculated amounts\n"
-"  <b-modal id=\"aggregationModal\" size=\"xl\" ref=\"aggregationModal\">\n"
-"    <div slot=\"modal-title\">\n"
-"      <span v-translate=\"\">Calculated production and consumption</span> - {{ $store.state.initialData.display.countries[$store.state.current_submission.party] }} - {{ $store.state.current_submission.reporting_period }}\n"
-"    </div>\n"
-"    <AggregationsTable :standalone=\"false\" :aggregations=\"aggregations\"/>\n"
-"    <div slot=\"modal-footer\">\n"
-"      <b-btn variant=\"outline-dark mr-2\" @click=\"exportPDF\" v-translate=\"\">Export PDF</b-btn>\n"
-"      <b-btn @click=\"$refs.aggregationModal.hide()\" variant=\"outline-danger\" v-translate=\"\">Close</b-btn>\n"
-"    </div>\n"
-"  </b-modal>"
+"      <b-modal id=\"aggregationModal\" size=\"xl\" ref=\"aggregationModal\">\n"
+"        <div slot=\"modal-title\">\n"
+"          <span v-translate=\"\">Calculated production and consumption</span> - {{ $store.state.initialData.display.countries[$store.state.current_submission.party] }} - {{ $store.state.current_submission.reporting_period }}\n"
+"        </div>\n"
+"        <AggregationsTable :standalone=\"false\" :aggregations=\"aggregations\"/>\n"
+"        <div slot=\"modal-footer\">\n"
+"          <b-btn variant=\"outline-dark mr-2\" @click=\"exportPDF\" v-translate=\"\">Export PDF</b-btn>\n"
+"          <b-btn @click=\"$refs.aggregationModal.hide()\" variant=\"outline-danger\" v-translate=\"\">Close</b-btn>\n"
+"        </div>\n"
+"      </b-modal>"
 msgstr ""
 
 #: src/components/common/AggregationsModal.vue:5
 msgid "Calculated production and consumption"
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:21
-#: src/components/common/form-components/Add.vue:50
-#: src/components/common/form-components/AddBlend.vue:146
+#: src/components/common/TransitionQuestions.vue:15
+#: src/components/common/form-components/Add.vue:20
+#: src/components/common/form-components/AddBlend.vue:84
 #: src/components/exemption/TransitionQuestions.vue:14
-#: src/components/exemption/form-components/Add.vue:51
-#: src/components/raf/AddCategories.vue:37 src/components/raf/AddParties.vue:34
-#: src/components/raf/form-components/Add.vue:51 src/views/UserProfile.vue:49
+#: src/components/exemption/form-components/Add.vue:20
+#: src/components/raf/AddCategories.vue:16 src/components/raf/AddParties.vue:14
+#: src/components/raf/form-components/Add.vue:20 src/views/UserProfile.vue:161
+#: src/views/UserProfile.vue:49
 msgid "Cancel"
 msgstr "фиктивный текст"
 
@@ -490,9 +522,9 @@ msgstr "фиктивный текст"
 msgid "Captured for feedstock uses within your country"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:745
-#: src/components/exemption/FormTemplate.vue:145
-#: src/components/raf/FormTemplate.vue:266
+#: src/components/art7/FormTemplate.vue:417
+#: src/components/exemption/FormTemplate.vue:81
+#: src/components/raf/FormTemplate.vue:156
 msgid "Change substance"
 msgstr "фиктивный текст"
 
@@ -500,13 +532,18 @@ msgstr "фиктивный текст"
 msgid "Checked blanks"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:164 src/views/lookupTables/Blends.vue:43
-#: src/views/lookupTables/ControlledSubstances.vue:28
-#: src/views/reports/Consumption.vue:21
+#: src/views/Dashboard.vue:86 src/views/lookupTables/Blends.vue:23
+#: src/views/lookupTables/ControlledSubstances.vue:23
+#: src/views/reports/Consumption.vue:17
 msgid "Clear"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:110
+#: src/components/common/Files.vue:76 src/components/common/Files.vue:27
+#, fuzzy
+msgid "Click the Browse button to add files"
+msgstr "фиктивный текст"
+
+#: src/components/common/Files.vue:18 src/components/common/Files.vue:110
 #, fuzzy
 msgid "Click to browse files"
 msgstr "фиктивный текст"
@@ -521,23 +558,23 @@ msgstr "фиктивный текст"
 msgid "Click to edit or view critical uses categories"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:841
-#: src/components/art7/TabsManager.vue:27
+#: src/components/art7/FormTemplate.vue:462
+#: src/components/art7/TabsManager.vue:22
+#: src/components/art7/TabsManager.vue:70
 #: src/components/art7/TabsManager.vue:100
-#: src/components/art7/TabsManager.vue:166
-#: src/components/common/AggregationsModal.vue:13
-#: src/components/common/OzoneMail.vue:79
-#: src/components/exemption/FormTemplate.vue:208
-#: src/components/exemption/TabsManager.vue:68
-#: src/components/hat/TabsManager.vue:27 src/components/hat/TabsManager.vue:74
-#: src/components/hat/TabsManager.vue:135
-#: src/components/letter/TabsManager.vue:59
-#: src/components/otherRo/TabsManager.vue:27
-#: src/components/otherRo/TabsManager.vue:74
-#: src/components/otherRo/TabsManager.vue:144
-#: src/components/raf/FormTemplate.vue:405
-#: src/components/raf/TabsManager.vue:27 src/components/raf/TabsManager.vue:74
-#: src/components/raf/TabsManager.vue:135
+#: src/components/common/AggregationsModal.vue:10
+#: src/components/common/OzoneMail.vue:48
+#: src/components/exemption/FormTemplate.vue:118
+#: src/components/exemption/TabsManager.vue:50
+#: src/components/hat/TabsManager.vue:22 src/components/hat/TabsManager.vue:55
+#: src/components/hat/TabsManager.vue:83
+#: src/components/letter/TabsManager.vue:45
+#: src/components/otherRo/TabsManager.vue:22
+#: src/components/otherRo/TabsManager.vue:55
+#: src/components/otherRo/TabsManager.vue:87
+#: src/components/raf/FormTemplate.vue:219
+#: src/components/raf/TabsManager.vue:22 src/components/raf/TabsManager.vue:55
+#: src/components/raf/TabsManager.vue:83
 msgid "Close"
 msgstr "фиктивный текст"
 
@@ -571,12 +608,16 @@ msgstr "фиктивный текст"
 msgid "Comments (Secretariat)"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:142
+#: src/views/lookupTables/Blends.vue:59 src/views/lookupTables/Blends.vue:19
+msgid "Components"
+msgstr "фиктивный текст"
+
+#: src/views/lookupTables/Blends.vue:45 src/views/lookupTables/Blends.vue:142
 #, fuzzy
 msgid "Composition"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:52
+#: src/components/common/form-components/AddBlend.vue:24
 msgid "Composition of"
 msgstr "фиктивный текст"
 
@@ -584,6 +625,9 @@ msgstr "фиктивный текст"
 msgid "Confirmed blanks"
 msgstr "фиктивный текст"
 
+#: src/components/common/AggregationsTable.vue:13
+#: src/components/otherRo/FormTemplate.vue:15
+#: src/views/reports/Consumption.vue:65
 #: src/components/common/AggregationsTable.vue:37
 #: src/components/otherRo/FormTemplate.vue:117
 #: src/views/reports/Consumption.vue:142
@@ -604,15 +648,32 @@ msgstr ""
 msgid "Containment technologies used to minimize emissions"
 msgstr ""
 
-#: src/views/lookupTables/ControlledSubstances.vue:163
+#: src/components/common/form-components/AddBlend.vue:250
+#: src/components/common/form-components/AddBlend.vue:124
+msgid "Controlled or new substance"
+msgstr "фиктивный текст"
+
+#: src/views/lookupTables/ControlledSubstances.vue:106
 msgid "Controlled substances"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:140
+#: src/views/lookupTables/Parties.vue:65
 msgid "Copenhagen Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:58
+#: src/components/common/OzoneMail.vue:197
+#: src/components/common/OzoneMail.vue:66
+msgid "Correspondence"
+msgstr ""
+
+#: src/components/art7/FormTemplate.vue:1299
+#: src/components/raf/FormTemplate.vue:538
+#: src/components/art7/FormTemplate.vue:783
+#: src/components/raf/FormTemplate.vue:307
+msgid "Countries"
+msgstr "фиктивный текст"
+
+#: src/views/Dashboard.vue:27
 msgid "Create"
 msgstr "фиктивный текст"
 
@@ -624,9 +685,10 @@ msgstr "фиктивный текст."
 msgid "Create submission"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:129
-#: src/components/common/SubmissionStatus.vue:59 src/views/Dashboard.vue:360
-#: src/views/Dashboard.vue:401
+#: src/components/common/SubmissionHistory.vue:95
+#: src/components/common/SubmissionStatus.vue:45 src/views/Dashboard.vue:138
+#: src/views/Dashboard.vue:179 src/components/common/SubmissionHistory.vue:129
+#: src/views/Dashboard.vue:360 src/views/Dashboard.vue:401
 #, fuzzy
 msgid "Created by"
 msgstr "фиктивный текст"
@@ -646,10 +708,11 @@ msgstr "фиктивный текст"
 msgid "Critical use"
 msgstr "фиктивный текст"
 
-#: src/components/raf/FormTemplate.vue:107
+#: src/components/raf/FormTemplate.vue:64
 msgid "Critical uses of methyl bromide"
 msgstr ""
 
+#: src/components/common/SubmissionHistory.vue:104
 #: src/components/common/SubmissionHistory.vue:138
 msgid "Current State"
 msgstr "фиктивный текст"
@@ -659,7 +722,7 @@ msgstr "фиктивный текст"
 msgid "Custom mixture added successfully."
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:583
+#: src/views/Dashboard.vue:361
 msgid "Dashboard"
 msgstr ""
 
@@ -667,7 +730,7 @@ msgstr ""
 msgid "Data entry in progress"
 msgstr ""
 
-#: src/views/Dashboard.vue:68
+#: src/views/Dashboard.vue:37
 #, fuzzy
 msgid "Data entry in progress submissions (%{totalRows} records)"
 msgstr "фиктивный текст"
@@ -676,20 +739,20 @@ msgstr "фиктивный текст"
 msgid "Data form for this obligation is not available yet"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/DefaultAside.vue:45
+#: src/components/common/form-components/DefaultAside.vue:41
 msgid "Data is valid and saved"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:172
-#: src/components/hat/TabsManager.vue:227
-#: src/components/letter/TabsManager.vue:192
-#: src/components/otherRo/TabsManager.vue:246
-#: src/components/raf/TabsManager.vue:227
+#: src/components/exemption/TabsManager.vue:65
+#: src/components/hat/TabsManager.vue:77
+#: src/components/letter/TabsManager.vue:54
+#: src/components/otherRo/TabsManager.vue:87
+#: src/components/raf/TabsManager.vue:77
 #, fuzzy
 msgid "data submission for"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:116
+#: src/components/common/Files.vue:24 src/components/common/Files.vue:116
 msgid "Date"
 msgstr "фиктивный текст"
 
@@ -726,16 +789,24 @@ msgstr "фиктивный текст"
 msgid "Decision or remark"
 msgstr "фиктивный текст"
 
-#: src/components/art7/EmissionsTemplate.vue:11
-#: src/components/art7/FormTemplate.vue:13
-#: src/components/art7/FormTemplate.vue:243
-#: src/components/art7/FormTemplate.vue:464
+#: src/components/art7/EmissionsTemplate.vue:8
+#: src/components/art7/FormTemplate.vue:10
+#: src/components/art7/FormTemplate.vue:140
+#: src/components/art7/FormTemplate.vue:264
+#: src/components/art7/FormTemplate.vue:268
+#: src/components/art7/FormTemplate.vue:611
+#: src/components/art7/FormTemplate.vue:982
 #: src/components/common/dataDefinitions/labels.js:53
 #: src/components/exemption/FormTemplate.vue:9
+#: src/components/exemption/FormTemplate.vue:157
 #: src/components/hat/FormTemplate.vue:10
-#: src/components/hat/FormTemplate.vue:122
+#: src/components/hat/FormTemplate.vue:74
+#: src/components/hat/FormTemplate.vue:185
+#: src/components/hat/FormTemplate.vue:388
 #: src/components/otherRo/FormTemplate.vue:7
 #: src/components/raf/FormTemplate.vue:9
+#: src/components/raf/FormTemplate.vue:204
+#: src/components/raf/FormTemplate.vue:346
 #: src/components/art7/FormTemplate.vue:122
 #: src/components/art7/FormTemplate.vue:343
 #: src/components/art7/FormTemplate.vue:583
@@ -747,16 +818,18 @@ msgstr "фиктивный текст"
 msgid "Delete"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:148
+#: src/components/art7/TabsManager.vue:91
 #: src/components/common/dataDefinitions/labels.js:17
-#: src/components/exemption/TabsManager.vue:93
-#: src/components/hat/TabsManager.vue:118
-#: src/components/letter/TabsManager.vue:112
-#: src/components/otherRo/TabsManager.vue:127
-#: src/components/raf/TabsManager.vue:118
+#: src/components/exemption/TabsManager.vue:61
+#: src/components/hat/TabsManager.vue:74
+#: src/components/letter/TabsManager.vue:68
+#: src/components/otherRo/TabsManager.vue:78
+#: src/components/raf/TabsManager.vue:74
 msgid "Delete Submission"
 msgstr "фиктивный текст"
 
+#: src/components/common/Files.vue:23
+#: src/views/lookupTables/ControlledSubstances.vue:42
 #: src/components/common/Files.vue:115
 #: src/views/lookupTables/ControlledSubstances.vue:99
 #, fuzzy
@@ -842,7 +915,7 @@ msgstr "фиктивный текст!"
 msgid "Document date"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:112
+#: src/components/common/Files.vue:20 src/components/common/Files.vue:112
 msgid "Download"
 msgstr ""
 
@@ -854,62 +927,69 @@ msgstr "фиктивный текст"
 #: src/components/common/OzoneMail.vue:1
 msgid ""
 "E-mail\n"
-"  <b-modal title=\"E-mail\" id=\"ozoneMail\" size=\"xl\" ref=\"ozoneMailModal\">\n"
-"    <b-tabs no-key-nav=\"\" v-model=\"tabIndex\">\n"
-"      <b-tab :title=\"$gettext('Send a message')\">\n"
-"        <b-row>\n"
-"            <b-col cols=\"8\">\n"
-"                <b-input-group class=\"mb-1\" prepend=\"To\">\n"
-"                  <multiselect label=\"text\" @tag=\"addTagTo($event)\" :taggable=\"true\" trackBy=\"value\" :multiple=\"true\" :hide-selected=\"false\" :close-on-select=\"true\" :tag-placeholder=\"$gettext('Press enter to add an email')\" :placeholder=\"$gettext('Type the recipient address and press enter')\" v-model=\"mail.to\" :options=\"toList\"/>\n"
-"                </b-input-group>\n"
-"                <b-input-group class=\"mb-1\" prepend=\"Cc\">\n"
-"                  <multiselect label=\"text\" @tag=\"addTag($event)\" :taggable=\"true\" trackBy=\"value\" :hide-selected=\"false\" :multiple=\"true\" :close-on-select=\"true\" :tag-placeholder=\"$gettext('Press enter to add an email')\" :placeholder=\"$gettext('Type the recipient address and press enter')\" v-model=\"mail.cc\" :options=\"ccList\"/>\n"
-"                </b-input-group>\n"
-"                <b-input-group class=\"mb-1\" prepend=\"Subject\">\n"
-"                  <b-input v-model=\"mail.subject\"/>\n"
-"                </b-input-group>\n"
-"                <h4 v-if=\"attachmentsOptions.length > 0\">Attachments</h4>\n"
-"                <b-form-checkbox v-for=\"(option, index) in attachmentsOptions\" v-model=\"mail.attachments\" :key=\"`_${index}_${option.source}`\" :options=\"attachmentsOptions\" :value=\"option\" inline=\"\">{{ option.title }}</b-form-checkbox>\n"
-"                <textarea style=\"height: 300px;\" v-model=\"mail.body\" class=\"form-control mail-input\"/>\n"
-"                <b-btn @click=\"sendMail\" variant=\"primary\" class=\"mt-2\">Send message</b-btn>\n"
-"            </b-col>\n"
-"            <b-col>\n"
-"              <h4>Templates</h4>\n"
-"              <b-list-group class=\"templates\">\n"
-"                <b-list-group-item @click=\"applyTemplate(template)\" class=\"template-item\" v-for=\"(template, template_index) in templates\" :key=\"template_index\">\n"
-"                  <b>Template {{ template.name }} </b>\n"
-"                  <br>\n"
-"                  {{ template.subject }}\n"
-"                </br></b-list-group-item>\n"
-"              </b-list-group>\n"
-"            </b-col>\n"
-"        </b-row>\n"
-"      </b-tab>\n"
-"      <b-tab v-if=\"history\" :title=\"$gettext('Correspondence')\">\n"
-"        <div class=\"mb-3\" v-for=\"(entry, index) in history\" :key=\"index\">\n"
-"            <small style=\"float: right\" class=\"muted\">Date: 10 May 2019</small>\n"
-"            <h4>{{ entry.subject }}</h4>\n"
-"            <small><b>From:</b> {{entry.from_email}}</small> <br>\n"
-"            <small><b>To:</b> {{entry.to.join(', ')}} </small><br>\n"
-"            <small><b>Cc:</b> {{entry.cc.join(', ')}}</small><br>\n"
-"            <small><b>Files:</b> {{entry.attachments.map(att => att.filename).join(' ')}}</small>\n"
-"            <div class=\"correspondence-body mt-2\">{{entry.body}}</div>\n"
-"            <hr>\n"
-"        </hr></br></br></br></div>\n"
-"      </b-tab>\n"
-"    </b-tabs>\n"
-"    <div slot=\"modal-footer\">\n"
-"      <b-btn @click=\"$refs.ozoneMailModal.hide()\" variant=\"outline-danger\" v-translate=\"\">Close</b-btn>\n"
-"    </div>\n"
-"  </b-modal>"
+"      <b-modal title=\"E-mail\" id=\"ozoneMail\" size=\"xl\" ref=\"ozoneMailModal\">\n"
+"        <b-tabs no-key-nav=\"\" v-model=\"tabIndex\">\n"
+"          <b-tab :title=\"$gettext('Send a message')\">\n"
+"            <b-row>\n"
+"                <b-col cols=\"8\">\n"
+"                    <b-input-group class=\"mb-1\" prepend=\"To\">\n"
+"                      <multiselect label=\"text\" @tag=\"addTagTo($event)\" :taggable=\"true\" trackBy=\"value\" :multiple=\"true\" :hide-selected=\"false\" :close-on-select=\"true\" :tag-placeholder=\"$gettext('Press enter to add an email')\" :placeholder=\"$gettext('Type the recipient address and press enter')\" v-model=\"mail.to\" :options=\"toList\"/>\n"
+"                    </b-input-group>\n"
+"                    <b-input-group class=\"mb-1\" prepend=\"Cc\">\n"
+"                      <multiselect label=\"text\" @tag=\"addTag($event)\" :taggable=\"true\" trackBy=\"value\" :hide-selected=\"false\" :multiple=\"true\" :close-on-select=\"true\" :tag-placeholder=\"$gettext('Press enter to add an email')\" :placeholder=\"$gettext('Type the recipient address and press enter')\" v-model=\"mail.cc\" :options=\"ccList\"/>\n"
+"                    </b-input-group>\n"
+"                    <b-input-group class=\"mb-1\" prepend=\"Subject\">\n"
+"                      <b-input v-model=\"mail.subject\"/>\n"
+"                    </b-input-group>\n"
+"                    <h4 v-if=\"attachmentsOptions.length > 0\">Attachments</h4>\n"
+"                    <b-form-checkbox v-for=\"(option, index) in attachmentsOptions\" v-model=\"mail.attachments\" :key=\"`_${index}_${option.source}`\" :options=\"attachmentsOptions\" :value=\"option\" inline=\"\">{{ option.title }}</b-form-checkbox>\n"
+"                    <textarea style=\"height: 300px;\" v-model=\"mail.body\" class=\"form-control mail-input\"/>\n"
+"                    <b-btn @click=\"sendMail\" variant=\"primary\" class=\"mt-2\">Send message</b-btn>\n"
+"                </b-col>\n"
+"                <b-col>\n"
+"                  <h4>Templates</h4>\n"
+"                  <b-list-group class=\"templates\">\n"
+"                    <b-list-group-item @click=\"applyTemplate(template)\" class=\"template-item\" v-for=\"(template, template_index) in templates\" :key=\"template_index\">\n"
+"                      <b>Template {{ template.name }} </b>\n"
+"                      <br>\n"
+"                      {{ template.subject }}\n"
+"                    </br></b-list-group-item>\n"
+"                  </b-list-group>\n"
+"                </b-col>\n"
+"            </b-row>\n"
+"          </b-tab>\n"
+"          <b-tab v-if=\"history\" :title=\"$gettext('Correspondence')\">\n"
+"            <div class=\"mb-3\" v-for=\"(entry, index) in history\" :key=\"index\">\n"
+"                <small style=\"float: right\" class=\"muted\">Date: 10 May 2019</small>\n"
+"                <h4>{{ entry.subject }}</h4>\n"
+"                <small><b>From:</b> {{entry.from_email}}</small> <br>\n"
+"                <small><b>To:</b> {{entry.to.join(', ')}} </small><br>\n"
+"                <small><b>Cc:</b> {{entry.cc.join(', ')}}</small><br>\n"
+"                <small><b>Files:</b> {{entry.attachments.map(att => att.filename).join(' ')}}</small>\n"
+"                <div class=\"correspondence-body mt-2\">{{entry.body}}</div>\n"
+"                <hr>\n"
+"            </hr></br></br></br></div>\n"
+"          </b-tab>\n"
+"        </b-tabs>\n"
+"        <div slot=\"modal-footer\">\n"
+"          <b-btn @click=\"$refs.ozoneMailModal.hide()\" variant=\"outline-danger\" v-translate=\"\">Close</b-btn>\n"
+"        </div>\n"
+"      </b-modal>"
 msgstr ""
 
 #: src/components/common/dataDefinitions/labels.js:69
 msgid "E/I"
 msgstr ""
 
-#: src/components/common/Edit.vue:8
+#: src/components/art7/FormTemplate.vue:255
+#: src/components/art7/FormTemplate.vue:598
+#: src/components/art7/FormTemplate.vue:969 src/components/common/Edit.vue:2
 #: src/components/common/dataDefinitions/labels.js:50
+#: src/components/exemption/FormTemplate.vue:144
+#: src/components/hat/FormTemplate.vue:172
+#: src/components/hat/FormTemplate.vue:375
+#: src/components/raf/FormTemplate.vue:191
+#: src/components/raf/FormTemplate.vue:333 src/views/UserProfile.vue:135
 #: src/components/art7/FormTemplate.vue:113
 #: src/components/art7/FormTemplate.vue:334
 #: src/components/art7/FormTemplate.vue:574
@@ -921,20 +1001,20 @@ msgstr ""
 msgid "Edit"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:726
-#: src/components/raf/FormTemplate.vue:249
+#: src/components/art7/FormTemplate.vue:403
+#: src/components/raf/FormTemplate.vue:144
 #, fuzzy
 msgid "Edit %{name} mixture"
 msgstr "фиктивный %{name} текст"
 
-#: src/components/art7/FormTemplate.vue:722
-#: src/components/exemption/FormTemplate.vue:128
-#: src/components/raf/FormTemplate.vue:245
+#: src/components/art7/FormTemplate.vue:402
+#: src/components/exemption/FormTemplate.vue:69
+#: src/components/raf/FormTemplate.vue:143
 msgid "Edit %{name} substance"
 msgstr "фиктивный %{name} текст"
 
 #: src/components/common/dataDefinitions/tabSubInfo.js:110
-#: src/views/UserProfile.vue:10
+#: src/views/UserProfile.vue:54 src/views/UserProfile.vue:10
 msgid "Email"
 msgstr "фиктивный текст"
 
@@ -990,7 +1070,7 @@ msgstr "фиктивный текст"
 msgid "Essential uses"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:112
+#: src/views/lookupTables/Parties.vue:37 src/views/lookupTables/Parties.vue:112
 msgid "EU Member"
 msgstr "фиктивный текст"
 
@@ -1045,24 +1125,25 @@ msgstr ""
 msgid "Facility name or identifier"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:114
+#: src/components/common/Files.vue:22 src/components/common/Files.vue:114
 #, fuzzy
 msgid "File Name"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:111
+#: src/components/common/Files.vue:19 src/components/common/Files.vue:111
 msgid "File not uploaded yet"
 msgstr ""
 
 #: src/components/common/dataDefinitions/tabFiles.js:9
 #: src/components/exemption/dataDefinitions/tabFiles.js:9
+#: src/components/letter/TabsManager.vue:125
 #: src/components/letter/dataDefinitions/tabFiles.js:9
 #: src/components/otherRo/dataDefinitions/tabFiles.js:9
 #: src/components/letter/TabsManager.vue:43
 msgid "Files"
 msgstr ""
 
-#: src/components/common/Files.vue:20
+#: src/components/common/Files.vue:12
 msgid "files ready for upload:"
 msgstr ""
 
@@ -1101,6 +1182,27 @@ msgstr "фиктивный текст"
 msgid "Fill in this form only if your country produced CFCs, halons, carbon tetrachloride, methyl chloroform, HCFCs, HBFCs, bromochloromethane, methyl bromide or HFCs or generated HFC-23."
 msgstr "фиктивный текст"
 
+#: src/components/art7/FormTemplate.vue:149
+#: src/components/art7/FormTemplate.vue:504
+#: src/components/art7/FormTemplate.vue:847
+#: src/components/exemption/FormTemplate.vue:82
+#: src/components/hat/FormTemplate.vue:74
+#: src/components/hat/FormTemplate.vue:261
+#: src/components/otherRo/FormTemplate.vue:53
+#: src/components/raf/FormTemplate.vue:107
+#: src/components/raf/FormTemplate.vue:257
+#: src/components/art7/FormTemplate.vue:17
+#: src/components/art7/FormTemplate.vue:247
+#: src/components/art7/FormTemplate.vue:468
+#: src/components/exemption/FormTemplate.vue:13
+#: src/components/hat/FormTemplate.vue:14
+#: src/components/hat/FormTemplate.vue:126
+#: src/components/otherRo/FormTemplate.vue:11
+#: src/components/raf/FormTemplate.vue:13
+#: src/components/raf/FormTemplate.vue:111
+msgid "Filter"
+msgstr ""
+
 #: src/components/common/form-components/Add.vue:7
 #: src/components/exemption/form-components/Add.vue:7
 #: src/components/raf/form-components/Add.vue:7
@@ -1112,6 +1214,10 @@ msgstr "фиктивный текст."
 msgid "Filter by mixture types in order to select one or more mixtures. A row for each mixture will be added in mixtures table. Mixtures can be deleted using table controls."
 msgstr "фиктивный текст."
 
+#: src/views/reports/Consumption.vue:32
+msgid "filterValue"
+msgstr ""
+
 #: src/components/common/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:121
 msgid "Finalize"
@@ -1122,7 +1228,11 @@ msgstr "фиктивный текст"
 msgid "Finalized"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionInfo.vue:74
+#: src/views/UserProfile.vue:24 src/views/UserProfile.vue:4
+msgid "First name"
+msgstr ""
+
+#: src/components/common/SubmissionInfo.vue:41
 #: src/components/common/dataDefinitions/tabFlags.js:9
 #: src/components/common/dataDefinitions/tabFlags.js:10
 #: src/components/common/dataDefinitions/tabFlags.js:12
@@ -1154,12 +1264,18 @@ msgstr ""
 msgid "For feedstock use in your country"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/ControlledSubstances.vue:117
+#: src/views/lookupTables/ControlledSubstances.vue:60
+#: src/views/lookupTables/ControlledSubstances.vue:57
 #: src/views/lookupTables/ControlledSubstances.vue:17
+#: src/views/lookupTables/ControlledSubstances.vue:117
 msgid "Formula"
 msgstr "фиктивный текст"
 
-#: src/views/Reports.vue:7 src/views/Reports.vue:61
+#: src/views/Dashboard.vue:287 src/views/Dashboard.vue:150
+msgid "From"
+msgstr ""
+
+#: src/views/Reports.vue:7 src/views/Reports.vue:29
 msgid "Generate report"
 msgstr ""
 
@@ -1178,16 +1294,20 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/labels.js:9
 #: src/components/letter/dataDefinitions/labels.js:6
 #: src/components/letter/dataDefinitions/labels.js:36
-#: src/views/lookupTables/ControlledSubstances.vue:87
+#: src/views/lookupTables/ControlledSubstances.vue:30
+#: src/views/lookupTables/ControlledSubstances.vue:23
 #: src/views/lookupTables/ControlledSubstances.vue:7
+#: src/views/lookupTables/ControlledSubstances.vue:87
 msgid "Group"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:120
+#: src/views/lookupTables/Parties.vue:45 src/views/lookupTables/Parties.vue:120
 #, fuzzy
 msgid "Group 2"
 msgstr "фиктивный текст"
 
+#: src/views/lookupTables/Blends.vue:43
+#: src/views/lookupTables/ControlledSubstances.vue:54
 #: src/views/lookupTables/Blends.vue:140
 #: src/views/lookupTables/ControlledSubstances.vue:111
 msgid "GWP"
@@ -1198,15 +1318,15 @@ msgid "Has blanks"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:44
-#: src/views/lookupTables/Parties.vue:124
+#: src/views/lookupTables/Parties.vue:49 src/views/lookupTables/Parties.vue:124
 msgid "HAT"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:40
+#: src/components/common/Header.vue:34 src/components/common/Header.vue:20
 msgid "Help"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:240
+#: src/components/art7/FormTemplate.vue:137
 msgid "HFC-23"
 msgstr ""
 
@@ -1229,7 +1349,7 @@ msgstr "фиктивный текст."
 msgid "High ambient temperature"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/AddBlend.vue:91
+#: src/components/common/form-components/AddBlend.vue:55
 #, fuzzy
 msgid "If a non-standard mixture not listed above please indicate the mixture name and the percentage by weight of each constituent controlled substance of the mixture. Please pay attention to the percentage values before adding a new mixture. For mistakes please contact secretariat to delete the mixture."
 msgstr "фиктивный текст."
@@ -1320,12 +1440,13 @@ msgstr "фиктивный текст"
 msgid "invalid"
 msgstr "фиктивный текст"
 
+#: src/components/common/SubmissionHistory.vue:53
 #: src/components/common/SubmissionHistory.vue:87
 #, fuzzy
 msgid "Invalid"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:152
+#: src/views/lookupTables/Parties.vue:77
 msgid "Kigali Amendment"
 msgstr "фиктивный текст"
 
@@ -1344,23 +1465,38 @@ msgstr "фиктивный текст"
 msgid "Laboratory and analytical"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionStatus.vue:65
+#: src/views/UserProfile.vue:69 src/views/UserProfile.vue:13
+msgid "Language"
+msgstr ""
+
+#: src/components/common/SubmissionStatus.vue:51
 msgid "Last changed by"
 msgstr ""
 
+#: src/views/Dashboard.vue:136 src/views/Dashboard.vue:177
 #: src/views/Dashboard.vue:358 src/views/Dashboard.vue:399
 msgid "Last modified"
 msgstr "фиктивный текст"
 
+#: src/components/common/SubmissionHistory.vue:98
 #: src/components/common/SubmissionHistory.vue:132
 msgid "Last Modified"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/DefaultAside.vue:30
+#: src/views/UserProfile.vue:39 src/views/UserProfile.vue:7
+#, fuzzy
+msgid "Last name"
+msgstr "фиктивный текст"
+
+#: src/components/common/form-components/DefaultAside.vue:26
 #, fuzzy
 msgid "Legend"
 msgstr "фиктивный текст:"
 
+#: src/components/common/AggregationsTable.vue:29
+#: src/components/common/AggregationsTable.vue:32
+#: src/views/reports/Consumption.vue:14 src/views/reports/Consumption.vue:17
+#: src/views/reports/Consumption.vue:20
 #: src/components/common/AggregationsTable.vue:53
 #: src/components/common/AggregationsTable.vue:56
 #: src/views/reports/Consumption.vue:91 src/views/reports/Consumption.vue:94
@@ -1372,19 +1508,20 @@ msgstr ""
 msgid "LIST OF USES OF CONTROLLED SUBSTANCES AS PROCESS AGENTS"
 msgstr ""
 
-#: src/components/common/Header.vue:45
+#: src/components/common/Header.vue:39 src/components/common/Header.vue:25
 msgid "Logout"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:136
+#: src/views/lookupTables/Parties.vue:61
 msgid "London Amendment"
 msgstr "фиктивный текст"
 
+#: src/components/common/OzoneMail.vue:98
 #: src/components/common/OzoneMail.vue:183
 msgid "Mail sent"
 msgstr ""
 
-#: src/views/UserProfile.vue:29
+#: src/views/UserProfile.vue:22
 #, fuzzy
 msgid "Main party:"
 msgstr "фиктивный текст"
@@ -1405,34 +1542,39 @@ msgstr "фиктивный текст"
 msgid "Mixture"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:461
+#: src/components/art7/FormTemplate.vue:261
 #: src/components/art7/dataDefinitions/labels.js:8
 #: src/components/art7/dataDefinitions/labels.js:41
 #: src/components/art7/dataDefinitions/labels.js:107
 #: src/components/art7/dataDefinitions/labels.js:120
 #: src/components/common/form-components/DefaultAside.vue:12
-#: src/components/hat/FormTemplate.vue:119
+#: src/components/common/form-components/DefaultAside.vue:1
+#: src/components/hat/FormTemplate.vue:71
 #: src/components/hat/dataDefinitions/labels.js:8
 #: src/components/letter/dataDefinitions/labels.js:5
 #: src/components/letter/dataDefinitions/labels.js:34
 #: src/components/letter/dataDefinitions/labels.js:94
 #: src/components/letter/dataDefinitions/labels.js:105
-#: src/views/lookupTables/Blends.vue:214
+#: src/views/lookupTables/Blends.vue:117
 msgid "Mixtures"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:144
+#: src/views/lookupTables/Parties.vue:69
 msgid "Montreal Amendment"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:132
+#: src/views/lookupTables/Parties.vue:57
 msgid "Montreal Protocol"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:134 src/views/lookupTables/Blends.vue:153
+#: src/views/lookupTables/Blends.vue:37 src/views/lookupTables/Blends.vue:56
+#: src/views/lookupTables/ControlledSubstances.vue:36
+#: src/views/lookupTables/ControlledSubstances.vue:40
+#: src/views/lookupTables/Parties.vue:32 src/views/lookupTables/Blends.vue:134
+#: src/views/lookupTables/Blends.vue:153
+#: src/views/lookupTables/ControlledSubstances.vue:12
 #: src/views/lookupTables/ControlledSubstances.vue:93
 #: src/views/lookupTables/Parties.vue:107
-#: src/views/lookupTables/ControlledSubstances.vue:12
 msgid "Name"
 msgstr "фиктивный текст"
 
@@ -1508,6 +1650,10 @@ msgstr "фиктивный текст"
 msgid "No detailed instructions for the current form are available."
 msgstr "фиктивный текст"
 
+#: src/components/common/Files.vue:150 src/components/common/Files.vue:72
+msgid "No files uploaded"
+msgstr ""
+
 #: src/components/exemption/dataDefinitions/form.js:39
 #: src/components/exemption/dataDefinitions/form.js:40
 #, fuzzy
@@ -1525,29 +1671,34 @@ msgstr "фиктивный текст"
 msgid "Non-Party"
 msgstr "фиктивный текст"
 
-#: src/components/raf/form-components/Add.vue:193
+#: src/components/raf/form-components/Add.vue:133
 #, fuzzy
 msgid "not added because two entries already exist."
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionStatus.vue:11
+#: src/components/common/SubmissionStatus.vue:6
 msgid "Not approved"
 msgstr ""
 
-#: src/components/common/SubmissionStatus.vue:19
+#: src/components/common/SubmissionStatus.vue:10
 #, fuzzy
 msgid "Not valid"
 msgstr "фиктивный текст"
 
+#: src/views/lookupTables/ControlledSubstances.vue:66
 #: src/views/lookupTables/ControlledSubstances.vue:123
 msgid "Number of isomers"
 msgstr ""
 
-#: src/views/Dashboard.vue:348 src/views/Dashboard.vue:391
+#: src/views/Dashboard.vue:126 src/views/Dashboard.vue:169
+#: src/views/Dashboard.vue:58 src/views/Dashboard.vue:260
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:136
+#: src/views/Dashboard.vue:348 src/views/Dashboard.vue:391
 msgid "Obligation"
 msgstr "фиктивный текст"
 
+#: src/views/lookupTables/Blends.vue:41
+#: src/views/lookupTables/ControlledSubstances.vue:48
 #: src/views/lookupTables/Blends.vue:138
 #: src/views/lookupTables/ControlledSubstances.vue:105
 msgid "ODP"
@@ -1567,10 +1718,10 @@ msgstr ""
 msgid "On hand start of the year"
 msgstr ""
 
-#: src/views/Dashboard.vue:583 src/views/Reports.vue:105
-#: src/views/lookupTables/Blends.vue:214
-#: src/views/lookupTables/ControlledSubstances.vue:163
-#: src/views/lookupTables/Parties.vue:207 src/views/reports/Consumption.vue:244
+#: src/views/Dashboard.vue:361 src/views/Reports.vue:35
+#: src/views/lookupTables/Blends.vue:117
+#: src/views/lookupTables/ControlledSubstances.vue:106
+#: src/views/lookupTables/Parties.vue:132 src/views/reports/Consumption.vue:167
 msgid "Online Reporting System"
 msgstr ""
 
@@ -1582,7 +1733,7 @@ msgstr "фиктивный текст."
 msgid "Oops! You're lost."
 msgstr "фиктивный текст."
 
-#: src/components/common/form-components/DefaultAside.vue:37
+#: src/components/common/form-components/DefaultAside.vue:33
 msgid "Operation in progress"
 msgstr ""
 
@@ -1595,7 +1746,7 @@ msgstr "фиктивный текст"
 msgid "Other"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:146
+#: src/views/lookupTables/Blends.vue:49 src/views/lookupTables/Blends.vue:146
 #, fuzzy
 msgid "Other names"
 msgstr "фиктивный текст"
@@ -1625,17 +1776,34 @@ msgstr "фиктивный текст"
 msgid "Ozone depleting substances"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:207
+#: src/views/lookupTables/Parties.vue:132
 msgid "Parties"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionStatus.vue:109
+#: src/components/common/SubmissionStatus.vue:122
+#: src/components/common/SubmissionStatus.vue:61
+#: src/components/common/SubmissionStatus.vue:67
+#, fuzzy
+msgid "party"
 msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:4
 #: src/components/common/dataDefinitions/tabSubInfo.js:15
+#: src/views/Dashboard.vue:114 src/views/Dashboard.vue:130
+#: src/views/Dashboard.vue:158 src/views/Dashboard.vue:173
+#: src/views/Dashboard.vue:96 src/views/Dashboard.vue:246
+#: src/views/Reports.vue:100 src/views/reports/Consumption.vue:9
+#: src/views/Dashboard.vue:41 src/views/Dashboard.vue:128
 #: src/views/Dashboard.vue:336 src/views/Dashboard.vue:352
 #: src/views/Dashboard.vue:380 src/views/Dashboard.vue:395
-#: src/views/reports/Consumption.vue:86 src/views/Dashboard.vue:41
-#: src/views/Dashboard.vue:128 src/views/Reports.vue:44
+#: src/views/Reports.vue:44 src/views/reports/Consumption.vue:86
 msgid "Party"
+msgstr "фиктивный текст"
+
+#: src/views/Dashboard.vue:387 src/views/reports/Consumption.vue:135
+#: src/views/Dashboard.vue:210 src/views/reports/Consumption.vue:65
+msgid "Per page"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/labels.js:10
@@ -1652,12 +1820,14 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:99
 #: src/components/raf/dataDefinitions/labels.js:9
 #: src/components/raf/dataDefinitions/labels.js:35
-#: src/views/lookupTables/Blends.vue:156
+#: src/views/lookupTables/Blends.vue:59 src/views/lookupTables/Blends.vue:156
 msgid "Percentage"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:350 src/views/Dashboard.vue:393
-#: src/views/Dashboard.vue:28 src/views/Reports.vue:30
+#: src/views/Dashboard.vue:128 src/views/Dashboard.vue:171
+#: src/views/Dashboard.vue:76 src/views/Reports.vue:79
+#: src/views/Dashboard.vue:28 src/views/Dashboard.vue:350
+#: src/views/Dashboard.vue:393 src/views/Reports.vue:30
 msgid "Period"
 msgstr "фиктивный текст"
 
@@ -1666,7 +1836,7 @@ msgstr "фиктивный текст"
 msgid "Phone"
 msgstr "фиктивный текст"
 
-#: src/views/Reports.vue:16
+#: src/views/Reports.vue:14
 msgid "Please choose a report"
 msgstr ""
 
@@ -1738,10 +1908,12 @@ msgstr ""
 msgid "Please use the form on the right sidebar to add mixtures"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:1075
+#: src/components/art7/FormTemplate.vue:226
 #: src/components/common/mixins/FormTemplateMixin.vue:118
-#: src/components/exemption/FormTemplate.vue:240
+#: src/components/exemption/FormTemplate.vue:24
+#: src/components/art7/FormTemplate.vue:1075
 #: src/components/common/mixins/FormTemplateMixin.vue:119
+#: src/components/exemption/FormTemplate.vue:240
 msgid "Please use the form on the right sidebar to add substances"
 msgstr "фиктивный текст"
 
@@ -1762,8 +1934,21 @@ msgstr "фиктивный текст"
 msgid "Postal code"
 msgstr "фиктивный текст"
 
-#: src/components/common/TransitionQuestions.vue:17
-#: src/components/common/transitionQuestions/Finalize.vue:13
+#: src/components/common/OzoneMail.vue:82
+#: src/components/common/OzoneMail.vue:104
+#: src/components/common/OzoneMail.vue:18
+#: src/components/common/OzoneMail.vue:33
+#, fuzzy
+msgid "Press enter to add an email"
+msgstr "фиктивный текст"
+
+#: src/components/common/form-components/AddBlend.vue:249
+#: src/components/common/form-components/AddBlend.vue:123
+msgid "Press enter to use a new substance"
+msgstr "фиктивный текст"
+
+#: src/components/common/TransitionQuestions.vue:11
+#: src/components/common/transitionQuestions/Finalize.vue:8
 #: src/components/exemption/TransitionQuestions.vue:10
 msgid "Press OK to continue with the submission. Press Cancel to make further changes or corrections."
 msgstr ""
@@ -1806,9 +1991,12 @@ msgid "Processing"
 msgstr "фиктивный текст"
 
 #: src/components/art7/dataDefinitions/form.js:341
-#: src/components/common/AggregationsTable.vue:34
+#: src/components/common/AggregationsTable.vue:10
 #: src/components/common/dataDefinitions/labels.js:13
 #: src/components/hat/dataDefinitions/form.js:139
+#: src/components/otherRo/FormTemplate.vue:14
+#: src/views/reports/Consumption.vue:62
+#: src/components/common/AggregationsTable.vue:34
 #: src/components/otherRo/FormTemplate.vue:116
 #: src/views/reports/Consumption.vue:139
 msgid "Production"
@@ -1818,11 +2006,11 @@ msgstr "фиктивный текст"
 msgid "PRODUCTION"
 msgstr "фиктивный текст"
 
-#: src/views/reports/Consumption.vue:145
+#: src/views/reports/Consumption.vue:68 src/views/reports/Consumption.vue:145
 msgid "Production allowance for BDN of Article 5 Parties"
 msgstr ""
 
-#: src/views/reports/Consumption.vue:244
+#: src/views/reports/Consumption.vue:167
 msgid "Production and consumption"
 msgstr ""
 
@@ -1853,8 +2041,9 @@ msgstr "фиктивный текст"
 msgid "Production for supply to Article 5 countries in accordance with Articles 2A 2H and 5"
 msgstr ""
 
-#: src/components/common/SubmissionHistory.vue:81
+#: src/components/common/SubmissionHistory.vue:47
 #: src/components/common/dataDefinitions/labels.js:56
+#: src/components/common/SubmissionHistory.vue:81
 msgid "Provisional"
 msgstr "фиктивный текст"
 
@@ -1915,9 +2104,10 @@ msgstr "фиктивный текст"
 msgid "Quantity of imports from non-parties (recovered)"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:164
-#: src/components/art7/FormTemplate.vue:385
-#: src/components/art7/FormTemplate.vue:625
+#: src/components/art7/FormTemplate.vue:90
+#: src/components/art7/FormTemplate.vue:214
+#: src/components/art7/FormTemplate.vue:344
+#: src/components/art7/FormTemplate.vue:14
 #, fuzzy
 msgid "Quantity of new %{substance} %{qps_word} to be used for QPS applications within your country %{production}"
 msgstr "фиктивный текст"
@@ -1982,7 +2172,7 @@ msgstr "фиктивный текст"
 msgid "QUESTIONNAIRE"
 msgstr ""
 
-#: src/views/lookupTables/Parties.vue:33
+#: src/views/lookupTables/Parties.vue:15 src/views/lookupTables/Parties.vue:3
 msgid "Ratification details"
 msgstr ""
 
@@ -1996,11 +2186,11 @@ msgstr "фиктивный текст"
 msgid "Recalled"
 msgstr "фиктивный текст"
 
-#: src/components/letter/TabsManager.vue:73
+#: src/components/letter/TabsManager.vue:52
 msgid "Record data"
 msgstr ""
 
-#: src/components/otherRo/TabsManager.vue:88
+#: src/components/otherRo/TabsManager.vue:62
 msgid "Record Data"
 msgstr ""
 
@@ -2037,15 +2227,17 @@ msgstr "фиктивный текст"
 msgid "Reinstate"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:44
+#: src/components/common/Header.vue:38 src/components/common/Header.vue:24
 msgid "Release"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:179
-#: src/components/art7/FormTemplate.vue:221
-#: src/components/art7/FormTemplate.vue:400
-#: src/components/art7/FormTemplate.vue:442
-#: src/components/art7/FormTemplate.vue:640
+#: src/components/art7/FormTemplate.vue:99
+#: src/components/art7/FormTemplate.vue:123
+#: src/components/art7/FormTemplate.vue:223
+#: src/components/art7/FormTemplate.vue:247
+#: src/components/art7/FormTemplate.vue:353
+#: src/components/art7/FormTemplate.vue:23
+#: src/components/art7/FormTemplate.vue:47
 #, fuzzy
 msgid "Remark"
 msgstr "фиктивный текст"
@@ -2135,7 +2327,7 @@ msgstr "фиктивный текст"
 
 #: src/components/otherRo/dataDefinitions/form.js:72
 #: src/components/otherRo/dataDefinitions/labels.js:16
-#: src/views/reports/Consumption.vue:88
+#: src/views/reports/Consumption.vue:11 src/views/reports/Consumption.vue:88
 #, fuzzy
 msgid "Reporting period"
 msgstr "фиктивный текст"
@@ -2144,7 +2336,7 @@ msgstr "фиктивный текст"
 msgid "Reporting Period"
 msgstr "фиктивный текст"
 
-#: src/views/Reports.vue:105 src/views/Reports.vue:18
+#: src/views/Reports.vue:35 src/views/Reports.vue:56 src/views/Reports.vue:18
 #, fuzzy
 msgid "Reports"
 msgstr "фиктивный текст"
@@ -2155,13 +2347,14 @@ msgstr "фиктивный текст"
 msgid "required"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:282
+#: src/components/common/SubmissionInfo.vue:77
 #: src/components/common/dataDefinitions/tabSubInfo.js:102
 #: src/components/common/dataDefinitions/tabSubInfo.js:109
+#: src/components/common/SubmissionInfo.vue:282
 msgid "Required"
 msgstr ""
 
-#: src/components/common/Header.vue:36
+#: src/components/common/Header.vue:30 src/components/common/Header.vue:16
 msgid "Reset password"
 msgstr "фиктивный текст"
 
@@ -2188,11 +2381,15 @@ msgstr "фиктивный текст"
 msgid "Revise"
 msgstr "фиктивный текст"
 
-#: src/views/UserProfile.vue:35
+#: src/views/UserProfile.vue:28
 msgid "Role:"
 msgstr ""
 
-#: src/components/common/mixins/SaveMixin.vue:9
+#: src/views/UserProfile.vue:148 src/views/UserProfile.vue:46
+msgid "Save"
+msgstr ""
+
+#: src/components/common/mixins/SaveMixin.vue:2
 msgid "Save and continue"
 msgstr "фиктивный текст"
 
@@ -2200,12 +2397,27 @@ msgstr "фиктивный текст"
 msgid "Saved"
 msgstr ""
 
-#: src/views/pages/Page404.vue:29 src/views/lookupTables/Blends.vue:5
+#: src/views/lookupTables/Blends.vue:33 src/views/lookupTables/Parties.vue:27
+#: src/views/pages/Page404.vue:23 src/views/lookupTables/Blends.vue:5
 #: src/views/lookupTables/Parties.vue:7
 msgid "Search"
 msgstr "фиктивный текст"
 
+#: src/components/art7/EmissionsTemplate.vue:66
+#: src/components/art7/EmissionsTemplate.vue:15
+msgid "Search all columns"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionStatus.vue:109
+#: src/components/common/SubmissionStatus.vue:122
+#: src/components/common/SubmissionStatus.vue:61
+#: src/components/common/SubmissionStatus.vue:67
+#, fuzzy
+msgid "secretariat"
+msgstr "фиктивный текст"
+
 #: src/components/common/dataDefinitions/labels.js:5
+#: src/views/Dashboard.vue:114 src/views/Dashboard.vue:158
 #: src/views/Dashboard.vue:336 src/views/Dashboard.vue:380
 msgid "Secretariat"
 msgstr "фиктивный текст"
@@ -2226,23 +2438,73 @@ msgstr "фиктивный текст"
 msgid "select at least one country for each substance before adding."
 msgstr "фиктивный текст"
 
-#: src/components/art7/EmissionsTemplate.vue:11
-#: src/components/art7/FormTemplate.vue:13
-#: src/components/art7/FormTemplate.vue:243
-#: src/components/art7/FormTemplate.vue:464
+#: src/components/common/form-components/CloneField.vue:39
+#: src/components/common/form-components/CloneField.vue:4
+msgid "Select one or more countries/regions/territories"
+msgstr ""
+
+#: src/components/common/form-components/Add.vue:34
+#: src/components/common/form-components/Add.vue:54
+#: src/components/common/form-components/AddBlend.vue:52
+#: src/components/common/form-components/AddBlend.vue:75
+#: src/components/common/form-components/fieldGenerator.vue:108
+#: src/components/exemption/form-components/Add.vue:34
+#: src/components/exemption/form-components/Add.vue:55
+#: src/components/raf/AddCategories.vue:27 src/components/raf/AddParties.vue:27
+#: src/components/raf/form-components/Add.vue:34
+#: src/components/raf/form-components/Add.vue:55 src/views/Dashboard.vue:62
+#: src/views/Dashboard.vue:80 src/views/Dashboard.vue:100
+#: src/views/Reports.vue:60 src/views/Reports.vue:83 src/views/Reports.vue:104
+#: src/components/common/form-components/Add.vue:14
+#: src/components/common/form-components/Add.vue:26
+#: src/components/common/form-components/AddBlend.vue:15
+#: src/components/common/form-components/AddBlend.vue:31
+#: src/components/common/form-components/fieldGenerator.vue:73
+#: src/components/exemption/form-components/Add.vue:14
+#: src/components/exemption/form-components/Add.vue:27
+#: src/components/raf/AddCategories.vue:11 src/components/raf/AddParties.vue:11
+#: src/components/raf/form-components/Add.vue:14
+#: src/components/raf/form-components/Add.vue:27 src/views/Dashboard.vue:19
+#: src/views/Dashboard.vue:30 src/views/Dashboard.vue:43
+#: src/views/Reports.vue:20 src/views/Reports.vue:32 src/views/Reports.vue:46
+msgid "Select option"
+msgstr "фиктивный текст"
+
+#: src/components/art7/FormTemplate.vue:1257
+#: src/components/exemption/FormTemplate.vue:291
+#: src/components/raf/FormTemplate.vue:495
+#: src/components/art7/FormTemplate.vue:756
+#: src/components/exemption/FormTemplate.vue:156
+#: src/components/raf/FormTemplate.vue:277
+msgid "Select substance"
+msgstr "фиктивный текст"
+
+#: src/components/common/SubmissionInfo.vue:258
+#: src/components/common/SubmissionInfo.vue:144
+msgid "Select the annex groups for which you are submitting complete data, including reporting of zeros where appropriate, e.g. for phased-out substances or annex groups."
+msgstr ""
+
+#: src/components/art7/EmissionsTemplate.vue:8
+#: src/components/art7/FormTemplate.vue:10
+#: src/components/art7/FormTemplate.vue:140
+#: src/components/art7/FormTemplate.vue:264
 #: src/components/exemption/FormTemplate.vue:9
 #: src/components/hat/FormTemplate.vue:10
-#: src/components/hat/FormTemplate.vue:122
+#: src/components/hat/FormTemplate.vue:74
 #: src/components/otherRo/FormTemplate.vue:7
 #: src/components/raf/FormTemplate.vue:9
 msgid "selected rows"
 msgstr ""
 
-#: src/views/Dashboard.vue:120
+#: src/components/common/OzoneMail.vue:62 src/components/common/OzoneMail.vue:6
+msgid "Send a message"
+msgstr ""
+
+#: src/views/Dashboard.vue:63 src/views/Dashboard.vue:9
 msgid "Show all versions"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:28
+#: src/views/lookupTables/Blends.vue:13
 msgid "Sort"
 msgstr "фиктивный текст"
 
@@ -2252,8 +2514,9 @@ msgstr "фиктивный текст"
 msgid "Source party"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionStatus.vue:51 src/views/Dashboard.vue:356
-#: src/views/Dashboard.vue:143
+#: src/components/common/SubmissionStatus.vue:37 src/views/Dashboard.vue:134
+#: src/views/Dashboard.vue:273 src/views/Dashboard.vue:143
+#: src/views/Dashboard.vue:356
 msgid "Status"
 msgstr "фиктивный текст"
 
@@ -2266,7 +2529,7 @@ msgstr ""
 msgid "Submission deleted successfully."
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/DefaultAside.vue:51
+#: src/components/common/form-components/DefaultAside.vue:45
 #, fuzzy
 msgid "Submission edited. Please save before closing the form"
 msgstr "фиктивный текст"
@@ -2281,8 +2544,10 @@ msgstr "фиктивный текст"
 msgid "Submission information"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:227
+#: src/components/art7/TabsManager.vue:47
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
+#: src/components/letter/TabsManager.vue:106
+#: src/components/art7/TabsManager.vue:227
 #: src/components/letter/TabsManager.vue:31
 #, fuzzy
 msgid "Submission Information"
@@ -2292,7 +2557,7 @@ msgstr "фиктивный текст"
 msgid "SUBMISSION INFORMATION"
 msgstr ""
 
-#: src/components/common/SubmissionInfo.vue:192
+#: src/components/common/SubmissionInfo.vue:100
 #, fuzzy
 msgid "Submission status"
 msgstr "фиктивный текст"
@@ -2302,14 +2567,27 @@ msgstr "фиктивный текст"
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:126
+#: src/components/art7/TabsManager.vue:346
+#: src/components/hat/TabsManager.vue:299
+#: src/components/letter/TabsManager.vue:278
+#: src/components/otherRo/TabsManager.vue:308
+#: src/components/raf/TabsManager.vue:299
+#: src/components/art7/TabsManager.vue:158
+#: src/components/hat/TabsManager.vue:128
+#: src/components/letter/TabsManager.vue:122
+#: src/components/otherRo/TabsManager.vue:137
+#: src/components/raf/TabsManager.vue:128
+msgid "Submission versions"
+msgstr "фиктивный текст"
+
+#: src/components/art7/TabsManager.vue:84
 #: src/components/common/dataDefinitions/labels.js:9
-#: src/components/exemption/TabsManager.vue:77
-#: src/components/hat/TabsManager.vue:96
-#: src/components/letter/TabsManager.vue:83
+#: src/components/exemption/TabsManager.vue:55
+#: src/components/hat/TabsManager.vue:67
+#: src/components/letter/TabsManager.vue:58
 #: src/components/letter/dataDefinitions/labels.js:122
-#: src/components/otherRo/TabsManager.vue:98
-#: src/components/raf/TabsManager.vue:96
+#: src/components/otherRo/TabsManager.vue:68
+#: src/components/raf/TabsManager.vue:67
 msgid "Submit"
 msgstr "фиктивный текст"
 
@@ -2323,6 +2601,7 @@ msgstr "фиктивный текст"
 msgid "Submitted"
 msgstr "фиктивный текст"
 
+#: src/components/common/SubmissionHistory.vue:101
 #: src/components/common/SubmissionHistory.vue:135
 #, fuzzy
 msgid "Submitted at"
@@ -2348,13 +2627,16 @@ msgstr "фиктивный текст"
 msgid "Substance"
 msgstr "фиктивный текст"
 
-#: src/components/art7/FormTemplate.vue:10
+#: src/components/art7/FormTemplate.vue:7
 #: src/components/art7/dataDefinitions/labels.js:7
 #: src/components/art7/dataDefinitions/labels.js:40
 #: src/components/art7/dataDefinitions/labels.js:94
 #: src/components/art7/dataDefinitions/labels.js:106
+#: src/components/common/form-components/Add.vue:50
 #: src/components/common/form-components/DefaultAside.vue:6
+#: src/components/common/form-components/DefaultAside.vue:1
 #: src/components/exemption/FormTemplate.vue:6
+#: src/components/exemption/form-components/Add.vue:51
 #: src/components/hat/FormTemplate.vue:7
 #: src/components/hat/dataDefinitions/labels.js:7
 #: src/components/hat/dataDefinitions/labels.js:23
@@ -2363,15 +2645,17 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:83
 #: src/components/letter/dataDefinitions/labels.js:93
 #: src/components/otherRo/dataDefinitions/labels.js:7
+#: src/components/raf/form-components/Add.vue:51
 #: src/components/common/form-components/Add.vue:24
 #: src/components/exemption/form-components/Add.vue:25
 #: src/components/raf/form-components/Add.vue:25
 msgid "Substances"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:90
-#: src/components/common/SubmissionStatus.vue:28
+#: src/components/common/SubmissionHistory.vue:56
+#: src/components/common/SubmissionStatus.vue:14
 #: src/components/common/dataDefinitions/labels.js:55
+#: src/components/common/SubmissionHistory.vue:90
 msgid "Superseded"
 msgstr "фиктивный текст"
 
@@ -2386,7 +2670,7 @@ msgstr ""
 msgid "The date indicated on the submitted document"
 msgstr ""
 
-#: src/components/common/Files.vue:178
+#: src/components/common/Files.vue:86
 msgid "The following files are not allowed"
 msgstr ""
 
@@ -2399,9 +2683,9 @@ msgstr "фиктивный текст."
 msgid "The row cannot be empty. Please fill in any column"
 msgstr ""
 
-#: src/components/art7/FormTemplate.vue:740
-#: src/components/exemption/FormTemplate.vue:140
-#: src/components/raf/FormTemplate.vue:261
+#: src/components/art7/FormTemplate.vue:412
+#: src/components/exemption/FormTemplate.vue:76
+#: src/components/raf/FormTemplate.vue:151
 msgid "The values are saved automatically in the table, as you type."
 msgstr "фиктивный текст."
 
@@ -2420,8 +2704,13 @@ msgstr ""
 msgid "This form shows transfer of production/consumption rights in accordance with paragraphs 5,5 bis,7 of Article 2."
 msgstr ""
 
+#: src/components/exemption/FormTemplate.vue:22
 #: src/components/exemption/FormTemplate.vue:238
 msgid "This table shows substances and amounts once the secretariat processes your submission"
+msgstr ""
+
+#: src/views/Dashboard.vue:301 src/views/Dashboard.vue:157
+msgid "To"
 msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:181
@@ -2513,7 +2802,7 @@ msgstr "фиктивный текст"
 msgid "Total Quantity Imported for All Uses (recovered and reclaimed)"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Blends.vue:148
+#: src/views/lookupTables/Blends.vue:51 src/views/lookupTables/Blends.vue:148
 #, fuzzy
 msgid "Trade names"
 msgstr "фиктивный текст"
@@ -2538,7 +2827,7 @@ msgstr ""
 
 #: src/components/common/mixins/FormTemplateMixin.vue:211
 #: src/components/common/mixins/FormTemplateMixin.vue:218
-#: src/views/lookupTables/Blends.vue:136
+#: src/views/lookupTables/Blends.vue:39 src/views/lookupTables/Blends.vue:136
 msgid "Type"
 msgstr "фиктивный текст"
 
@@ -2547,6 +2836,13 @@ msgstr "фиктивный текст"
 #, fuzzy
 msgid "Type of use"
 msgstr "фиктивный текст"
+
+#: src/components/common/OzoneMail.vue:83
+#: src/components/common/OzoneMail.vue:105
+#: src/components/common/OzoneMail.vue:19
+#: src/components/common/OzoneMail.vue:34
+msgid "Type the recipient address and press enter"
+msgstr ""
 
 #: src/components/common/dataDefinitions/alerts.js:9
 #, fuzzy
@@ -2596,22 +2892,24 @@ msgid "Unit"
 msgstr ""
 
 #: src/components/exemption/services/tableRowConstructorService.js:13
+#: src/components/raf/FormTemplate.vue:585
 #: src/components/raf/services/tableRowConstructorService.js:14
 #: src/components/raf/FormTemplate.vue:339
 #, fuzzy
 msgid "Unspecified"
 msgstr "фиктивный текст"
 
-#: src/components/common/Files.vue:68
+#: src/components/common/Files.vue:40
 msgid "Uploaded files"
 msgstr ""
 
-#: src/views/UserProfile.vue:23
+#: src/views/UserProfile.vue:16
 #, fuzzy
 msgid "User name:"
 msgstr "фиктивный текст"
 
-#: src/components/common/Header.vue:32 src/views/UserProfile.vue:70
+#: src/components/common/Header.vue:26 src/components/common/Header.vue:12
+#: src/views/UserProfile.vue:14 src/views/UserProfile.vue:70
 msgid "User profile"
 msgstr ""
 
@@ -2619,43 +2917,55 @@ msgstr ""
 msgid "valid"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:84
-#: src/components/common/SubmissionStatus.vue:12
+#: src/components/common/SubmissionHistory.vue:50
+#: src/components/common/SubmissionStatus.vue:6
 #: src/components/common/dataDefinitions/labels.js:59
+#: src/components/common/SubmissionHistory.vue:84
 msgid "Valid"
 msgstr "фиктивный текст"
 
 #: src/components/common/form-components/AsideTogglerModified.vue:7
 #: src/components/common/form-components/DefaultAside.vue:18
+#: src/components/common/form-components/DefaultAside.vue:1
 msgid "Validation"
 msgstr "фиктивный текст"
 
-#: src/components/common/form-components/DefaultAside.vue:41
+#: src/components/common/form-components/DefaultAside.vue:37
 #, fuzzy
 msgid "Validation errors"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:126
-#: src/components/common/SubmissionStatus.vue:55 src/views/Dashboard.vue:354
-#: src/views/Dashboard.vue:397
+#: src/components/common/SubmissionHistory.vue:92
+#: src/components/common/SubmissionStatus.vue:41 src/views/Dashboard.vue:132
+#: src/views/Dashboard.vue:175 src/components/common/SubmissionHistory.vue:126
+#: src/views/Dashboard.vue:354 src/views/Dashboard.vue:397
 msgid "Version"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:116
+#: src/components/art7/TabsManager.vue:78
 #: src/components/common/dataDefinitions/labels.js:18
-#: src/components/hat/TabsManager.vue:86
-#: src/components/letter/TabsManager.vue:104
-#: src/components/otherRo/TabsManager.vue:119
-#: src/components/raf/TabsManager.vue:86
+#: src/components/hat/TabsManager.vue:61
+#: src/components/letter/TabsManager.vue:65
+#: src/components/otherRo/TabsManager.vue:75
+#: src/components/raf/TabsManager.vue:61
 msgid "Versions"
 msgstr "фиктивный текст"
 
-#: src/views/lookupTables/Parties.vue:128
+#: src/views/lookupTables/Parties.vue:53
 msgid "Vienna Convention"
 msgstr "фиктивный текст"
 
-#: src/components/common/SubmissionHistory.vue:21
+#: src/components/art7/FormTemplate.vue:255
+#: src/components/art7/FormTemplate.vue:598
+#: src/components/art7/FormTemplate.vue:969
+#: src/components/common/SubmissionHistory.vue:5
+#: src/components/common/SubmissionHistory.vue:2
 #: src/components/common/dataDefinitions/labels.js:51
+#: src/components/exemption/FormTemplate.vue:144
+#: src/components/hat/FormTemplate.vue:172
+#: src/components/hat/FormTemplate.vue:375
+#: src/components/raf/FormTemplate.vue:191
+#: src/components/raf/FormTemplate.vue:333
 #: src/components/art7/FormTemplate.vue:113
 #: src/components/art7/FormTemplate.vue:334
 #: src/components/art7/FormTemplate.vue:574
@@ -2666,6 +2976,10 @@ msgstr "фиктивный текст"
 #: src/components/raf/FormTemplate.vue:198
 msgid "View"
 msgstr "фиктивный текст"
+
+#: src/views/pages/Page404.vue:58 src/views/pages/Page404.vue:26
+msgid "What are you looking for?"
+msgstr "фиктивный текст?"
 
 #: src/components/raf/dataDefinitions/form.js:75
 #: src/components/raf/dataDefinitions/form.js:134
@@ -2680,7 +2994,7 @@ msgstr "фиктивный текст"
 msgid "You are about to begin processing this submission."
 msgstr ""
 
-#: src/components/common/TransitionQuestions.vue:16
+#: src/components/common/TransitionQuestions.vue:10
 #: src/components/exemption/TransitionQuestions.vue:9
 #, fuzzy
 msgid "You are about to change the state of the submission."
@@ -2704,165 +3018,7 @@ msgstr ""
 msgid "You have unsaved changes. Please save the submission first."
 msgstr "фиктивный текст"
 
+#: src/components/common/OzoneMail.vue:115
 #: src/components/common/OzoneMail.vue:200
 msgid "You must specify a recipient"
-msgstr ""
-
-#: src/components/common/form-components/Add.vue:12
-#: src/components/exemption/form-components/Add.vue:12
-#: src/components/raf/form-components/Add.vue:12
-msgid "Annex groups"
-msgstr "фиктивный текст"
-
-#: src/components/common/form-components/Add.vue:14
-#: src/components/common/form-components/Add.vue:26
-#: src/components/common/form-components/AddBlend.vue:15
-#: src/components/common/form-components/AddBlend.vue:31
-#: src/components/common/form-components/fieldGenerator.vue:73
-#: src/components/exemption/form-components/Add.vue:14
-#: src/components/exemption/form-components/Add.vue:27
-#: src/components/raf/AddCategories.vue:11 src/components/raf/AddParties.vue:11
-#: src/components/raf/form-components/Add.vue:14
-#: src/components/raf/form-components/Add.vue:27 src/views/Dashboard.vue:19
-#: src/views/Dashboard.vue:30 src/views/Dashboard.vue:43
-#: src/views/Reports.vue:20 src/views/Reports.vue:32 src/views/Reports.vue:46
-msgid "Select option"
-msgstr "фиктивный текст"
-
-#: src/components/art7/FormTemplate.vue:17
-#: src/components/art7/FormTemplate.vue:247
-#: src/components/art7/FormTemplate.vue:468
-#: src/components/exemption/FormTemplate.vue:13
-#: src/components/hat/FormTemplate.vue:14
-#: src/components/hat/FormTemplate.vue:126
-#: src/components/otherRo/FormTemplate.vue:11
-#: src/components/raf/FormTemplate.vue:13
-#: src/components/raf/FormTemplate.vue:111
-msgid "Filter"
-msgstr ""
-
-#: src/components/art7/FormTemplate.vue:756
-#: src/components/exemption/FormTemplate.vue:156
-#: src/components/raf/FormTemplate.vue:277
-msgid "Select substance"
-msgstr "фиктивный текст"
-
-#: src/components/art7/TabsManager.vue:158
-#: src/components/hat/TabsManager.vue:128
-#: src/components/letter/TabsManager.vue:122
-#: src/components/otherRo/TabsManager.vue:137
-#: src/components/raf/TabsManager.vue:128
-msgid "Submission versions"
-msgstr "фиктивный текст"
-
-#: src/components/common/Files.vue:27
-#, fuzzy
-msgid "Click the Browse button to add files"
-msgstr "фиктивный текст"
-
-#: src/components/common/Files.vue:72
-msgid "No files uploaded"
-msgstr ""
-
-#: src/components/common/OzoneMail.vue:6
-msgid "Send a message"
-msgstr ""
-
-#: src/components/common/OzoneMail.vue:18
-#: src/components/common/OzoneMail.vue:33
-#, fuzzy
-msgid "Press enter to add an email"
-msgstr "фиктивный текст"
-
-#: src/components/common/OzoneMail.vue:19
-#: src/components/common/OzoneMail.vue:34
-msgid "Type the recipient address and press enter"
-msgstr ""
-
-#: src/components/common/OzoneMail.vue:66
-msgid "Correspondence"
-msgstr ""
-
-#: src/components/common/form-components/CloneField.vue:4
-msgid "Select one or more countries/regions/territories"
-msgstr ""
-
-#: src/components/common/form-components/AddBlend.vue:123
-msgid "Press enter to use a new substance"
-msgstr "фиктивный текст"
-
-#: src/components/common/form-components/AddBlend.vue:124
-msgid "Controlled or new substance"
-msgstr "фиктивный текст"
-
-#: src/components/common/SubmissionStatus.vue:61
-#: src/components/common/SubmissionStatus.vue:67
-#, fuzzy
-msgid "secretariat"
-msgstr "фиктивный текст"
-
-#: src/components/common/SubmissionStatus.vue:61
-#: src/components/common/SubmissionStatus.vue:67
-#, fuzzy
-msgid "party"
-msgstr "фиктивный текст"
-
-#: src/components/common/SubmissionInfo.vue:144
-msgid "Select the annex groups for which you are submitting complete data, including reporting of zeros where appropriate, e.g. for phased-out substances or annex groups."
-msgstr ""
-
-#: src/components/art7/EmissionsTemplate.vue:15
-msgid "Search all columns"
-msgstr "фиктивный текст"
-
-#: src/components/art7/FormTemplate.vue:783
-#: src/components/raf/FormTemplate.vue:307
-msgid "Countries"
-msgstr "фиктивный текст"
-
-#: src/components/raf/AddParties.vue:8
-#, fuzzy
-msgid "Add countries"
-msgstr "фиктивный текст"
-
-#: src/components/raf/AddCategories.vue:8
-#, fuzzy
-msgid "Add categories"
-msgstr "фиктивный текст"
-
-#: src/views/Dashboard.vue:150
-msgid "From"
-msgstr ""
-
-#: src/views/Dashboard.vue:157
-msgid "To"
-msgstr ""
-
-#: src/views/Dashboard.vue:210 src/views/reports/Consumption.vue:65
-msgid "Per page"
-msgstr "фиктивный текст"
-
-#: src/views/pages/Page404.vue:26
-msgid "What are you looking for?"
-msgstr "фиктивный текст?"
-
-#: src/views/lookupTables/Blends.vue:19
-msgid "Components"
-msgstr "фиктивный текст"
-
-#: src/views/UserProfile.vue:4
-msgid "First name"
-msgstr ""
-
-#: src/views/UserProfile.vue:7
-#, fuzzy
-msgid "Last name"
-msgstr "фиктивный текст"
-
-#: src/views/UserProfile.vue:13
-msgid "Language"
-msgstr ""
-
-#: src/views/UserProfile.vue:46
-msgid "Save"
 msgstr ""
