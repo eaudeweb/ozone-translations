@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-03 18:04+0300\n"
+"POT-Creation-Date: 2021-03-09 12:45+0300\n"
 "PO-Revision-Date: 2019-01-25 14:02+0000\n"
 "Last-Translator: admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/"
@@ -25,40 +25,40 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ozone/core/admin.py:128
+#: ozone/core/admin.py:129
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr "фиктивный текст! %(username)s фиктивный текст."
 
-#: ozone/core/admin.py:143
+#: ozone/core/admin.py:144
 msgid "ORS"
 msgstr "ORS"
 
-#: ozone/core/admin.py:146
+#: ozone/core/admin.py:147
 msgid "Ozone Reporting System"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:149
+#: ozone/core/admin.py:150
 msgid "Administration"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:598
+#: ozone/core/admin.py:599
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr "фиктивный текст! %d фиктивный текст"
 
-#: ozone/core/admin.py:604
+#: ozone/core/admin.py:605
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr "фиктивный текст! %s фиктивный текст"
 
-#: ozone/core/admin.py:607
+#: ozone/core/admin.py:608
 msgid "Reset user password"
 msgstr "фиктивный текст"
 
-#: ozone/core/admin.py:613
+#: ozone/core/admin.py:614
 msgid "Login"
 msgstr ""
 
@@ -891,11 +891,11 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: ozone/core/api/views.py:1657
+#: ozone/core/api/views.py:1740
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr "фиктивный текст."
 
-#: ozone/core/api/views.py:2540
+#: ozone/core/api/views.py:2623
 #, fuzzy
 #| msgid "You do not have permission to perform this action."
 msgid "You do not have permission to upload files for this submission"
@@ -1123,7 +1123,7 @@ msgstr ""
 msgid "alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:481 ozone/core/models/substance.py:484
+#: ozone/core/models/substance.py:486 ozone/core/models/substance.py:489
 msgid "Substance or component name must be set."
 msgstr "фиктивный текст."
 

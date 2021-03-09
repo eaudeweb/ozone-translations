@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-03 18:04+0300\n"
+"POT-Creation-Date: 2021-03-09 12:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,40 +21,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ozone/core/admin.py:128
+#: ozone/core/admin.py:129
 #, python-format
 msgid ""
 "Please enter the correct %(username)s and password for the account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
 
-#: ozone/core/admin.py:143
+#: ozone/core/admin.py:144
 msgid "ORS"
 msgstr ""
 
-#: ozone/core/admin.py:146
+#: ozone/core/admin.py:147
 msgid "Ozone Reporting System"
 msgstr ""
 
-#: ozone/core/admin.py:149
+#: ozone/core/admin.py:150
 msgid "Administration"
 msgstr ""
 
-#: ozone/core/admin.py:598
+#: ozone/core/admin.py:599
 #, python-format
 msgid "Email sent to %d users for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:604
+#: ozone/core/admin.py:605
 #, python-format
 msgid "Email sent to %s for password reset"
 msgstr ""
 
-#: ozone/core/admin.py:607
+#: ozone/core/admin.py:608
 msgid "Reset user password"
 msgstr ""
 
-#: ozone/core/admin.py:613
+#: ozone/core/admin.py:614
 msgid "Login"
 msgstr ""
 
@@ -877,11 +877,11 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: ozone/core/api/views.py:1657
+#: ozone/core/api/views.py:1740
 msgid "Invalid request: request body should contain 'transition' key."
 msgstr ""
 
-#: ozone/core/api/views.py:2540
+#: ozone/core/api/views.py:2623
 msgid "You do not have permission to upload files for this submission"
 msgstr ""
 
@@ -1086,7 +1086,7 @@ msgstr ""
 msgid "alternate description"
 msgstr ""
 
-#: ozone/core/models/substance.py:481 ozone/core/models/substance.py:484
+#: ozone/core/models/substance.py:486 ozone/core/models/substance.py:489
 msgid "Substance or component name must be set."
 msgstr ""
 
