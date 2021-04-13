@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-03-09 18:28+0000\n"
+"POT-Creation-Date: 2021-04-13 14:49+0000\n"
 "PO-Revision-Date: 2019-01-23 11:02+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: Russian <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/ru/>\n"
@@ -50,8 +50,8 @@ msgstr "фиктивный текст"
 #: src/components/raf/dataDefinitions/labels.js:31
 #: src/components/raf/dataDefinitions/labels.js:56 src/views/Dashboard.vue:140
 #: src/views/Dashboard.vue:181 src/components/common/Files.vue:117
-#: src/components/common/SubmissionHistory.vue:141 src/views/Dashboard.vue:362
-#: src/views/Dashboard.vue:403
+#: src/components/common/SubmissionHistory.vue:141 src/views/Dashboard.vue:363
+#: src/views/Dashboard.vue:404
 msgid "Actions"
 msgstr "фиктивный текст"
 
@@ -358,7 +358,7 @@ msgstr "фиктивный текст"
 #: src/components/hat/dataDefinitions/form.js:152
 #: src/views/reports/Consumption.vue:10
 #: src/components/common/AggregationsTable.vue:50
-#: src/views/reports/Consumption.vue:87
+#: src/views/reports/Consumption.vue:88
 #, fuzzy
 msgid "Annex/Group"
 msgstr "фиктивный текст"
@@ -444,7 +444,7 @@ msgstr ""
 #: src/views/reports/Consumption.vue:12 src/views/reports/Consumption.vue:15
 #: src/components/common/AggregationsTable.vue:51
 #: src/components/common/AggregationsTable.vue:54
-#: src/views/reports/Consumption.vue:89 src/views/reports/Consumption.vue:92
+#: src/views/reports/Consumption.vue:90 src/views/reports/Consumption.vue:93
 msgid "Baseline"
 msgstr ""
 
@@ -475,8 +475,8 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:28
 #: src/components/common/AggregationsTable.vue:31
 #: src/views/reports/Consumption.vue:13 src/views/reports/Consumption.vue:16
-#: src/views/reports/Consumption.vue:19 src/views/reports/Consumption.vue:90
-#: src/views/reports/Consumption.vue:93 src/views/reports/Consumption.vue:96
+#: src/views/reports/Consumption.vue:19 src/views/reports/Consumption.vue:91
+#: src/views/reports/Consumption.vue:94 src/views/reports/Consumption.vue:97
 msgid "Calculated"
 msgstr ""
 
@@ -561,20 +561,20 @@ msgstr "фиктивный текст"
 #: src/components/art7/FormTemplate.vue:471
 #: src/components/art7/TabsManager.vue:22
 #: src/components/art7/TabsManager.vue:70
-#: src/components/art7/TabsManager.vue:100
+#: src/components/art7/TabsManager.vue:98
 #: src/components/common/AggregationsModal.vue:10
 #: src/components/common/OzoneMail.vue:48
 #: src/components/exemption/FormTemplate.vue:118
 #: src/components/exemption/TabsManager.vue:50
 #: src/components/hat/TabsManager.vue:22 src/components/hat/TabsManager.vue:55
-#: src/components/hat/TabsManager.vue:83
+#: src/components/hat/TabsManager.vue:81
 #: src/components/letter/TabsManager.vue:45
 #: src/components/otherRo/TabsManager.vue:22
 #: src/components/otherRo/TabsManager.vue:55
-#: src/components/otherRo/TabsManager.vue:87
+#: src/components/otherRo/TabsManager.vue:85
 #: src/components/raf/FormTemplate.vue:223
 #: src/components/raf/TabsManager.vue:22 src/components/raf/TabsManager.vue:55
-#: src/components/raf/TabsManager.vue:83
+#: src/components/raf/TabsManager.vue:81
 msgid "Close"
 msgstr "фиктивный текст"
 
@@ -630,7 +630,7 @@ msgstr "фиктивный текст"
 #: src/views/reports/Consumption.vue:65
 #: src/components/common/AggregationsTable.vue:37
 #: src/components/otherRo/FormTemplate.vue:117
-#: src/views/reports/Consumption.vue:142
+#: src/views/reports/Consumption.vue:143
 #, fuzzy
 msgid "Consumption"
 msgstr "фиктивный текст"
@@ -688,7 +688,7 @@ msgstr "фиктивный текст"
 #: src/components/common/SubmissionHistory.vue:95
 #: src/components/common/SubmissionStatus.vue:45 src/views/Dashboard.vue:138
 #: src/views/Dashboard.vue:179 src/components/common/SubmissionHistory.vue:129
-#: src/views/Dashboard.vue:360 src/views/Dashboard.vue:401
+#: src/views/Dashboard.vue:361 src/views/Dashboard.vue:402
 #, fuzzy
 msgid "Created by"
 msgstr "фиктивный текст"
@@ -743,11 +743,11 @@ msgstr "фиктивный текст"
 msgid "Data is valid and saved"
 msgstr ""
 
-#: src/components/exemption/TabsManager.vue:65
-#: src/components/hat/TabsManager.vue:77
-#: src/components/letter/TabsManager.vue:54
-#: src/components/otherRo/TabsManager.vue:87
-#: src/components/raf/TabsManager.vue:77
+#: src/components/exemption/TabsManager.vue:67
+#: src/components/hat/TabsManager.vue:79
+#: src/components/letter/TabsManager.vue:56
+#: src/components/otherRo/TabsManager.vue:89
+#: src/components/raf/TabsManager.vue:79
 #, fuzzy
 msgid "data submission for"
 msgstr "фиктивный текст"
@@ -818,13 +818,13 @@ msgstr "фиктивный текст"
 msgid "Delete"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:91
+#: src/components/art7/TabsManager.vue:89
 #: src/components/common/dataDefinitions/labels.js:17
-#: src/components/exemption/TabsManager.vue:61
-#: src/components/hat/TabsManager.vue:74
-#: src/components/letter/TabsManager.vue:68
-#: src/components/otherRo/TabsManager.vue:78
-#: src/components/raf/TabsManager.vue:74
+#: src/components/exemption/TabsManager.vue:59
+#: src/components/hat/TabsManager.vue:72
+#: src/components/letter/TabsManager.vue:66
+#: src/components/otherRo/TabsManager.vue:76
+#: src/components/raf/TabsManager.vue:72
 msgid "Delete Submission"
 msgstr "фиктивный текст"
 
@@ -1136,7 +1136,7 @@ msgstr ""
 
 #: src/components/common/dataDefinitions/tabFiles.js:9
 #: src/components/exemption/dataDefinitions/tabFiles.js:9
-#: src/components/letter/TabsManager.vue:125
+#: src/components/letter/TabsManager.vue:126
 #: src/components/letter/dataDefinitions/tabFiles.js:9
 #: src/components/otherRo/dataDefinitions/tabFiles.js:9
 #: src/components/letter/TabsManager.vue:43
@@ -1474,7 +1474,7 @@ msgid "Last changed by"
 msgstr ""
 
 #: src/views/Dashboard.vue:136 src/views/Dashboard.vue:177
-#: src/views/Dashboard.vue:358 src/views/Dashboard.vue:399
+#: src/views/Dashboard.vue:359 src/views/Dashboard.vue:400
 msgid "Last modified"
 msgstr "фиктивный текст"
 
@@ -1499,8 +1499,8 @@ msgstr "фиктивный текст:"
 #: src/views/reports/Consumption.vue:20
 #: src/components/common/AggregationsTable.vue:53
 #: src/components/common/AggregationsTable.vue:56
-#: src/views/reports/Consumption.vue:91 src/views/reports/Consumption.vue:94
-#: src/views/reports/Consumption.vue:97
+#: src/views/reports/Consumption.vue:92 src/views/reports/Consumption.vue:95
+#: src/views/reports/Consumption.vue:98
 msgid "Limit"
 msgstr ""
 
@@ -1582,6 +1582,10 @@ msgstr "фиктивный текст"
 #: src/components/letter/dataDefinitions/labels.js:126
 msgid "Name of reporting officer"
 msgstr "фиктивный текст"
+
+#: src/components/common/dataDefinitions/labels.js:72
+msgid "NB: Recalling is best used when the data is to be withdrawn because it is completely wrong or significantly different from the correct data, otherwise it is advisable to revise and correct the wrong aspects of the data."
+msgstr ""
 
 #: src/components/art7/dataDefinitions/form.js:105
 #: src/components/art7/dataDefinitions/form.js:242
@@ -1693,7 +1697,7 @@ msgstr ""
 #: src/views/Dashboard.vue:126 src/views/Dashboard.vue:169
 #: src/views/Dashboard.vue:58 src/views/Dashboard.vue:260
 #: src/views/Dashboard.vue:17 src/views/Dashboard.vue:136
-#: src/views/Dashboard.vue:348 src/views/Dashboard.vue:391
+#: src/views/Dashboard.vue:349 src/views/Dashboard.vue:392
 msgid "Obligation"
 msgstr "фиктивный текст"
 
@@ -1721,7 +1725,7 @@ msgstr ""
 #: src/views/Dashboard.vue:361 src/views/Reports.vue:35
 #: src/views/lookupTables/Blends.vue:117
 #: src/views/lookupTables/ControlledSubstances.vue:106
-#: src/views/lookupTables/Parties.vue:132 src/views/reports/Consumption.vue:167
+#: src/views/lookupTables/Parties.vue:132 src/views/reports/Consumption.vue:169
 msgid "Online Reporting System"
 msgstr ""
 
@@ -1795,14 +1799,14 @@ msgstr "фиктивный текст"
 #: src/views/Dashboard.vue:96 src/views/Dashboard.vue:246
 #: src/views/Reports.vue:100 src/views/reports/Consumption.vue:9
 #: src/views/Dashboard.vue:41 src/views/Dashboard.vue:128
-#: src/views/Dashboard.vue:336 src/views/Dashboard.vue:352
-#: src/views/Dashboard.vue:380 src/views/Dashboard.vue:395
-#: src/views/Reports.vue:44 src/views/reports/Consumption.vue:86
+#: src/views/Dashboard.vue:337 src/views/Dashboard.vue:353
+#: src/views/Dashboard.vue:381 src/views/Dashboard.vue:396
+#: src/views/Reports.vue:44 src/views/reports/Consumption.vue:87
 msgid "Party"
 msgstr "фиктивный текст"
 
-#: src/views/Dashboard.vue:387 src/views/reports/Consumption.vue:135
-#: src/views/Dashboard.vue:210 src/views/reports/Consumption.vue:65
+#: src/views/Dashboard.vue:388 src/views/reports/Consumption.vue:136
+#: src/views/Dashboard.vue:211 src/views/reports/Consumption.vue:66
 msgid "Per page"
 msgstr "фиктивный текст"
 
@@ -1826,8 +1830,8 @@ msgstr "фиктивный текст"
 
 #: src/views/Dashboard.vue:128 src/views/Dashboard.vue:171
 #: src/views/Dashboard.vue:76 src/views/Reports.vue:79
-#: src/views/Dashboard.vue:28 src/views/Dashboard.vue:350
-#: src/views/Dashboard.vue:393 src/views/Reports.vue:30
+#: src/views/Dashboard.vue:28 src/views/Dashboard.vue:351
+#: src/views/Dashboard.vue:394 src/views/Reports.vue:30
 msgid "Period"
 msgstr "фиктивный текст"
 
@@ -1998,7 +2002,7 @@ msgstr "фиктивный текст"
 #: src/views/reports/Consumption.vue:62
 #: src/components/common/AggregationsTable.vue:34
 #: src/components/otherRo/FormTemplate.vue:116
-#: src/views/reports/Consumption.vue:139
+#: src/views/reports/Consumption.vue:140
 msgid "Production"
 msgstr "фиктивный текст"
 
@@ -2006,11 +2010,11 @@ msgstr "фиктивный текст"
 msgid "PRODUCTION"
 msgstr "фиктивный текст"
 
-#: src/views/reports/Consumption.vue:68 src/views/reports/Consumption.vue:145
+#: src/views/reports/Consumption.vue:68 src/views/reports/Consumption.vue:146
 msgid "Production allowance for BDN of Article 5 Parties"
 msgstr ""
 
-#: src/views/reports/Consumption.vue:167
+#: src/views/reports/Consumption.vue:169
 msgid "Production and consumption"
 msgstr ""
 
@@ -2327,7 +2331,7 @@ msgstr "фиктивный текст"
 
 #: src/components/otherRo/dataDefinitions/form.js:72
 #: src/components/otherRo/dataDefinitions/labels.js:16
-#: src/views/reports/Consumption.vue:11 src/views/reports/Consumption.vue:88
+#: src/views/reports/Consumption.vue:11 src/views/reports/Consumption.vue:89
 #, fuzzy
 msgid "Reporting period"
 msgstr "фиктивный текст"
@@ -2418,7 +2422,7 @@ msgstr "фиктивный текст"
 
 #: src/components/common/dataDefinitions/labels.js:5
 #: src/views/Dashboard.vue:114 src/views/Dashboard.vue:158
-#: src/views/Dashboard.vue:336 src/views/Dashboard.vue:380
+#: src/views/Dashboard.vue:337 src/views/Dashboard.vue:381
 msgid "Secretariat"
 msgstr "фиктивный текст"
 
@@ -2516,7 +2520,7 @@ msgstr "фиктивный текст"
 
 #: src/components/common/SubmissionStatus.vue:37 src/views/Dashboard.vue:134
 #: src/views/Dashboard.vue:273 src/views/Dashboard.vue:143
-#: src/views/Dashboard.vue:356
+#: src/views/Dashboard.vue:357
 msgid "Status"
 msgstr "фиктивный текст"
 
@@ -2544,10 +2548,10 @@ msgstr "фиктивный текст"
 msgid "Submission information"
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:47
+#: src/components/art7/TabsManager.vue:49
 #: src/components/common/dataDefinitions/tabSubInfo.js:10
-#: src/components/letter/TabsManager.vue:106
-#: src/components/art7/TabsManager.vue:227
+#: src/components/letter/TabsManager.vue:107
+#: src/components/art7/TabsManager.vue:230
 #: src/components/letter/TabsManager.vue:31
 #, fuzzy
 msgid "Submission Information"
@@ -2567,16 +2571,16 @@ msgstr "фиктивный текст"
 msgid "Submission status updated successfully."
 msgstr "фиктивный текст"
 
-#: src/components/art7/TabsManager.vue:346
-#: src/components/hat/TabsManager.vue:299
-#: src/components/letter/TabsManager.vue:278
-#: src/components/otherRo/TabsManager.vue:308
-#: src/components/raf/TabsManager.vue:299
-#: src/components/art7/TabsManager.vue:158
-#: src/components/hat/TabsManager.vue:128
-#: src/components/letter/TabsManager.vue:122
-#: src/components/otherRo/TabsManager.vue:137
-#: src/components/raf/TabsManager.vue:128
+#: src/components/art7/TabsManager.vue:345
+#: src/components/hat/TabsManager.vue:298
+#: src/components/letter/TabsManager.vue:277
+#: src/components/otherRo/TabsManager.vue:307
+#: src/components/raf/TabsManager.vue:298
+#: src/components/art7/TabsManager.vue:159
+#: src/components/hat/TabsManager.vue:129
+#: src/components/letter/TabsManager.vue:123
+#: src/components/otherRo/TabsManager.vue:138
+#: src/components/raf/TabsManager.vue:129
 msgid "Submission versions"
 msgstr "фиктивный текст"
 
@@ -2938,15 +2942,15 @@ msgstr "фиктивный текст"
 #: src/components/common/SubmissionHistory.vue:92
 #: src/components/common/SubmissionStatus.vue:41 src/views/Dashboard.vue:132
 #: src/views/Dashboard.vue:175 src/components/common/SubmissionHistory.vue:126
-#: src/views/Dashboard.vue:354 src/views/Dashboard.vue:397
+#: src/views/Dashboard.vue:355 src/views/Dashboard.vue:398
 msgid "Version"
 msgstr "фиктивный текст"
 
 #: src/components/art7/TabsManager.vue:78
 #: src/components/common/dataDefinitions/labels.js:18
 #: src/components/hat/TabsManager.vue:61
-#: src/components/letter/TabsManager.vue:65
-#: src/components/otherRo/TabsManager.vue:75
+#: src/components/letter/TabsManager.vue:63
+#: src/components/otherRo/TabsManager.vue:73
 #: src/components/raf/TabsManager.vue:61
 msgid "Versions"
 msgstr "фиктивный текст"
