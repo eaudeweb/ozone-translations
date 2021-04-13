@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 17:53+0300\n"
+"POT-Creation-Date: 2021-04-13 18:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -180,6 +180,7 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/art7/section_impexp.py:30
 #: ozone/core/api/export_pdf/art7/section_info.py:25
+#: ozone/core/api/export_pdf/art7/section_labuses.py:112
 msgid "Imports"
 msgstr ""
 
@@ -378,11 +379,6 @@ msgstr ""
 msgid "Substance name"
 msgstr ""
 
-#: ozone/core/api/export_pdf/art7/section_labuses.py:112
-#: ozone/core/api/export_pdf/reports/hfc_baseline.py:38
-msgid "Consumption"
-msgstr ""
-
 #: ozone/core/api/export_pdf/art7/section_nonparty.py:19
 msgid "Imports from and/or exports to non-parties"
 msgstr ""
@@ -553,6 +549,10 @@ msgstr ""
 
 #: ozone/core/api/export_pdf/reports/hfc_baseline.py:36
 msgid "Period"
+msgstr ""
+
+#: ozone/core/api/export_pdf/reports/hfc_baseline.py:38
+msgid "Consumption"
 msgstr ""
 
 #: ozone/core/api/export_pdf/reports/hfc_baseline.py:164
