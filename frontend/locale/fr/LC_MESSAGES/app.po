@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-04-13 14:49+0000\n"
+"POT-Creation-Date: 2021-04-13 14:54+0000\n"
 "PO-Revision-Date: 2019-01-15 12:22+0000\n"
 "Last-Translator: secretariat <secretariat@example.com>\n"
 "Language-Team: French <http://translate.ozone-staging.edw.ro/projects/ozone/frontend/fr/>\n"
@@ -446,8 +446,7 @@ msgstr ""
 #: src/components/common/AggregationsTable.vue:28
 #: src/components/common/AggregationsTable.vue:31
 #: src/views/reports/Consumption.vue:13 src/views/reports/Consumption.vue:16
-#: src/views/reports/Consumption.vue:19 src/views/reports/Consumption.vue:91
-#: src/views/reports/Consumption.vue:94 src/views/reports/Consumption.vue:97
+#: src/views/reports/Consumption.vue:91 src/views/reports/Consumption.vue:94
 msgid "Calculated"
 msgstr ""
 
@@ -2198,6 +2197,10 @@ msgstr ""
 #: src/components/raf/dataDefinitions/labels.js:8
 #: src/components/raf/dataDefinitions/labels.js:34
 msgid "Remarks (Secretariat)"
+msgstr ""
+
+#: src/views/reports/Consumption.vue:19 src/views/reports/Consumption.vue:97
+msgid "Reported"
 msgstr ""
 
 #: src/components/raf/dataDefinitions/form.js:54
